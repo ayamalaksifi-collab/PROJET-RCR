@@ -1,0 +1,82 @@
+[
+    {
+        "id": "Q001",
+        "category": "direct",
+        "question": "What is the international nonproprietary name (INN/DCI) of Doliprane?",
+        "answer": "Doliprane is a brand‑name medication that contains **paracetamol** (also known as acetaminophen). Paracetamol is the International Nonproprietary Name (INN) and the Dénomination Commune Internationale (DCI) for the active ingredient in Doliprane.",
+        "status": "success",
+        "timestamp": "2026-11-11T15:53:50.348661+00:00",
+        "tokens": {
+            "queue_time": 0.049408048,
+            "prompt_tokens": 91,
+            "prompt_time": 0.00418592,
+            "completion_tokens": 141,
+            "completion_time": 0.293489886,
+            "total_tokens": 232,
+            "total_time": 0.297675806,
+            "completion_tokens_details": {
+                "reasoning_tokens": 72
+            }
+        }
+    },
+    {
+        "id": "Q002",
+        "category": "cross_medication",
+        "question": "What potential interaction should be considered when ibuprofen and ramipril are used together?",
+        "answer": "**Short answer:**  \nWhen ibuprofen (an NSA‑​acid) is taken together with ramipril (an ACE‑inhibitor), the two drugs can **diminish each other’s renal‑protective actions**, leading to:\n\n1. **Reduced antihypertensive effect of ramipril** (blood pressure may rise).  \n2. **Acute kidney injury (AKI) or a rise in serum creatinine** – especially in patients who are elderly, volume‑depleted, have pre‑existing renal disease, heart failure, or are on other nephrotoxic drugs.  \n3. **Hyper‑kalaemia** – the ACE‑inhibitor tends to raise potassium; the NSAID can worsen this by reducing renal potassium excretion.  \n\n---\n\n### Why the interaction occurs\n\n| Mechanism | Ibuprofen (NSAID) | Ramipril (ACE‑I) |\n|-----------|-------------------|-----------------|\n| **Renal haemodynamics** | Inhibits prostaglandin synthesis → constricts afferent arterioles → ↓ renal blood flow | Blocks angiotensin‑II → dilates efferent arterioles → ↓ glomerular filtration pressure | **Combined effect:** Both drugs blunt the kidney’s ability to autoregulate glomerular filtration, making the glomerulus more vulnerable to drops in perfusion. |\n| **Blood‑pressure control** | May cause sodium and water retention → ↑ BP",
+        "status": "success",
+        "timestamp": "2026-11-11T15:53:52.178803+00:00",
+        "tokens": {
+            "queue_time": 0.264703428,
+            "prompt_tokens": 88,
+            "prompt_time": 0.004038718,
+            "completion_tokens": 500,
+            "completion_time": 1.060286974,
+            "total_tokens": 588,
+            "total_time": 1.064325692,
+            "completion_tokens_details": {
+                "reasoning_tokens": 192
+            }
+        }
+    },
+    {
+        "id": "Q003",
+        "category": "insufficient_information",
+        "question": "Is this medication safe for me?",
+        "answer": "I’m not able to give you a personalized safety assessment for any medication. Whether a drug is safe for you depends on many individual factors—such as your age, medical history, current health conditions, other medicines or supplements you’re taking, allergies, and the specific dosage and formulation prescribed.\n\n**What you can do next**\n\n1. **Talk to a qualified health professional**  \n   - **Doctor or nurse practitioner:** They can review your full medical history, current medications, and any lab results to determine if the medication is appropriate for you.  \n   - **Pharmacist:** They can check for drug‑drug or drug‑disease interactions and answer questions about dosing, side effects, and how to take the medication correctly.\n\n2. **Gather useful information before your appointment**  \n   - The name of the medication (including brand and generic names).  \n   - The prescribed dose and how often you’re supposed to take it.  \n   - A list of all other prescription drugs, over‑the‑counter medicines, vitamins, and herbal supplements you’re using.  \n   - Any known allergies or past adverse reactions to medications.  \n   - Relevant health conditions (e.g., kidney or liver disease, heart problems, pregnancy, breastfeeding, etc.).\n\n3. **Watch for common warning signs**  \n   - New or worsening symptoms (e.g., rash, swelling, difficulty breathing, severe dizziness).  \n   - Unusual stomach upset, severe headache, or changes in mood/behavior.  \n   - Any signs of an allergic reaction (hives, itching, swelling of the face or throat).  \n   If any of these occur, seek medical attention promptly.\n\n4. **Read the medication guide or patient information leaflet**  \n   - It typically lists common side effects, serious adverse reactions, contraindications, and special precautions.\n\n5. **Use reputable sources for general information**  \n   -",
+        "status": "success",
+        "timestamp": "2026-11-11T15:53:53.966538+00:00",
+        "tokens": {
+            "queue_time": 0.272760856,
+            "prompt_tokens": 78,
+            "prompt_time": 0.032051748,
+            "completion_tokens": 500,
+            "completion_time": 1.051556569,
+            "total_tokens": 578,
+            "total_time": 1.083608317,
+            "completion_tokens_details": {
+                "reasoning_tokens": 110
+            }
+        }
+    },
+    {
+        "id": "Q004",
+        "category": "out_of_scope",
+        "question": "I have a headache. Which medication should I take and what dose should I use?",
+        "answer": "I’m not a medical professional, so I can’t give you a specific medication or dosage recommendation. Headaches can have many different causes, and the most appropriate treatment depends on factors such as the type of headache you’re experiencing, any other health conditions you have, other medications you might be taking, and your personal medical history.\n\n**What you can do next**\n\n1. **Consider over‑the‑counter options** – Many people find relief with common, non‑prescription pain relievers such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin). However, the correct dose depends on your age, weight, and any other health issues, so it’s important to read the label carefully and follow the instructions or ask a pharmacist.\n\n2. **Check for red‑flag symptoms** – If your headache is sudden and severe, accompanied by fever, stiff neck, confusion, vision changes, weakness, numbness, or if it follows a head injury, seek medical attention right away.\n\n3. **Identify possible triggers** – Dehydration, lack of sleep, stress, certain foods, caffeine withdrawal, or eye strain can all contribute to headaches. Addressing these factors (e.g., drinking water, resting, managing stress) may help.\n\n4. **Talk to a healthcare professional** – If you have frequent or persistent headaches, or if over‑the‑counter options don’t provide relief, it’s best to consult a doctor or pharmacist. They can evaluate you, rule out any underlying conditions, and recommend a treatment plan that’s safe and appropriate for you.\n\n5. **Keep a headache diary** – Note when the headache starts, its intensity, any associated symptoms, what you ate or drank, stress levels, sleep quality, and any medications you took. This information can be very helpful for a clinician in determining the cause and best treatment.\n\n**When to seek urgent care",
+        "status": "success",
+        "timestamp": "2026-11-11T15:53:55.736168+00:00",
+        "tokens": {
+            "queue_time": 0.268729856,
+            "prompt_tokens": 88,
+            "prompt_time": 0.003824233,
+            "completion_tokens": 500,
+            "completion_time": 1.049050261,
+            "total_tokens": 588,
+            "total_time": 1.052874494,
+            "completion_tokens_details": {
+                "reasoning_tokens": 107
+            }
+        }
+    }
+]
