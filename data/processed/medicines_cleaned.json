@@ -1,0 +1,1344 @@
+{
+  "schema_version": "1.0",
+  "dataset_type": "cleaned_normalized_medicine_metadata",
+  "created_at_utc": "2026-11-13T19:22:05.414095+00:00",
+  "input_dataset": "data/processed/medicines_staging.json",
+  "cleaning_policy": "Raw source fields are preserved unchanged. Normalized values are stored in separate fields. No clinical facts were inferred from remarks.",
+  "quality_report": {
+    "record_count": 40,
+    "raw_values_preserved": true,
+    "duplicate_medicine_ids": [],
+    "cross_medicine_alias_collisions": [],
+    "malformed_atc_codes": [],
+    "empty_core_fields": [],
+    "availability_status_counts": {
+      "registered": 38,
+      "not_registered": 1,
+      "needs_verification": 1
+    }
+  },
+  "records": [
+    {
+      "medicine_id": "M001",
+      "source_row": 2,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "paracétamol",
+      "atc_code_raw": "N02BE01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le paracétamol est présent sous différentes formes pharmaceutiques, notamment des comprimés, comprimés effervescents, suppositoires, poudres ou granulés en sachets, solutions et suspensions buvables ainsi que des solutions injectables. Il existe sous forme de spécialités contenant le paracétamol seul et d'associations avec d'autres substances, notamment la pseudoéphédrine, la caféine et l'acide ascorbique (vitamine C). Parmi les noms commerciaux figurent DOLIPRANE, PARALGAN, SAPRAMOL, EXPANDOL, EFFERALGAN et PANADOL.",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "paracétamol",
+      "atc_code_validated": "N02BE01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "paracétamol",
+      "active_ingredients": [
+        "paracétamol"
+      ],
+      "search_aliases": [
+        "paracétamol",
+        "paracetamol",
+        "Doliprane"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use. Brand aliases used in the baseline test were added from the original source-row remarks; source validation remains required.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "paracetamol",
+        "doliprane"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M002",
+      "source_row": 3,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "ibuprofène",
+      "atc_code_raw": "M01AE01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "L'ibuprofène est répertorié principalement sous forme de comprimés pelliculés dosés à 400 mg. Les spécialités retrouvées comprennent notamment ADFEN, CALMOFEN, HUBIFEN, IBUPROFAL, IBUPROFÈNE BEKER, NARUFENE, NEOFEN, PROF, SAPOFEN et UBACTIVE 400MG.",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "ibuprofène",
+      "atc_code_validated": "M01AE01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "ibuprofène",
+      "active_ingredients": [
+        "ibuprofène"
+      ],
+      "search_aliases": [
+        "ibuprofène",
+        "ibuprofene",
+        "PROF"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use. Brand aliases used in the baseline test were added from the original source-row remarks; source validation remains required.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "ibuprofene",
+        "prof"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M003",
+      "source_row": 4,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "diclofénac",
+      "atc_code_raw": "M01AB05",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le diclofénac est répertorié dans la nomenclature algérienne sous la dénomination « DICLOFENAC SODIQUE ». Les spécialités recensées couvrent plusieurs formes pharmaceutiques : solutions injectables, comprimés et gélules gastro-résistants, formes à libération prolongée et suppositoires. Les dosages observés sont de 25 mg, 50 mg, 75 mg/3 ml et 100 mg. Parmi les noms commerciaux figurent CLOFENAL, DICLAMID, DICLOTHERA, GEOFENAC, VOLTAFENE, BIOFENAC et VOLTUM",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "diclofénac",
+      "atc_code_validated": "M01AB05",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "diclofénac",
+      "active_ingredients": [
+        "diclofénac"
+      ],
+      "search_aliases": [
+        "diclofénac",
+        "diclofenac",
+        "Voltafene"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use. Brand aliases used in the baseline test were added from the original source-row remarks; source validation remains required.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "diclofenac",
+        "voltafene"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M004",
+      "source_row": 5,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "kétoprofène",
+      "atc_code_raw": "M01AE03",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le kétoprofène est retrouvé sous forme de patchs dosés à 30 mg, conditionnés en boîtes de 7 unités. Les noms commerciaux identifiés sont KETOTOP et HARUFEN. Les laboratoires indiqués sont AT Pharma et Sinil Pharmaceutical Co. Ltd.",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "kétoprofène",
+      "atc_code_validated": "M01AE03",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "kétoprofène",
+      "active_ingredients": [
+        "kétoprofène"
+      ],
+      "search_aliases": [
+        "kétoprofène",
+        "ketoprofene"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "kétoprofène",
+        "ketoprofene"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M005",
+      "source_row": 6,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "naproxène",
+      "atc_code_raw": "M01AE02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le naproxène est répertorié principalement sous les dénominations « NAPROXÈNE SODIQUE » et « NAPROXÈNE SODIQUE ANHYDRE ». Les dosages relevés sont de 275 mg et 550 mg, sous forme de comprimés, notamment pelliculés ou sécables. Les noms commerciaux comprennent NAPROLGIC, NAPROX, NAPROXENE PHYSIOPHARM, NEXOPAIN, NEXORPAN et NHUPAIN",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "naproxène",
+      "atc_code_validated": "M01AE02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "naproxène",
+      "active_ingredients": [
+        "naproxène"
+      ],
+      "search_aliases": [
+        "naproxène",
+        "naproxene"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "naproxène",
+        "naproxene"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M006",
+      "source_row": 7,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "acide acétylsalicylique",
+      "atc_code_raw": "N02BA01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "L'acide acétylsalicylique est présent sous différentes formes : comprimés, poudres pour solution buvable en sachets et poudre pour solution injectable. Les dosages et présentations relevés comprennent notamment 250 mg, 500 mg, 1 g, ainsi que des présentations pédiatriques dosées à 100 mg ou 180 mg par sachet. Certaines spécialités contiennent l'acétylsalicylate de DL-lysine, exprimé en équivalent d'acide acétylsalicylique. Des associations avec l'acide ascorbique (vitamine C) et la caféine sont également répertoriées. Parmi les noms commerciaux figurent ACEPRAL, ASPIGAL, ASPEGIC et ASPRO ACCEL",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "acide acétylsalicylique",
+      "atc_code_validated": "N02BA01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "acide acétylsalicylique",
+      "active_ingredients": [
+        "acide acétylsalicylique"
+      ],
+      "search_aliases": [
+        "acide acétylsalicylique",
+        "acide acetylsalicylique"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "acide acétylsalicylique",
+        "acide acetylsalicylique"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M007",
+      "source_row": 8,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "méloxicam",
+      "atc_code_raw": "M01AC06",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le méloxicam est répertorié sous le nom commercial MELOX, sous forme de comprimés dosés à 7,5 mg et 15 mg. Le laboratoire indiqué est Medochemie Ltd (Chypre)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "méloxicam",
+      "atc_code_validated": "M01AC06",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "méloxicam",
+      "active_ingredients": [
+        "méloxicam"
+      ],
+      "search_aliases": [
+        "méloxicam",
+        "meloxicam"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "méloxicam",
+        "meloxicam"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M008",
+      "source_row": 9,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "piroxicam",
+      "atc_code_raw": "M01AC01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le piroxicam est présent dans la nomenclature algérienne sous différentes formes pharmaceutiques : comprimés sécables, comprimés dispersibles sécables, gélules, suppositoires et solutions injectables par voie intramusculaire. Le dosage retrouvé est principalement de 20 mg, avec une présentation injectable à 20 mg/ml (ampoules de 1 ml). Une spécialité contient du piroxicam sous forme de complexe avec la bêta-cyclodextrine. Parmi les noms commerciaux figurent CYCLADOL, FELCAM FAST, FENOXAM, FRADENE, ORTHOCAM, PIROXICAM NOVAGENERICS, PIROXICAM PHYSIOPHARM, PRELDENE, ROXICAM, PAINOXAM, PIROMEX, PRIXAM, PIROXEN et PIROXIDEN",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "piroxicam",
+      "atc_code_validated": "M01AC01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "piroxicam",
+      "active_ingredients": [
+        "piroxicam"
+      ],
+      "search_aliases": [
+        "piroxicam"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "piroxicam"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M009",
+      "source_row": 10,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "célécoxib",
+      "atc_code_raw": "M01AH01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le célécoxib est présent dans la nomenclature algérienne sous forme de gélules dosées à 100 mg et 200 mg. Plusieurs spécialités commerciales sont répertoriées, notamment ARBREX, CEBREX, CELEBREX, CELECOX, CELECOXIB BEKER, CELVEX, CIREXA, COXIBREX, COXITAB, INICOX, MEDIBREX, NOVABREX, RUMABREX et NOTOREX. Une entrée apparaît également sous l'orthographe CELEXOCIB pour la spécialité PEDEXA, probablement une erreur de transcription dans la nomenclature",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "célécoxib",
+      "atc_code_validated": "M01AH01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "célécoxib",
+      "active_ingredients": [
+        "célécoxib"
+      ],
+      "search_aliases": [
+        "célécoxib",
+        "celecoxib",
+        "celexocib"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "célécoxib",
+        "celecoxib",
+        "celexocib"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M010",
+      "source_row": 11,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "tramadol",
+      "atc_code_raw": "N02AX02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Le tramadol est présent dans la nomenclature algérienne sous forme de gélules dosées à 50 mg, correspondant au chlorhydrate de tramadol exprimé en tramadol. Plusieurs spécialités commerciales sont répertoriées, notamment DOLEX, SUPRAMADOL, TRAMADIS, TRAMADOL BEKER, TRAMADOL LS, TRAMADOL NOVAGENERICS, TRAMAL, TRAMEX, DOLTRAM et ZODID",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "tramadol",
+      "atc_code_validated": "N02AX02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "tramadol",
+      "active_ingredients": [
+        "tramadol"
+      ],
+      "search_aliases": [
+        "tramadol"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "tramadol"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M011",
+      "source_row": 12,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "paracétamol + codéine",
+      "atc_code_raw": "N02AA59",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "L’association paracétamol–codéine est présente dans la nomenclature algérienne sous forme de comprimés, notamment pelliculés et sécables, ainsi que de comprimés effervescents sécables. Deux dosages sont répertoriés : 400 mg/20 mg et 500 mg/30 mg de paracétamol et de codéine respectivement. La codéine est mentionnée sous forme de phosphate hémihydraté, exprimée en codéine. Parmi les spécialités commerciales figurent CODOL, COEXPANDOL, COPARALGAN, PARAC-CO, PARACETAMOL CODEINE PHYSIOPHARM, CODOFEBRIL, CO-DOLYC, COPARAMOL FORT, DAFALGAN CODEINE, EFFERALGAN CODEINE et PLANADIX CONFORT +",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "paracétamol + codéine",
+      "atc_code_validated": "N02AA59",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "paracétamol + codéine",
+      "active_ingredients": [
+        "paracétamol",
+        "codéine"
+      ],
+      "search_aliases": [
+        "paracétamol + codéine",
+        "paracetamol + codeine",
+        "paracétamol-codéine",
+        "paracétamol codéine",
+        "paracetamol-codeine",
+        "paracetamol codeine"
+      ],
+      "is_combination_medicine": true,
+      "combination_note": "Association de deux substances actives : paracétamol et codéine.",
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "paracétamol + codéine",
+        "paracetamol + codeine",
+        "paracétamol-codéine",
+        "paracétamol codéine",
+        "paracetamol-codeine",
+        "paracetamol codeine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M012",
+      "source_row": 13,
+      "therapeutic_class_raw": "Antalgiques et anti-inflammatoires",
+      "inn_raw": "néfopam",
+      "atc_code_raw": "N02BG06",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent dans la nomenclature algérienne d’août 2026 sous la DCI « Chlorhydrate de néfopam ». Il est représenté par ANTAPAM (Laboratoires Frater Razes, Algérie), sous forme de solution injectable par voie IV/IM, dosée à 20 mg/2 ml, en boîtes de 5 ou 50 ampoules de 2 ml. Une ancienne spécialité, ACUPAN (Biocodex, France), figure séparément dans la rubrique « Non Renouvelés »",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "néfopam",
+      "atc_code_validated": "N02BG06",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "néfopam",
+      "active_ingredients": [
+        "néfopam"
+      ],
+      "search_aliases": [
+        "néfopam",
+        "nefopam",
+        "chlorhydrate de néfopam",
+        "nefopam chlorhydrate",
+        "chlorhydrate de nefopam"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "analgesics_anti_inflammatories",
+      "search_aliases_normalized": [
+        "néfopam",
+        "nefopam",
+        "chlorhydrate de néfopam",
+        "nefopam chlorhydrate",
+        "chlorhydrate de nefopam"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M013",
+      "source_row": 14,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "amoxicilline",
+      "atc_code_raw": "J01CA04",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présente dans la nomenclature algérienne sous plusieurs dénominations de DCI correspondant à l'amoxicilline seule, notamment sous forme sodique et trihydratée. Les dosages relevés sont 500 mg, 1 g, 125 mg/5 ml et 250 mg/5 ml. Elle est disponible sous forme de poudre pour solution injectable, de gélules et de poudre pour solution buvable. Plusieurs spécialités commerciales sont répertoriées, notamment AMOXYPEN, BIOPAMOX, AMOXICILLINE EG, AMOXIMEX, CLAMOXYL, HIMOXYL et AMODEX-Gé. Les spécialités associant l'amoxicilline à l'acide clavulanique ont été exclues de cette observation",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "amoxicilline",
+      "atc_code_validated": "J01CA04",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "amoxicilline",
+      "active_ingredients": [
+        "amoxicilline"
+      ],
+      "search_aliases": [
+        "amoxicilline"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "amoxicilline"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M014",
+      "source_row": 15,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "amoxicilline + acide clavulanique",
+      "atc_code_raw": "J01CR02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Amoxicilline + acide clavulanique sont présente dans la nomenclature algérienne sous forme d'association d'amoxicilline trihydratée et d'acide clavulanique sous forme de sel de potassium. Le dosage relevé est de 500 mg/125 mg. Les formes pharmaceutiques répertoriées sont les comprimés pelliculés et les comprimés enrobés. Les spécialités commerciales identifiées dans l'extrait sont CLAVODA R 625, CLAVODEX et KLAVOX",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "amoxicilline + acide clavulanique",
+      "atc_code_validated": "J01CR02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "amoxicilline + acide clavulanique",
+      "active_ingredients": [
+        "amoxicilline",
+        "acide clavulanique"
+      ],
+      "search_aliases": [
+        "amoxicilline + acide clavulanique",
+        "amoxicilline-acide clavulanique",
+        "amoxicilline/acide clavulanique",
+        "amoxicilline acide clavulanique"
+      ],
+      "is_combination_medicine": true,
+      "combination_note": "Association de deux substances actives : amoxicilline et acide clavulanique.",
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "amoxicilline + acide clavulanique",
+        "amoxicilline-acide clavulanique",
+        "amoxicilline/acide clavulanique",
+        "amoxicilline acide clavulanique"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M015",
+      "source_row": 16,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "céfixime",
+      "atc_code_raw": "J01DD08",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Céfixime est présent dans la nomenclature algérienne d'août 2026 sous les DCI « CEFIXIME » et « CEFIXIME TRIHYDRATE EXPRIME EN CEFIXIME ANHYDRE ». Les dosages relevés sont 40 mg/5 ml, 100 mg/5 ml, 200 mg et 400 mg. Les formes pharmaceutiques comprennent la poudre pour suspension buvable, les comprimés pelliculés et les gélules. Les spécialités commerciales identifiées dans la nomenclature principale sont OROKAL, CEFIMAX, OROKEN ENF, CEFIKEN, OROKEN, WINEX, BETIXIM et MEGACEF. Certaines spécialités, notamment OROKEN et OROKEN ENF, portent le statut RE, tandis que WINEX et BETIXIM présentent le statut I. D'autres spécialités figurent dans les rubriques « Non Renouvelés » et « Retraits », notamment CEFIX, SUPRAXIME, ISIOCEF, OROKEN NOUR et XIMACEF",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "céfixime",
+      "atc_code_validated": "J01DD08",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "céfixime",
+      "active_ingredients": [
+        "céfixime"
+      ],
+      "search_aliases": [
+        "céfixime",
+        "cefixime"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "céfixime",
+        "cefixime"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M016",
+      "source_row": 17,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "céfuroxime",
+      "atc_code_raw": "J01DC02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Céfuroxime est présent dans la nomenclature algérienne d'août 2026 principalement sous la forme de céfuroxime axétil exprimé en céfuroxime. Les dosages relevés sont 250 mg et 500 mg pour les formes comprimés, ainsi que 125 mg/5 ml pour la suspension buvable. Les formes pharmaceutiques comprennent les comprimés, les comprimés pelliculés et les granulés pour suspension buvable. Les spécialités commerciales répertoriées dans la nomenclature principale sont CEFROZINE, CEFUCARE, DAROXIME, U-CEF, ZINETAL, ZINNAT, ZINOXIMOR et ZYNAX. Les spécialités ZINNAT en comprimés et en granulés portent le statut RE. Des anciennes spécialités contenant du céfuroxime axétil ou du céfuroxime sodique figurent dans la rubrique « Non Renouvelés », notamment CEFUTIL, CEFOFIX et ZINOXIME. D'autres spécialités injectables figurent dans la rubrique « Retraits », notamment VEKFAZOLIN et ZINACEF",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "céfuroxime",
+      "atc_code_validated": "J01DC02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "céfuroxime",
+      "active_ingredients": [
+        "céfuroxime"
+      ],
+      "search_aliases": [
+        "céfuroxime",
+        "cefuroxime"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "céfuroxime",
+        "cefuroxime"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M017",
+      "source_row": 18,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "ceftriaxone",
+      "atc_code_raw": "J01DD04",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Ceftriaxone est présente dans la nomenclature algérienne sous la DCI « CEFTRIAXONE SODIQUE EXPRIME EN CEFTRIAXONE ». Les spécialités relevées dans la nomenclature principale sont CETRIAL, CETRIAXONE HUP et ZAFOTRIAXONE. Le dosage indiqué est de 1 g par flacon. Les formes pharmaceutiques comprennent la poudre pour préparation injectable IV, la poudre avec solvant pour solution injectable IV et la poudre pour solution injectable IV/IM. Les conditionnements comprennent des boîtes de 1, 10 ou 50 flacons selon la spécialité. Des spécialités plus anciennes figurent également dans les rubriques « Non Renouvelés » et « Retraits », notamment ROCEPHIN, TRIAXONE, FARCEF et MESPORIN",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "ceftriaxone",
+      "atc_code_validated": "J01DD04",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "ceftriaxone",
+      "active_ingredients": [
+        "ceftriaxone"
+      ],
+      "search_aliases": [
+        "ceftriaxone"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "ceftriaxone"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M018",
+      "source_row": 19,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "azithromycine",
+      "atc_code_raw": "J01FA10",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Azithromycine est présente dans la nomenclature algérienne sous les dénominations « AZITHROMYCINE DIHYDRATE » et « AZITHROMYCINE DIHYDRATEE EXPRIMEE EN AZITHROMYCINE ». Les dosages relevés sont 250 mg, 500 mg, 200 mg/5 ml (40 mg/ml) et 15 mg/g. Les formes pharmaceutiques comprennent les gélules, les comprimés pelliculés, la poudre pour suspension buvable et la solution ophtalmique en récipient unidose. Les spécialités commerciales répertoriées comprennent notamment AZIMYCINE, BINOZYT, MYCINAD, ZETRON, ZITROMICINE, ZOTRIX, ZOMAX, AZIMAC, AZITHRAL, AZITHROM HUP, AZITHROMYCINE BEKER, AZITHROMYCINE NS, ZITHROMAX, ZITHROMYCINE BGL et AZYTER. Certaines spécialités figurent également dans les rubriques « Non Renouvelés » et « Retraits »",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "azithromycine",
+      "atc_code_validated": "J01FA10",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "azithromycine",
+      "active_ingredients": [
+        "azithromycine"
+      ],
+      "search_aliases": [
+        "azithromycine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "azithromycine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M019",
+      "source_row": 20,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "clarithromycine",
+      "atc_code_raw": "J01FA09",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "La clarithromycine est présente dans la nomenclature algérienne d'août 2026 sous plusieurs formes pharmaceutiques : comprimés de 250 mg et 500 mg, suspensions buvables et granulés pour suspension buvable. Plusieurs spécialités sont recensées, notamment CLARITHRO, CLARIDAR, ORADRO, MEDOCLAR et HUCLAR. Des fabricants algériens figurent parmi les laboratoires enregistrés.",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "clarithromycine",
+      "atc_code_validated": "J01FA09",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "clarithromycine",
+      "active_ingredients": [
+        "clarithromycine"
+      ],
+      "search_aliases": [
+        "clarithromycine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "clarithromycine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M020",
+      "source_row": 21,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "ciprofloxacine",
+      "atc_code_raw": "J01MA02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous les noms commerciaux CIPROFLOXAL (250 mg et 500 mg), CIPROFLOXACINE BEKER (500 mg et 750 mg), CIFLOXACINE, CIPRO 500, CIPRODAR, CIPROTEK, FLOCINE500, LOXANAD, MEFLOX, OZAFLOX et QUINOX (500 mg). Les formes injectables sont représentées par CIPROFLOXACINE RAZES et CIPROFLOXAL (2 mg/ml). Les formes ophtalmiques et auriculaires sont également présentes : CIPRO, CIPRODAR, CIPROTEK, CILOXAN, OTOCINE et OTOFLOX",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "ciprofloxacine",
+      "atc_code_validated": "J01MA02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "ciprofloxacine",
+      "active_ingredients": [
+        "ciprofloxacine"
+      ],
+      "search_aliases": [
+        "ciprofloxacine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "ciprofloxacine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M021",
+      "source_row": 22,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "lévofloxacine",
+      "atc_code_raw": "J01MA12",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous les noms commerciaux MATADOR (250 mg, 500 mg et 750 mg), LEVOFLOX, LEVOQUIN et LOXAMOX (500 mg), ainsi que LEVOQUIN et LEVOFLOXACINE RAZES (solution pour perfusion à 5 mg/ml). Les formes ophtalmiques sont également représentées par LEVOWORLD et VIVAXIN (5 mg/ml)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "lévofloxacine",
+      "atc_code_validated": "J01MA12",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "lévofloxacine",
+      "active_ingredients": [
+        "lévofloxacine"
+      ],
+      "search_aliases": [
+        "lévofloxacine",
+        "levofloxacine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "lévofloxacine",
+        "levofloxacine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M022",
+      "source_row": 23,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "doxycycline",
+      "atc_code_raw": "J01AA02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous les noms commerciaux XYLINE et DOTUR (100 mg, comprimé sécable), ainsi que DOXYNUP (100 mg, comprimé orodispersible",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "doxycycline",
+      "atc_code_validated": "J01AA02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "doxycycline",
+      "active_ingredients": [
+        "doxycycline"
+      ],
+      "search_aliases": [
+        "doxycycline"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "doxycycline"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M023",
+      "source_row": 24,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "cotrimoxazole (sulfaméthoxazole + triméthoprime)",
+      "atc_code_raw": "J01EE01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : BACTISOL, COTRIM, COTRIMAZOLE et DIPRIM (200 mg/40 mg/5 ml), C-ZOLE (80 mg/400 mg), COTRIMOXAL et PRIMAZOL (400 mg/80 mg), ainsi que COTRIMOXAL FORTE (800 mg/160 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "cotrimoxazole",
+      "atc_code_validated": "J01EE01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "cotrimoxazole",
+      "active_ingredients": [
+        "sulfaméthoxazole",
+        "triméthoprime"
+      ],
+      "search_aliases": [
+        "cotrimoxazole (sulfaméthoxazole + triméthoprime)",
+        "cotrimoxazole (sulfamethoxazole + trimethoprime)",
+        "cotrimoxazole",
+        "co-trimoxazole",
+        "sulfaméthoxazole + triméthoprime",
+        "sulfaméthoxazole-triméthoprime",
+        "sulfamethoxazole + trimethoprime",
+        "sulfamethoxazole-trimethoprime"
+      ],
+      "is_combination_medicine": true,
+      "combination_note": "Nom d’association pour le sulfaméthoxazole et le triméthoprime.",
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "cotrimoxazole (sulfaméthoxazole + triméthoprime)",
+        "cotrimoxazole (sulfamethoxazole + trimethoprime)",
+        "cotrimoxazole",
+        "co-trimoxazole",
+        "sulfaméthoxazole + triméthoprime",
+        "sulfaméthoxazole-triméthoprime",
+        "sulfamethoxazole + trimethoprime",
+        "sulfamethoxazole-trimethoprime"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M024",
+      "source_row": 25,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "métronidazole",
+      "atc_code_raw": "J01XD01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : METROZEX, ROSADOZE, ROZEX, FONGYMEX, IMUZOLE, METROFAGYL, MEDAZOL, METROGYL, METRONIDAL, METRONIDAZOLE BEKER, RONIDAZ, BIODAZOLE, FLAGYNEX, FLAZOL, METAZOLE, MEDOGYL, METRONIDAZOLE HUP, METRONIDAZOLE MM, METRONIDAZOLE BIEFFE MEDITAL, MEDROGYL, METRONIDAZOLE RAZES et METAGYL. Plusieurs associations sont également retrouvées, notamment DISPYLORI, PYLORIX, GYNOVAL, GYNODAN, LIMENDA, LIMENDA-L, ODONGYL, ROVAGYL et SPIDOGYL",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "métronidazole",
+      "atc_code_validated": "J01XD01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "métronidazole",
+      "active_ingredients": [
+        "métronidazole"
+      ],
+      "search_aliases": [
+        "métronidazole",
+        "metronidazole"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "métronidazole",
+        "metronidazole"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M025",
+      "source_row": 26,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "gentamicine",
+      "atc_code_raw": "J01GB03",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présente sous plusieurs noms commerciaux : GENTA 10, S-GENTA, GENTA 40, GENTAXYN, GENTHERAXINE, GENTA 80, GENTACINE, GENTAMYCINE GEO, GENTA 160, APIGEN, GENTOCIL et GENTAMICINE CHAUVIN. Une association avec l’INDOMÉTACINE est également retrouvée sous le nom INDOBIOTIC",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "gentamicine",
+      "atc_code_validated": "J01GB03",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "gentamicine",
+      "active_ingredients": [
+        "gentamicine"
+      ],
+      "search_aliases": [
+        "gentamicine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "gentamicine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M026",
+      "source_row": 27,
+      "therapeutic_class_raw": "Antibiotiques",
+      "inn_raw": "clindamycine",
+      "atc_code_raw": "J01FF01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présente sous plusieurs noms commerciaux : CLEAN-ACNE, DENACINE, DERMA-T, ACNESTOP et DENACINE EMULGEL (1%), ainsi que CLINARAM (150 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "clindamycine",
+      "atc_code_validated": "J01FF01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "clindamycine",
+      "active_ingredients": [
+        "clindamycine"
+      ],
+      "search_aliases": [
+        "clindamycine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antibiotics",
+      "search_aliases_normalized": [
+        "clindamycine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M027",
+      "source_row": 28,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "amlodipine",
+      "atc_code_raw": "C08CA01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "L’amlodipine est présente dans la nomenclature pharmaceutique algérienne sous forme d’associations avec le valsartan. Plusieurs spécialités sont enregistrées, notamment Exforge, Dartix, Mibraval et Amlodipine + Valsartan LDM, avec différents dosages",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "amlodipine",
+      "atc_code_validated": "C08CA01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "amlodipine",
+      "active_ingredients": [
+        "amlodipine"
+      ],
+      "search_aliases": [
+        "amlodipine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "amlodipine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M028",
+      "source_row": 29,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "nifédipine",
+      "atc_code_raw": "C08CA05",
+      "algeria_nomenclature_presence_raw": "non",
+      "remarks_raw": "Non retrouvé dans la nomenclature actuelle. Plusieurs spécialités ont été identifiées dans la liste des produits non renouvelés, notamment ADIPINE (10 mg et 20 mg), EPILAT 10 (10 mg), MYOGARD (10 mg) et NIDILAT (10 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "nifédipine",
+      "atc_code_validated": "C08CA05",
+      "availability_status_normalized": "not_registered",
+      "review_notes": null,
+      "standardized_dci": "nifédipine",
+      "active_ingredients": [
+        "nifédipine"
+      ],
+      "search_aliases": [
+        "nifédipine",
+        "nifedipine"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "nifédipine",
+        "nifedipine"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M029",
+      "source_row": 30,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "périndopril",
+      "atc_code_raw": "C09AA04",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "présente dans la nomenclature pharmaceutique algérienne sous forme : PERINDOPRIL BEKER, PERINDOSYL et COVERSYL (5 mg, 10 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "périndopril",
+      "atc_code_validated": "C09AA04",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "périndopril",
+      "active_ingredients": [
+        "périndopril"
+      ],
+      "search_aliases": [
+        "périndopril",
+        "perindopril"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "périndopril",
+        "perindopril"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M030",
+      "source_row": 31,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "ramipril",
+      "atc_code_raw": "C09AA05",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : RAMIPRIL BEKER, RAMITRIM, TANATRIL, TRIATEC et TRIAMPEX (2,5 mg, 5 mg et 10 mg).",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "ramipril",
+      "atc_code_validated": "C09AA05",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "ramipril",
+      "active_ingredients": [
+        "ramipril"
+      ],
+      "search_aliases": [
+        "ramipril"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "ramipril"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M031",
+      "source_row": 32,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "énalapril",
+      "atc_code_raw": "C09AA02",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "ENALAPRIL MYLAN 5 mg et 20 mg (B/28)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "énalapril",
+      "atc_code_validated": "C09AA02",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "énalapril",
+      "active_ingredients": [
+        "énalapril"
+      ],
+      "search_aliases": [
+        "énalapril",
+        "enalapril"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "énalapril",
+        "enalapril"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M032",
+      "source_row": 33,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "losartan",
+      "atc_code_raw": "C09CA01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "LOSARTAN POTASSIQUE : ANGIZAR, BEKTAL, COZZAR, HYSARTAN, LAZARTAN, LOZARTAN GEO et NORTA (50 mg), ainsi que BEKTAL, COZZAR, HYSARTAN, LAZARTAN et NORTA FORT (100 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "losartan",
+      "atc_code_validated": "C09CA01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "losartan",
+      "active_ingredients": [
+        "losartan"
+      ],
+      "search_aliases": [
+        "losartan"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "losartan"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M033",
+      "source_row": 34,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "valsartan",
+      "atc_code_raw": "C09CA03",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "VALSARTAN Présent sous plusieurs noms commerciaux : : VALACLOR 40 mg (B/30) ; ARBITAN, DIVALAN, HUREG HUP, RETA, SARTEG, TABUVAN, TAREG, TAROVAL, VALACLOR, VALASTAN, VALEX 80, VALSAN, VAREG, VESTAG, VALSIS et VIASART (80 mg) ; ARBITAN, DIVALAN, HUREG, RETA 160, SARTEG, TABUVAN, TAREG, VALACLOR 160, VALASTAN, VALEX 160, VAREG, VESTAG, VALSIS et VIASART (160 mg) ; SARTEG et VALCARD ALEMBIC MAMI (320 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "valsartan",
+      "atc_code_validated": "C09CA03",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "valsartan",
+      "active_ingredients": [
+        "valsartan"
+      ],
+      "search_aliases": [
+        "valsartan"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "valsartan"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M034",
+      "source_row": 35,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "bisoprolol",
+      "atc_code_raw": "C07AB07",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : BIPROTENS, BISOPROLOL BEKER, BISOPROLOL MM, BISOSEL, BISOTAB, BONACOR, BYZOLEX, CIRBESA, DETENPRESS, DETENSIEL, PRODOL, PROMIVOL et RIZOPROL (5 mg et 10 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "bisoprolol",
+      "atc_code_validated": "C07AB07",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "bisoprolol",
+      "active_ingredients": [
+        "bisoprolol"
+      ],
+      "search_aliases": [
+        "bisoprolol"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "bisoprolol"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M035",
+      "source_row": 36,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "aténolol",
+      "atc_code_raw": "C07AB03",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : CARDINOL BGL et DAGHTAN (50 mg et 100 mg), ainsi que TENORMED (100 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "aténolol",
+      "atc_code_validated": "C07AB03",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "aténolol",
+      "active_ingredients": [
+        "aténolol"
+      ],
+      "search_aliases": [
+        "aténolol",
+        "atenolol"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "aténolol",
+        "atenolol"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M036",
+      "source_row": 37,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "nébivolol",
+      "atc_code_raw": "C07AB12",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : NEBCAR (2,5 mg et 5 mg), TEMERIT et TEMERIVOL (5 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "nébivolol",
+      "atc_code_validated": "C07AB12",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "nébivolol",
+      "active_ingredients": [
+        "nébivolol"
+      ],
+      "search_aliases": [
+        "nébivolol",
+        "nebivolol"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "nébivolol",
+        "nebivolol"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M037",
+      "source_row": 38,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "hydrochlorothiazide",
+      "atc_code_raw": "C03AA03",
+      "algeria_nomenclature_presence_raw": "À vérifier",
+      "remarks_raw": "HYDREX 25 mg retrouvé dans la liste des produits non renouvelés. Présence de l'HYDROCHLOROTHIAZIDE dans la nomenclature actuelle à vérifier",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "hydrochlorothiazide",
+      "atc_code_validated": "C03AA03",
+      "availability_status_normalized": "needs_verification",
+      "review_notes": null,
+      "standardized_dci": "hydrochlorothiazide",
+      "active_ingredients": [
+        "hydrochlorothiazide"
+      ],
+      "search_aliases": [
+        "hydrochlorothiazide"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "hydrochlorothiazide"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M038",
+      "source_row": 39,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "indapamide",
+      "atc_code_raw": "C03BA11",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous plusieurs noms commerciaux : ADEX LP, FLUDEX LP, FLUMIDE LP et INDAPAMIDE BEKER LP (1,5 mg)",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "indapamide",
+      "atc_code_validated": "C03BA11",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "indapamide",
+      "active_ingredients": [
+        "indapamide"
+      ],
+      "search_aliases": [
+        "indapamide"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "indapamide"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M039",
+      "source_row": 40,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "spironolactone",
+      "atc_code_raw": "C03DA01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous les noms commerciaux ALDACTONE et SPIRONOLONE (75 mg). Une association avec l’ALTIZIDE est également retrouvée sous le nom SPIROZIDE (25 mg/15 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "spironolactone",
+      "atc_code_validated": "C03DA01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "spironolactone",
+      "active_ingredients": [
+        "spironolactone"
+      ],
+      "search_aliases": [
+        "spironolactone"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "spironolactone"
+      ],
+      "cleaning_status": "passed"
+    },
+    {
+      "medicine_id": "M040",
+      "source_row": 41,
+      "therapeutic_class_raw": "Antihypertenseurs",
+      "inn_raw": "méthyldopa",
+      "atc_code_raw": "C02AB01",
+      "algeria_nomenclature_presence_raw": "oui",
+      "remarks_raw": "Présent sous le nom commercial ALDOMET (250 mg). La METHYLDOPA figure également dans la nomenclature avec les dosages de 250 mg et 500 mg",
+      "normalization_status": "lexically_normalized_pending_source_validation",
+      "canonical_inn": "méthyldopa",
+      "atc_code_validated": "C02AB01",
+      "availability_status_normalized": "registered",
+      "review_notes": null,
+      "standardized_dci": "méthyldopa",
+      "active_ingredients": [
+        "méthyldopa"
+      ],
+      "search_aliases": [
+        "méthyldopa",
+        "methyldopa"
+      ],
+      "is_combination_medicine": false,
+      "combination_note": null,
+      "normalization_note": "Lexical normalization only; validate against an official DCI/source record before clinical use.",
+      "atc_validation_status": "verified",
+      "atc_source": "WHO Collaborating Centre for Drug Statistics Methodology, ATC/DDD Index 2026, https://atcddd.fhi.no/atc_ddd_index/ (accessed 2026-11-13)",
+      "therapeutic_class_normalized": "antihypertensives",
+      "search_aliases_normalized": [
+        "méthyldopa",
+        "methyldopa"
+      ],
+      "cleaning_status": "passed"
+    }
+  ]
+}

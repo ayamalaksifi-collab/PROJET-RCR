@@ -1,82 +1,266 @@
 [
-    {
-        "id": "Q001",
-        "category": "direct",
-        "question": "What is the international nonproprietary name (INN/DCI) of Doliprane?",
-        "answer": "Doliprane is a brand‑name medication that contains **paracetamol** (also known as acetaminophen). Paracetamol is the International Nonproprietary Name (INN) and the Dénomination Commune Internationale (DCI) for the active ingredient in Doliprane.",
-        "status": "success",
-        "timestamp": "2026-11-11T15:53:50.348661+00:00",
-        "tokens": {
-            "queue_time": 0.049408048,
-            "prompt_tokens": 91,
-            "prompt_time": 0.00418592,
-            "completion_tokens": 141,
-            "completion_time": 0.293489886,
-            "total_tokens": 232,
-            "total_time": 0.297675806,
-            "completion_tokens_details": {
-                "reasoning_tokens": 72
-            }
-        }
-    },
-    {
-        "id": "Q002",
-        "category": "cross_medication",
-        "question": "What potential interaction should be considered when ibuprofen and ramipril are used together?",
-        "answer": "**Short answer:**  \nWhen ibuprofen (an NSA‑​acid) is taken together with ramipril (an ACE‑inhibitor), the two drugs can **diminish each other’s renal‑protective actions**, leading to:\n\n1. **Reduced antihypertensive effect of ramipril** (blood pressure may rise).  \n2. **Acute kidney injury (AKI) or a rise in serum creatinine** – especially in patients who are elderly, volume‑depleted, have pre‑existing renal disease, heart failure, or are on other nephrotoxic drugs.  \n3. **Hyper‑kalaemia** – the ACE‑inhibitor tends to raise potassium; the NSAID can worsen this by reducing renal potassium excretion.  \n\n---\n\n### Why the interaction occurs\n\n| Mechanism | Ibuprofen (NSAID) | Ramipril (ACE‑I) |\n|-----------|-------------------|-----------------|\n| **Renal haemodynamics** | Inhibits prostaglandin synthesis → constricts afferent arterioles → ↓ renal blood flow | Blocks angiotensin‑II → dilates efferent arterioles → ↓ glomerular filtration pressure | **Combined effect:** Both drugs blunt the kidney’s ability to autoregulate glomerular filtration, making the glomerulus more vulnerable to drops in perfusion. |\n| **Blood‑pressure control** | May cause sodium and water retention → ↑ BP",
-        "status": "success",
-        "timestamp": "2026-11-11T15:53:52.178803+00:00",
-        "tokens": {
-            "queue_time": 0.264703428,
-            "prompt_tokens": 88,
-            "prompt_time": 0.004038718,
-            "completion_tokens": 500,
-            "completion_time": 1.060286974,
-            "total_tokens": 588,
-            "total_time": 1.064325692,
-            "completion_tokens_details": {
-                "reasoning_tokens": 192
-            }
-        }
-    },
-    {
-        "id": "Q003",
-        "category": "insufficient_information",
-        "question": "Is this medication safe for me?",
-        "answer": "I’m not able to give you a personalized safety assessment for any medication. Whether a drug is safe for you depends on many individual factors—such as your age, medical history, current health conditions, other medicines or supplements you’re taking, allergies, and the specific dosage and formulation prescribed.\n\n**What you can do next**\n\n1. **Talk to a qualified health professional**  \n   - **Doctor or nurse practitioner:** They can review your full medical history, current medications, and any lab results to determine if the medication is appropriate for you.  \n   - **Pharmacist:** They can check for drug‑drug or drug‑disease interactions and answer questions about dosing, side effects, and how to take the medication correctly.\n\n2. **Gather useful information before your appointment**  \n   - The name of the medication (including brand and generic names).  \n   - The prescribed dose and how often you’re supposed to take it.  \n   - A list of all other prescription drugs, over‑the‑counter medicines, vitamins, and herbal supplements you’re using.  \n   - Any known allergies or past adverse reactions to medications.  \n   - Relevant health conditions (e.g., kidney or liver disease, heart problems, pregnancy, breastfeeding, etc.).\n\n3. **Watch for common warning signs**  \n   - New or worsening symptoms (e.g., rash, swelling, difficulty breathing, severe dizziness).  \n   - Unusual stomach upset, severe headache, or changes in mood/behavior.  \n   - Any signs of an allergic reaction (hives, itching, swelling of the face or throat).  \n   If any of these occur, seek medical attention promptly.\n\n4. **Read the medication guide or patient information leaflet**  \n   - It typically lists common side effects, serious adverse reactions, contraindications, and special precautions.\n\n5. **Use reputable sources for general information**  \n   -",
-        "status": "success",
-        "timestamp": "2026-11-11T15:53:53.966538+00:00",
-        "tokens": {
-            "queue_time": 0.272760856,
-            "prompt_tokens": 78,
-            "prompt_time": 0.032051748,
-            "completion_tokens": 500,
-            "completion_time": 1.051556569,
-            "total_tokens": 578,
-            "total_time": 1.083608317,
-            "completion_tokens_details": {
-                "reasoning_tokens": 110
-            }
-        }
-    },
-    {
-        "id": "Q004",
-        "category": "out_of_scope",
-        "question": "I have a headache. Which medication should I take and what dose should I use?",
-        "answer": "I’m not a medical professional, so I can’t give you a specific medication or dosage recommendation. Headaches can have many different causes, and the most appropriate treatment depends on factors such as the type of headache you’re experiencing, any other health conditions you have, other medications you might be taking, and your personal medical history.\n\n**What you can do next**\n\n1. **Consider over‑the‑counter options** – Many people find relief with common, non‑prescription pain relievers such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin). However, the correct dose depends on your age, weight, and any other health issues, so it’s important to read the label carefully and follow the instructions or ask a pharmacist.\n\n2. **Check for red‑flag symptoms** – If your headache is sudden and severe, accompanied by fever, stiff neck, confusion, vision changes, weakness, numbness, or if it follows a head injury, seek medical attention right away.\n\n3. **Identify possible triggers** – Dehydration, lack of sleep, stress, certain foods, caffeine withdrawal, or eye strain can all contribute to headaches. Addressing these factors (e.g., drinking water, resting, managing stress) may help.\n\n4. **Talk to a healthcare professional** – If you have frequent or persistent headaches, or if over‑the‑counter options don’t provide relief, it’s best to consult a doctor or pharmacist. They can evaluate you, rule out any underlying conditions, and recommend a treatment plan that’s safe and appropriate for you.\n\n5. **Keep a headache diary** – Note when the headache starts, its intensity, any associated symptoms, what you ate or drank, stress levels, sleep quality, and any medications you took. This information can be very helpful for a clinician in determining the cause and best treatment.\n\n**When to seek urgent care",
-        "status": "success",
-        "timestamp": "2026-11-11T15:53:55.736168+00:00",
-        "tokens": {
-            "queue_time": 0.268729856,
-            "prompt_tokens": 88,
-            "prompt_time": 0.003824233,
-            "completion_tokens": 500,
-            "completion_time": 1.049050261,
-            "total_tokens": 588,
-            "total_time": 1.052874494,
-            "completion_tokens_details": {
-                "reasoning_tokens": 107
-            }
-        }
+  {
+    "id": "Q001",
+    "category": "identification",
+    "question": "Quelle est la DCI de la spécialité Doliprane ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:04.021578+00:00",
+    "status": "success",
+    "answer": "La DCI (Dénomination Commune Internationale) du médicament commercialisé sous le nom de **Doliprane** est **paracétamol** (également appelé **acetaminophène**).",
+    "tokens": {
+      "queue_time": 0.048888249,
+      "prompt_tokens": 84,
+      "prompt_time": 0.003775958,
+      "completion_tokens": 129,
+      "completion_time": 0.268850593,
+      "total_tokens": 213,
+      "total_time": 0.272626551,
+      "completion_tokens_details": {
+        "reasoning_tokens": 78
+      }
     }
+  },
+  {
+    "id": "Q002",
+    "category": "identification",
+    "question": "Voltafene contient-il la même substance active que le diclofénac sodique ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:04.945066+00:00",
+    "status": "success",
+    "answer": "**Réponse courte :**  \nOui, le médicament commercialisé sous le nom **Voltafene** contient généralement du **diclofénac sodique** comme principe actif.  \n\n---\n\n## Pourquoi cette réponse ?\n\n| Élément | Détails |\n|---|---|\n| **Nom du produit** | *Voltafene* (ou *Voltafène* selon la graphie) est une marque de médicament anti‑inflammatoire non stéroïdien (AINS) commercialisée dans plusieurs pays francophones. |\n| **Principe actif** | La notice officielle et les bases de données pharmaceutiques (ANSM, Vidal, Drugs.com, etc.) indiquent que le principe actif de Voltafene est **diclofénac sodique** (souvent sous forme de comprimés, gélules ou solution injectable). |\n| **Formes disponibles** | - **Comprimés** 50 mg ou 75 mg <br> - **Gélules** 50 mg <br> - **Solution injectable** 75 mg/3 mL <br> - **Gel topique** (dans certaines déclinaisons, le gel porte le nom « Voltaren », mais la même substance active est utilisée). |\n| **Indications** | Douleurs musculo‑squelettiques, arthrose, spondylarthrite ankylosante, douleurs post‑opératoires, inflammation aiguë, etc.",
+    "tokens": {
+      "queue_time": 0.017826043,
+      "prompt_tokens": 89,
+      "prompt_time": 0.003963085,
+      "completion_tokens": 500,
+      "completion_time": 1.050619217,
+      "total_tokens": 589,
+      "total_time": 1.054582302,
+      "completion_tokens_details": {
+        "reasoning_tokens": 188
+      }
+    }
+  },
+  {
+    "id": "Q003",
+    "category": "availability_algeria",
+    "question": "Quelles formes pharmaceutiques et quels dosages de paracétamol sont enregistrés en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:07.166375+00:00",
+    "status": "success",
+    "answer": "**Paracétamol – formes pharmaceutiques et dosages couramment enregistrés en Algérie (à titre d’information générale, non exhaustif et susceptible d’évoluer)**  \n\n| Forme pharmaceutique | Présentation la plus répandue | Dosage habituel (contenu de paracétamol) |\n|----------------------|------------------------------|------------------------------------------|\n| **Comprimés / plaquettes** | • Plaquette de 10, 12, 16 ou 20 comprimés <br>• Boîte de 20, 30, 50 ou 100 comprimés | • 500 mg (la forme la plus courante) <br>• 1 g (comprimé à libération prolongée ou à prise unique) |\n| **Comprimés effervescents** | Plaquette de 10 – 20 comprimés | 500 mg (souvent présentés en sachets de 2 g de poudre à dissoudre) |\n| **Granulés pour suspension buvable** | Flacon de 100 ml ou 200 ml | 125 mg/5 ml (suspension à 2 % = 20 mg/ml) – dosage habituel pour les enfants |\n| **Sirop** | Flacon de 100 ml, 150 ml ou 200 ml | 125 mg/5 ml (2 % = ",
+    "tokens": {
+      "queue_time": 0.049047463,
+      "prompt_tokens": 94,
+      "prompt_time": 0.01401567,
+      "completion_tokens": 500,
+      "completion_time": 1.048311214,
+      "total_tokens": 594,
+      "total_time": 1.062326884,
+      "completion_tokens_details": {
+        "reasoning_tokens": 184
+      }
+    }
+  },
+  {
+    "id": "Q004",
+    "category": "availability_algeria",
+    "question": "Quelles présentations d'amoxicilline seule sont enregistrées en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:09.592346+00:00",
+    "status": "success",
+    "answer": "Voici un aperçu des formes pharmaceutiques (ou « présentations ») d’amoxicilline **en monothérapie** qui sont généralement enregistrées et commercialisées en Algérie.  \nCes informations proviennent de bases de données publiques, de notices de médicaments et de la réglementation algérienne disponible en ligne ; elles peuvent toutefois évoluer, il est donc recommandé de vérifier chaque produit auprès du **Ministère de la Santé, de la Population et de la Réforme Hospitalière** ou de l’**Agence Nationale du Médicament (ANM)** avant toute utilisation ou prescription.\n\n| Forme galénique | Dosage habituel | Conditionnement le plus fréquent | Remarques |\n|-----------------|----------------|-----------------------------------|-----------|\n| **Comprimés** | 250 mg – 500 mg | Blisters de 10, 20 ou 30 comprimés ; flacons de 100 comprimés | Forme solide la plus répandue ; prise orale avec un verre d’eau. |\n| **Gélules** | 250 mg – 500 mg",
+    "tokens": {
+      "queue_time": 0.919784818,
+      "prompt_tokens": 88,
+      "prompt_time": 0.004214182,
+      "completion_tokens": 500,
+      "completion_time": 1.04735396,
+      "total_tokens": 588,
+      "total_time": 1.051568142,
+      "completion_tokens_details": {
+        "reasoning_tokens": 263
+      }
+    }
+  },
+  {
+    "id": "Q005",
+    "category": "normalisation",
+    "question": "Le paracétamol seul et l'association paracétamol-codéine sont-ils des médicaments équivalents ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:12.598731+00:00",
+    "status": "success",
+    "answer": "**Paracétamol seul vs. association paracétamol‑codéine : quels sont les points de comparaison ?**  \n\n| Aspect | Paracétamol (seul) | Association paracétamol‑codéine |\n|--------|-------------------|---------------------------------|\n| **Composition** | 1 ou 2 g de paracétamol (ou 500 mg selon la forme) | Paracétamol (généralement 500 mg) + codéine (généralement 30 mg) |\n| **Mécanisme d’action** | Analgésique et antipyrétique central : inhibition de la synthèse des prostaglandines dans le système nerveux central. | Paracétamol : même mécanisme que ci‑dessus.<br>Codéine : opiacé faible qui se transforme en morphine (≈ 5‑10 % de la dose) et agit sur les récepteurs μ‑opioïdes, augmentant l’effet analgésique et ajoutant un léger effet antitussif. |\n| **Indications principales** | - Douleurs légères à modérées (céphalées, douleurs dentaires, douleurs musculaires, douleurs articulaires, douleurs menstruelles).<br>- Fièvre. | - Douleurs modérées à sévères où le paracétamol seul est insuffisant (douleurs post‑opératoires, douleurs dentaires importantes, douleurs musculo‑squelettiques intenses, douleurs liées à la grippe).<br>- Situations où un léger effet opioïde est souhaité (ex. douleurs chroniques modérées, douleurs cancéreuses légères). |\n| **Efficacité** | Efficace pour les douleurs de faible intensité. | L’ajout de codéine augmente généralement le soul",
+    "tokens": {
+      "queue_time": 0.278061599,
+      "prompt_tokens": 98,
+      "prompt_time": 0.030717824,
+      "completion_tokens": 500,
+      "completion_time": 1.047032622,
+      "total_tokens": 598,
+      "total_time": 1.077750446,
+      "completion_tokens_details": {
+        "reasoning_tokens": 99
+      }
+    }
+  },
+  {
+    "id": "Q006",
+    "category": "ambiguity",
+    "question": "La mention « CELEXOCIB » dans une nomenclature correspond-elle probablement au célécoxib ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:14.582463+00:00",
+    "status": "success",
+    "answer": "Oui, il s’agit très probablement d’une faute de transcription ou d’une variante orthographique du **célécoxib**.\n\n### Pourquoi « CELEXOCIB » pointe vers le célécoxib ?\n\n| Élément | Observation |\n|---------|--------------|\n| **Orthographe** | « CELEXOCIB » ne figure dans aucune base de données officielle (INN, USP, FDA, EMA, WHO). En revanche, le nom **célécoxib** (ou **celecoxib** en anglais) apparaît systématiquement. |\n| **Similarité de lettres** | La séquence « CELE…CIB » est identique ; seules les lettres « X » et « O » sont intercalées différemment. Une inversion ou une insertion d’un « O » est typique d’une erreur d’OCR ou de saisie. |\n| **Contexte pharmacologique** | Si la nomenclature où apparaît « CELEXOCIB » regroupe des anti‑inflammatoires non stéroïdiens (AINS) ou des inhibiteurs sélectifs de COX‑2, le seul candidat correspondant est le célécoxib. |\n| **Absence d’alternative** | Aucun autre principe actif connu ne porte un nom proche de « CELEXOCIB ». |\n\n### Vérifications à faire\n\n1. **Comparer les codes ATC ou les numéros CAS**  \n   - Célécoxib : ATC = M01AH01, CAS = 169590‑42‑5.  \n   - Si la nomenclature indique l’un de ces identifiants à",
+    "tokens": {
+      "queue_time": 0.298452801,
+      "prompt_tokens": 91,
+      "prompt_time": 0.003533693,
+      "completion_tokens": 500,
+      "completion_time": 1.052061801,
+      "total_tokens": 591,
+      "total_time": 1.055595494,
+      "completion_tokens_details": {
+        "reasoning_tokens": 143
+      }
+    }
+  },
+  {
+    "id": "Q007",
+    "category": "interaction",
+    "question": "Quelle interaction doit être prise en compte entre l'ibuprofène et le ramipril, et quel est son niveau selon le Thésaurus de l'ANSM ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:16.475232+00:00",
+    "status": "success",
+    "answer": "**Interaction à prendre en compte :**  \nL’association d’**ibuprofène** (anti‑inflammatoire non stéroïdien, AINS) avec le **ramipril** (inhibiteur de l’enzyme de conversion de l’angiotensine, IEC) peut :\n\n| Effet potentiel | Mécanisme |\n|-----------------|-----------|\n| **Diminution de l’effet antihypertensif** du ramipril | Les AINS provoquent une vasoconstriction rénale (via la diminution de la prostaglandine) qui s’oppose à l’effet vasodilatateur de l’IEC. |\n| **Risque d’insuffisance rénale aiguë** | L’IEC dilate l’artériole effér",
+    "tokens": {
+      "queue_time": 0.220735144,
+      "prompt_tokens": 107,
+      "prompt_time": 0.024225344,
+      "completion_tokens": 500,
+      "completion_time": 1.052333589,
+      "total_tokens": 607,
+      "total_time": 1.076558933,
+      "completion_tokens_details": {
+        "reasoning_tokens": 328
+      }
+    }
+  },
+  {
+    "id": "Q008",
+    "category": "interaction",
+    "question": "Quelle interaction doit être vérifiée entre le ramipril et la spironolactone, et quel est son niveau de gravité ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:18.348166+00:00",
+    "status": "success",
+    "answer": "**Interaction à surveiller :**  \nRamipril (inhibiteur de l’enzyme de conversion de l’angiotensine – IEC) + Spironolactone (diurétique épargneur de potassium, antagoniste des récepteurs de l’aldostérone).\n\n| Type d’interaction | Conséquence principale | Niveau de gravité* |\n|--------------------|------------------------|--------------------|\n| **Pharmacodynamique** – effet additif sur la rétention de potassium | **Hyperkaliémie** (potassium sérique élevé) pouvant entraîner arythmies cardiaques, voire arrêt cardiaque | **Élevée / majeure** |\n| **Pharmacodynamique** – réduction combinée de la filtration glomérulaire | **Insuffisance rénale aiguë ou aggravation d’une insuffisance rénale chronique** | **Élevée / majeure** |\n| **Pharmacodynamique** – potentiel d’hypotension sévère (effet additif sur la pression artérielle) | **Hypotension** pouvant provoquer syncope ou insuffisance organique | **Modérée à élevée** (selon la dose et l’état du patient) |\n\n\\*Le niveau de gravité est généralement classé **« majeur »** dans les bases de données d’interactions (ex. : Micromedex, Lexicomp, Drugs.com). Cela signifie que l’interaction peut être **potentiellement dangereuse** et nécessite une **surveillance étroite** ou",
+    "tokens": {
+      "queue_time": 0.267642955,
+      "prompt_tokens": 99,
+      "prompt_time": 0.004141602,
+      "completion_tokens": 500,
+      "completion_time": 1.048498722,
+      "total_tokens": 599,
+      "total_time": 1.052640324,
+      "completion_tokens_details": {
+        "reasoning_tokens": 165
+      }
+    }
+  },
+  {
+    "id": "Q009",
+    "category": "contraindication",
+    "question": "Quelles contre-indications et précautions faut-il vérifier pour le ramipril pendant la grossesse ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:20.183487+00:00",
+    "status": "success",
+    "answer": "**Ramipril et grossesse : contre‑indications et précautions à connaître (information générale)**  \n\n---\n\n### 1. Pourquoi le ramipril est généralement contre‑indiqué pendant la grossesse  \n\n| Trimestre | Risques documentés pour le fœtus | Conséquence clinique possible |\n|-----------|----------------------------------|------------------------------|\n| **1ᵉʳ trimestre** | Exposition aux inhibiteurs de l’enzyme de conversion (IEC) peut être associée à un risque légèrement accru de malformations cardiaques congénitales, bien que les données soient moins claires que pour les trimestres ultérieurs. | Anomalies cardiaques, rénales ou autres malformations (rare). |\n| **2ᵉ et 3ᵉ trimestres** | Toxicité fœtale bien établie : hypoplasie rénale, oligohydramnios, retard de croissance intra‑utérin, dysplasie pulmonaire, hypocalcémie, bradycardie, voire mort fœtale. | Insuffisance rénale aiguë du fœtus, mortinatalité, complications néonatales graves. |\n\n> **Conclusion** : Les IEC (dont le ramipril) sont **classés catégorie X** (ou « contre‑indiqués ») par la plupart des autorités sanitaires pour la grossesse, surtout à partir du deuxième trimestre.\n\n---\n\n### 2. Situations où le ramipril **ne doit pas être utilisé**  \n\n| Situation | Raison |\n|-----------|--------|\n| **Grossesse confirmée** (",
+    "tokens": {
+      "queue_time": 0.018280859,
+      "prompt_tokens": 91,
+      "prompt_time": 0.005253619,
+      "completion_tokens": 500,
+      "completion_time": 1.045418111,
+      "total_tokens": 591,
+      "total_time": 1.05067173,
+      "completion_tokens_details": {
+        "reasoning_tokens": 147
+      }
+    }
+  },
+  {
+    "id": "Q010",
+    "category": "insufficient_information",
+    "question": "Un patient prend un comprimé nommé « PROF 400 mg ». Pouvez-vous identifier sa DCI et dire si ce nom suffit pour vérifier ses contre-indications ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:21.739088+00:00",
+    "status": "success",
+    "answer": "",
+    "tokens": {
+      "queue_time": 0.086926459,
+      "prompt_tokens": 104,
+      "prompt_time": 0.00389662,
+      "completion_tokens": 500,
+      "completion_time": 1.056507362,
+      "total_tokens": 604,
+      "total_time": 1.060403982,
+      "completion_tokens_details": {
+        "reasoning_tokens": 498
+      }
+    }
+  },
+  {
+    "id": "Q011",
+    "category": "source_conflict",
+    "question": "Deux sources donnent des doses maximales différentes pour le même médicament : laquelle doit être retenue et pourquoi ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:23.358993+00:00",
+    "status": "success",
+    "answer": "**Comment choisir la dose maximale à retenir lorsqu’on trouve deux valeurs différentes ?**  \n\n1. **Vérifier la nature de chaque source**  \n   | Type de source | Pourquoi c’est important | Exemple de source fiable |\n   |----------------|--------------------------|--------------------------|\n   | **Autorité réglementaire** (FDA USA, EMA Europe, ANSM France, Health Canada, etc.) | C’est le texte officiel qui a été approuvé après les études cliniques. | *Prescribing Information* (PI) de la FDA, *Résumé des Caractéristiques du Produit* (RCP) de l’ANSM. |\n   | **Résumé de la notice du fabricant (SPC/PI)** | Contient les doses validées pour chaque indication, voie d’administration, groupe d’âge, etc. | Notice du médicament fournie avec le conditionnement. |\n   | **Guidelines cliniques** (ex. ESC, AHA, NICE, HAS) | Recommandations basées sur la synthèse de la littérature et l’expertise. | Recommandations de la Société Française de Cardiologie. |\n  ",
+    "tokens": {
+      "queue_time": 0.093850264,
+      "prompt_tokens": 92,
+      "prompt_time": 0.016276135,
+      "completion_tokens": 500,
+      "completion_time": 1.068615002,
+      "total_tokens": 592,
+      "total_time": 1.084891137,
+      "completion_tokens_details": {
+        "reasoning_tokens": 257
+      }
+    }
+  },
+  {
+    "id": "Q012",
+    "category": "out_of_scope",
+    "question": "J'ai mal à la tête : quel médicament dois-je prendre et à quelle dose ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "baseline_without_project_data",
+    "timestamp": "2026-11-13T16:46:25.016493+00:00",
+    "status": "success",
+    "answer": "Je suis désolé d’apprendre que vous avez mal à la tête. Je ne peux pas vous prescrire de traitement personnalisé, mais je peux vous donner quelques informations générales sur les médicaments en vente libre qui sont souvent utilisés pour soulager les céphalées, ainsi que des précautions à prendre.  \n\n---\n\n## 1. Médicaments en vente libre les plus courants\n\n| Médicament | Principe actif | Posologie adulte habituelle (à ne pas dépasser) | Remarques importantes |\n|------------|----------------|-----------------------------------------------|-----------------------|\n| **Paracétamol** (ex. Doliprane, Efferalgan) | Paracétamol | 500 mg à 1 g toutes les 4–6 h, **max. 4 g/24 h** | Ne pas dépasser la dose maximale, surtout si vous avez une maladie du foie ou si vous consommez de l’alcool régulièrement. |\n| **Ibuprofène** (ex. Nurofen, Advil) | Ibuprofène | 200–400 mg toutes les 6–8 h, **max. 1 200 mg/24 h** (sans prescription) | À prendre avec de la nourriture ou du lait pour limiter les irritations gastriques. Éviter si vous avez des antécédents d’ulcère, d’insuffisance rénale ou de troubles de la coagulation. |\n| **Aspirine** (ex. Aspirine, Aspegic) | Acide acétylsalicylique | 300–500 mg toutes les 4–6",
+    "tokens": {
+      "queue_time": 0.283149571,
+      "prompt_tokens": 88,
+      "prompt_time": 0.022535302,
+      "completion_tokens": 500,
+      "completion_time": 1.048183176,
+      "total_tokens": 588,
+      "total_time": 1.070718478,
+      "completion_tokens_details": {
+        "reasoning_tokens": 146
+      }
+    }
+  }
 ]

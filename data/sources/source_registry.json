@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "created_at_utc": "2026-11-13T19:23:10.376641+00:00",
+  "last_reviewed": "2026-11-13",
+  "policy": "No automated collection is allowed unless the source registry explicitly records permitted access after terms-of-use and robots review.",
+  "sources": [
+    {
+      "source_id": "SRC001",
+      "name": "Nomenclature algérienne fournie par l’enseignant",
+      "authority_rank": 2,
+      "country": "Algérie",
+      "url": null,
+      "access_method": "manual_file",
+      "automation_status": "not_applicable",
+      "collection_status": "available",
+      "applicable_data": [
+        "présence dans la nomenclature",
+        "nom commercial",
+        "DCI",
+        "forme",
+        "dosage",
+        "voie",
+        "code d’enregistrement"
+      ],
+      "limitations": [
+        "Ne contient pas à elle seule les indications, contre-indications, posologies ou effets indésirables."
+      ]
+    },
+    {
+      "source_id": "SRC002",
+      "name": "ANPP RCP",
+      "authority_rank": 1,
+      "country": "Algérie",
+      "url": "https://rcp.anpp.dz/",
+      "access_method": "manual_search_then_download",
+      "automation_status": "blocked_pending_terms_and_robots_review",
+      "collection_status": "not_collected",
+      "applicable_data": [
+        "RCP",
+        "indications",
+        "contre-indications",
+        "posologie",
+        "effets indésirables"
+      ],
+      "limitations": [
+        "Source prioritaire lorsqu’un RCP algérien est disponible.",
+        "Ne pas automatiser la collecte avant une vérification documentée des conditions d’utilisation et de robots.txt."
+      ]
+    },
+    {
+      "source_id": "SRC003",
+      "name": "ANSM — Thésaurus des interactions médicamenteuses",
+      "authority_rank": 3,
+      "country": "France",
+      "url": "https://ansm.sante.fr/uploads/2024/06/07/20230915-thesaurus-interactions-medicamenteuses-septembre-2023.pdf",
+      "access_method": "download_public_pdf",
+      "automation_status": "permitted_by_robots_txt",
+      "robots_txt": "https://ansm.sante.fr/robots.txt",
+      "collection_status": "not_collected",
+      "applicable_data": [
+        "interactions",
+        "niveau de gravité",
+        "passages de référence"
+      ],
+      "limitations": [
+        "Source institutionnelle étrangère : complément, jamais substitut d’une source algérienne.",
+        "Le RCP de la spécialité reste nécessaire pour l’information exhaustive."
+      ]
+    },
+    {
+      "source_id": "SRC004",
+      "name": "WHO Collaborating Centre — ATC/DDD Index 2026",
+      "authority_rank": 3,
+      "country": "International",
+      "url": "https://atcddd.fhi.no/atc_ddd_index/",
+      "access_method": "manual_search",
+      "automation_status": "manual_search_recommended",
+      "collection_status": "used_for_atc_validation",
+      "applicable_data": [
+        "code ATC",
+        "nom de substance ATC"
+      ],
+      "limitations": [
+        "Référence de classification ; ne fournit pas les informations cliniques de produit nécessaires au RAG."
+      ]
+    }
+  ]
+}

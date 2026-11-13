@@ -3,53 +3,59 @@ import os
 import requests
 from dotenv import load_dotenv
 
-# 1. Load the variables from .env
 load_dotenv()
 
-# 2. Retrieve our API key
-api_key = os.getenv("GROQ_API_KEY")
+API_KEY = os.getenv("GROQ_API_KEY")
 
-# 3. Check that the key exists
-if not api_key:
+if not API_KEY:
     raise ValueError("GROQ_API_KEY was not found!")
 
-# 4. Define the API endpoint
-url = "https://api.groq.com/openai/v1/chat/completions"
+URL = "https://api.groq.com/openai/v1/chat/completions"
 
-# 5. Prepare the request headers
-headers = {
-    "Authorization": f"Bearer {api_key}",
+MODEL = "openai/gpt-oss-120b"
+
+HEADERS = {
+    "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json"
 }
 
-# 6. Prepare the request body
-data = {
-    "model": "openai/gpt-oss-120b",
-    "messages": [
-        {
-            "role": "user",
-            "content": "Réponds juste : OK"
-        }
-    ]
-}
 
-# 7. Send the request
-response = requests.post(
-    url,
-    headers=headers,
-    json=data,
-    timeout=60
-)
+def ask_groq(question, system_prompt=None):
 
-# 8. Display the result
-print("Status code:", response.status_code)
+    messages = []
 
-if response.status_code == 200:
+    if system_prompt:
+        messages.append({
+            "role": "system",
+            "content": system_prompt
+        })
+
+    messages.append({
+        "role": "user",
+        "content": question
+    })
+
+    data = {
+        "model": MODEL,
+        "messages": messages,
+        "temperature": 0.2
+    }
+
+    response = requests.post(
+        URL,
+        headers=HEADERS,
+        json=data,
+        timeout=60
+    )
+
+    response.raise_for_status()
+
     result = response.json()
 
-    answer = result["choices"][0]["message"]["content"]
+    return result["choices"][0]["message"]["content"]
 
-    print("Model response:", answer)
 
-else:
-    print("Error:", response.text)
+# Test
+answer = ask_groq("Réponds juste : OK")
+
+print(answer)

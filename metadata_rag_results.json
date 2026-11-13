@@ -1,0 +1,245 @@
+[
+  {
+    "id": "Q001",
+    "category": "identification",
+    "question": "Quelle est la DCI de la spécialité Doliprane ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M001"
+    ],
+    "evidence": "[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non",
+    "timestamp": "2026-11-13T19:31:02.307970+00:00",
+    "status": "success",
+    "answer": "La DCI (Dénomination Commune Internationale) de la spécialité Doliprane est le **paracétamol** [ M001 ].",
+    "tokens": {
+      "queue_time": 0.093025045,
+      "prompt_tokens": 250,
+      "prompt_time": 0.010160076,
+      "completion_tokens": 111,
+      "completion_time": 0.232837561,
+      "total_tokens": 361,
+      "total_time": 0.242997637,
+      "completion_tokens_details": {
+        "reasoning_tokens": 71
+      }
+    }
+  },
+  {
+    "id": "Q002",
+    "category": "identification",
+    "question": "Voltafene contient-il la même substance active que le diclofénac sodique ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M003"
+    ],
+    "evidence": "[M003] DCI normalisée : diclofénac | Substances actives : diclofénac | Code ATC vérifié : M01AB05 | Statut nomenclature Algérie : registered | Alias de recherche : diclofénac, diclofenac, Voltafene | Association : non",
+    "timestamp": "2026-11-13T19:31:03.225146+00:00",
+    "status": "success",
+    "answer": "Oui. Selon les données, Voltafene est un alias de recherche associé au diclofénac, dont la substance active est le diclofénac [M003].",
+    "tokens": {
+      "queue_time": 0.2644136,
+      "prompt_tokens": 252,
+      "prompt_time": 0.014432338,
+      "completion_tokens": 154,
+      "completion_time": 0.319928401,
+      "total_tokens": 406,
+      "total_time": 0.334360739,
+      "completion_tokens_details": {
+        "reasoning_tokens": 110
+      }
+    }
+  },
+  {
+    "id": "Q003",
+    "category": "availability_algeria",
+    "question": "Quelles formes pharmaceutiques et quels dosages de paracétamol sont enregistrés en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M001",
+      "M011"
+    ],
+    "evidence": "[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non\n[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.",
+    "timestamp": "2026-11-13T19:31:04.346574+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q004",
+    "category": "availability_algeria",
+    "question": "Quelles présentations d'amoxicilline seule sont enregistrées en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M013",
+      "M014"
+    ],
+    "evidence": "[M013] DCI normalisée : amoxicilline | Substances actives : amoxicilline | Code ATC vérifié : J01CA04 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline | Association : non\n[M014] DCI normalisée : amoxicilline + acide clavulanique | Substances actives : amoxicilline, acide clavulanique | Code ATC vérifié : J01CR02 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline + acide clavulanique, amoxicilline-acide clavulanique, amoxicilline/acide clavulanique, amoxicilline acide clavulanique | Association : oui | Note association : Association de deux substances actives : amoxicilline et acide clavulanique.",
+    "timestamp": "2026-11-13T19:31:04.347684+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q005",
+    "category": "normalisation",
+    "question": "Le paracétamol seul et l'association paracétamol-codéine sont-ils des médicaments équivalents ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M011",
+      "M001"
+    ],
+    "evidence": "[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non",
+    "timestamp": "2026-11-13T19:31:04.348862+00:00",
+    "status": "success",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {
+      "queue_time": 0.04843986,
+      "prompt_tokens": 393,
+      "prompt_time": 0.017590961,
+      "completion_tokens": 135,
+      "completion_time": 0.284440976,
+      "total_tokens": 528,
+      "total_time": 0.302031937,
+      "completion_tokens_details": {
+        "reasoning_tokens": 115
+      }
+    }
+  },
+  {
+    "id": "Q006",
+    "category": "ambiguity",
+    "question": "La mention « CELEXOCIB » dans une nomenclature correspond-elle probablement au célécoxib ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M009"
+    ],
+    "evidence": "[M009] DCI normalisée : célécoxib | Substances actives : célécoxib | Code ATC vérifié : M01AH01 | Statut nomenclature Algérie : registered | Alias de recherche : célécoxib, celecoxib, celexocib | Association : non",
+    "timestamp": "2026-11-13T19:31:05.202919+00:00",
+    "status": "success",
+    "answer": "Oui, la mention « CELEXOCIB » correspond très probablement au célécoxib. [ M009 ]",
+    "tokens": {
+      "queue_time": 0.049067163,
+      "prompt_tokens": 252,
+      "prompt_time": 0.012244987,
+      "completion_tokens": 95,
+      "completion_time": 0.197005814,
+      "total_tokens": 347,
+      "total_time": 0.209250801,
+      "completion_tokens_details": {
+        "reasoning_tokens": 61
+      }
+    }
+  },
+  {
+    "id": "Q007",
+    "category": "interaction",
+    "question": "Quelle interaction doit être prise en compte entre l'ibuprofène et le ramipril, et quel est son niveau selon le Thésaurus de l'ANSM ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M002",
+      "M030"
+    ],
+    "evidence": "[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
+    "timestamp": "2026-11-13T19:31:05.944328+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q008",
+    "category": "interaction",
+    "question": "Quelle interaction doit être vérifiée entre le ramipril et la spironolactone, et quel est son niveau de gravité ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M039",
+      "M030"
+    ],
+    "evidence": "[M039] DCI normalisée : spironolactone | Substances actives : spironolactone | Code ATC vérifié : C03DA01 | Statut nomenclature Algérie : registered | Alias de recherche : spironolactone | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
+    "timestamp": "2026-11-13T19:31:05.945737+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q009",
+    "category": "contraindication",
+    "question": "Quelles contre-indications et précautions faut-il vérifier pour le ramipril pendant la grossesse ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M030"
+    ],
+    "evidence": "[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
+    "timestamp": "2026-11-13T19:31:05.947132+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q010",
+    "category": "insufficient_information",
+    "question": "Un patient prend un comprimé nommé « PROF 400 mg ». Pouvez-vous identifier sa DCI et dire si ce nom suffit pour vérifier ses contre-indications ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [
+      "M002"
+    ],
+    "evidence": "[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non",
+    "timestamp": "2026-11-13T19:31:05.948598+00:00",
+    "status": "success",
+    "answer": "La DCI du comprimé « PROF 400 mg » est l’ibuprofène [M002].  \nInformation insuffisante dans le jeu de données fourni.",
+    "tokens": {
+      "queue_time": 0.210437031,
+      "prompt_tokens": 266,
+      "prompt_time": 0.012643694,
+      "completion_tokens": 357,
+      "completion_time": 0.751687909,
+      "total_tokens": 623,
+      "total_time": 0.764331603,
+      "completion_tokens_details": {
+        "reasoning_tokens": 310
+      }
+    }
+  },
+  {
+    "id": "Q011",
+    "category": "source_conflict",
+    "question": "Deux sources donnent des doses maximales différentes pour le même médicament : laquelle doit être retenue et pourquoi ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [],
+    "evidence": "Aucun élément pertinent retrouvé.",
+    "timestamp": "2026-11-13T19:31:07.550580+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q012",
+    "category": "out_of_scope",
+    "question": "J'ai mal à la tête : quel médicament dois-je prendre et à quelle dose ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
+    "retrieved_medicine_ids": [],
+    "evidence": "Aucun élément pertinent retrouvé.",
+    "timestamp": "2026-11-13T19:31:07.551136+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  }
+]
