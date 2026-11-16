@@ -1,9 +1,12 @@
 
 import os
+from pathlib import Path
+
 import requests
 from dotenv import load_dotenv
 
-load_dotenv()
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(PROJECT_DIR / ".env")
 
 API_KEY = os.getenv("GROQ_API_KEY")
 

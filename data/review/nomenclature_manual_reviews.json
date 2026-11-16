@@ -1,0 +1,5 @@
+{
+  "purpose": "Human decisions for ambiguous nomenclature matches. This file is preserved when nomenclature_working.json is rebuilt.",
+  "allowed_review_statuses": ["approved", "rejected", "pending"],
+  "reviews": {}
+}

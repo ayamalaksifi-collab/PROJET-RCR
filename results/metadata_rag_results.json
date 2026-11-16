@@ -1,0 +1,389 @@
+[
+  {
+    "id": "Q001",
+    "category": "identification",
+    "question": "Quelle est la DCI de la spécialité Doliprane ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M001"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0069",
+      "NOM-0097",
+      "NOM-0014",
+      "NOM-0108",
+      "NOM-0085",
+      "NOM-0088",
+      "NOM-0061",
+      "NOM-0022",
+      "NOM-0039",
+      "NOM-0043",
+      "NOM-0048",
+      "NOM-0008",
+      "NOM-0057",
+      "NOM-0016",
+      "NOM-0053",
+      "NOM-0062",
+      "NOM-0075",
+      "NOM-0017",
+      "NOM-0091",
+      "NOM-0092"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0069] Brand: ACETADOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 0,03 | Registration number: 503/03 B 061/16 | Status: F | Workbook reference: Nomenclature Aout 2026!284\n[SRC001:NOM-0097] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 1000MG | Registration number: 607/03 B 081/25 | Status: F | Workbook reference: Nomenclature Aout 2026!312\n[SRC001:NOM-0014] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 500MG | Registration number: 607/03 B 005/25 | Status: F | Workbook reference: Nomenclature Aout 2026!229\n[SRC001:NOM-0108] Brand: DOLIBON | Raw INN: PARACETAMOL | Form: SUSPENSION BUVABLE | Product strength: 120MG/5ML (2,4G/100ML) | Registration number: 304/03 B 117/22 | Status: F | Workbook reference: Nomenclature Aout 2026!323\n[SRC001:NOM-0085] Brand: DOLIDOL FLASH | Raw INN: PARACETAMOL | Form: COMPRIME EFFERVESSANT | Product strength: 1G | Registration number: 571/03 B 080/24 | Status: F | Workbook reference: Nomenclature Aout 2026!300\n[SRC001:NOM-0088] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: COMRPIME | Product strength: 1000MG | Registration number: 201/03 B 081/09/24 | Status: F | Workbook reference: Nomenclature Aout 2026!303\n[SRC001:NOM-0061] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300MG | Registration number: 201/03 B 046/00/25 | Status: F | Workbook reference: Nomenclature Aout 2026!276\n[SRC001:NOM-0022] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 100MG | Registration number: 201/03 B 007/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!237\n[SRC001:NOM-0039] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 150MG | Registration number: 201/03 B 041/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!254\n[SRC001:NOM-0043] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 200MG | Registration number: 201/03 B 042/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!258\n[SRC001:NOM-0048] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 300MG | Registration number: 201/03 B 043/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!263\n[SRC001:NOM-0008] Brand: EFFERALGAN | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 500MG | Registration number: 201/03 B 005/96/17 | Status: F | Workbook reference: Nomenclature Aout 2026!223\n[SRC001:NOM-0057] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE | Product strength: 200 MG | Registration number: 235/03 B 045/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!272\n[SRC001:NOM-0016] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 100MG | Registration number: 235/03 B 006/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!231\n[SRC001:NOM-0053] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 150MG | Registration number: 235/03 B 044/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!268\n[SRC001:NOM-0062] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300 MG | Registration number: 235/03 B 046/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!277\n[SRC001:NOM-0075] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 500MG | Registration number: 235/03 B 066/16/23 | Status: F | Workbook reference: Nomenclature Aout 2026!290\n[SRC001:NOM-0017] Brand: ISOMOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 100MG/5ML | Registration number: 073/03 B 006/03/24 | Status: F | Workbook reference: Nomenclature Aout 2026!232\n[SRC001:NOM-0091] Brand: MIGRAMOL | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 1000MG | Registration number: 079/03 B 081/14 | Status: F | Workbook reference: Nomenclature Aout 2026!306\n[SRC001:NOM-0092] Brand: PANADOL 1G | Raw INN: PARACETAMOL | Form: COMPRIME PELLICULE SECABLE | Product strength: 1000MG | Registration number: 309/03 B 081/12/24 | Status: F | Workbook reference: Nomenclature Aout 2026!307",
+    "timestamp": "2026-11-16T20:17:02.688309+00:00",
+    "status": "success",
+    "answer": "La DCI de la spécialité Doliprane est le **paracétamol** [ M001 ][ SRC001:NOM-0088 ].",
+    "tokens": {
+      "queue_time": 0.309654727,
+      "prompt_tokens": 1822,
+      "prompt_time": 0.087945411,
+      "completion_tokens": 200,
+      "completion_time": 0.419143641,
+      "total_tokens": 2022,
+      "total_time": 0.507089052,
+      "completion_tokens_details": {
+        "reasoning_tokens": 159
+      }
+    }
+  },
+  {
+    "id": "Q002",
+    "category": "identification",
+    "question": "Voltafene contient-il la même substance active que le diclofénac sodique ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M003"
+    ],
+    "retrieved_nomenclature_ids": [],
+    "evidence": "MEDICINE IDENTITY:\n[M003] DCI normalisée : diclofénac | Substances actives : diclofénac | Code ATC vérifié : M01AB05 | Statut nomenclature Algérie : registered | Alias de recherche : diclofénac, diclofenac, Voltafene | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\nNo current official nomenclature entry retrieved.",
+    "timestamp": "2026-11-16T20:17:05.241446+00:00",
+    "status": "success",
+    "answer": "Oui, le médicament Voltafene contient la même substance active que le diclofénac sodique : le diclofénac [M003].",
+    "tokens": {
+      "queue_time": 0.324101146,
+      "prompt_tokens": 293,
+      "prompt_time": 0.075744084,
+      "completion_tokens": 193,
+      "completion_time": 0.400713537,
+      "total_tokens": 486,
+      "total_time": 0.476457621,
+      "completion_tokens_details": {
+        "reasoning_tokens": 153
+      }
+    }
+  },
+  {
+    "id": "Q003",
+    "category": "availability_algeria",
+    "question": "Quelles formes pharmaceutiques et quels dosages de paracétamol sont enregistrés en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M001",
+      "M011"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0069",
+      "NOM-0097",
+      "NOM-0014",
+      "NOM-0108",
+      "NOM-0085",
+      "NOM-0088",
+      "NOM-0061",
+      "NOM-0022",
+      "NOM-0039",
+      "NOM-0043",
+      "NOM-0048",
+      "NOM-0008",
+      "NOM-0057",
+      "NOM-0016",
+      "NOM-0053",
+      "NOM-0062",
+      "NOM-0075",
+      "NOM-0017",
+      "NOM-0091",
+      "NOM-0092"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non\n[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0069] Brand: ACETADOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 0,03 | Registration number: 503/03 B 061/16 | Status: F | Workbook reference: Nomenclature Aout 2026!284\n[SRC001:NOM-0097] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 1000MG | Registration number: 607/03 B 081/25 | Status: F | Workbook reference: Nomenclature Aout 2026!312\n[SRC001:NOM-0014] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 500MG | Registration number: 607/03 B 005/25 | Status: F | Workbook reference: Nomenclature Aout 2026!229\n[SRC001:NOM-0108] Brand: DOLIBON | Raw INN: PARACETAMOL | Form: SUSPENSION BUVABLE | Product strength: 120MG/5ML (2,4G/100ML) | Registration number: 304/03 B 117/22 | Status: F | Workbook reference: Nomenclature Aout 2026!323\n[SRC001:NOM-0085] Brand: DOLIDOL FLASH | Raw INN: PARACETAMOL | Form: COMPRIME EFFERVESSANT | Product strength: 1G | Registration number: 571/03 B 080/24 | Status: F | Workbook reference: Nomenclature Aout 2026!300\n[SRC001:NOM-0088] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: COMRPIME | Product strength: 1000MG | Registration number: 201/03 B 081/09/24 | Status: F | Workbook reference: Nomenclature Aout 2026!303\n[SRC001:NOM-0061] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300MG | Registration number: 201/03 B 046/00/25 | Status: F | Workbook reference: Nomenclature Aout 2026!276\n[SRC001:NOM-0022] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 100MG | Registration number: 201/03 B 007/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!237\n[SRC001:NOM-0039] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 150MG | Registration number: 201/03 B 041/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!254\n[SRC001:NOM-0043] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 200MG | Registration number: 201/03 B 042/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!258\n[SRC001:NOM-0048] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 300MG | Registration number: 201/03 B 043/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!263\n[SRC001:NOM-0008] Brand: EFFERALGAN | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 500MG | Registration number: 201/03 B 005/96/17 | Status: F | Workbook reference: Nomenclature Aout 2026!223\n[SRC001:NOM-0057] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE | Product strength: 200 MG | Registration number: 235/03 B 045/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!272\n[SRC001:NOM-0016] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 100MG | Registration number: 235/03 B 006/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!231\n[SRC001:NOM-0053] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 150MG | Registration number: 235/03 B 044/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!268\n[SRC001:NOM-0062] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300 MG | Registration number: 235/03 B 046/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!277\n[SRC001:NOM-0075] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 500MG | Registration number: 235/03 B 066/16/23 | Status: F | Workbook reference: Nomenclature Aout 2026!290\n[SRC001:NOM-0017] Brand: ISOMOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 100MG/5ML | Registration number: 073/03 B 006/03/24 | Status: F | Workbook reference: Nomenclature Aout 2026!232\n[SRC001:NOM-0091] Brand: MIGRAMOL | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 1000MG | Registration number: 079/03 B 081/14 | Status: F | Workbook reference: Nomenclature Aout 2026!306\n[SRC001:NOM-0092] Brand: PANADOL 1G | Raw INN: PARACETAMOL | Form: COMPRIME PELLICULE SECABLE | Product strength: 1000MG | Registration number: 309/03 B 081/12/24 | Status: F | Workbook reference: Nomenclature Aout 2026!307",
+    "timestamp": "2026-11-16T20:17:07.014466+00:00",
+    "status": "success",
+    "answer": "",
+    "tokens": {
+      "queue_time": 0.048697415,
+      "prompt_tokens": 1961,
+      "prompt_time": 0.090578193,
+      "completion_tokens": 500,
+      "completion_time": 1.04529683,
+      "total_tokens": 2461,
+      "total_time": 1.135875023,
+      "completion_tokens_details": {
+        "reasoning_tokens": 498
+      }
+    }
+  },
+  {
+    "id": "Q004",
+    "category": "availability_algeria",
+    "question": "Quelles présentations d'amoxicilline seule sont enregistrées en Algérie ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M013",
+      "M014"
+    ],
+    "retrieved_nomenclature_ids": [],
+    "evidence": "MEDICINE IDENTITY:\n[M013] DCI normalisée : amoxicilline | Substances actives : amoxicilline | Code ATC vérifié : J01CA04 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline | Association : non\n[M014] DCI normalisée : amoxicilline + acide clavulanique | Substances actives : amoxicilline, acide clavulanique | Code ATC vérifié : J01CR02 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline + acide clavulanique, amoxicilline-acide clavulanique, amoxicilline/acide clavulanique, amoxicilline acide clavulanique | Association : oui | Note association : Association de deux substances actives : amoxicilline et acide clavulanique.\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\nNo current official nomenclature entry retrieved.",
+    "timestamp": "2026-11-16T20:17:09.392978+00:00",
+    "status": "success",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {
+      "queue_time": 0.208164604,
+      "prompt_tokens": 409,
+      "prompt_time": 0.017873252,
+      "completion_tokens": 228,
+      "completion_time": 0.476472584,
+      "total_tokens": 637,
+      "total_time": 0.494345836,
+      "completion_tokens_details": {
+        "reasoning_tokens": 208
+      }
+    }
+  },
+  {
+    "id": "Q005",
+    "category": "normalisation",
+    "question": "Le paracétamol seul et l'association paracétamol-codéine sont-ils des médicaments équivalents ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M011",
+      "M001"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0069",
+      "NOM-0097",
+      "NOM-0014",
+      "NOM-0108",
+      "NOM-0085",
+      "NOM-0088",
+      "NOM-0061",
+      "NOM-0022",
+      "NOM-0039",
+      "NOM-0043",
+      "NOM-0048",
+      "NOM-0008",
+      "NOM-0057",
+      "NOM-0016",
+      "NOM-0053",
+      "NOM-0062",
+      "NOM-0075",
+      "NOM-0017",
+      "NOM-0091",
+      "NOM-0092"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0069] Brand: ACETADOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 0,03 | Registration number: 503/03 B 061/16 | Status: F | Workbook reference: Nomenclature Aout 2026!284\n[SRC001:NOM-0097] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 1000MG | Registration number: 607/03 B 081/25 | Status: F | Workbook reference: Nomenclature Aout 2026!312\n[SRC001:NOM-0014] Brand: ANTALGAN | Raw INN: PARACETAMOL | Form: COMPRIME | Product strength: 500MG | Registration number: 607/03 B 005/25 | Status: F | Workbook reference: Nomenclature Aout 2026!229\n[SRC001:NOM-0108] Brand: DOLIBON | Raw INN: PARACETAMOL | Form: SUSPENSION BUVABLE | Product strength: 120MG/5ML (2,4G/100ML) | Registration number: 304/03 B 117/22 | Status: F | Workbook reference: Nomenclature Aout 2026!323\n[SRC001:NOM-0085] Brand: DOLIDOL FLASH | Raw INN: PARACETAMOL | Form: COMPRIME EFFERVESSANT | Product strength: 1G | Registration number: 571/03 B 080/24 | Status: F | Workbook reference: Nomenclature Aout 2026!300\n[SRC001:NOM-0088] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: COMRPIME | Product strength: 1000MG | Registration number: 201/03 B 081/09/24 | Status: F | Workbook reference: Nomenclature Aout 2026!303\n[SRC001:NOM-0061] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300MG | Registration number: 201/03 B 046/00/25 | Status: F | Workbook reference: Nomenclature Aout 2026!276\n[SRC001:NOM-0022] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 100MG | Registration number: 201/03 B 007/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!237\n[SRC001:NOM-0039] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 150MG | Registration number: 201/03 B 041/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!254\n[SRC001:NOM-0043] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 200MG | Registration number: 201/03 B 042/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!258\n[SRC001:NOM-0048] Brand: DOLIPRANE | Raw INN: PARACETAMOL | Form: SUPPOSITOIRE | Product strength: 300MG | Registration number: 201/03 B 043/00/24 | Status: F | Workbook reference: Nomenclature Aout 2026!263\n[SRC001:NOM-0008] Brand: EFFERALGAN | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 500MG | Registration number: 201/03 B 005/96/17 | Status: F | Workbook reference: Nomenclature Aout 2026!223\n[SRC001:NOM-0057] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE | Product strength: 200 MG | Registration number: 235/03 B 045/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!272\n[SRC001:NOM-0016] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 100MG | Registration number: 235/03 B 006/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!231\n[SRC001:NOM-0053] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 150MG | Registration number: 235/03 B 044/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!268\n[SRC001:NOM-0062] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 300 MG | Registration number: 235/03 B 046/11/23 | Status: F | Workbook reference: Nomenclature Aout 2026!277\n[SRC001:NOM-0075] Brand: EXPANDOL | Raw INN: PARACETAMOL | Form: POUDRE POUR SOLUTION BUVABLE EN SACHET DOSE | Product strength: 500MG | Registration number: 235/03 B 066/16/23 | Status: F | Workbook reference: Nomenclature Aout 2026!290\n[SRC001:NOM-0017] Brand: ISOMOL | Raw INN: PARACETAMOL | Form: SOLUTION BUVABLE | Product strength: 100MG/5ML | Registration number: 073/03 B 006/03/24 | Status: F | Workbook reference: Nomenclature Aout 2026!232\n[SRC001:NOM-0091] Brand: MIGRAMOL | Raw INN: PARACETAMOL | Form: COMPRIME SECABLE | Product strength: 1000MG | Registration number: 079/03 B 081/14 | Status: F | Workbook reference: Nomenclature Aout 2026!306\n[SRC001:NOM-0092] Brand: PANADOL 1G | Raw INN: PARACETAMOL | Form: COMPRIME PELLICULE SECABLE | Product strength: 1000MG | Registration number: 309/03 B 081/12/24 | Status: F | Workbook reference: Nomenclature Aout 2026!307",
+    "timestamp": "2026-11-16T20:17:11.373251+00:00",
+    "status": "success",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {
+      "queue_time": 0.210163215,
+      "prompt_tokens": 1965,
+      "prompt_time": 0.099493211,
+      "completion_tokens": 134,
+      "completion_time": 0.278881497,
+      "total_tokens": 2099,
+      "total_time": 0.378374708,
+      "completion_tokens_details": {
+        "reasoning_tokens": 114
+      }
+    }
+  },
+  {
+    "id": "Q006",
+    "category": "ambiguity",
+    "question": "La mention « CELEXOCIB » dans une nomenclature correspond-elle probablement au célécoxib ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M009"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0225",
+      "NOM-0240"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M009] DCI normalisée : célécoxib | Substances actives : célécoxib | Code ATC vérifié : M01AH01 | Statut nomenclature Algérie : registered | Alias de recherche : célécoxib, celecoxib, celexocib | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0225] Brand: ARBREX | Raw INN: CELECOXIB | Form: GELULE | Product strength: 100MG | Registration number: 510/04 B 035/17 | Status: F | Workbook reference: Nomenclature Aout 2026!470\n[SRC001:NOM-0240] Brand: ARBREX | Raw INN: CELECOXIB | Form: GELULE | Product strength: 200MG | Registration number: 510/04 B 036/17 | Status: F | Workbook reference: Nomenclature Aout 2026!485",
+    "timestamp": "2026-11-16T20:17:12.800817+00:00",
+    "status": "success",
+    "answer": "Oui, la mention « CELEXOCIB » dans une nomenclature correspond très probablement au célécoxib : le médicament est répertorié avec l’alias « celexocib » parmi les désignations de la DCI normalisée [M009].",
+    "tokens": {
+      "queue_time": 0.108479699,
+      "prompt_tokens": 420,
+      "prompt_time": 0.032736259,
+      "completion_tokens": 134,
+      "completion_time": 0.276892716,
+      "total_tokens": 554,
+      "total_time": 0.309628975,
+      "completion_tokens_details": {
+        "reasoning_tokens": 66
+      }
+    }
+  },
+  {
+    "id": "Q007",
+    "category": "interaction",
+    "question": "Quelle interaction doit être prise en compte entre l'ibuprofène et le ramipril, et quel est son niveau selon le Thésaurus de l'ANSM ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M002",
+      "M030"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0264",
+      "NOM-0174",
+      "NOM-0277",
+      "NOM-1007",
+      "NOM-0290",
+      "NOM-0265",
+      "NOM-0305",
+      "NOM-1008",
+      "NOM-0268",
+      "NOM-0181",
+      "NOM-0436",
+      "NOM-0371",
+      "NOM-0437",
+      "NOM-0366",
+      "NOM-0372",
+      "NOM-0325",
+      "NOM-0324",
+      "NOM-0318",
+      "NOM-0182",
+      "NOM-0382"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0264] Brand: ADFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 200MG | Registration number: 470/04 B 040/20/25 | Status: F | Workbook reference: Nomenclature Aout 2026!509\n[SRC001:NOM-0174] Brand: ADFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 400MG | Registration number: 470/04 B 010/20/25 | Status: F | Workbook reference: Nomenclature Aout 2026!403\n[SRC001:NOM-0277] Brand: ADVIFEN | Raw INN: IBUPROFENE | Form: SUSPENSION BUVABLE | Product strength: 20MG/ML | Registration number: 088/04 B 042/22 | Status: F | Workbook reference: Nomenclature Aout 2026!522\n[SRC001:NOM-1007] Brand: ANTALFEN | Raw INN: IBUPROFENE | Form: GEL DERMIQUE | Product strength: 5% ( 5G/100 G ) | Registration number: 035/21 A 057/17 | Status: F | Workbook reference: Nomenclature Aout 2026!5006\n[SRC001:NOM-0290] Brand: BUTAFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 600MG | Registration number: 293/04 B 044/12 | Status: F | Workbook reference: Nomenclature Aout 2026!535\n[SRC001:NOM-0265] Brand: BUTAFEN | Raw INN: IBUPROFENE | Form: GELULE A MICRO-GRANULES | Product strength: 200MG | Registration number: 293/04 B 040/05/12 | Status: F | Workbook reference: Nomenclature Aout 2026!510\n[SRC001:NOM-0305] Brand: BUTAFEN LP | Raw INN: IBUPROFENE | Form: MICROGRANULE EN GELLULE LIBERATION PROLONGEE | Product strength: 400MG | Registration number: 293/04 B 052/12 | Status: F | Workbook reference: Nomenclature Aout 2026!552\n[SRC001:NOM-1008] Brand: GELFEN 5% | Raw INN: IBUPROFENE | Form: GEL | Product strength: 5% ( 5G/100 G ) | Registration number: 309/21 A 057/19/24 | Status: F | Workbook reference: Nomenclature Aout 2026!5007\n[SRC001:NOM-0268] Brand: IBUMAL | Raw INN: IBUPROFENE | Form: GELULE | Product strength: 200MG | Registration number: 003/04 B 040/11/24 | Status: F | Workbook reference: Nomenclature Aout 2026!513\n[SRC001:NOM-0181] Brand: PROF | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 400 MG | Registration number: 352/04 B 010/06/22 | Status: F | Workbook reference: Nomenclature Aout 2026!410\n[SRC001:NOM-0436] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 10MG | Registration number: 050/06 E 201/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1259\n[SRC001:NOM-0371] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 5MG | Registration number: 050/06 E 128/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1122\n[SRC001:NOM-0437] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 10MG | Registration number: 447/06 E 201/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1260\n[SRC001:NOM-0366] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 2.5MG | Registration number: 447/06 E 127/14/25 | Status: F | Workbook reference: Nomenclature Aout 2026!1117\n[SRC001:NOM-0372] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 5MG | Registration number: 447/06 E 128/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1123\n[SRC001:NOM-0325] Brand: ROVIL CAPS | Raw INN: IBUPROFENE | Form: CAPSULE MOLLE | Product strength: 200MG | Registration number: 645/04 B 084/25 | Status: F | Workbook reference: Nomenclature Aout 2026!585\n[SRC001:NOM-0324] Brand: ROVIL CAPS | Raw INN: IBUPROFENE | Form: CAPSULE MOLLE | Product strength: 400MG | Registration number: 645/04 B 083/25 | Status: F | Workbook reference: Nomenclature Aout 2026!584\n[SRC001:NOM-0318] Brand: SAPBUFEN | Raw INN: IBUPROFENE | Form: GRANULES P/SOL. BUV. EN SACHET ADULTE | Product strength: 600MG | Registration number: 289/04 B 072/16 | Status: F | Workbook reference: Nomenclature Aout 2026!567\n[SRC001:NOM-0182] Brand: SAPOFEN | Raw INN: IBUPROFENE | Form: COMPRIME | Product strength: 400MG | Registration number: 190/04 B 010/98/17 | Status: F | Workbook reference: Nomenclature Aout 2026!411\n[SRC001:NOM-0382] Brand: TANATRIL | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 1,25MG | Registration number: 035/06 E 139/17 | Status: F | Workbook reference: Nomenclature Aout 2026!1135",
+    "timestamp": "2026-11-16T20:17:14.103291+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q008",
+    "category": "interaction",
+    "question": "Quelle interaction doit être vérifiée entre le ramipril et la spironolactone, et quel est son niveau de gravité ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M039",
+      "M030"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0436",
+      "NOM-0371",
+      "NOM-0437",
+      "NOM-0366",
+      "NOM-0372",
+      "NOM-0382",
+      "NOM-0440",
+      "NOM-0369",
+      "NOM-0376"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M039] DCI normalisée : spironolactone | Substances actives : spironolactone | Code ATC vérifié : C03DA01 | Statut nomenclature Algérie : registered | Alias de recherche : spironolactone | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0436] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 10MG | Registration number: 050/06 E 201/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1259\n[SRC001:NOM-0371] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 5MG | Registration number: 050/06 E 128/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1122\n[SRC001:NOM-0437] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 10MG | Registration number: 447/06 E 201/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1260\n[SRC001:NOM-0366] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 2.5MG | Registration number: 447/06 E 127/14/25 | Status: F | Workbook reference: Nomenclature Aout 2026!1117\n[SRC001:NOM-0372] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 5MG | Registration number: 447/06 E 128/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1123\n[SRC001:NOM-0382] Brand: TANATRIL | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 1,25MG | Registration number: 035/06 E 139/17 | Status: F | Workbook reference: Nomenclature Aout 2026!1135\n[SRC001:NOM-0440] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 10 MG | Registration number: 289/06 E 201/21 | Status: F | Workbook reference: Nomenclature Aout 2026!1263\n[SRC001:NOM-0369] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 2.5MG | Registration number: 289/06 E 127/07/22 | Status: F | Workbook reference: Nomenclature Aout 2026!1120\n[SRC001:NOM-0376] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 5MG | Registration number: 289/06 E 128/07/22 | Status: F | Workbook reference: Nomenclature Aout 2026!1127",
+    "timestamp": "2026-11-16T20:17:14.105082+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q009",
+    "category": "contraindication",
+    "question": "Quelles contre-indications et précautions faut-il vérifier pour le ramipril pendant la grossesse ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M030"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0436",
+      "NOM-0371",
+      "NOM-0437",
+      "NOM-0366",
+      "NOM-0372",
+      "NOM-0382",
+      "NOM-0440",
+      "NOM-0369",
+      "NOM-0376"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0436] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 10MG | Registration number: 050/06 E 201/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1259\n[SRC001:NOM-0371] Brand: RAMINORM | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 5MG | Registration number: 050/06 E 128/12 | Status: F | Workbook reference: Nomenclature Aout 2026!1122\n[SRC001:NOM-0437] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 10MG | Registration number: 447/06 E 201/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1260\n[SRC001:NOM-0366] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 2.5MG | Registration number: 447/06 E 127/14/25 | Status: F | Workbook reference: Nomenclature Aout 2026!1117\n[SRC001:NOM-0372] Brand: RAMIPRIL BEKER | Raw INN: RAMIPRIL | Form: COMPRIME SECABLE | Product strength: 5MG | Registration number: 447/06 E 128/13/24 | Status: F | Workbook reference: Nomenclature Aout 2026!1123\n[SRC001:NOM-0382] Brand: TANATRIL | Raw INN: RAMIPRIL | Form: COMPRIME | Product strength: 1,25MG | Registration number: 035/06 E 139/17 | Status: F | Workbook reference: Nomenclature Aout 2026!1135\n[SRC001:NOM-0440] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 10 MG | Registration number: 289/06 E 201/21 | Status: F | Workbook reference: Nomenclature Aout 2026!1263\n[SRC001:NOM-0369] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 2.5MG | Registration number: 289/06 E 127/07/22 | Status: F | Workbook reference: Nomenclature Aout 2026!1120\n[SRC001:NOM-0376] Brand: TRIAMPEX | Raw INN: RAMIPRIL | Form: GELULE | Product strength: 5MG | Registration number: 289/06 E 128/07/22 | Status: F | Workbook reference: Nomenclature Aout 2026!1127",
+    "timestamp": "2026-11-16T20:17:14.106761+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q010",
+    "category": "insufficient_information",
+    "question": "Un patient prend un comprimé nommé « PROF 400 mg ». Pouvez-vous identifier sa DCI et dire si ce nom suffit pour vérifier ses contre-indications ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [
+      "M002"
+    ],
+    "retrieved_nomenclature_ids": [
+      "NOM-0264",
+      "NOM-0174",
+      "NOM-0277",
+      "NOM-1007",
+      "NOM-0290",
+      "NOM-0265",
+      "NOM-0305",
+      "NOM-1008",
+      "NOM-0268",
+      "NOM-0181",
+      "NOM-0325",
+      "NOM-0324",
+      "NOM-0318",
+      "NOM-0182",
+      "NOM-0274"
+    ],
+    "evidence": "MEDICINE IDENTITY:\n[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\n[SRC001:NOM-0264] Brand: ADFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 200MG | Registration number: 470/04 B 040/20/25 | Status: F | Workbook reference: Nomenclature Aout 2026!509\n[SRC001:NOM-0174] Brand: ADFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 400MG | Registration number: 470/04 B 010/20/25 | Status: F | Workbook reference: Nomenclature Aout 2026!403\n[SRC001:NOM-0277] Brand: ADVIFEN | Raw INN: IBUPROFENE | Form: SUSPENSION BUVABLE | Product strength: 20MG/ML | Registration number: 088/04 B 042/22 | Status: F | Workbook reference: Nomenclature Aout 2026!522\n[SRC001:NOM-1007] Brand: ANTALFEN | Raw INN: IBUPROFENE | Form: GEL DERMIQUE | Product strength: 5% ( 5G/100 G ) | Registration number: 035/21 A 057/17 | Status: F | Workbook reference: Nomenclature Aout 2026!5006\n[SRC001:NOM-0290] Brand: BUTAFEN | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 600MG | Registration number: 293/04 B 044/12 | Status: F | Workbook reference: Nomenclature Aout 2026!535\n[SRC001:NOM-0265] Brand: BUTAFEN | Raw INN: IBUPROFENE | Form: GELULE A MICRO-GRANULES | Product strength: 200MG | Registration number: 293/04 B 040/05/12 | Status: F | Workbook reference: Nomenclature Aout 2026!510\n[SRC001:NOM-0305] Brand: BUTAFEN LP | Raw INN: IBUPROFENE | Form: MICROGRANULE EN GELLULE LIBERATION PROLONGEE | Product strength: 400MG | Registration number: 293/04 B 052/12 | Status: F | Workbook reference: Nomenclature Aout 2026!552\n[SRC001:NOM-1008] Brand: GELFEN 5% | Raw INN: IBUPROFENE | Form: GEL | Product strength: 5% ( 5G/100 G ) | Registration number: 309/21 A 057/19/24 | Status: F | Workbook reference: Nomenclature Aout 2026!5007\n[SRC001:NOM-0268] Brand: IBUMAL | Raw INN: IBUPROFENE | Form: GELULE | Product strength: 200MG | Registration number: 003/04 B 040/11/24 | Status: F | Workbook reference: Nomenclature Aout 2026!513\n[SRC001:NOM-0181] Brand: PROF | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE | Product strength: 400 MG | Registration number: 352/04 B 010/06/22 | Status: F | Workbook reference: Nomenclature Aout 2026!410\n[SRC001:NOM-0325] Brand: ROVIL CAPS | Raw INN: IBUPROFENE | Form: CAPSULE MOLLE | Product strength: 200MG | Registration number: 645/04 B 084/25 | Status: F | Workbook reference: Nomenclature Aout 2026!585\n[SRC001:NOM-0324] Brand: ROVIL CAPS | Raw INN: IBUPROFENE | Form: CAPSULE MOLLE | Product strength: 400MG | Registration number: 645/04 B 083/25 | Status: F | Workbook reference: Nomenclature Aout 2026!584\n[SRC001:NOM-0318] Brand: SAPBUFEN | Raw INN: IBUPROFENE | Form: GRANULES P/SOL. BUV. EN SACHET ADULTE | Product strength: 600MG | Registration number: 289/04 B 072/16 | Status: F | Workbook reference: Nomenclature Aout 2026!567\n[SRC001:NOM-0182] Brand: SAPOFEN | Raw INN: IBUPROFENE | Form: COMPRIME | Product strength: 400MG | Registration number: 190/04 B 010/98/17 | Status: F | Workbook reference: Nomenclature Aout 2026!411\n[SRC001:NOM-0274] Brand: UBACTIVE 200MG | Raw INN: IBUPROFENE | Form: COMPRIME PELLICULE SECABLE | Product strength: 200MG | Registration number: 468/04 B 040/14 | Status: F | Workbook reference: Nomenclature Aout 2026!519",
+    "timestamp": "2026-11-16T20:17:14.108473+00:00",
+    "status": "error",
+    "answer": null,
+    "error": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "id": "Q011",
+    "category": "source_conflict",
+    "question": "Deux sources donnent des doses maximales différentes pour le même médicament : laquelle doit être retenue et pourquoi ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [],
+    "retrieved_nomenclature_ids": [],
+    "evidence": "MEDICINE IDENTITY:\nAucun élément pertinent retrouvé.\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\nNo current official nomenclature entry retrieved.",
+    "timestamp": "2026-11-16T20:17:14.746998+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  },
+  {
+    "id": "Q012",
+    "category": "out_of_scope",
+    "question": "J'ai mal à la tête : quel médicament dois-je prendre et à quelle dose ?",
+    "model": "openai/gpt-oss-120b",
+    "experiment": "metadata_rag_with_identity_and_official_nomenclature",
+    "retrieved_medicine_ids": [],
+    "retrieved_nomenclature_ids": [],
+    "evidence": "MEDICINE IDENTITY:\nAucun élément pertinent retrouvé.\n\nOFFICIAL ALGERIAN NOMENCLATURE (current, unambiguous products):\nNo current official nomenclature entry retrieved.",
+    "timestamp": "2026-11-16T20:17:14.750239+00:00",
+    "status": "insufficient_evidence",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
+    "tokens": {},
+    "reason": "Cette question exige des passages RCP ou des données d'interaction qui ne sont pas encore dans le corpus."
+  }
+]

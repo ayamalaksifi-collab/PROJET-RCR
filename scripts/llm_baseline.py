@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-PROJECT_DIR = Path(__file__).resolve().parent
-RESULTS_FILE = PROJECT_DIR / "baseline_results.json"
+PROJECT_DIR = Path(__file__).resolve().parent.parent
+RESULTS_FILE = PROJECT_DIR / "results" / "baseline_results.json"
 URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "openai/gpt-oss-120b"
 
