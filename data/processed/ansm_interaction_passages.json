@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1",
+  "purpose": "Validated, medicine-pair-specific passages extracted from the ANSM interaction thesaurus. Only exact source text with a verified page/reference may be added.",
+  "source": {
+    "source_id": "SRC003",
+    "source_file": "data/raw/ansm_thesaurus_interactions_september_2023.pdf",
+    "title": "Thésaurus des interactions médicamenteuses — septembre 2023",
+    "authority_rank": 3,
+    "country": "France",
+    "collection_date": "2026-11-19"
+  },
+  "extraction_status": "not_started",
+  "records": [],
+  "record_template": {
+    "passage_id": "ANSM-0001",
+    "medicine_ids": ["M002", "M030"],
+    "medicine_names": ["ibuprofène", "ramipril"],
+    "interaction_level": null,
+    "page_number": null,
+    "section_reference": null,
+    "text": null,
+    "verification_status": "pending_manual_verification",
+    "source_id": "SRC003"
+  }
+}

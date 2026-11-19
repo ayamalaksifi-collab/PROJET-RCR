@@ -50,7 +50,7 @@ def main() -> None:
             f"## {question_id} — {left['question']}",
             "",
             f"- **Metadata only** (`{displayed_status(left)}`): {compact(left.get('answer'))}",
-            f"- **Metadata + nomenclature** (`{displayed_status(right)}`): {compact(right.get('answer'))}",
+            f"- **Selective nomenclature RAG** (`{displayed_status(right)}`, `{right.get('evidence_mode', 'unknown')}`): {compact(right.get('answer'))}",
             f"- **Nomenclature rows retrieved**: {len(right.get('retrieved_nomenclature_ids', []))}",
             "",
         ])

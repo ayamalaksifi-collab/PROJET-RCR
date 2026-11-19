@@ -43,6 +43,11 @@ UNSUPPORTED_METADATA_CATEGORIES = {
     "out_of_scope",
 }
 
+# The nomenclature is evidence about registered products (form, labelled
+# presentation dosage, brand, registration). It is not useful for every type
+# of question and should not be sent when identity metadata is sufficient.
+NOMENCLATURE_CATEGORIES = {"availability_algeria"}
+
 
 def normalize(text: str) -> str:
     text = unicodedata.normalize("NFD", text.casefold())
@@ -57,6 +62,7 @@ def retrieve(question: str, records: list[dict], limit: int = 3) -> list[dict]:
     # cannot cause a false medicine match.
     query_tokens = {token for token in query.split() if len(token) >= 4}
     scored = []
+    direct_matches = []
 
     for record in records:
         aliases = record["search_aliases_normalized"]
@@ -71,9 +77,15 @@ def retrieve(question: str, records: list[dict], limit: int = 3) -> list[dict]:
 
         if score >= 5:
             scored.append((score, record))
+            # Prefer a full medicine/alias phrase over a weak shared token.
+            # Example: "paracetamol" should not also retrieve
+            # "paracetamol + codeine".
+            if any(alias and alias in query for alias in searchable):
+                direct_matches.append((score, record))
 
-    scored.sort(key=lambda item: (-item[0], item[1]["medicine_id"]))
-    return [record for _, record in scored[:limit]]
+    selected = direct_matches or scored
+    selected.sort(key=lambda item: (-item[0], item[1]["medicine_id"]))
+    return [record for _, record in selected[:limit]]
 
 
 def evidence_packet(records: list[dict]) -> str:
@@ -119,7 +131,7 @@ def retrieve_nomenclature_records(
         key=lambda record: (
             record["commercial_name_raw"] or "",
             record["pharmaceutical_form_raw"] or "",
-            record["strength_raw"] or "",
+            record["product_presentation_dosage_raw"] or "",
         )
     )
     # For questions about forms/strengths, favour different presentations over
@@ -129,10 +141,10 @@ def retrieve_nomenclature_records(
     for record in current_rows:
         # A numeric cell without a unit may depend on an Excel display format
         # (for example, a percentage). Do not let the model interpret it.
-        strength = (record["strength_raw"] or "").casefold()
+        strength = (record["product_presentation_dosage_raw"] or "").casefold()
         if not re.search(r"mg|\bg\b|ml|%", strength):
             continue
-        presentation = (record["pharmaceutical_form_raw"], record["strength_raw"])
+        presentation = (record["pharmaceutical_form_raw"], record["product_presentation_dosage_raw"])
         if presentation not in seen_presentations:
             selected.append(record)
             seen_presentations.add(presentation)
@@ -149,7 +161,7 @@ def nomenclature_evidence_packet(records: list[dict]) -> str:
             f"Brand: {record['commercial_name_raw']}",
             f"Raw INN: {record['dci_raw']}",
             f"Form: {record['pharmaceutical_form_raw']}",
-            f"Product strength: {record['strength_raw']}",
+            f"Product presentation dosage: {record['product_presentation_dosage_raw']}",
             f"Registration number: {record['registration_number_raw']}",
             f"Status: {record['registration_status_raw']}",
             f"Workbook reference: {record['raw_row_reference']}",
@@ -216,9 +228,12 @@ def main() -> None:
     for item in QUESTIONS:
         retrieved = retrieve(item["question"], records)
         retrieved_medicine_ids = [record["medicine_id"] for record in retrieved]
+        use_nomenclature_for_item = (
+            use_nomenclature and item["category"] in NOMENCLATURE_CATEGORIES
+        )
         retrieved_nomenclature = []
         evidence = "MEDICINE IDENTITY:\n" + evidence_packet(retrieved)
-        if use_nomenclature:
+        if use_nomenclature_for_item:
             retrieved_nomenclature = retrieve_nomenclature_records(
                 set(retrieved_medicine_ids), nomenclature_records
             )
@@ -232,8 +247,13 @@ def main() -> None:
             "model": MODEL,
             "experiment": (
                 "metadata_rag_with_identity_and_official_nomenclature"
-                if use_nomenclature
+                if use_nomenclature_for_item
                 else "metadata_rag_with_cleaned_40_medicine_dataset"
+            ),
+            "evidence_mode": (
+                "identity_plus_nomenclature"
+                if use_nomenclature_for_item
+                else "identity_only"
             ),
             "retrieved_medicine_ids": retrieved_medicine_ids,
             "retrieved_nomenclature_ids": [
@@ -243,9 +263,14 @@ def main() -> None:
             "timestamp": datetime.now(timezone.utc).isoformat(),
         }
         unsupported_categories = set(UNSUPPORTED_METADATA_CATEGORIES)
-        if not use_nomenclature:
+        if not use_nomenclature_for_item:
             unsupported_categories.add("availability_algeria")
-        if item["category"] in unsupported_categories:
+        missing_availability_rows = (
+            use_nomenclature_for_item
+            and item["category"] == "availability_algeria"
+            and not retrieved_nomenclature
+        )
+        if item["category"] in unsupported_categories or missing_availability_rows:
             result.update(
                 {
                     "status": "insufficient_evidence",

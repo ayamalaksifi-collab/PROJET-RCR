@@ -18,6 +18,7 @@ RAW_WORKBOOK = PROJECT_DIR / "data" / "raw" / "clean_NOMENCLATURE.VERSION.AOUT_.
 MEDICINES_FILE = PROJECT_DIR / "data" / "processed" / "medicines_cleaned.json"
 OUTPUT_FILE = PROJECT_DIR / "data" / "processed" / "nomenclature_working.json"
 MANUAL_REVIEWS_FILE = PROJECT_DIR / "data" / "review" / "nomenclature_manual_reviews.json"
+REVIEW_QUEUE_FILE = PROJECT_DIR / "data" / "review" / "nomenclature_review_queue.json"
 
 NS = {"x": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 SHEET_NAMES = ["Nomenclature Aout 2026", "Non Renouvelés ", "Retraits"]
@@ -127,7 +128,7 @@ def main() -> None:
     manual_reviews = {}
     if MANUAL_REVIEWS_FILE.exists():
         manual_reviews = json.loads(MANUAL_REVIEWS_FILE.read_text(encoding="utf-8"))["reviews"]
-    records = []
+    candidate_records = []
 
     for sheet, row_number, row in workbook_sheets(RAW_WORKBOOK):
         dci = value(row, "DENOMINATION COMMUNE INTERNATIONALE")
@@ -135,9 +136,9 @@ def main() -> None:
         matches, match_status = match_row(dci or "", brand or "", dictionary)
         if not matches:
             continue
-        record_id = f"NOM-{len(records) + 1:04d}"
+        record_id = f"NOM-{len(candidate_records) + 1:04d}"
         reviewer_decision = manual_reviews.get(record_id, {})
-        records.append({
+        candidate_records.append({
             "nomenclature_record_id": record_id,
             "worksheet": sheet.strip(),
             "raw_row_number": row_number,
@@ -145,7 +146,9 @@ def main() -> None:
             "commercial_name_raw": brand,
             "dci_raw": dci,
             "pharmaceutical_form_raw": value(row, "FORME"),
-            "strength_raw": value(row, "DOSAGE"),
+            # This is the product's labelled presentation (for example
+            # 500 MG/tablet), not a patient's dose or posology.
+            "product_presentation_dosage_raw": value(row, "DOSAGE"),
             "registration_number_raw": value(row, "N°ENREGISTREMENT"),
             "registration_code_raw": value(row, "CODE"),
             "registration_status_raw": value(row, "STATUT"),
@@ -163,23 +166,40 @@ def main() -> None:
             ),
         })
 
+    approved_records = [
+        record
+        for record in candidate_records
+        if record["match_status"] == "matched" or record["review_status"] == "approved"
+    ]
+    pending_reviews = [
+        record
+        for record in candidate_records
+        if record["match_status"] == "manual_review" and record["review_status"] == "pending"
+    ]
     output = {
         "schema_version": "1.0",
-        "purpose": "Candidate nomenclature entries scoped to the project's 40 medicines. This is not clinical evidence.",
+        "purpose": "Approved nomenclature entries scoped to the project's 40 medicines. This is not clinical evidence.",
         "input_source": {
             "source_id": "SRC001",
             "file": "data/raw/clean_NOMENCLATURE.VERSION.AOUT_.2026- (1).xlsx",
             "read_only": True,
         },
         "created_on": date.today().isoformat(),
-        "matching_policy": "Exact DCI matches are marked matched. Partial aliases, combinations, salt variants, and multi-medicine results are retained and sent to manual review.",
-        "record_count": len(records),
-        "manual_review_count": sum(record["match_status"] == "manual_review" for record in records),
-        "records": records,
+        "matching_policy": "Exact DCI matches are included. Manual-review candidates are excluded unless a reviewer explicitly approves them.",
+        "record_count": len(approved_records),
+        "records": approved_records,
+    }
+    review_queue = {
+        "schema_version": "1.0",
+        "purpose": "Unresolved candidate matches. This file is not read by the RAG.",
+        "created_on": date.today().isoformat(),
+        "record_count": len(pending_reviews),
+        "records": pending_reviews,
     }
     OUTPUT_FILE.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Wrote {len(records)} candidate entries to {OUTPUT_FILE}")
-    print(f"Manual review required: {output['manual_review_count']}")
+    REVIEW_QUEUE_FILE.write_text(json.dumps(review_queue, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Wrote {len(approved_records)} RAG-eligible entries to {OUTPUT_FILE}")
+    print(f"Wrote {len(pending_reviews)} unresolved entries to {REVIEW_QUEUE_FILE}")
 
 
 if __name__ == "__main__":

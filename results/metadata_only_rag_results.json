@@ -10,19 +10,19 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non",
-    "timestamp": "2026-11-16T20:52:26.717358+00:00",
+    "timestamp": "2026-11-17T20:15:13.609333+00:00",
     "status": "success",
-    "answer": "La DCI (Dénomination Commune Internationale) de la spécialité Doliprane est **paracétamol** [ M001 ].",
+    "answer": "La DCI (Dénomination Commune Internationale) de la spécialité Doliprane est : **paracétamol** [M001].",
     "tokens": {
-      "queue_time": 0.088729358,
-      "prompt_tokens": 265,
-      "prompt_time": 0.011736123,
-      "completion_tokens": 89,
-      "completion_time": 0.184971217,
-      "total_tokens": 354,
-      "total_time": 0.19670734,
+      "queue_time": 0.210117722,
+      "prompt_tokens": 287,
+      "prompt_time": 0.016454396,
+      "completion_tokens": 105,
+      "completion_time": 0.221764951,
+      "total_tokens": 392,
+      "total_time": 0.238219347,
       "completion_tokens_details": {
-        "reasoning_tokens": 50
+        "reasoning_tokens": 65
       }
     }
   },
@@ -37,19 +37,19 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M003] DCI normalisée : diclofénac | Substances actives : diclofénac | Code ATC vérifié : M01AB05 | Statut nomenclature Algérie : registered | Alias de recherche : diclofénac, diclofenac, Voltafene | Association : non",
-    "timestamp": "2026-11-16T20:52:28.608680+00:00",
+    "timestamp": "2026-11-17T20:15:14.627207+00:00",
     "status": "success",
-    "answer": "Oui, le médicament Voltafene contient la même substance active que le diclofénac sodique : le diclofénac. [M003]",
+    "answer": "Oui, le médicament Voltafene contient la même substance active que le diclofénac sodique : le diclofénac. [M003]",
     "tokens": {
-      "queue_time": 0.085870433,
-      "prompt_tokens": 267,
-      "prompt_time": 0.013634542,
-      "completion_tokens": 144,
-      "completion_time": 0.301258584,
-      "total_tokens": 411,
-      "total_time": 0.314893126,
+      "queue_time": 0.209382009,
+      "prompt_tokens": 289,
+      "prompt_time": 0.014820015,
+      "completion_tokens": 200,
+      "completion_time": 0.422992552,
+      "total_tokens": 489,
+      "total_time": 0.437812567,
       "completion_tokens_details": {
-        "reasoning_tokens": 103
+        "reasoning_tokens": 159
       }
     }
   },
@@ -60,12 +60,11 @@
     "model": "openai/gpt-oss-120b",
     "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
     "retrieved_medicine_ids": [
-      "M001",
-      "M011"
+      "M001"
     ],
     "retrieved_nomenclature_ids": [],
-    "evidence": "MEDICINE IDENTITY:\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non\n[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.",
-    "timestamp": "2026-11-16T20:52:30.690562+00:00",
+    "evidence": "MEDICINE IDENTITY:\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non",
+    "timestamp": "2026-11-17T20:15:19.855314+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -78,12 +77,11 @@
     "model": "openai/gpt-oss-120b",
     "experiment": "metadata_rag_with_cleaned_40_medicine_dataset",
     "retrieved_medicine_ids": [
-      "M013",
-      "M014"
+      "M013"
     ],
     "retrieved_nomenclature_ids": [],
-    "evidence": "MEDICINE IDENTITY:\n[M013] DCI normalisée : amoxicilline | Substances actives : amoxicilline | Code ATC vérifié : J01CA04 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline | Association : non\n[M014] DCI normalisée : amoxicilline + acide clavulanique | Substances actives : amoxicilline, acide clavulanique | Code ATC vérifié : J01CR02 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline + acide clavulanique, amoxicilline-acide clavulanique, amoxicilline/acide clavulanique, amoxicilline acide clavulanique | Association : oui | Note association : Association de deux substances actives : amoxicilline et acide clavulanique.",
-    "timestamp": "2026-11-16T20:52:30.693512+00:00",
+    "evidence": "MEDICINE IDENTITY:\n[M013] DCI normalisée : amoxicilline | Substances actives : amoxicilline | Code ATC vérifié : J01CA04 | Statut nomenclature Algérie : registered | Alias de recherche : amoxicilline | Association : non",
+    "timestamp": "2026-11-17T20:15:19.856062+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -101,21 +99,22 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M011] DCI normalisée : paracétamol + codéine | Substances actives : paracétamol, codéine | Code ATC vérifié : N02AA59 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol + codéine, paracetamol + codeine, paracétamol-codéine, paracétamol codéine, paracetamol-codeine, paracetamol codeine | Association : oui | Note association : Association de deux substances actives : paracétamol et codéine.\n[M001] DCI normalisée : paracétamol | Substances actives : paracétamol | Code ATC vérifié : N02BE01 | Statut nomenclature Algérie : registered | Alias de recherche : paracétamol, paracetamol, Doliprane | Association : non",
-    "timestamp": "2026-11-16T20:52:30.695675+00:00",
-    "status": "success",
-    "answer": "Non. Le paracétamol seul (M001) et l’association paracétamol‑codéine (M011) sont deux médicaments différents : le premier ne contient qu’une seule substance active (paracétamol), tandis que le second associe le paracétamol à la codéine [M001][M011].",
+    "timestamp": "2026-11-17T20:15:19.856610+00:00",
+    "status": "model_refusal",
+    "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {
-      "queue_time": 0.261967789,
-      "prompt_tokens": 408,
-      "prompt_time": 0.02357692,
-      "completion_tokens": 199,
-      "completion_time": 0.413603857,
-      "total_tokens": 607,
-      "total_time": 0.437180777,
+      "queue_time": 0.209509246,
+      "prompt_tokens": 430,
+      "prompt_time": 0.020884371,
+      "completion_tokens": 148,
+      "completion_time": 0.312186529,
+      "total_tokens": 578,
+      "total_time": 0.3330709,
       "completion_tokens_details": {
-        "reasoning_tokens": 115
+        "reasoning_tokens": 128
       }
-    }
+    },
+    "reason": "The model refused despite the retrieved evidence; review this case during evaluation."
   },
   {
     "id": "Q006",
@@ -128,19 +127,19 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M009] DCI normalisée : célécoxib | Substances actives : célécoxib | Code ATC vérifié : M01AH01 | Statut nomenclature Algérie : registered | Alias de recherche : célécoxib, celecoxib, celexocib | Association : non",
-    "timestamp": "2026-11-16T20:52:32.756541+00:00",
+    "timestamp": "2026-11-17T20:15:20.868570+00:00",
     "status": "success",
-    "answer": "Oui, la mention « CELEXOCIB » correspond très probablement au célécoxib, car cet orthographe figure parmi les alias de recherche associés à la DCI « célécoxib » [ M009 ].",
+    "answer": "Oui, la mention « CELEXOCIB » correspond très probablement au célécoxib, car cet orthographe apparaît parmi les alias de recherche associés à la DCI « célécoxib » dans la nomenclature [M009].",
     "tokens": {
-      "queue_time": 0.089069244,
-      "prompt_tokens": 267,
-      "prompt_time": 0.064215634,
-      "completion_tokens": 99,
-      "completion_time": 0.208468742,
-      "total_tokens": 366,
-      "total_time": 0.272684376,
+      "queue_time": 0.03859987,
+      "prompt_tokens": 289,
+      "prompt_time": 0.015308794,
+      "completion_tokens": 119,
+      "completion_time": 0.250074655,
+      "total_tokens": 408,
+      "total_time": 0.265383449,
       "completion_tokens_details": {
-        "reasoning_tokens": 42
+        "reasoning_tokens": 59
       }
     }
   },
@@ -156,7 +155,7 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
-    "timestamp": "2026-11-16T20:52:34.248879+00:00",
+    "timestamp": "2026-11-17T20:15:22.019553+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -174,7 +173,7 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M039] DCI normalisée : spironolactone | Substances actives : spironolactone | Code ATC vérifié : C03DA01 | Statut nomenclature Algérie : registered | Alias de recherche : spironolactone | Association : non\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
-    "timestamp": "2026-11-16T20:52:34.249669+00:00",
+    "timestamp": "2026-11-17T20:15:22.022418+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -191,7 +190,7 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M030] DCI normalisée : ramipril | Substances actives : ramipril | Code ATC vérifié : C09AA05 | Statut nomenclature Algérie : registered | Alias de recherche : ramipril | Association : non",
-    "timestamp": "2026-11-16T20:52:34.250426+00:00",
+    "timestamp": "2026-11-17T20:15:22.024219+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -208,19 +207,19 @@
     ],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\n[M002] DCI normalisée : ibuprofène | Substances actives : ibuprofène | Code ATC vérifié : M01AE01 | Statut nomenclature Algérie : registered | Alias de recherche : ibuprofène, ibuprofene, PROF | Association : non",
-    "timestamp": "2026-11-16T20:52:34.251312+00:00",
+    "timestamp": "2026-11-17T20:15:22.025519+00:00",
     "status": "success",
-    "answer": "La DCI du comprimé « PROF 400 mg » est l’**ibuprofène** [M002].  \nInformation insuffisante dans le jeu de données fourni.",
+    "answer": "La DCI du comprimé « PROF 400 mg » est : ibuprofène [M002].  \nInformation insuffisante dans le jeu de données fourni.",
     "tokens": {
-      "queue_time": 0.200402839,
-      "prompt_tokens": 281,
-      "prompt_time": 0.011697354,
-      "completion_tokens": 449,
-      "completion_time": 0.940773137,
-      "total_tokens": 730,
-      "total_time": 0.952470491,
+      "queue_time": 0.017706959,
+      "prompt_tokens": 303,
+      "prompt_time": 0.016109632,
+      "completion_tokens": 365,
+      "completion_time": 0.765259251,
+      "total_tokens": 668,
+      "total_time": 0.781368883,
       "completion_tokens_details": {
-        "reasoning_tokens": 399
+        "reasoning_tokens": 317
       }
     }
   },
@@ -233,7 +232,7 @@
     "retrieved_medicine_ids": [],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\nAucun élément pertinent retrouvé.",
-    "timestamp": "2026-11-16T20:52:36.212338+00:00",
+    "timestamp": "2026-11-17T20:15:23.265368+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
@@ -248,7 +247,7 @@
     "retrieved_medicine_ids": [],
     "retrieved_nomenclature_ids": [],
     "evidence": "MEDICINE IDENTITY:\nAucun élément pertinent retrouvé.",
-    "timestamp": "2026-11-16T20:52:36.213555+00:00",
+    "timestamp": "2026-11-17T20:15:23.266158+00:00",
     "status": "insufficient_evidence",
     "answer": "Information insuffisante dans le jeu de données fourni.",
     "tokens": {},
