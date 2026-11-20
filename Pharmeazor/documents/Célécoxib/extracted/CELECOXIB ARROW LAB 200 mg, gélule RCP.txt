@@ -1,0 +1,1110 @@
+--- Page 1 ---
+Dernière mise à jour le 03/11/2026
+CELECOXIB ARROW LAB 200 mg, gélule
+ANSM - Mis à jour le : 22/07/2026
+1. DENOMINATION DU MEDICAMENT
+CELECOXIB ARROW LAB 200 mg, gélule
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Célécoxib............................................................................................................................ 200 mg
+Pour une gélule
+Excipient à effet notoire : chaque gélule contient 42,80 mg de lactose monohydraté.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Gélule.
+Gélule de taille « 2 » de couleur blanche marquée d’un « Y » sur la coiffe et d’un « 200 » sur le corps à
+l’encre dorée, contenant de la poudre blanche à blanchâtre.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+CELECOXIB ARROW LAB est indiqué chez l’adulte dans le soulagement des symptômes dans le
+traitement de l’arthrose, de la polyarthrite rhumatoïde et de la spondylarthrite ankylosante.
+Fiche info Résumé des caractéristiques du produit Notice Bon usage
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 1/25
+
+--- Page 2 ---
+La décision de prescrire un inhibiteur sélectif de la cyclo-oxygénase-2 (COX-2) doit être basée sur
+l’évaluation de l’ensemble des risques spécifiques à chaque patient (voir rubriques 4.3 et 4.4).
+4.2. Posologie et mode d'administration
+Posologie
+En raison de l’augmentation possible des risques cardiovasculaires (CV) du célécoxib en fonction de la
+dose et de la durée de traitement, ce médicament doit être prescrit à la dose minimale journalière
+efficace pendant la période la plus courte possible. La nécessité du traitement symptomatique et son
+efficacité thérapeutique pour le patient devront être réévaluées périodiquement, en particulier chez les
+patients atteints d’arthrose (voir rubriques 4.3, 4.4, 4.8 et 5.1).
+Arthrose
+La dose journalière usuelle recommandée est de 200 mg répartie en une ou deux prises. Chez certains
+patients dont les symptômes sont insuffisamment soulagés, l’augmentation de la dose à 200 mg deux
+fois par jour peut accroître l’efficacité. En l’absence d’amélioration du bénéfice thérapeutique après 2
+semaines, d’autres options thérapeutiques doivent être envisagées.
+Polyarthrite rhumatoïde
+La dose initiale journalière recommandée est de 200 mg répartie en 2 prises.
+Si nécessaire, la dose peut être augmentée ultérieurement à 200 mg deux fois par jour. En l’absence
+d’amélioration du bénéfice thérapeutique après 2 semaines, d’autres options thérapeutiques doivent
+être envisagées.
+Spondylarthrite ankylosante
+La dose journalière recommandée est de 200 mg répartie en une ou deux prises. Pour un petit nombre
+de patients dont les symptômes sont insuffisamment soulagés, l’augmentation de la dose à 400 mg
+répartie en une ou deux prises peut accroître l’efficacité. En l’absence d’amélioration du bénéfice
+thérapeutique après 2 semaines, d’autres options thérapeutiques doivent être envisagées.
+La dose journalière maximale recommandée pour toutes les indications est de 400 mg.
+Populations particulières
+Personnes âgées
+Comme pour tout patient, le traitement sera débuté à 200 mg par jour.
+Si nécessaire, la dose peut être augmentée ultérieurement à 200 mg deux fois par jour. Une attention
+particulière doit être portée aux sujets âgés de poids corporel inférieur à 50 kg (voir rubriques 4.4 et 5.2).
+Population pédiatrique
+Le célécoxib n’est pas indiqué chez l’enfant.
+Métaboliseurs lents du CYP2C9
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 2/25
+
+--- Page 3 ---
+Le risque d’effets indésirables dose-dépendants étant plus élevé, il convient d’administrer avec
+précaution le célécoxib aux patients connus ou suspectés être des métaboliseurs lents du CYP2C9, sur la
+base du génotypage ou des antécédents/expériences antérieurs avec d’autres substrats du CYP2C9. Une
+réduction de la dose, à la moitié de la dose la plus faible recommandée, est à envisager (voir rubrique
+5.2).
+Insuffisance hépatique
+Chez les patients atteints d’insuffisance hépatique modérée avérée avec une albumine sérique comprise
+entre 25 et 35 g/L, le traitement doit être initié à la moitié de la dose recommandée. L’expérience chez
+ce type de patients se limite à celle des patients cirrhotiques (voir rubriques 4.3, 4.4 et 5.2).
+Insuffisance rénale
+L’expérience avec le célécoxib chez les patients atteints d’insuffisance rénale légère à modérée étant
+limitée, ces patients devront être traités avec précaution (voir rubriques 4.3, 4.4 et 5.2).
+Mode d'administration
+Voie orale.
+CELECOXIB ARROW LAB peut être pris pendant ou en dehors des repas. Les patients qui ont des
+difficultés à avaler les gélules peuvent ajouter le contenu de la gélule de célécoxib à de la compote de
+pommes, du riz au lait, du yaourt ou de la purée de banane. Pour cela, l’intégralité du contenu de la
+gélule doit être vidé soigneusement dans une cuillère à café rase de compote de pommes, de riz au lait,
+de yaourt ou de purée de banane, froids ou à température ambiante et être ingéré immédiatement avec
+240 mL d’eau. Une fois saupoudré sur la compote de pommes, le riz au lait ou le yaourt, le contenu de la
+gélule reste stable pendant 6 heures placé au réfrigérateur (entre 2 et 8 °C). Si le contenu de la gélule est
+saupoudré sur de la purée de banane, il ne doit pas être mis au réfrigérateur et doit être immédiatement
+ingéré.
+4.3. Contre-indications
+ Hypersensibilité à la substance active ou à l'un des excipients mentionnés à la rubrique 6.1.
+ Hypersensibilité connue aux sulfamides.
+ Ulcère peptique évolutif ou saignement gastro-intestinal (GI).
+ Antécédents d'asthme, de rhinite aiguë, de polypes nasaux, d'œdème de Quincke, d'urticaire ou autres
+réactions de type allergique déclenchées par la prise d'acide acétylsalicylique (aspirine) ou d'autres anti-
+inflammatoires non stéroïdiens (AINS), y compris les inhibiteurs de la COX-2.
+ Grossesse et femmes en âge de procréer, en l’absence d’une contraception efficace (voir rubrique 4.6).
+Dans les deux espèces animales étudiées, le célécoxib a entraîné des malformations (voir rubriques 4.6 et
+5.3). Dans l’espèce humaine, le risque au cours de la grossesse n’est pas connu mais ne peut être exclu.
+ Allaitement (voir rubriques 4.6 et 5.3).
+ Insuffisance hépatique sévère (albumine sérique < 25 g/L ou score de Child-Pugh  10).
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 3/25
+
+--- Page 4 ---
+ Patients ayant une clairance de la créatinine estimée < 30 mL/min.
+ Maladie inflammatoire de l’intestin.
+ Insuffisance cardiaque congestive (NYHA II-IV).
+ Cardiopathie ischémique avérée, artériopathie périphérique et/ou antécédent d’accident vasculaire
+cérébral (y compris l’accident ischémique transitoire).
+4.4. Mises en garde spéciales et précautions d'emploi
+Effets gastro-intestinaux (GI)
+Des complications gastro-intestinales hautes et basses (perforations, ulcères ou hémorragies [PUH]), dont
+certaines d’issue fatale, ont été observées chez des patients traités par célécoxib.
+La prudence sera de rigueur chez les patients les plus à risque de développer une complication gastro-
+intestinale avec les AINS :
+ les sujets âgés ;
+ les patients également traités par d'autres AINS, ou par des médicaments anti-plaquettaires (tel que
+l'acide acétylsalicylique), ou par des glucocorticoïdes de façon concomitante ;
+ les patients consommant de l’alcool ;
+ ou les patients ayant des antécédents de maladie gastro-intestinale tels qu'ulcère et hémorragie.
+Il existe une majoration du risque d'effets indésirables gastro-intestinaux (ulcération gastro-intestinale ou
+autres complications gastro-intestinales) lorsque le célécoxib est utilisé en association avec l’acide
+acétylsalicylique (même à de faibles posologies).
+Une différence significative au niveau de la tolérance gastro-intestinale entre l’association inhibiteurs
+sélectifs de la COX-2 et acide acétylsalicylique comparée à l’association AINS et acide acétylsalicylique
+n’a pas été démontrée dans les essais cliniques à long terme (voir rubrique 5.1).
+Utilisation concomitante d’AINS
+L’utilisation concomitante de célécoxib et d’un AINS autre que l’aspirine doit être évitée.
+Effets cardiovasculaires
+En comparaison au placebo, une augmentation du nombre d’événements cardiovasculaires (CV) graves,
+principalement des infarctus du myocarde, a été observée dans une étude au long cours chez les
+patients présentant des polypes adénomateux sporadiques traités par le célécoxib à des doses de 200
+mg deux fois par jour et 400 mg deux fois par jour (voir rubrique 5.1).
+En raison de l’augmentation possible des risques cardiovasculaires du célécoxib en fonction de la dose et
+de la durée du traitement, ce médicament doit être prescrit à la dose minimale journalière efficace
+pendant la période la plus courte possible. Les AINS, y compris les inhibiteurs sélectifs de la COX-2, ont
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 4/25
+
+--- Page 5 ---
+été associés à un risque accru d’événements indésirables cardiovasculaires et thrombotiques lorsqu’ils
+sont pris à long terme. L’ampleur exacte du risque associé à une dose unique n’a pas été déterminée, ni la
+durée exacte du traitement associée à un risque accru.
+La nécessité du traitement symptomatique et son efficacité thérapeutique pour le patient devront être
+réévaluées périodiquement, en particulier chez les patients atteints d’arthrose (voir rubriques 4.2, 4.3, 4.8
+et 5.1).
+Les patients présentant des facteurs de risque significatifs d’événements cardiovasculaires (par exemple,
+hypertension, hyperlipidémie, diabète, tabagisme) devront être traités avec le célécoxib uniquement
+après une évaluation approfondie (voir rubrique 5.1).
+En raison de leur absence d'effets anti-plaquettaires, les inhibiteurs sélectifs de la COX-2 ne peuvent se
+substituer à l'acide acétylsalicylique dans la prévention des maladies cardiovasculaires
+thromboemboliques. Par conséquent, les traitements antiagrégants plaquettaires ne doivent pas être
+arrêtés (voir rubrique 5.1).
+Rétention hydrique et œdèmes
+Comme avec d’autres médicaments connus pour inhiber la synthèse des prostaglandines, une rétention
+hydrique et des œdèmes ont été observés chez des patients traités par le célécoxib. Par conséquent, le
+célécoxib devra être administré avec précaution chez les patients présentant des antécédents
+d’insuffisance cardiaque, de dysfonction ventriculaire gauche ou d’hypertension artérielle et chez les
+patients avec des œdèmes pré-existants quelle qu’en soit l’origine car l’inhibition des prostaglandines
+peut entraîner une détérioration de la fonction rénale et une rétention hydrique. Des précautions seront
+également nécessaires chez les patients traités par des diurétiques ou présentant un risque
+d’hypovolémie.
+Hypertension
+Comme tous les AINS, le célécoxib peut entraîner une hypertension ou aggraver une hypertension
+préexistante, augmentant ainsi l’incidence d’évènements cardiovasculaires. Une surveillance étroite de la
+pression artérielle au début du traitement par célécoxib puis au cours du traitement doit donc être
+effectuée.
+Effets rénaux et hépatiques
+L’existence d’une altération de la fonction rénale ou hépatique, et particulièrement d’un
+dysfonctionnement cardiaque, est plus probable chez les sujets âgés. Par conséquent, une surveillance
+médicale appropriée doit être assurée.
+Les AINS, célécoxib inclus, peuvent être responsables d’une toxicité rénale. Les essais cliniques réalisés
+avec le célécoxib ont montré des effets rénaux similaires à ceux observés avec les AINS comparateurs.
+Les patients les plus à risque de développer une toxicité rénale sont les patients atteints d’insuffisance
+rénale, d’insuffisance cardiaque, de troubles hépatiques, ceux prenant des diurétiques, des inhibiteurs de
+l’enzyme de conversion de l’angiotensine (ECA), des antagonistes des récepteurs de l’angiotensine II, ainsi
+que les sujets âgés (voir rubrique 4.5). Il convient de surveiller étroitement ces patients lorsqu’ils suivent
+un traitement par le célécoxib.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 5/25
+
+--- Page 6 ---
+Quelques cas de réactions hépatiques graves ont été rapportés avec le célécoxib, parmi lesquelles des
+hépatites fulminantes (certaines d'issue fatale), nécroses hépatiques et insuffisances hépatiques
+(certaines d'issue fatale ou nécessitant une greffe du foie). Dans les cas pour lesquels le délai de survenue
+était rapporté, la plupart des réactions hépatiques graves sont apparues dans le mois suivant le début du
+traitement (voir rubrique 4.8).
+Au cours du traitement, des mesures appropriées seront prises et l’arrêt du traitement par célécoxib doit
+être envisagé s’il existe une quelconque détérioration fonctionnelle des organes susmentionnés.
+Inhibition du CYP2D6
+Le célécoxib inhibe le CYP2D6. Même s'il n'est pas un puissant inhibiteur de cette enzyme, une
+diminution de la posologie peut être nécessaire pour les médicaments dont la dose est adaptée pour
+chaque patient et qui sont métabolisés par le CYP2D6 (voir rubrique 4.5).
+Métaboliseurs lents du CYP2C9
+Les patients connus pour être des métaboliseurs lents du CYP2C9 doivent être traités avec précaution
+(voir rubrique 5.2).
+Réactions cutanées et réactions d’hypersensibilité systémique
+Des réactions cutanées graves, dont certaines d’issue fatale, incluant la dermatite exfoliative, le
+syndrome de Stevens-Johnson et la nécrolyse épidermique toxique (syndrome de Lyell), ont été très
+rarement rapportées en association avec l’utilisation de célécoxib (voir rubrique 4.8). Un érythème
+pigmenté fixe (EPF), qui peut se présenter sous la forme d’une variante plus sévère connue sous le nom
+d’érythème pigmenté fixe bulleux généralisé (EPFBG), a également été rapporté en association avec
+l’utilisation de célécoxib (voir rubrique 4.8). De graves réactions d’hypersensibilité (incluant anaphylaxie,
+œdème de Quincke et éruption cutanée d’origine médicamenteuse avec éosinophilie et symptômes
+systémiques (DRESS), ou syndrome d’hypersensibilité) ont été rapportées chez les patients recevant du
+célécoxib (voir rubrique 4.8). Les patients présentant des antécédents d’allergie aux sulfamides ou à tout
+autre médicament peuvent présenter un risque accru de réactions cutanées graves ou d’hypersensibilité
+(voir rubrique 4.3). Les patients semblent être les plus à risque de développer ces réactions au début du
+traitement : la survenue de la réaction apparaît dans la majorité des cas au cours du premier mois de
+traitement. Le célécoxib doit être arrêté dès les premiers signes de rash cutané, de lésions des
+muqueuses ou de tout autre signe d’hypersensibilité.
+Effets généraux
+Le célécoxib peut masquer une fièvre et d'autres signes d'inflammation.
+Utilisation avec des anticoagulants oraux
+Chez des patients traités conjointement par warfarine, des hémorragies graves, dont certaines d’issue
+fatale, ont été rapportées. Un temps de prothrombine (INR) augmenté a été rapporté avec des
+traitements concomitants. Il devra donc être étroitement surveillé chez les patients recevant de la
+warfarine/des anticoagulants oraux de type coumarine, particulièrement lors de l’initiation du traitement
+par célécoxib ou en cas de modification de la posologie de célécoxib (voir rubrique 4.5). L’utilisation
+concomitante d’anticoagulants et d’AINS est susceptible d’augmenter le risque d’hémorragie. La
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 6/25
+
+--- Page 7 ---
+prudence sera de rigueur en cas de co-administration du célécoxib avec la warfarine ou d’autres
+anticoagulants oraux, y compris avec les nouveaux anticoagulants (par exemple : apixaban, dabigatran et
+rivaroxaban).
+Excipients à effet notoire
+Ce médicament contient du lactose. Les patients présentant une intolérance au galactose, un déficit
+total en lactase ou un syndrome de malabsorption du glucose et du galactose (maladies héréditaires
+rares) ne doivent pas prendre ce médicament.
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par gélule, c’est-à-dire qu’il est
+essentiellement « sans sodium ».
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Interactions pharmacodynamiques
+Anticoagulants
+L’activité anti-coagulante devra être contrôlée chez les patients prenant de la warfarine ou des produits
+similaires, particulièrement dans les premiers jours qui suivront l’initiation ou la modification de la
+posologie de célécoxib car ces patients ont un risque augmenté de complications hémorragiques. Pour
+cette raison, la prise d’anticoagulants oraux doit s’accompagner d’une étroite surveillance du taux de
+prothrombine INR des patients, principalement lors des premiers jours suivant l’initiation du traitement
+par célécoxib ou lors d’un changement de la posologie du célécoxib (voir rubrique 4.4). Des hémorragies,
+dont certaines d’issue fatale, associées à un allongement du taux de prothrombine et de l’INR ont été
+observées chez des patients, notamment chez des sujets âgés, recevant de façon concomitante du
+célécoxib et de la warfarine.
+Anti-hypertenseurs
+Les AINS peuvent réduire les effets des médicaments anti-hypertenseurs, dont les IEC, les antagonistes
+des récepteurs de l’angiotensine II, les diurétiques et les bêta-bloquants. Comme pour les AINS, le risque
+d’insuffisance rénale aiguë, généralement réversible, peut être augmenté chez certains patients ayant
+une fonction rénale altérée (par exemple : patients déshydratés, patients prenant des diurétiques ou
+patients âgés) lors de l’association des IEC, des antagonistes des récepteurs de l’angiotensine II, et/ou des
+diurétiques avec les AINS, y compris le célécoxib (voir rubrique 4.4). Par conséquent, cette association
+devra être administrée avec prudence, en particulier chez les sujets âgés. Les patients devront être
+correctement hydratés et la fonction rénale devra être surveillée après l’instauration du traitement
+concomitant, puis de façon périodique.
+Au cours d’une étude clinique effectuée pendant 28 jours sur des patients atteints d’hypertension de
+stade I et II, contrôlée par le lisinopril, l’administration de 200 mg de célécoxib deux fois par jour n’a pas
+entraîné d’augmentation cliniquement significative de la pression artérielle systolique ou diastolique
+moyenne, comparativement au placebo. L’évaluation a été effectuée par surveillance ambulatoire de la
+pression artérielle pendant 24 heures. Parmi les patients traités par 200 mg de célécoxib deux fois par
+jour, 48 % d’entre eux ont été considérés comme non répondeurs au lisinopril lors de la visite clinique
+finale contre 27 % des patients traités par placebo (ont été définis comme non répondeurs, les sujets
+dont la pression artérielle diastolique mesurée au tensiomètre > 90 mmHg ou dont l’augmentation de la
+pression artérielle diastolique était de plus de 10 % comparativement à l’inclusion), cette différence était
+statistiquement significative.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 7/25
+
+--- Page 8 ---
+Ciclosporine et tacrolimus
+L’administration conjointe des AINS avec la ciclosporine ou le tacrolimus peut augmenter la
+néphrotoxicité de la ciclosporine ou du tacrolimus, respectivement. La fonction rénale devra être
+surveillée en cas d’association du célécoxib avec l’un de ces médicaments.
+Acide acétylsalicylique
+Le célécoxib peut être utilisé en association avec une faible dose d’acide acétylsalicylique mais ne peut
+se substituer à l’acide acétylsalicylique dans le cadre de la prévention CV. Dans les études soumises,
+comme avec d’autres AINS, un risque augmenté d’ulcération gastro-intestinale ou d’autres complications
+gastro-intestinales a été mis en évidence lors de l’administration concomitante de faibles doses d’acide
+acétylsalicylique, en comparaison à l’utilisation de célécoxib seul (voir rubrique 5.1).
+Interactions pharmacocinétiques
+Effets du célécoxib sur les autres médicaments
+Inhibition du CYP2D6
+Le célécoxib est un inhibiteur du cytochrome CYP2D6. Les concentrations plasmatiques des
+médicaments substrats de cette enzyme peuvent être augmentées en cas d’association avec le
+célécoxib. Les médicaments métabolisés par le CYP2D6 sont, par exemple, les antidépresseurs
+(tricycliques et inhibiteurs sélectifs de la recapture de la sérotonine), les neuroleptiques, les
+antiarythmiques, etc. La posologie des substrats du CYP2D6 dont la dose est adaptée pour chaque
+patient, pourra être réduite si besoin au début d’un traitement par le célécoxib ou augmentée lors de
+l’arrêt du traitement par le célécoxib.
+L’administration concomitante de 200 mg de célécoxib deux fois par jour a abouti à des concentrations
+plasmatiques multipliées par 2,6 et 1,5 de dextrométhorphane et de métoprolol (substrats du CYP2D6),
+respectivement. Ces augmentations sont dues à l’inhibition du métabolisme des substrats du CYP2D6
+par le célécoxib.
+Inhibition du CYP2C19
+Des études in vitro ont montré que le célécoxib était susceptible d’inhiber le métabolisme catalysé par le
+cytochrome CYP2C19. La significativité clinique de cette observation in vitro n’est pas connue. Les
+médicaments métabolisés par le CYP2C19 sont, par exemple, le diazépam, le citalopram et l’imipramine.
+Méthotrexate
+Chez les patients souffrant de polyarthrite rhumatoïde, le célécoxib n’a pas d’effet statistiquement
+significatif sur les paramètres pharmacocinétiques (clairance plasmatique ou rénale) du méthotrexate
+(aux doses utilisées en rhumatologie). Toutefois, une surveillance adéquate de la toxicité du
+méthotrexate devra être envisagée lors de l’association de ces deux médicaments.
+Lithium
+Chez le sujet sain, l’administration concomitante de 200 mg, deux fois par jour, de célécoxib et 450 mg,
+deux fois par jour, de lithium a entraîné une augmentation moyenne de 16 % du Cmax et de 18 % de l’aire
+sous la courbe (ASC) du lithium. Par conséquent, les patients traités par le lithium devront être
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 8/25
+
+--- Page 9 ---
+étroitement surveillés lors de l’introduction ou de l’arrêt du célécoxib.
+Contraceptifs oraux
+Lors d’une étude d’interactions, le célécoxib n’a pas eu d’effets cliniquement significatifs sur les
+paramètres pharmacocinétiques de contraceptifs oraux (1 mg noréthistérone/35 µ g éthinylestradiol).
+Glibenclamide/tolbutamide
+Le célécoxib n’affecte pas les paramètres pharmacocinétiques du tolbutamide (substrat du CYP2C9) ou
+du glibenclamide de façon cliniquement significative.
+Effet des autres médicaments sur le célécoxib
+Métaboliseurs lents du CYP2C9
+Chez les sujets métaboliseurs lents du CYP2C9, présentant une exposition systémique accrue au
+célécoxib, un traitement concomitant par des inhibiteurs du CYP2C9, tels que le fluconazole, pourrait
+encore accroître l’exposition au célécoxib. Il convient d’éviter de telles associations chez les
+métaboliseurs lents connus du CYP2C9 (voir rubriques 4.2 et 5.2).
+Inhibiteurs et inducteurs du CYP2C9
+Le célécoxib étant principalement métabolisé par le cytochrome CYP2C9, il devra être utilisé à la moitié
+de la dose recommandée chez les patients traités par le fluconazole. L’utilisation concomitante d’une
+dose unique de 200 mg de célécoxib et de 200 mg, une fois par jour, de fluconazole, inhibiteur puissant
+du CYP2C9, a résulté en une augmentation moyenne du Cmax de 60 % et de l’ASC de 130 % du célécoxib.
+L’utilisation concomitante avec des inducteurs du CYP2C9 tels que la rifampicine, la carbamazépine, ou
+les barbituriques peut entraîner une réduction des concentrations plasmatiques du célécoxib.
+Kétoconazole et antiacides
+Il n’a pas été observé de modification des paramètres pharmacocinétiques du célécoxib avec le
+kétoconazole ou les antiacides.
+Population pédiatrique
+Les études d’interaction n’ont été réalisées que chez l’adulte.
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Les études réalisées chez l’animal (rats et lapins) ont mis en évidence une toxicité sur les fonctions de
+reproduction incluant des malformations (voir rubriques 4.3 et 5.3). L’inhibition de la synthèse des
+prostaglandines pourrait avoir un effet délétère sur la grossesse. Des données issues d’études
+épidémiologiques orientent vers une augmentation du risque de fausse-couches spontanées après
+l’utilisation d’inhibiteurs de la synthèse des prostaglandines en début de grossesse. Dans l’espèce
+humaine, le risque au cours de la grossesse est inconnu mais ne peut être exclu.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 9/25
+
+--- Page 10 ---
+Comme les autres médicaments inhibant la synthèse des prostaglandines, le célécoxib peut entraîner
+une inertie utérine et une fermeture prématurée du canal artériel lors du dernier trimestre de la
+grossesse.
+Pendant le deuxième ou le troisième trimestre de la grossesse, les AINS y compris célécoxib peuvent
+provoquer un dysfonctionnement rénal fœtal qui peut se traduire par une réduction du volume du
+liquide amniotique ou un oligoamnios dans les cas graves. De tels effets peuvent apparaître rapidement
+après l’instauration du traitement et sont en général réversibles à l’arrêt du traitement.
+Le célécoxib est contre-indiqué au cours de la grossesse et chez les femmes en âge de procréer (voir
+rubrique 4.3). En cas de découverte d’une grossesse au cours du traitement, le célécoxib devra être
+arrêté.
+Allaitement
+Le célécoxib est excrété dans le lait des rates à des concentrations similaires à celles retrouvées dans le
+plasma. L’administration de célécoxib à un nombre restreint de femmes qui allaitent a mis en évidence
+un très faible passage de célécoxib dans le lait maternel. Les patientes traitées par CELECOXIB ARROW
+LAB ne devront pas allaiter.
+Fertilité
+En raison de leur mécanisme d’action, l’utilisation d’AINS, dont le célécoxib, peut retarder ou empêcher
+la rupture des follicules ovariens, ce qui a été associé à une stérilité réversible chez certaines femmes.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+CELECOXIB ARROW LAB a une influence mineure sur l’aptitude à conduire des véhicules et à utiliser des
+machines. Les patients qui présentent des étourdissements, des vertiges ou une somnolence lors de la
+prise de CELECOXIB ARROW LAB devront s’abstenir de conduire ou d’utiliser des machines.
+4.8. Effets indésirables
+Les effets indésirables listés par classe d’organe et classés par fréquence dans le Tableau 1 correspondent
+aux données présentées dans les sources suivantes :
+ Effets indésirables rapportés à des taux d’incidence supérieurs à 0,01 % et supérieurs à ceux rapportés
+pour le placebo au cours de 12 essais cliniques contrôlés contre placebo et traitement de référence,
+effectués pendant une durée maximale de 12 semaines sur des patients atteints d’arthrose et de
+polyarthrite rhumatoïde traités par des doses quotidiennes de célécoxib de 100 mg à 800 mg. Au cours
+d’études supplémentaires utilisant des comparateurs tels que les AINS non sélectifs, approximativement
+7 400 patients atteints d’arthrose ont été traités par le célécoxib à des doses quotidiennes atteignant
+800 mg, dont environ 2 300 patients ont été traités pendant 1 an ou plus. Les effets indésirables observés
+sous célécoxib au cours de ces études supplémentaires correspondaient à ceux observés chez les
+patients atteints d’arthrose et de polyarthrite rhumatoïde, présentés dans le Tableau 1.
+ Effets indésirables rapportés à des taux supérieurs à ceux du placebo pour les sujets traités par 400 mg
+de célécoxib par jour pendant les essais à long terme, d’une durée maximale de 3 ans, dans la
+prévention des polypes (essais Adenoma Prevention with Celecoxib (APC) et Prevention of Colorectal
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 10/25
+
+--- Page 11 ---
+Sporadic Adenomatous Polyps (PreSAP) ; voir rubrique 5.1, Tolérance cardiovasculaire – Etudes à long
+terme portant sur des patients présentant des polypes adénomateux sporadiques).
+ Effets indésirables spontanément notifiés après la commercialisation du produit sur une période au
+cours de laquelle, d’après les estimations, plus de 70 millions de patients ont été traités par le célécoxib
+(diverses doses, durées et indications). Même si ceux-ci ont été identifiés comme effets issus de rapports
+post-commercialisation, les données de l’essai ont été consultées pour estimer la fréquence. Les
+fréquences reposent sur une méta-analyse cumulative mettant en commun les essais regroupant
+l’exposition de 38 102 patients.
+Tableau 1. Effets indésirables observés au cours d’essais cliniques portant sur le
+célécoxib et pendant la surveillance après la commercialisation (termes
+MedDRA)1,2
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 11/25
+
+--- Page 12 ---
+Fréquence des effets indésirables
+Système classe
+Organe
+Très
+fréquents
+(≥ 1/10)
+Fréquents
+(≥ 1/100 à < 1/10)
+Peu fréquents
+(≥ 1/1 000 à <
+1/100)
+Rares
+(≥ 1/10 000 à < 1/1
+000)
+T
+(
+Infections et
+infestations
+Sinusite, infection des
+voies respiratoires
+supérieures,
+pharyngite, infection
+de l’appareil urinaire
+Affections
+hématologiques
+et du système
+lymphatique
+Anémie Leucopénie, thrombocytopénie P
+Affections du
+système
+immunitaire
+Hypersensibilité
+C
+a
+r
+a
+Troubles du
+métabolisme et
+de la nutrition
+Hyperkaliémie
+Affections
+psychiatriques Insomnie
+Anxiété,
+dépression,
+fatigue
+Etat confusionnel,
+hallucinations4
+Affections du
+système
+nerveux
+Vertiges, hypertonie,
+céphalées4
+Infarctus
+cérébral1,
+paresthésies,
+somnolence
+Ataxie, dysgueusie
+H
+i
+(
+i
+f
+a
+é
+a
+l
+a
+a
+Affections
+oculaires
+Vision floue,
+conjonctivite4
+Hémorragie de
+l’œil4
+O
+l
+r
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 12/25
+
+--- Page 13 ---
+Fréquence des effets indésirables
+Système classe
+Organe
+Très
+fréquents
+(≥ 1/10)
+Fréquents
+(≥ 1/100 à < 1/10)
+Peu fréquents
+(≥ 1/1 000 à <
+1/100)
+Rares
+(≥ 1/10 000 à < 1/1
+000)
+T
+(
+o
+v
+Affections de
+l’oreille et du
+labyrinthe
+Acouphènes,
+hypoacousie1
+Affections
+cardiaques
+Infarctus du
+myocarde1
+Insuffisance
+cardiaque,
+palpitations,
+tachycardie
+Arythmie4
+Affections
+vasculaires
+Hypertension1
+(dont une
+aggravation
+de
+l’hypertension)
+Embolie
+pulmonaire4,
+bouffées
+vasomotrices4
+V
+Affections
+respiratoires,
+thoraciques et
+médiastinales
+Rhinite, toux,
+dyspnée1 Bronchospasme4 Pneumonite4
+Affections
+gastro-
+intestinales
+Nausées4, douleurs
+abdominales,
+diarrhées, dyspepsie,
+flatulences,
+vomissements1,
+dysphagie1
+Constipation,
+gastrite,
+stomatite,
+inflammation
+gastro-
+intestinale (dont
+aggravation de
+l’inflammation
+gastro-
+intestinale),
+éructation
+Hémorragie
+gastro-intestinale4,
+ulcère duodénal,
+ulcère gastrique,
+ulcère
+œsophagien,
+ulcère
+intestinal,ulcère du
+côlon, perforation
+intestinale,
+œsophagite,
+méléna,
+pancréatite,
+colite4
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 13/25
+
+--- Page 14 ---
+Fréquence des effets indésirables
+Système classe
+Organe
+Très
+fréquents
+(≥ 1/10)
+Fréquents
+(≥ 1/100 à < 1/10)
+Peu fréquents
+(≥ 1/1 000 à <
+1/100)
+Rares
+(≥ 1/10 000 à < 1/1
+000)
+T
+(
+Affections
+hépatobiliaires
+Fonction
+hépatique
+anormale,
+enzyme
+hépatique
+augmentée
+(dont
+augmentation
+des ALAT et
+ASAT)
+Hépatite4
+I
+h
+(
+f
+n
+g
+h
+f
+(
+n
+h
+c
+h
+c
+i
+Affections de la
+peau et du tissu
+sous-cutané
+Eruption, prurit (inclus
+un prurit généralisé)
+Urticaire,
+ecchymoses4
+Angio-œdème4,
+alopécie,
+photosensibilité
+D
+e
+é
+p
+s
+S
+n
+é
+t
+m
+a
+e
+s
+(
+p
+e
+a
+(
+d
+b
+Affections
+musculo-
+squelettiques et
+Arthralgie4 Contractures
+musculaires
+(crampes des
+M
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 14/25
+
+--- Page 15 ---
+ALAT : Alanine aminotransférase
+ASAT : Aspartate aminotransférase
+1 Effets indésirables survenus au cours d’études menées dans la prévention des polypes, portant sur des
+sujets traités par 400 mg de célécoxib par jour au cours de deux essais cliniques d’une durée maximale
+de 3 ans (essais APC et PreSAP). Les effets indésirables listés ci-dessus pour les essais de prévention des
+polypes sont uniquement ceux déjà identifiés lors des notifications de pharmacovigilance ou survenus
+plus fréquemment que dans les essais portant sur l’arthrose.
+Fréquence des effets indésirables
+Système classe
+Organe
+Très
+fréquents
+(≥ 1/10)
+Fréquents
+(≥ 1/100 à < 1/10)
+Peu fréquents
+(≥ 1/1 000 à <
+1/100)
+Rares
+(≥ 1/10 000 à < 1/1
+000)
+T
+(
+systémiques membres
+inférieurs)
+Affections du
+rein et des voies
+urinaires
+Créatininémie
+augmentée, urée
+sanguine
+augmentée
+Insuffisance rénale
+aiguë4,
+hyponatrémie4
+N
+i
+s
+n
+g
+à
+Affections des
+organes de
+reproduction et
+du sein
+Troubles
+menstruels4
+Troubles
+généraux et
+anomalies au
+site
+d’administration
+Syndrome pseudo-
+grippal, œdème
+périphérique/rétention
+liquidienne
+Œdème du
+visage, douleur
+thoracique4
+Lésions,
+intoxications et
+complications
+liées aux
+procédures
+Blessure (blessure
+accidentelle)
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 15/25
+
+--- Page 16 ---
+² Par ailleurs, les effets indésirables suivants, précédemment inconnus, sont survenus dans les études
+menées dans la prévention des polypes, portant sur des sujets traités par 400 mg de célécoxib par jour
+au cours de deux essais cliniques d’une durée maximale de 3 ans (essais APC et PreSAP) :
+Fréquents : angine de poitrine, syndrome du côlon irritable, néphrolithiase, augmentation de la
+créatinine sanguine, hyperplasie bénigne de la prostate, prise de poids.
+Peu fréquents : infection par Helicobacter, herpès zostérien, érysipèle, broncho-pneumonie, labyrinthite,
+infection gingivale, lipome, corps flottants du vitré, hémorragie conjonctivale, thrombose veineuse
+profonde, dysphonie, hémorragie hémorroïdale, selles fréquentes, ulcérations buccales, dermatite
+allergique, ganglions, nycturie, hémorragies vaginales, sensibilité des seins, fracture des membres
+inférieurs, augmentation du sodium sanguin.
+3 Les femmes qui souhaitent avoir un enfant sont exclues de toutes les études. Par conséquent, la
+consultation de la base de données d’études pour déterminer la fréquence de cet événement n’était pas
+valable.
+4 Fréquences reposant sur une méta-analyse cumulative mettant en commun les essais regroupant
+l’exposition de 38 102 patients.
+L’évaluation des résultats finaux des essais APC et PreSAP (données poolées des deux essais ; pour les
+résultats des essais individuels, voir rubrique 5.1), pour les patients traités par 400 mg de célécoxib par
+jour pendant 3 ans au maximum a montré une augmentation du nombre d’infarctus du myocarde de 7,6
+évènements pour 1 000 patients (peu fréquent) par rapport au placebo ; il n’a pas été observé
+d’augmentation du nombre d’AVC (types non différenciés) par rapport au placebo.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/.
+4.9. Surdosage
+Il n'existe aucune expérience clinique de surdosage. Des doses uniques jusqu'à 1 200 mg et des doses
+répétées jusqu'à 1 200 mg, deux fois par jour, ont été administrées pendant 9 jours à des sujets sains sans
+provoquer d'effets indésirables cliniquement significatifs. En cas d’éventuel surdosage, une prise en
+charge médicale adaptée est nécessaire, par exemple évacuation du contenu gastrique, surveillance
+clinique et, si nécessaire, un traitement symptomatique. Il est peu probable que la dialyse soit un moyen
+efficace d'élimination du médicament en raison de sa forte liaison aux protéines.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : anti-inflammatoire non stéroïdien, antirhumatismal, AINS, coxibs, code
+ATC : M01AH01.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 16/25
+
+--- Page 17 ---
+Mécanisme d’action
+Le célécoxib est un inhibiteur oral sélectif de la COX-2 aux doses utilisées en clinique (200 mg à 400 mg
+par jour). Aucune inhibition statistiquement significative de la COX-1 évaluée par l’inhibition ex-vivo de la
+formation de thromboxane B2 (TxB2) n’a été observée à ces doses chez des volontaires sains.
+Effets pharmacodynamiques
+La cyclo-oxygénase est responsable de la synthèse des prostaglandines. Deux isoformes, COX-1 et COX-2,
+ont été identifiées. La cyclo-oxygénase-2 (COX-2) est l’isoforme de l’enzyme induite par des stimuli pro-
+inflammatoires et est admise comme étant le principal responsable de la synthèse des médiateurs
+prostanoïdes de la douleur, de l’inflammation et de la fièvre. La COX-2 est également impliquée dans
+l’ovulation, l’implantation et la fermeture du canal artériel, la régulation de la fonction rénale, et
+certaines fonctions du SNC (induction de la fièvre, perception de la douleur et fonction cognitive). Elle
+pourrait également jouer un rôle dans la cicatrisation des ulcères. La COX-2 a été mise en évidence dans
+les tissus autour des ulcères gastriques chez l’Homme mais son implication dans la cicatrisation des
+ulcères n’a pas été établie.
+La différence d'activité anti-plaquettaire entre certains AINS inhibiteurs de la COX-1 et les inhibiteurs
+sélectifs de la COX-2 peut avoir une signification clinique chez les patients à risque de réactions
+thromboemboliques. Les inhibiteurs sélectifs de la COX-2 réduisent la formation de prostacycline
+systémique (et par conséquent, possiblement endothéliale), sans altérer le thromboxane plaquettaire.
+Le célécoxib est un dérivé du pyrazole substitué par deux groupements aryl, analogue chimique d’autres
+sulfamides non-arylaminiques (par exemple thiazides, furosémide) mais il diffère des sulfamides
+arylaminiques (par exemple sulfaméthoxazole et autres antibiotiques sulfamides).
+Un effet dose-dépendant sur la formation de TxB2 a été observé après des doses élevées de célécoxib.
+Cependant, chez des sujets sains et dans des études à faible effectif, à doses multiples avec 600 mg deux
+fois par jour (équivalant au triple de la plus forte posologie recommandée), le célécoxib n'a eu aucun
+effet sur l'agrégation plaquettaire, ni sur le temps de saignement comparativement au placebo.
+Efficacité et sécurité clinique
+Plusieurs essais cliniques confirmant l’efficacité et la sécurité du célécoxib dans le traitement de
+l’arthrose, de la polyarthrite rhumatoïde et de la spondylarthrite ankylosante ont été réalisés. Le
+célécoxib a été évalué pendant 12 semaines dans le traitement de l’inflammation et de la douleur de
+l’arthrose du genou et de la hanche chez environ 4 200 patients lors d’essais contrôlés versus placebo et
+produits de référence. Il a également été évalué pendant 24 semaines dans le traitement de
+l’inflammation et de la douleur de la polyarthrite rhumatoïde chez environ 2 100 patients lors d’essais
+contrôlés versus placebo et produits de référence. Le célécoxib, à la dose journalière de 200 mg à 400
+mg, a soulagé la douleur dans les 24 heures suivant l’administration. Le célécoxib a été évalué pendant 12
+semaines dans le traitement symptomatique de la spondylarthrite ankylosante chez 896 patients lors
+d’essais contrôlés versus placebo et produits de référence. Dans ces essais le célécoxib, aux doses de 100
+mg deux fois par jour, 200 mg une fois par jour, 200 mg deux fois par jour et 400 mg une fois par jour, a
+démontré une amélioration significative de la douleur, de l’indice global de l’activité de la maladie et de
+la fonction dans la spondylarthrite ankylosante.
+Cinq essais contrôlés randomisés en double aveugle, comprenant une endoscopie de la partie haute du
+tractus gastro-intestinal, ont été menés aux doses de 50 à 400 mg, 2 fois par jour, de célécoxib chez
+environ 4 500 patients sans ulcération initiale. Lors d'études endoscopiques sur douze semaines versus
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 17/25
+
+--- Page 18 ---
+naproxène (1 000 mg par jour) et ibuprofène (2 400 mg par jour), le célécoxib (100 à 800 mg par jour)
+était associé à un risque d'ulcères gastroduodénaux significativement moindre.
+Les données obtenues en comparaison avec le diclofénac (150 mg par jour) manquaient de cohérence.
+Dans deux des études réalisées sur 12 semaines, le pourcentage de patients présentant une ulcération
+gastroduodénale détectée par endoscopie n'était pas significativement différent sous placebo, sous
+célécoxib 200 mg deux fois par jour et sous célécoxib 400 mg, deux fois par jour.
+Dans une étude prospective de sécurité à long terme (durée 6 à 15 mois, étude CLASS), 5 800 patients
+arthrosiques et 2 200 patients atteints de polyarthrite rhumatoïde ont reçu du célécoxib à raison de 400
+mg deux fois par jour (soit respectivement quatre fois et deux fois la posologie recommandée pour
+l'arthrose et la polyarthrite rhumatoïde), de l'ibuprofène à raison de 800 mg trois fois par jour ou du
+diclofénac à raison de 75 mg deux fois par jour (chacun aux doses thérapeutiques). Vingt-deux pour cent
+des patients inclus prenaient simultanément de faibles doses d’acide acétylsalicylique ( 325 mg par
+jour), essentiellement en prévention CV. En ce qui concerne le critère principal d’évaluation désigné
+comme étant les ulcères compliqués (définis comme une hémorragie, une perforation ou une occlusion
+gastro-intestinale), le célécoxib n'a pas été significativement différent de l'ibuprofène, ni du diclofénac
+individuellement. Il n'y avait pas non plus de différence statistiquement significative dans le groupe des
+AINS combinés en ce qui concerne les ulcères compliqués (risque relatif 0,77 ; IC à 95 % 0,41 – 1,46 ;
+valeurs basées sur toute la durée de l'étude). Au niveau du critère mixte ulcères compliqués et
+symptomatiques, l'incidence était significativement moindre dans le groupe célécoxib comparé au
+groupe AINS (risque relatif 0,66 ; IC à 95 % 0,45 – 0,97), mais pas entre le célécoxib et le diclofénac. Les
+patients prenant simultanément du célécoxib et de faibles doses d’acide acétylsalicylique ont présenté
+des taux 4 fois supérieurs d'ulcères compliqués par rapport à ceux sous célécoxib seul. L'incidence des
+baisses cliniquement significatives de l'hémoglobine (> 2 g/dL), confirmées par des dosages répétés, était
+significativement moindre chez les patients recevant le célécoxib par rapport au groupe AINS (risque
+relatif 0,29 ; IC à 95 % 0,17 – 0,48). L'incidence significativement moindre de cet événement sous
+célécoxib était maintenue avec ou sans prise d'acide acétylsalicylique.
+Dans une étude de sécurité prospective, randomisée, d’une durée de 24 semaines chez des patients âgés
+de plus de 60 ans ou ayant des antécédents d’ulcères gastroduodénaux (à l’exclusion des patients
+utilisant l’acide acétylsalicylique), le pourcentage de patients ayant présenté une diminution du taux
+d’hémoglobine (> 2 g/dL) et /ou du taux d’hématocrite (> 10 %) d’origine gastro-intestinale suspectée ou
+confirmée, était inférieur chez les patients traités par célécoxib 200 mg deux fois par jour (N=2 238)
+comparativement aux patients traités par diclofénac forme à libération prolongée 75 mg deux fois par
+jour associé à oméprazole 20 mg une fois par jour (N=2 246) (0,2 % versus 1,1 % lorsqu’une origine gastro-
+intestinale était confirmée, p=0,004 ; 0,4 % versus 2,4 % lorsqu’une origine gastro-intestinale était
+suspectée, p=0,0001). Les taux de complications gastro-intestinales avec une manifestation clinique telles
+que perforation, obstruction ou hémorragie, étaient très bas et non différents entre les groupes de
+traitement (4-5 par groupe).
+Tolérance cardiovasculaire – Etudes à long terme portant sur des patients présentant des polypes
+adénomateux sporadiques
+Deux études évaluant le célécoxib chez des sujets présentant des polypes adénomateux sporadiques ont
+été menées : l’essai APC et l’essai PreSAP.
+Dans l’essai APC, une augmentation dose-dépendante du critère composite associant décès d’origine CV,
+infarctus du myocarde (IDM) et Accident Vasculaire Cérébral (AVC) a été observée avec le célécoxib
+comparativement au placebo sur les 3 ans de traitement. L’essai PreSAP n’a pas montré d’augmentation
+statistiquement significative du risque pour le même critère composite.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 18/25
+
+--- Page 19 ---
+Dans l’essai APC, le risque relatif regroupant décès d’origine CV, IDM et AVC (critère composite) était de
+3,4 (IC à 95 % 1,4-8,5) avec 400 mg de célécoxib deux fois par jour et de 2,8 (IC à 95 % 1,1-7,2) avec 200 mg
+de célécoxib deux fois par jour, comparativement au placebo. Les valeurs cumulées pour ce critère
+composite sur une période de 3 ans étaient de 3,0 % (20/671 sujets) et 2,5 % (17/685 sujets),
+respectivement comparé à 0,9 % (6/679 sujets) pour le placebo. Les augmentations observées
+comparativement au placebo pour les deux groupes de dose célécoxib étaient principalement dues à
+une incidence accrue d’infarctus du myocarde.
+Dans l’essai PreSAP, le risque relatif pour ce même critère composite était de 1,2 (IC à 95 % 0,6-2,4) avec
+le célécoxib 400 mg deux fois par jour comparativement au placebo. Les valeurs cumulées pour ce critère
+composite sur une période de 3 ans étaient de 2,3 % (21/933 sujets) et 1,9 % (12/628 sujets)
+respectivement pour le célécoxib et le placebo. L’incidence du nombre d’infarctus du myocarde était de
+1,0 % (9/933 sujets) avec une administration quotidienne de 400 mg de célécoxib et de 0,6 % (4/628
+sujets) avec le placebo.
+Les données d’une troisième étude effectuée à long terme, ADAPT (The Alzheimer's Disease Anti-
+inflammatory Prevention Trial) n’ont pas montré d’augmentation significative du risque CV avec le
+célécoxib 200 mg 2 fois par jour comparativement au placebo. Le risque relatif pour un critère
+composite similaire (décès d’origine CV, infarctus du myocarde, AVC) était de 1,14 (95 % CI 0,61 – 2,15)
+avec 200 mg de célécoxib deux fois par jour comparativement au placebo. L’incidence d’infarctus du
+myocarde était de 1,1 % (8/717 patients) avec 200 mg de célécoxib deux fois par jour et 1,2 % (13/1 070
+patients) avec le placebo.
+Une évaluation prospective randomisée intégrant la sécurité du célécoxib versus l’ibuprofène ou le
+naproxène (Etude PRECISION – Prospective Randomized Evaluation of Celecoxib Integrated Safety versus
+Ibuprofen Or Naproxen)
+L’étude PRECISION est une étude en double aveugle portant sur la sécurité cardiovasculaire chez les
+patients atteints d’arthrose ou de polyarthrite rhumatoïde présentant un risque élevé de maladie
+cardiovasculaire et comparant le célécoxib (200 – 400 mg par jour) au naproxène (750 – 1 000 mg par
+jour) et à l’ibuprofène (1 800 – 2 400 mg par jour). Le critère d’évaluation principal, l’Antiplatelet Trialists
+Collaboration (APTC), était un critère composite évalué indépendamment de décès cardiovasculaire (y
+compris décès hémorragique), d’infarctus du myocarde non fatal ou d’accident vasculaire cérébral non
+fatal. L’étude a été planifiée de façon à disposer d’une puissance de 80 % en vue d’évaluer la non-
+infériorité. De l’ésoméprazole en ouvert (20 – 40 mg) a été prescrit à tous les patients pour la protection
+gastrique. Les patients sous aspirine à faible dose ont été autorisés à poursuivre le traitement ; à
+l’inclusion, près de la moitié des sujets prenaient de l’aspirine. Les critères d’évaluation secondaires et
+tertiaires comprenaient les résultats cardiovasculaires, gastro-intestinaux et rénaux. La dose moyenne
+administrée était de 209 ± 37 mg/jour pour le célécoxib, de 2 045 ± 246 pour l’ibuprofène et de 852 ± 103
+pour le naproxène.
+En ce qui concerne le critère d’évaluation principal, le célécoxib, comparativement au naproxène ou à
+l’ibuprofène, répondait aux quatre critères de non-infériorité préétablis, voir tableau 2.
+Les autres critères d’évaluation secondaires et tertiaires évalués indépendamment comprenaient les
+résultats cardiovasculaires, gastro-intestinaux et rénaux. De plus, une étude de quatre mois portant sur
+les effets des trois médicaments sur la pression artérielle, telle que mesurée par la surveillance
+ambulatoire (ABPM), a été menée.
+Tableau 2. Analyse principale du critère d'évaluation composite APTC évalué
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 19/25
+
+--- Page 20 ---
+HR : Hazard ratio
+Dans l’ensemble, les résultats étaient numériquement similaires dans les groupes célécoxib et
+comparateur pour les critères d’évaluation secondaires et tertiaires et, dans l’ensemble, aucun résultat
+inattendu n’a été observé quant à la sécurité.
+Dans l’ensemble, l’étude PRECISION montre que le célécoxib à la dose approuvée la plus faible de 100
+mg deux fois par jour n’est pas inférieur à l’ibuprofène administré à raison de 600 mg à 800 mg trois fois
+par jour ou au naproxène à raison de 375 mg à 500 mg deux fois par jour en ce qui concerne les effets
+indésirables cardiovasculaires. Les risques cardiovasculaires de la classe des AINS, y compris les coxibs,
+sont dose-dépendants ; par conséquent, les résultats pour le célécoxib à raison de 200 mg par jour sur le
+critère d’évaluation cardiovasculaire composite ne peuvent être extrapolés aux schémas posologiques
+utilisant les doses plus élevées de célécoxib.
+Analyse de la population en intention de traiter
+(ITT – Intent to treat, jusqu’au 30e mois)
+Célécoxib
+100 – 200 mg
+deux fois par jour
+Ibuprofène
+600 – 800 mg
+trois fois par jour
+Naproxène
+375 – 500 mg
+deux fois par jour
+N 8 072 8 040 7 969
+Sujets présentant
+des événements 188 (2,3 %) 218 (2,7 %) 201 (2,5 %)
+Comparaison par
+paires
+Célécoxib
+versus
+naproxène
+Célécoxib
+versus
+ibuprofène
+Ibuprofène
+versus
+naproxène
+HR (IC à 95 %) 0,93 (0,76 ; 1,13) 0,86 (0,70 ; 1,04) 1,08 (0,89 ; 1,31)
+Analyse de la population en intention de traiter modifiée
+(ITTm, sous traitement jusqu’au 43e mois)
+Célécoxib
+100 – 200 mg
+deux fois par jour
+Ibuprofène
+600 – 800 mg
+trois fois par jour
+Naproxène
+375 – 500 mg
+deux fois par jour
+N 8 030 7 990 7 933
+Sujets présentant
+des événements 134 (1,7 %) 155 (1,9 %) 144 (1,8 %)
+Comparaison par
+paires
+Célécoxib
+versus
+naproxène
+Célécoxib
+versus
+ibuprofène
+Ibuprofène
+versus
+naproxène
+HR (IC à 95 %) 0,90 (0,72 ; 1,14) 0,81 (0,64 ; 1,02) 1,12 (0,889 ; 1,40)
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 20/25
+
+--- Page 21 ---
+5.2. Propriétés pharmacocinétiques
+Absorption
+Le célécoxib est bien absorbé, et les concentrations plasmatiques maximales sont atteintes en 2 à 3
+heures environ. La prise avec la nourriture (repas riche en graisses) retarde l’absorption du célécoxib
+d’environ 1 heure aboutissant à un Tmax d’environ 4 heures et augmente la biodisponibilité d’environ 20
+%.
+Chez des volontaires sains adultes, l’exposition systémique globale (ASC) du célécoxib était équivalente
+que le célécoxib soit administré sous forme de gélule intacte ou que le contenu de la gélule soit
+saupoudré sur de la compote de pommes. Il n’y a pas eu de modifications significatives de la Cmax, du
+Tmax ou de la demi-vie après l’administration du contenu de la gélule avec de la compote de pommes.
+Distribution
+La liaison aux protéines plasmatiques est d’environ 97 % aux concentrations plasmatiques
+thérapeutiques, et le médicament n’est pas préférentiellement lié aux érythrocytes.
+Biotransformation
+Le métabolisme du célécoxib utilise principalement le cytochrome P450 2C9. Trois métabolites, inactifs
+en tant qu’inhibiteurs de COX-1 ou de COX-2, ont été identifiés dans le plasma humain : un alcool
+primaire, l’acide carboxylique correspondant et la forme glucuroconjuguée.
+L’activité du cytochrome P450 2C9 est réduite chez les sujets présentant des polymorphismes
+génétiques entraînant une diminution de l’activité enzymatique, tels que ceux qui sont homozygotes
+pour le polymorphisme CYP2C9*3.
+Une étude a évalué la pharmacocinétique du célécoxib administré à la dose de 200 mg une fois par jour
+à des volontaires sains présentant un génotype CYP2C9*1/*1, CYP2C9*1/*3 ou CYP2C9*3/*3. Au cours de
+celle-ci, après 7 jours de traitement, il a été observé une augmentation respective de la Cmax médiane et
+l’ASC0-24 du célécoxib des sujets de génotype CYP2C9*3/*3 de 4 et 7 fois les valeurs des autres sujets. Au
+cours de trois études distinctes d’administration en dose unique, portant sur un total de 5 sujets de
+génotype CYP2C9*3/*3, l’ASC0-24 d’une dose unique a été environ triplée comparativement à celle des
+métaboliseurs normaux. On estime que la fréquence du génotype homozygote *3/*3 est de 0,3-1,0 %
+parmi les différents groupes ethniques.
+Il convient d’administrer avec précaution le célécoxib aux patients connus ou suspectés d’être des
+métaboliseurs lents du CYP2C9 d’après des antécédents/expériences antérieures avec d’autres substrats
+du CYP2C9 (voir rubrique 4.2).
+Il n'a pas été trouvé de différences cliniquement significatives des paramètres pharmacocinétiques du
+célécoxib entre les sujets âgés afro-américains et caucasiens.
+La concentration plasmatique de célécoxib est augmentée d’environ 100 % chez les femmes âgées (> 65
+ans).
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 21/25
+
+--- Page 22 ---
+Comparés aux sujets avec une fonction hépatique normale, les patients avec une insuffisance hépatique
+légère présentaient une augmentation moyenne de 53 % de la Cmax et de 26 % de l’ASC pour le
+célécoxib. Les valeurs correspondantes chez les patients avec une insuffisance hépatique modérée
+étaient respectivement de 41 % et 146 %. Chez les patients présentant une insuffisance légère à
+modérée, la capacité métabolique était bien corrélée à leur taux d’albumine sérique. Le traitement devra
+être initié à la moitié de la dose recommandée chez les patients présentant une insuffisance hépatique
+modérée (albumine sérique comprise entre 25-35 g/L). Les patients présentant une insuffisance
+hépatique sévère (albumine sérique < 25 g/L) n’ayant pas été étudiés, le célécoxib est contre-indiqué
+chez ce type de patients.
+Il y a peu de données sur l’utilisation du célécoxib dans l’insuffisance rénale. La pharmacocinétique du
+célécoxib n’a pas été étudiée chez des patients présentant une insuffisance rénale mais ne devrait pas
+être modifiée de façon notable chez ces patients. En conséquence, la prudence est recommandée lors
+du traitement de patients présentant une insuffisance rénale. L’insuffisance rénale sévère constitue une
+contre-indication.
+Elimination
+Le célécoxib est principalement éliminé par métabolisation. Moins de 1 % de la dose est excrétée sous
+forme inchangée dans les urines. La variabilité interindividuelle à l’exposition au célécoxib est d’environ
+d’un facteur 10.
+Aux posologies thérapeutiques, le célécoxib présente un profil pharmacocinétique indépendant du
+temps et de la dose. La demi-vie d’élimination est de 8 à 12 heures. Les concentrations plasmatiques à
+l’état d’équilibre sont atteintes au bout de 5 jours de traitement.
+5.3. Données de sécurité préclinique
+Les données de sécurité non cliniques issues des études conventionnelles de toxicologie en
+administration répétée, de mutagénicité ou de carcinogénicité n’ont pas révélé de risque particulier pour
+l’homme en plus de ceux mentionnés en rubriques 4.4, 4.6 et 5.1 du RCP.
+A des doses orales  150 mg/kg/jour (environ 2 fois l'exposition humaine telle que mesurée par l'ASC0-24 à
+200 mg deux fois par jour), le célécoxib a entraîné une augmentation de l'incidence des communications
+interventriculaires, un événement rare, et des anomalies fœtales telles que des fusions de vertèbres, des
+fusions de sternèbres et des malformations des sternèbres chez les lapins traités pendant toute la durée
+de l'organogenèse. Une augmentation dose-dépendante des hernies diaphragmatiques a été observée
+quand les rats recevaient du célécoxib à des doses orales  30 mg/kg/jour (environ 6 fois l'exposition
+humaine telle que mesurée par l'ASC0-24 à 200 mg deux fois par jour) pendant toute la durée de
+l'organogenèse. Ces effets sont attendus suite à l'inhibition de la synthèse des prostaglandines. Chez le
+rat, l’exposition au célécoxib pendant les phases précoces du développement embryonnaire a provoqué
+des pertes pré et post implantatoires, ainsi qu'une diminution de la survie embryofœtale.
+Le célécoxib est excrété dans le lait des rates. Lors d’une étude de péri et post natalité chez le rat, une
+toxicité a été observée chez les petits.
+Au cours d’une étude de toxicité de 2 ans, une augmentation des thromboses non surrénaliennes a été
+observée à des doses élevées chez le rat mâle.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 22/25
+
+--- Page 23 ---
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Contenu de la gélule : lactose monohydraté, hyprolose, crospovidone, laurylsulfate de sodium, povidone,
+fumarate de stéaryle sodique.
+Enveloppe de la gélule : dioxyde de titane (E171), gélatine.
+Encre : gomme laque (E904), oxyde de fer jaune (E172).
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans.
+6.4. Précautions particulières de conservation
+A conserver à une température ne dépassant pas 30°C.
+6.5. Nature et contenu de l'emballage extérieur
+30, 50, 90 ou 100 gélules sous plaquette (PVC/Aluminium).
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d’exigences particulières.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+ARROW GENERIQUES
+26 AVENUE TONY GARNIER
+69007 LYON
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+ 34009 301 017 7 3 : 30 gélules sous plaquette (PVC/Aluminium).
+ 34009 550 358 4 8 : 50 gélules sous plaquette (PVC/Aluminium).
+ 34009 550 358 6 2 : 90 gélules sous plaquette (PVC/Aluminium).
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 23/25
+
+--- Page 24 ---
+ 34009 550 358 7 9 : 100 gélules sous plaquette (PVC/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 24/25
+
+--- Page 25 ---
+legifrance.gouv.fr gouvernement.fr service-public.fr data.gouv.fr
+Nos partenaires
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
+MINISTÈRE
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+ET DES FAMILLES
+19/11/2026 23:29 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/64306579/extrait#tab-rcp 25/25

@@ -1,0 +1,782 @@
+--- Page 1 ---
+Dernière mise à jour le 03/11/2026
+PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM)
+ANSM - Mis à jour le : 16/09/2024
+1. DENOMINATION DU MEDICAMENT
+PIROXICAM TEVA 20 mg/ 1 ml, solution injectable (IM)
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Piroxicam.............................................................................................................................. 20 mg
+Pour une ampoule de 1 ml
+Excipients à effet notoire : Chaque ml de solution contient 20 mg d’alcool benzylique, 553 mg de
+propylène glycol et 100 mg d’alcool (éthanol).
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Solution injectable (IM)
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Le piroxicam est indiqué dans le traitement symptomatique de courte durée de la polyarthrite
+rhumatoïde ou la spondylarthrite ankylosante. En raison de son profil de tolérance (voir rubriques 4.2, 4.3
+et 4.4), le piroxicam ne doit pas être utilisé en traitement de première intention lorsqu’un traitement par
+AINS est indiqué.
+Fiche info Résumé des caractéristiques du produit Notice Bon usage
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 1/22
+
+--- Page 2 ---
+La décision de prescrire une spécialité contenant du piroxicam doit être basée sur l’évaluation de
+l’ensemble des risques spécifiques à chaque patient (voir rubriques 4.3 et 4.4).
+4.2. Posologie et mode d'administration
+Voie intra-musculaire.
+Posologie
+La prescription de spécialités contenant du piroxicam doit être initiée par des médecins expérimentés
+dans le diagnostic et le traitement de patients atteints de maladies rhumatismales inflammatoires ou
+dégénératives.
+La dose journalière maximale recommandée est de 20 mg (une ampoule).
+La survenue d’effets indésirables peut être minimisée par l’utilisation de la dose nécessaire au
+soulagement des symptômes la plus faible possible pendant la durée de traitement la plus courte. Le
+bénéfice et la sécurité d’emploi du traitement doivent être réévalués dans les 14 jours.
+Si la poursuite du traitement s’avère nécessaire, ce dernier devra être accompagné de réévaluations
+fréquentes (voir rubrique Mises en garde spéciales et précautions d'emploi).
+Dans la mesure où le piroxicam a été associé à une augmentation du risque de complications gastro-
+intestinales, la possibilité de recourir à un traitement protecteur de la muqueuse gastrique (par ex.,
+misoprostol ou inhibiteurs de la pompe à protons) doit être sérieusement envisagée, en particulier pour
+les patients âgés.
+Fréquence d'administration
+La durée du traitement est de 2 à 3 jours (ce délai permettant si nécessaire la mise en œuvre du relais
+thérapeutique par voie orale ou rectale).
+Le piroxicam injectable n’est administré que lorsque la voie orale ou rectale ne peuvent être utilisées.
+Métaboliseurs lents du CYP2C9
+Le risque d'effets indésirables dose-dépendants étant plus élevé, il convient d'administrer avec
+précaution le piroxicam aux patients connus ou suspectés être des métaboliseurs lents du CYP2C9, sur la
+base du génotypage ou des antécédents/expériences antérieures avec d'autres substrats du CYP2C9.
+Une réduction de la dose est à envisager (voir rubrique 5.2).
+Mode d’administration
+Cette spécialité peut être injectée, soit avec une seringue en verre, soit avec une seringue
+(polypropylène) à usage unique.
+Les injections doivent être faites de façon rigoureusement aseptique dans la partie externe du quadrant
+supéro-externe de la fesse, profondément et lentement. Lorsqu’elles sont répétées, il est recommandé
+de changer de côté à chaque injection. Il est important d’aspirer avant injecter, afin de s’assurer que la
+pointe de l’aiguille n’est pas dans un vaisseau.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 2/22
+
+--- Page 3 ---
+En cas de fortes douleurs au moment de l’injection, arrêter celle-ci immédiatement.
+En cas de prothèse de hanche, l’injection doit être faite du côté opposé.
+4.3. Contre-indications
+Ce médicament est contre-indiqué dans les situations suivantes :
+ hypersensibilité à la substance active ou à l'un des excipients, mentionnés à la rubrique 6.1 ;
+ antécédents de réaction cutanée (quelle qu’en soit la sévérité) au piroxicam, à d’autres AINS et autres
+médicaments,
+ antécédents d’allergie ou d’asthme déclenché, de polypes nasaux ou de rhinites déclenchés par la prise
+de piroxicam ou de substances d’activité proche telles qu’autres AINS, aspirine,
+ antécédents de réactions médicamenteuses allergiques graves de tout type, en particulier réactions
+cutanées telles qu’érythème polymorphe, syndrome de Stevens-Johnson, nécrolyse épidermique toxique
+(syndrome de Lyell),
+ utilisation concomitante d’acitrétine, d’autres AINS, y compris AINS sélectifs de la COX-2 et acide
+acétylsalicylique, à doses analgésiques,
+ antécédents d’ulcère, d’hémorragie ou de perforation gastro-intestinale,
+ patients présentant des antécédents de troubles gastro-intestinaux prédisposant à des troubles
+hémorragiques tels que rectocolite hémorragique, maladie de Crohn, cancers gastro-intestinaux ou
+diverticulite,
+ patients présentant un ulcère peptique évolutif, un trouble gastro-intestinal inflammatoire ou une
+hémorragie gastro-intestinale,
+ insuffisance hépato-cellulaire sévère,
+ insuffisance cardiaque sévère,
+ insuffisance rénale sévère,
+ enfants de moins de 15 ans,
+ troubles de l’hémostase ou traitement anticoagulant en cours (contre-indication liée à la voie intra-
+musculaire).
+ chez les prématurés et les nouveau-nés à terme, en raison de la présence d'alcool benzylique,
+ pontage aorto-coronarien,
+ en association au mifamurite (voir rubrique 4.5).
+ grossesse, à partir du début du 6ème mois (24 semaines d’aménorrhée) (voir rubrique 4.6),
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 3/22
+
+--- Page 4 ---
+4.4. Mises en garde spéciales et précautions d'emploi
+Risque de mort fœtale
+PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM) expose à un risque de mort fœtale même après
+une seule prise en raison de sa toxicité cardio-pulmonaire (constriction du canal artériel et de la
+survenue d’un oligoamnios voir rubrique 4.3).
+Effets chez l’enfant à naitre
+PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM) expose également le nouveau-né à un risque
+d’atteinte rénale (insuffisance rénale), de fermeture prématurée du canal artériel et d’hypertension
+pulmonaire. Voir rubrique 4.6).
+PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM) est contre-indiqué chez la femme enceinte à
+partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée).
+En cas de grossesse planifiée ou au cours des 5 premiers mois (avant 24 semaines d'aménorrhée),
+PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM) ne doit être prescrit qu’en cas de nécessité
+absolue.
+Mises en garde spéciales
+L’utilisation concomitante de piroxicam avec d’autres AINS, y compris les inhibiteurs sélectifs de la
+cyclooxygénase 2 (COX-2), doit être évitée.
+La survenue d’effets indésirables peut être minimisée par l’utilisation de la dose la plus faible possible
+pendant la durée de traitement la plus courte nécessaire au soulagement des symptômes (voir rubrique
+4.2 et les paragraphes «Manifestations gastro-intestinales» et «Effets cardiovasculaires et
+cérébrovasculaires» ci-dessous).
+Le bénéfice clinique et la sécurité d’emploi doivent faire l’objet d’une réévaluation périodique. Le
+traitement devra être immédiatement arrêté dès les premiers signes de réactions cutanées ou
+d’événements gastro-intestinaux symptomatiques.
+Les patients présentant un asthme associé à une rhinite chronique, à une sinusite chronique et/ou à une
+polypose nasale, ont un risque de manifestation allergique lors de la prise d'aspirine et/ou d'anti-
+inflammatoires non stéroïdiens plus élevé que le reste de la population.
+L'administration de ce médicament peut entraîner une crise d'asthme, notamment chez certains sujets
+allergiques à l’aspirine ou à un AINS (voir rubrique 4.3).
+Manifestations gastro-intestinales (GI) : risque d’ulcères, d’hémorragies et de perforations GI.
+Les AINS, y compris le piroxicam, peuvent provoquer des effets indésirables gastro-intestinaux graves
+notamment des hémorragies, ulcérations et perforations de l’estomac, de l’intestin grêle ou du gros intestin,
+certaines d’entre elles pouvant être fatales. L'administration de doses supérieures à 20 mg par jour
+augmente le risque d'effets indésirables gastro-intestinaux. Les études observationnelles suggèrent que le
+piroxicam peut être associé à un risque élevé de toxicité gastro-intestinale grave par rapport à d'autres
+AINS. Ces événements indésirables graves peuvent se produire à tout moment, sans qu’il y ait eu
+nécessairement de signes d’alerte, chez tous les patients traités par des AINS.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 4/22
+
+--- Page 5 ---
+Qu’il soit de courte ou de longue durée, tout traitement par AINS entraîne une augmentation du risque
+d’effets indésirables GI graves.
+Les patients présentant des facteurs de risque pour les effets indésirables GI graves ne doivent être
+traités par piroxicam qu’après une évaluation attentive du rapport bénéfice / risque (voir rubrique 4.3 et
+ci-dessous).
+La possibilité de recourir à un traitement protecteur de la muqueuse gastrique (par ex., misoprostol ou
+inhibiteurs de la pompe à protons) doit être sérieusement envisagée (voir rubrique 4.2).
+Complications GI graves
+Identification des sujets à risque
+L’incidence des complications GI graves augmente avec l’âge. Au-delà de 70 ans, il existe un risque élevé
+de complications. Une administration chez des patients âgés de plus de 80 ans doit être évitée.
+Les patients recevant des traitements associés, tels que les corticoïdes administrés par voie orale, les
+inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) ou les antiagrégants plaquettaires tels que
+l’acide acétylsalicylique à faible dose, encourent un risque accru de complications GI graves (voir ci-
+dessous et la rubrique 4.5), de même que les patients consommant de l’alcool. Comme avec les autres
+AINS, l’utilisation du piroxicam en association avec un traitement protecteur de la muqueuse gastrique
+(par ex., misoprostol ou inhibiteurs de la pompe à protons) doit être envisagée pour ces patients à risque.
+La vigilance est de rigueur pour les patients et les médecins de façon à détecter d’éventuels signes et
+symptômes d’ulcère et/ou d’hémorragie digestive au cours du traitement par piroxicam. Il convient de
+demander aux patients de signaler tout symptôme abdominal nouveau ou inhabituel pendant le
+traitement. Si une complication gastro-intestinale est suspectée au cours du traitement, le piroxicam
+doit être immédiatement interrompu. Une évaluation clinique complémentaire ainsi qu’une alternative
+thérapeutique doivent être envisagées.
+Céphalées
+Lorsque les analgésiques sont utilisés sur le long terme, à de fortes doses, ou de façon incorrecte, des
+céphalées peuvent se développer ou s’aggraver. Dans ce cas ou en cas de suspicion, un avis médical est
+nécessaire et le traitement doit être interrompu ; les céphalées induites par l'usage excessif
+d'analgésiques ne doivent pas être traitées par une augmentation de dose.
+Le diagnostic de céphalée par abus médicamenteux doit être suspecté chez les patients présentant des
+céphalées fréquentes ou quotidiennes malgré (ou à cause de) l'utilisation régulière de médicaments
+analgésiques.
+Effets cardiovasculaires et cérébrovasculaires
+Une surveillance adéquate et des recommandations sont requises chez les patients présentant des
+antécédents d’hypertension et/ou d’insuffisance cardiaque légère à modérée, des cas de rétention
+hydrosodée et d’œdème ayant été rapportés en association au traitement par AINS.
+Des études cliniques et des données épidémiologiques suggèrent que l’utilisation de certains AINS
+(surtout lorsqu’ils sont utilisés à doses élevées et sur une longue durée) peut être associée à une légère
+augmentation du risque d’événements thrombotiques artériels (par exemple, infarctus du myocarde ou
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 5/22
+
+--- Page 6 ---
+accident vasculaire cérébral) potentiellement fatals. Une augmentation relative du risque semble être
+similaire chez tous les patients, qu’ils présentent ou non une maladie CV ou des facteurs de risque CV.
+Toutefois, les patients présentant une maladie CV connue ou des facteurs de risque CV peuvent avoir un
+risque plus élevé en termes d’incidence absolue, en raison du risque plus élevé qu’ils présentent au
+départ. Les données sont actuellement insuffisantes pour écarter cette augmentation du risque pour le
+piroxicam.
+Les patients présentant une hypertension non contrôlée, une insuffisance cardiaque congestive, une
+cardiopathie ischémique, une maladie artérielle périphérique, et/ou ayant un antécédent d’accident
+vasculaire cérébral (y compris l’accident ischémique transitoire) ne devront être traités par le piroxicam
+qu’après une évaluation attentive du rapport bénéfice / risque.
+Les patients souffrant d’une pathologie CV peuvent présenter un risque accru d’aggravation
+d’insuffisance cardiaque : les médecins et les patients doivent être avertis de ce risque, même en
+l’absence de symptômes CV antérieurs. Les patients doivent, en outre, être informés de signes et
+symptômes de toxicité cardiaque grave et des actions à entreprendre s’ils surviennent (voir rubrique 4.3).
+Une attention similaire doit être portée avant toute initiation d’un traitement à long terme chez les
+patients présentant des facteurs de risques pour les pathologies cardiovasculaires (comme une
+hypertension, une hyperlipidémie, un diabète ou une consommation tabagique).
+Hypertension
+Comme pour tous les AINS, le piroxicam peut entraîner l’apparition d’une hypertension artérielle, ou la
+majoration d’une hypertension préexistante, pouvant contribuer à une augmentation de l’incidence des
+effets cardiovasculaires. Les AINS, dont le piroxicam, doivent être utilisés avec précaution chez les
+patients hypertendus. La pression sanguine doit être surveillée étroitement à l’initiation et pendant
+toute la durée du traitement.
+Effets hépatiques
+Des atteintes hépatiques sévères (ictère, hépatite grave ou fatale) ont rarement été rapportées avec le piroxicam. Si des anomalies de la
+fonction hépatique persistent ou s'aggravent ou s'il survient des signes cliniques d'insuffisance hépatique ou des manifestations
+générales (éosinophilie, rash), le piroxicam doit être arrêté.
+Réactions cutanées
+Des réactions cutanées graves, dont certaines d’évolution fatale, incluant des dermatites exfoliatives, des
+syndromes de Stevens-Johnson, nécrolyse épidermique toxique (syndrome de Lyell) et le syndrome
+d’hypersensibilité médicamenteuse avec éosinophilie et symptômes systémiques (syndrome DRESS), ont
+été très rarement rapportées lors de traitement par AINS (voir rubrique 4.8).
+Des cas d’érythème pigmenté fixe (FDE) ont été rapportés avec le piroxicam.
+Le piroxicam ne doit pas être réintroduit chez les patients présentant des antécédents de FDE liée au
+piroxicam.
+Une réactivité croisée potentielle pourrait survenir avec d’autres oxicams.
+Des réactions cutanées d’évolution fatale, syndrome de Stevens-Jonhson (SSJ) et nécrolyse épidermique
+toxique (NET, syndrome de Lyell) ont été rapportés avec le piroxicam. .
+Les patients doivent être informés des signes et symptômes et être surveillés attentivement au niveau
+cutané. Le risque est plus élevé en début de traitement, les réactions se manifestant dans la majorité des
+cas au cours du 1er mois de traitement. Si les symptômes ou les signes de SSJ ou NET sont présents (tels
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 6/22
+
+--- Page 7 ---
+que rash cutané évolutif, souvent accompagné de bulles ou lésions muqueuses), le traitement par le
+piroxicam doit être arrêté.
+Les meilleurs résultats de traitement des SJS et NET sont obtenus en cas de diagnostic précoce et d’arrêt
+immédiat du produit suspect. Un arrêt précoce est lié à un meilleur pronostic. Si un patient a développé
+un SJS ou NET sous piroxicam, le piroxicam ne doit jamais être réadministré à ce patient, à aucun
+moment.
+Des réactions cutanées graves, dont certaines d’évolution fatale, incluant des dermatites exfoliatives, ont
+été très rarement rapportées lors de traitement par AINS (voir rubrique 4.8).
+Des études ont suggéré que le piroxicam pourrait être associé à un risque plus élevé de réactions
+cutanées graves par rapport aux autres AINS non dérivés des oxicams. L’incidence de ces effets
+indésirables semble plus importante en début de traitement, le délai d’apparition se situant, dans la
+majorité des cas, pendant le premier mois de traitement. Le traitement par piroxicam doit être arrêté
+dès l’apparition d’un rash cutané, de lésions des muqueuses ou de tout autre signe d’hypersensibilité.
+Insuffisance rénale fonctionnelle :
+Les AINS, en inhibant l’action vasodilatatrice des prostaglandines rénales, sont susceptibles de
+provoquer une insuffisance rénale fonctionnelle par diminution de la filtration glomérulaire.
+En début de traitement, une surveillance de la diurèse et de la fonction rénale est recommandée chez les
+patients présentant les facteurs de risque suivants :
+ sujets âgés,
+ médicaments associés tels que : IEC, sartans, diurétiques (voir rubrique 4.5),
+ hypovolémie quelle qu’en soit la cause,
+ insuffisance cardiaque,
+ insuffisance rénale chronique,
+ syndrome néphrotique,
+ néphropathie lupique,
+ cirrhose hépatique décompensée.
+Ces patients doivent être surveillés attentivement tout en recevant la thérapie avec un AINS.
+Une attention particulière doit être portée lors de l’initiation du traitement par piroxicam chez les
+patients présentant une déshydratation sévère. Une surveillance est aussi recommandée chez les
+patients présentant une insuffisance rénale (voir rubrique 4.3)
+En raison de l’élimination importante du piroxicam et de ses produits de biotransformation par voie
+rénale, l’administration de plus faibles doses de piroxicam doit être envisagée chez les patients ayant une
+fonction rénale altérée, et doivent être étroitement surveillés (voir rubriques 4.3 et 5.2).
+Autres effets
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 7/22
+
+--- Page 8 ---
+Le piroxicam, comme les autres AINS, diminue l'agrégation plaquettaire et augmente le temps de
+saignement. Les patients qui pourraient être concernés par cet effet, doivent être étroitement surveillés
+lorsque le piroxicam leur est administré.
+Un patient présentant des symptômes et/ou des signes évocateurs d'une atteinte hépatique, ou chez qui
+un test de la fonction hépatique s’est révélé anormal doit avoir sa fonction hépatique évaluée afin de
+savoir s’il risque de développer une réaction hépatique plus sévère pendant le traitement avec le
+piroxicam. Bien que ces réactions soient rares, si des anomalies de la fonction hépatique persistent ou
+s'aggravent ou s'il survient des signes cliniques d'insuffisance hépatique ou des manifestations générales
+(par exemple éosinophilie, rash, etc/g0), le piroxicam doit être arrêté (voir rubrique Effets indésirables).
+L'administration concomitante d'aspirine et de piroxicam a montré une réduction de la concentration
+plasmatique de piroxicam (voir rubrique Interactions avec d'autres médicaments et autres formes
+d'interactions).
+Utilisation avec des anticoagulants oraux
+L'utilisation concomitante d'AINS, y compris le piroxicam, avec des anticoagulants oraux augmente le
+risque de saignements gastro-intestinaux et non-gastro-intestinaux, et doit être évitée. Les anticoagulants
+oraux comprennent les anticoagulants de type warfarine/coumarine et les anticoagulants oraux directs
+(par exemple, apixaban, dabigatran, rivaroxaban). L’anticoagulation/l’INR doit être surveillé chez les
+patients prenant un anticoagulant de type warfarine/coumarine (voir rubrique 4.5).
+Rétention hydrosodée :
+Rétention hydrosodée avec possibilité d’œdèmes, d’HTA ou de majoration d’HTA, d’aggravation
+d’insuffisance cardiaque. Une surveillance clinique est nécessaire en début de traitement en cas d’HTA
+ou d’insuffisance cardiaque. Une diminution de l’effet des antihypertenseurs est possible (voir rubrique
+4.5).
+Hyperkaliémie :
+Hyperkaliémie favorisée par le diabète ou un traitement par des médicaments hyperkaliémiants (voir
+rubrique 4.5).
+Une surveillance régulière de la kaliémie doit être effectuée dans ces circonstances.
+Sujets âgés :
+Les sujets âgés présentent un risque accru d’effets indésirables aux AINS, en particulier d’hémorragie
+gastro-intestinale et de perforations pouvant être fatales (voir rubrique 4.2).
+Lors de la prescription, le médecin devra prendre en compte le fait que des cas d’infertilité secondaire
+anovulatoire par non rupture du follicule De Graaf, réversibles à l’arrêt du traitement, ont été décrits
+chez les patientes traitées au long cours par certains inhibiteurs de synthèse des prostaglandines.
+Excipients
+Sodium
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 8/22
+
+--- Page 9 ---
+Ce médicament contient moins de 1 mmol (23mg) de sodium par ampoule, c’est-à-dire qu’il est
+essentiellement « sans sodium ».
+Alcool benzylique
+Ce médicament contient 20 mg d’alcool benzylique par ml de solution.
+L’alcool benzylique peut provoquer des réactions allergiques. De grandes quantités d’alcool benzylique
+peuvent s’accumuler dans le corps et entrainer des effets secondaires (appelés « acidose métabolique »).
+A utiliser avec précaution et seulement en cas de nécessité, particulièrement chez les sujets insuffisants
+hépatiques ou rénaux et chez la femme enceinte ou allaitante.
+Propylène glycol
+Ce médicament contient 553 mg de propylène glycol par ml de solution.
+Alcool (éthanol)
+Ce médicament contient 100 mg d’alcool (éthanol) par ml. La quantité d’alcool dans 1 ml de ce
+médicament équivaut à moins de 3 ml de bière ou 1 ml de vin. La faible quantité d’alcool contenue dans
+ce médicament n’est pas susceptible d’entrainer d’effet notable.
+Précautions d'emploi
+Ce médicament existe sous forme d'autres dosages qui peuvent être plus adaptés.
+La survenue de crise d'asthme chez certains sujets peut être liée à une allergie à l'aspirine ou aux AINS
+(voir rubrique 4.3).
+Une attention particulière doit être portée aux patients présentant des antécédents d'hypertension
+et/ou d'insuffisance cardiaque, des cas de rétention hydrosodée et d'œdème ayant été rapportés en
+association au traitement par AINS.
+Métaboliseurs lents des substrats du CYP2C9
+Il convient d’administrer avec précaution le piroxicam aux patients connus ou suspectés d’être
+métaboliseurs lents du CYP2C9, sur la base des antécédents/expériences antérieures avec d’autres
+substrats du CYP2C9 car il peut y avoir des concentrations plasmatiques anormalement élevées de
+piroxicam dues à une diminution du métabolisme (voir rubrique 5.2).
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+L'administration simultanée de piroxicam avec les produits suivants nécessite une surveillance rigoureuse
+de l'état clinique et biologique du malade.
+Associations contre-indiquées
+ Mifamurtide
+Aux doses élevées d’AINS, risque de moindre efficacité du mifamurtide.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 9/22
+
+--- Page 10 ---
+Associations déconseillées
+ Anagrélide
+Majoration des évènements hémorragiques.
+ Autres AINS, acide acétylsalicylique à doses anti-inflammatoires (≥ 1 g par prise et/ou ≥ 3 g par jour) ou
+antalgiques (≥ 500 mg par prise et/ou < 3 g par jour)
+Majoration du risque ulcérogène et hémorragique digestif.
+Des études chez l’homme ont fait apparaître une réduction de la concentration plasmatique de
+piroxicam d’environ 80 % de la valeur habituelle lors de l’administration concomitante de piroxicam et
+d’acide acétylsalicylique.
+ Anticoagulants oraux
+Les AINS, y compris le piroxicam, sont susceptibles de majorer les effets des anticoagulants, tels que les
+dérivés de type coumarine (warfarine) et les anticoagulants oraux directs (par exemple, apixaban,
+dabigatran, rivaroxaban). Augmentation du risque hémorragique de l’anticoagulant oral (agression de la
+muqueuse gastroduodénale par les anti-inflammatoires non stéroïdiens). Par conséquent, l’utilisation
+concomitante du piroxicam et d’anticoagulants doit être évitée. Si l’association ne peut être évitée,
+surveillance clinique étroite voire biologique (voir rubrique 4.4).
+ Autres anti-inflammatoires non stéroïdiens (y compris l’aspirine et les autres salicylés)
+Avec les autres anti-inflammatoires non stéroïdiens : majoration du risque ulcérogène et hémorragique
+digestif.
+Comme pour tous les AINS, l’association du piroxicam à l’acide acétylsalicylique ou à d’autres AINS, ainsi
+que l’association de plusieurs spécialités contenant du piroxicam, doit être évitée.
+Aucune donnée n’a permis de montrer le bénéfice de telles associations par rapport au piroxicam seul ;
+en outre, l’incidence des effets indésirables est alors augmentée (voir rubrique 4.4).
+Des études chez l’homme ont fait apparaître une réduction de la concentration plasmatique de
+piroxicam d’environ 80 % de la valeur habituelle lors de l’administration concomitante de piroxicam et
+d’acide acétylsalicylique.
+ Gluco-corticoïdes avec des doses anti-inflammatoires d'acide acétylsalicylique (≥ 1 g par prise et/ou ≥ 3
+g par jour)
+Majoration du risque hémorragique.
+ Héparines de bas poids moléculaire et apparentés (doses curatives et/ou sujet âgé)
+Augmentation du risque hémorragique (agression de la muqueuse gastroduodénale par les anti-
+inflammatoires non stéroïdiens). Si l’association ne peut être évitée, surveillance clinique étroite.
+ Héparines non fractionnées, héparines de bas poids moléculaires et apparentés (à doses curatives ou
+chez le sujet âgé)
+Augmentation du risque hémorragique (agression de la muqueuse gastro-duodénale par les AINS).
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 10/22
+
+--- Page 11 ---
+Si l'association ne peut être évitée, surveillance clinique étroite.
+ Lithium
+Augmentation de la lithémie pouvant atteindre des valeurs toxiques (diminution de l'excrétion rénale du
+lithium).
+Si l'association ne peut être évitée, surveiller étroitement la lithémie et adapter la posologie du lithium
+pendant l'association et après l'arrêt de l'AINS.
+ Méthotrexate utilisé à des doses supérieures à 20 mg/semaine
+Augmentation de la toxicité notamment hématologique du méthotrexate (diminution de la clairance
+rénale du méthotrexate par les anti-inflammatoires).
+ Nicorandil
+Majoration du risque ulcérogène et hémorragique digestives.
+ Pemetrexed (patients ayant une fonction rénale faible à modérée, clairance de la créatinine comprise
+entre 45 ml / min et 80 ml /min)
+Risque de majoration de la toxicité du pemetrexed (diminution de la clairance rénale par les AINS).
+Associations faisant l'objet de précautions d’emploi
+ Antagonistes des récepteurs de l’angiotensine II
+Insuffisance rénale aiguë chez le patient à risque (sujet âgé, déshydratation, traitement associé avec
+diurétiques, altération de la fonction rénale), par diminution de la filtration glomérulaire secondaire à
+une diminution de la synthèse des prostaglandines rénales. Ces effets sont généralement réversibles. Par
+ailleurs, réduction de l’effet antihypertenseur.
+Hydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant
+l’association.
+ Ciclosporine :
+Risque d’addition des effets néphrotoxiques, notamment chez le sujet âgé. Surveiller la fonction rénale
+en début de traitement par l’AINS.
+ Cobimétinib
+Augmentation du risque hémorragique. Surveillance clinique.
+ Diurétiques
+Insuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction
+rénale altérée), par diminution de la filtration glomérulaire secondaire à une diminution de la synthèse
+des prostaglandines rénales. Ces effets sont généralement réversibles. Par ailleurs, réduction de l’effet
+antihypertenseur.
+Hydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant
+l’association.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 11/22
+
+--- Page 12 ---
+ Inhibiteurs de l’enzyme de conversion
+Insuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction
+rénale altérée), par diminution de la filtration glomérulaire secondaire à une diminution de la synthèse
+des prostaglandines rénales. Ces effets sont généralement réversibles. Par ailleurs, réduction de l’effet
+antihypertenseur.
+Hydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant
+l’association.
+ Méthotrexate utilisé à des doses inférieures à 20 mg/semaine
+Augmentation de la toxicité notamment hématologique du méthotrexate (diminution de la clairance
+rénale du méthotrexate par les anti-inflammatoires).
+Contrôle hebdomadaire de l’hémogramme durant les premières semaines de l’association. Surveillance
+accrue en cas d’altération (même légère) de la fonction rénale, ainsi que chez le sujet âgé.
+ Pemetrexed (patients ayant une fonction rénale normale)
+Risque de majoration de la toxicité du pemetrexed (diminution de la clairance rénale par les AINS).
+Surveillance biologique de la fonction rénale.
+ Tacrolimus :
+Risque d’addition des effets néphrotoxiques, notamment chez le sujet âgé. Surveiller la fonction rénale
+en début de traitement par l’AINS.
+ Tenofovir disoproxil
+Risque de majoration de la néphrotoxicité du ténofovir, notamment avec des doses élevées de l’anti-
+inflammatoire ou en présence de facteurs de risque d’insuffisance rénale.
+En cas d’association, surveiller la fonction rénale.
+Associations à prendre en compte
+ Acide acétylsalicylique à doses antiagrégantes (de 50 mg à 375 mg par jour en 1 ou plusieurs prises)
+Majoration du risque ulcérogène et hémorragique digestif.
+Le piroxicam, comme les autres AINS, diminue l'agrégation plaquettaire et prolonge le temps de
+saignement. Cet effet doit être pris en compte lors de la détermination du temps de saignement.
+Le piroxicam interfère sur l’effet antiplaquettaire de l’aspirine à faibles doses, et peut donc interférer
+dans l’action prophylactique de l’aspirine dans le traitement des pathologies CV.
+ Antiagrégants plaquettaires
+Augmentation du risque hémorragique, notamment gastro-intestinal.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 12/22
+
+--- Page 13 ---
+ Autres hyperkaliémiants
+Risque de majoration de l’hyperkaliémie, potentiellement létale.
+ Risque lié à l’hyperkaliémie
+Certains médicaments ou classes thérapeutiques sont susceptibles de favoriser la survenue d'une
+hyperkaliémie : les sels de potassium, les diurétiques hyperkaliémiants, les inhibiteurs de l'enzyme de
+conversion, les antagonistes de l'angiotensine II, les anti-inflammatoires non stéroïdiens, les héparines (de
+bas poids moléculaires ou non fractionnées), les immunosuppresseurs comme la ciclosporine et le
+tacrolimus, le triméthoprime.
+L’association de ces médicaments majore le risque d’hyperkaliémie. Ce risque est particulièrement
+important avec les diurétiques épargneurs de potassium, notamment lorsqu’ils sont associés entre eux
+ou avec des sels de potassium, tandis que l’association d’un IEC et d’un AINS, par exemple, est à moindre
+risque dès l’instant que sont mises en œuvre les précautions recommandées.
+Pour connaitre les risques et les niveaux de contrainte spécifiques aux médicaments hyperkaliémiants, il
+convient de se reporter aux interactions propres à chaque substance.
+Toutefois, certaines substances, comme le triméthoprime, ne font pas l’objet d’interactions spécifiques
+au regard de ce risque. Néanmoins, ils peuvent agir comme facteurs favorisants lorsqu’ils sont associés à
+d’autres médicaments déjà mentionnés dans ce chapeau.
+La survenue d'une hyperkaliémie peut dépendre de l'existence de facteurs co-associés.
+ Bêta-bloquants (sauf esmolol)(y compris collyres) :
+Réduction de l'effet antihypertenseur (inhibition des prostaglandines vasodilatatrices par les AINS et
+rétention hydrosodée avec les AINS pyrazolés).
+ Deferasirox :
+Majoration du risque ulcérogène et hémorragique digestif.
+ Glucocorticoïdes (sauf hydrocortisone)
+Augmentation du risque d’ulcération et d’hémorragie gastro-intestinale (voir rubrique 4.4).
+ Héparines non fractionnées, héparines de bas poids moléculaires et apparentés (doses préventives)
+Augmentation du risque hémorragique.
+ Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)
+Majoration du risque hémorragique (voir rubrique 4.4).
+ Médicaments mixtes adrénergiques-sérotoninergiques
+Augmentation du risque hémorragique.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 13/22
+
+--- Page 14 ---
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+A partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée) : toute prise de PIROXICAM
+TEVA 20 mg/1 ml, solution injectable (IM), même ponctuelle, est contre-indiquée. Une prise même
+unique à partir de 24 semaines d’aménorrhée justifie un contrôle échographique cardiaque et rénal du
+fœtus et/ou du nouveau-né.
+Sauf nécessité absolue, PIROXICAM TEVA 20 mg/1 ml, solution injectable (IM) ne doit pas être prescrit
+chez une femme qui envisage une grossesse ou au cours des 5 premiers mois de grossesse (avant 24
+semaines d’aménorrhée). Le cas échéant, la dose devra être la plus faible possible et la durée du
+traitement la plus courte possible. Une prise prolongée est fortement déconseillée.
+En cas de prise à partir de la 20ème semaine d’aménorrhée, une surveillance cardiaque et rénale du
+fœtus pourrait s’avérer nécessaire.
+En cas de survenue d'oligoamnios, ou de constriction du canal artériel, le traitement par PIROXICAM
+TEVA 20 mg/1 ml, solution injectable (IM) doit être interrompu.
+L’inhibition de la synthèse des prostaglandines par les AINS peut affecter le déroulement de la grossesse
+et/ou le développement de l’embryon ou du fœtus.
+Risques associés à l’utilisation au cours du 1er trimestre
+Des études épidémiologiques suggèrent qu’un traitement par un inhibiteur de la synthèse des
+prostaglandines au cours du 1er trimestre de grossesse est associé à une augmentation du risque de
+fausse-couche.
+Pour certains AINS, un risque augmenté de malformations cardiaques et de la paroi abdominale
+(gastroschisis) est également décrit. Le risque absolu de malformation cardiovasculaire fœtale est passé
+de moins de 1% à approximativement 1,5% en cas d’exposition au 1er trimestre. Le risque paraît
+augmenter en fonction de la dose et de la durée du traitement.
+Chez l’animal, l’administration d’un inhibiteur de la synthèse des prostaglandines au cours de la phase
+d’organogénèse provoque une perte pré et post-implantatoire accrue, une augmentation de la létalité
+embryo-fœtale et une incidence supérieure de certaines malformations, y compris cardiovasculaires.
+Risques associés à l’utilisation au cours du 2ème et 3ème trimestre
+ A partir de la 12ème semaine d’aménorrhée
+La prise maternelle d’un AINS expose le fœtus à un risque d’atteinte fonctionnelle rénale :
+o In utero (mise en route de la diurèse fœtale): un oligoamnios peut survenir peu de temps après le
+début du traitement. Celui-ci est généralement réversible à l'arrêt du traitement. Il peut se
+compliquer d’un anamnios en particulier lors d'une exposition prolongée à un AINS.
+o A la naissance : une insuffisance rénale (réversible ou non) peut être observée voire persister surtout
+en cas d'exposition tardive et prolongée avec un risque d'hyperkaliémie sévère retardée.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 14/22
+
+--- Page 15 ---
+ A partir de la 20ème semaine d’aménorrhée :
+En plus de l’atteinte fonctionnelle rénale (cf. supra), la prise maternelle d’un AINS expose le fœtus à un
+risque de constriction du canal artériel (le plus souvent réversible à l’arrêt du traitement).
+ A partir de la 24ème semaine d’aménorrhée :
+Le risque de toxicité cardio-pulmonaire (fermeture prématurée du canal artériel et hypertension
+artérielle pulmonaire) devient plus important et peut conduire à une insuffisance cardiaque droite
+fœtale ou néonatale voire à une mort fœtale in utero. Ce risque est d'autant plus important et moins
+réversible que la prise est proche du terme. Cet effet existe même pour une prise ponctuelle
+En fin de grossesse (proche du terme), la prise d’AINS expose également la mère et le nouveau-né à :
+- un allongement du temps de saignement du fait d’une action anti-agrégante pouvant survenir même
+après administration de très faibles doses de médicament ;
+- une inhibition des contractions utérines entraînant un retard de terme ou un accouchement prolongé.
+Allaitement
+Les A.I.N.S. passant dans le lait maternel, ce médicament est déconseillé chez la femme qui allaite.
+Fertilité
+Comme tous les AINS, l'utilisation de ce médicament peut temporairement altérer la fertilité féminine
+en agissant sur l’ovulation ; il est donc déconseillé chez les femmes souhaitant concevoir un enfant. Chez
+les femmes rencontrant des difficultés pour concevoir ou réalisant des tests de fertilité, l'arrêt du
+traitement doit être envisagé.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Prévenir les patients de l’apparition possible, après la prise d'AINS, de vertiges, de somnolence, de
+fatigue et de troubles visuels. Si cela se produit, les patients ne doivent pas conduire ou utiliser des
+machines.
+4.8. Effets indésirables
+Des études cliniques et des données épidémiologiques suggèrent que l’utilisation de certains AINS
+(surtout lorsqu’ils sont utilisés à doses élevées et sur une longue durée) peut être associée à une légère
+augmentation du risque d’évènement thrombotique artériel (par exemple, infarctus du myocarde ou
+accident vasculaire cérébral) (voir rubrique 4.4).
+Les effets indésirables les plus fréquemment observés sont de nature gastro-intestinale. Des ulcères
+peptiques, perforations ou hémorragies gastro-intestinales, parfois fatales, peuvent survenir, en
+particulier chez le sujet âgé, (voir rubrique 4.4). Des nausées, vomissements, diarrhées, flatulences,
+constipation, dyspepsie, stomatite ulcérative, douleur abdominale, melæna, hématémèse, exacerbation
+d’une recto-colite ou d’une maladie de Crohn (voir rubrique 4.4) ont été rapportées à la suite de
+l’administration d’AINS. Moins fréquemment, des gastrites ont été observées.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 15/22
+
+--- Page 16 ---
+Œdème, hypertension et insuffisance cardiaque ont été rapportés en association au traitement par
+AINS.
+La classification des effets indésirables selon la fréquence utilise la convention suivante : fréquents (≥
+1/100), peu fréquents (< 1/100), très rares (<1/10 000), fréquence indéterminée (ne peut être estimée sur la
+base des données disponibles).
+Affections hématologiques et du système lymphatique
+Fréquent : anémie, thrombocytopénie, leucopénie, éosinophilie
+Peu fréquent : anémie aplasique, anémie hémolytique, purpura non thrombocytopénique (de Henoch-
+Schoenlein)
+Fréquence indéterminée : rares cas d'aplasie médullaire
+Affections du système immunitaire
+Peu fréquent : réaction d'hypersensibilité telles une anaphylaxie, maladie sérique
+Troubles métaboliques et nutritionnels
+Fréquent : anorexie
+Peu fréquent : hypoglycémie, hyperglycémieAffections psychiatriques
+Peu fréquent : insomnie, nervosité, dépression, hallucinations, troubles de l'humeur, rêves anormaux,
+confusion mentale
+Affections du système nerveux
+Fréquent : étourdissements, céphalées, somnolence
+Peu fréquent : paresthésies
+Fréquence indéterminée : méningite aseptique, sensation vertigineuse.
+Affections oculaires
+Peu fréquent : gonflement oculaire, vision floue, irritation oculaire
+Il n'a pas été signalé de perturbations oculaires aux examens ophtalmologiques de routine et lors des
+contrôles à la lampe à fente.
+Affections de l’oreille et du labyrinthe
+Fréquent : vertiges, acouphènes.
+Fréquence indéterminée : des cas isolés de baisse de l’acuité auditive ont été exceptionnellement
+rapportés
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 16/22
+
+--- Page 17 ---
+Affections cardiaques
+Fréquence Indéterminée : insuffisance cardiaque
+Fréquence indéterminée : palpitations
+Affections vasculaires
+Peu fréquent : vascularite
+Fréquence indéterminée : hypertension
+Affections respiratoires, thoraciques et médiastinales
+Peu fréquent : bronchospasme, épistaxis, dyspnée, crise d'asthme observée chez certains sujets
+notamment allergiques à l'aspirine et aux autres anti-inflammatoires non stéroïdiens.
+Affections gastro-intestinales
+Fréquents : stomatite, douleurs épigastriques, nausées, constipation, flatulence, diarrhée, douleurs
+abdominales, indigestion
+Peu fréquent : hémorragie gastro-intestinale (dont hématémèse et méléna), perforation gastro-
+intestinale, ulcère gastro-duodénal (dans de rares cas mortels)
+Fréquence indéterminée : vomissements, gêne abdominale, réaction ano-rectale lors de l’administration
+de suppositoire caractérisée par une douleur locale, brûlures, prurit et tenesme et saignement rectal
+occasionnel, gastrite.
+Ceux-ci sont d’autant plus fréquents que la posologie utilisée est élevée (voir rubrique 4.4).
+Affections hépatobiliaires
+Peu fréquent : ictère, hépatite (voir rubrique Mises en garde spéciales et précautions particulières
+d'emploi)
+Une atteinte hépatique plus sévère (ictère, hépatite grave ou fatale) a exceptionnellement été rapportée
+avec le piroxicam.
+Si des anomalies de la fonction hépatique persistent ou s'aggravent ou s'il survient des signes cliniques
+d'insuffisance hépatique ou des manifestations générales (éosinophilie, rash), le piroxicam doit être
+arrêté.
+Fréquence indéterminée : exceptionnels cas de pancréatite.
+Troubles cutanés et des tissus sous-cutanés
+Fréquent : rash, prurit
+Peu fréquent : réaction de photosensibilité, éruption vésiculo-bulleuse, urticaire, aggravation d'urticaire
+chronique, œdème de Quincke, alopécie, onycholyse
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 17/22
+
+--- Page 18 ---
+Très rare : réactions cutanées graves (SCARs) : éruptions bulleuses à type d'érythème polymorphe,
+d'ectodermose pluri-orificielle ou syndrome de Stevens-Johnson (SJS), nécrolyse épidermique toxique
+(NET ou maladie de Lyell) ont été rapportés (voir rubrique 4.4)
+Fréquence indéterminée : dermatite exfoliative, syndrome DRESS, érythème pigmenté fixe (voir rubrique
+4.4)
+Affections du rein et des voies urinaires
+Peu fréquent : atteintes rénales organiques pouvant se traduire par une Insuffisance rénale aiguë (IRA) :
+néphrite interstitielle, syndrome néphrotique, insuffisance rénale, nécrose papillaire rénale, nécrose
+tubulaire aiguë, glomérulonéphrite (voir rubrique 4.4)
+Rare : Insuffisance rénale aiguë (IRA) fonctionnelle chez les patients présentant des facteurs de risque
+(voir rubrique 4.4).Troubles généraux
+Fréquent : malaise.
+Peu fréquent : œdème périphérique (voir rubrique 4.4)
+Fréquence indéterminée : rétention hydrosodée, hyperkaliémie (voir rubriques 4.4 et 4.5), œdèmes
+(notamment des membres inférieurs).
+Réactions indésirables locales (sensations de brulure) ou lésion des tissus (formation d’abcès stérile,
+nécrose des tissus adipeux) au site de l’injection, malaise, douleur transitoire lors de l’injection.
+Affections des organes de reproduction et du sein
+Fréquence indéterminée : trouble de la reproduction, diminution de la fertilité féminine
+Investigations
+Fréquent : Diminution de l'agrégabilité plaquettaire et allongement du temps de saignement, diminution
+du taux d'hémoglobine et de l'hématocrite non associée à un saignement gastro-intestinal évident, BUN
+augmenté, élévation réversible du taux d'urée dans le sang et de la créatininémie
+Peu fréquent : test de la fonction hépatique modifié (augmentation le plus souvent transitoire et
+réversible des transaminases sériques, modification du taux de bilirubine), anticorps antinucléaires
+positifs, gain de poids, perte de poids.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/.
+4.9. Surdosage
+ Transfert immédiat en milieu hospitalier.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 18/22
+
+--- Page 19 ---
+ Traitement symptomatique.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : ANTI-INFLAMMATOIRE NON STEROIDIEN, code ATC : M01AC01.
+(M: système locomoteur)
+Le piroxicam est un anti-inflammatoire non stéroïdien du groupe des oxicams. Il possède les propriétés
+suivantes :
+ activité antalgique,
+ activité antipyrétique,
+ activité anti-inflammatoire,
+ inhibition des fonctions plaquettaires.
+L'ensemble de ces propriétés est lié à une inhibition de la synthèse des prostaglandines.
+5.2. Propriétés pharmacocinétiques
+La pharmacocinétique du piroxicam est linéaire. Diverses études ont montré l’absence de modification
+de la pharmacocinétique du piroxicam en fonction de l’âge.
+Absorption
+Une étude pharmacocinétique comparative entre les formes injectable et orale a montré :
+ Les taux plasmatiques de piroxicam après administration en intramusculaire sont significativement plus
+élevés qu’après administration orale : pendant les 45 minutes, le premier jour et 30 minutes, le deuxième
+jour ;
+ Une bioéquivalence entre les deux formes.
+Distribution
+Demi-vie d’élimination : environ 50 heures.
+Après une injection intramusculaire de 40 mg de piroxicam, on obtient un Cmax de 3,80 µ g/ml en 45
+minutes (Tmax).
+La fixation aux protéines plasmatiques est importante : de l’ordre de 99 pour cent.
+Le piroxicam traverse rapidement la membrane synoviale ; les taux synoviaux sont, en moyenne, de 45 à
+50 pour cent des taux sanguins.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 19/22
+
+--- Page 20 ---
+La liaison aux protéines du liquide synovial est la même que la liaison aux protéines plasmatiques.
+Une étude préliminaire a montré que le piroxicam est présent dans le lait maternel (environ 1 à 3 % des
+taux plasmatiques).
+Biotransformation - EliminationLe piroxicam est éliminé lentement. Il est presque totalement métabolisé.
+Moins de 5 pour cent de la dose administrée sont éliminés inchangés dans les urines et les fèces.
+Une des voies métaboliques importantes est l’hydroxylation du noyau pyridine de la chaîne latérale du
+piroxicam, suivi d’une glycuro conjugaison et d’élimination urinaire.
+Les taux sériques contrôlés après un an d’administration orale continue de 20 mg/jour de piroxicam sont
+équivalents à ceux de l’état d’équilibre primitivement atteint.
+Une étude a évalué la pharmacocinétique du piroxicam administré à la dose de 20 mg en dose unique à
+des volontaires sains présentant un génotype CYP2C9*1/*1, CYP2C9*1/*2 ou CYP2C9*1/*3. Au cours de
+celle-ci, il a été observé pour les sujets de génotype CYP2C9*1/*2 ou CYP2C9*1/*3, une augmentation de
+l’ASC0- ∞  et une diminution de la clairance orale du piroxicam. Il a également été observé une
+augmentation de l’inhibition de la Cyclooxygénase I par le piroxicam pour ces mêmes patients.
+Il convient d’administrer avec précaution le piroxicam aux patients connus ou suspectés d’être
+métaboliseurs lents du CYP 2C9, car il peut y avoir des taux anormalement élevés de piroxicam dans le
+plasma dû à une diminution du métabolisme (voir rubrique 4.4).
+Pharmacogénétique
+L'activité du CYP2C9 est réduite chez les personnes présentant des polymorphismes génétiques, comme
+les polymorphismes CYP2C9*2 et CYP2C9*3. Des données limitées, issues de deux rapports publiés, ont
+montré que les sujets présentant des génotypes hétérozygotes CYP2C9*1/*2 (n = 9), hétérozygotes
+CYP2C9*1/*3 (n = 9) et homozygotes CYP2C9*3/*3 (n = 1) avaient, respectivement, des taux systémiques
+de piroxicam 1,7, 1,7 et 5,3 fois supérieurs aux sujets présentant un génotype CYP2C9*1/*1 (n = 17,
+génotype des métaboliseurs normaux) suite à l'administration d'une dose unique par voie orale. Les
+valeurs moyennes de la demi-vie d'élimination du piroxicam chez les sujets présentant des génotypes
+CYP2C9*1/*3 (n = 9) et CYP2C9*3/*3 (n = 1) étaient, respectivement, 1,7 et 8,8 fois supérieures à celles des
+sujets présentant un génotype CYP2C9*1/*1 (n = 17). On estime que la fréquence du génotype
+homozygote *3/*3 va de 0 % à 5,7 % dans les différents groupes ethniques.
+5.3. Données de sécurité préclinique
+Sans objet.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Dihydrogénophosphate de sodium dihydraté, nicotinamide, alcool, alcool benzylique, hydroxyde de
+sodium, eau pour préparations injectables, propylèneglycol.
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 20/22
+
+--- Page 21 ---
+6.2. Incompatibilités
+En l'absence d'études de compatibilité, ce médicament ne doit pas être mélangé avec d'autres
+médicaments.
+6.3. Durée de conservation
+3 ans.
+Après ouverture: le produit doit être utilisé immédiatement.
+6.4. Précautions particulières de conservation
+Pas de précautions particulières de conservation.
+6.5. Nature et contenu de l'emballage extérieur
+1 ml en ampoule bouteille de 2 ml (verre jaune de type I). Boîte de 1 ou 2.
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+TEVA SANTE
+100-110, ESPLANADE DU GENERAL DE GAULLE
+92931 PARIS LA DEFENSE CEDEX
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+ 34009 347 319 9 0 : 1 ml en ampoule bouteille de 2 ml (verre jaune type I). Boîte de 1.
+ 34009 361 153 7 8 : 1 ml en ampoule bouteille de 2 ml (verre jaune type I). Boîte de 2.
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 21/22
+
+--- Page 22 ---
+legifrance.gouv.fr gouvernement.fr service-public.fr data.gouv.fr
+Nos partenaires
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I
+MINISTÈRE
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+ET DES FAMILLES
+19/11/2026 23:23 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/69721369/extrait#tab-rcp 22/22

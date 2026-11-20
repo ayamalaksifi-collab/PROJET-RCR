@@ -35,6 +35,8 @@ py scripts/metadata_rag_experiment.py
 py scripts/metadata_rag_experiment.py --with-nomenclature
 # Side-by-side readable comparison of the two RAG runs
 py scripts/compare_rag_results.py
+# Extract a single RCP/leaflet PDF to its medicine's extracted/ folder
+py scripts/extract_rcp_text.py "Pharmeazor\documents\paracetamol\raw\paracetamol 500mg RCP france .pdf"
 ```
 
 The generated outputs are saved in `results/` as separate files, so one RAG

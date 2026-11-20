@@ -1,0 +1,266 @@
+--- Page 1 ---
+Dernière mise à jour le 03/11/2026
+NEFOPAM ARROW 20 mg/2 ml, solution injectable
+ANSM - Mis à jour le : 11/03/2026
+1. DENOMINATION DU MEDICAMENT
+NEFOPAM ARROW 20 mg/2 mL, solution injectable
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chlorhydrate de néfopam ............................................................................................................. 20 mg
+Pour une ampoule de 2 mL
+Excipient à effet notoire : sodium.
+Ce médicament contient 5,23 mg de sodium par ampoule.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Solution injectable.
+Solution limpide, incolore, exempt de toute particule visible.
+pH=4.80-6.00.
+Osmolalité entre 230-290 mOsmol/kg.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Fiche info Résumé des caractéristiques du produit Notice
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 1/9
+
+--- Page 2 ---
+Traitement symptomatique des affections douloureuses aiguës, notamment des douleurs post-
+opératoires.
+4.2. Posologie et mode d'administration
+Posologie
+Comme pour tous les médicaments antalgiques, la posologie doit être adaptée à l'intensité de la douleur
+et à la réponse clinique de chaque patient.
+ Voie IM : NEFOPAM ARROW doit être administré en IM profonde. La dose usuelle recommandée est de
+20 mg par injection. Si nécessaire, elle peut être répétée toutes les 6 heures sans dépasser une dose
+totale de 120 mg/24 heures.
+ Voie IV : NEFOPAM ARROW doit être administré en perfusion IV lente sur plus de 15 minutes, le patient
+étant en décubitus, afin d'éviter la survenue d'effets indésirables (nausées, vertiges, sueurs). La dose
+unique usuelle recommandée est de 20 mg par injection, répétée toutes les 4 heures, si nécessaire, sans
+dépasser une dose totale de 120 mg/24 heures.
+Mode d’administration
+NEFOPAM ARROW peut être administré dans les solutions usuelles pour perfusion (solution isotonique
+de chlorure de sodium ou glucosée). Il est recommandé d'éviter de mélanger dans la même seringue
+NEFOPAM ARROW et d'autres spécialités injectables.
+4.3. Contre-indications
+ Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.
+ Enfant de moins de 15 ans, en l'absence d'étude clinique.
+ Convulsions ou antécédents de troubles convulsifs.
+ Risques de rétention urinaire liés à des troubles urétroprostatiques.
+ Risque de glaucome par fermeture de l'angle.
+4.4. Mises en garde spéciales et précautions d'emploi
+Mises en garde spéciales
+NEFOPAM ARROW n'est ni un morphinique, ni un antagoniste des morphiniques. De ce fait, arrêter un
+morphinique chez un patient physiquement dépendant, et traité par NEFOPAM ARROW, risque d'aboutir
+à un syndrome de sevrage.
+Le rapport bénéfice/risque du traitement par NEFOPAM ARROW doit être régulièrement réévalué.
+NEFOPAM ARROW n'est pas indiqué dans le traitement des affections douloureuses chroniques.
+Pharmacodépendance
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 2/9
+
+--- Page 3 ---
+L’utilisation du néfopam peut entraîner une pharmacodépendance, pouvant conduire à un abus, en
+particulier chez les patients ayant des antécédents de consommation de substances psychoactives et/ou
+de troubles de la santé mentale. Chez ces patients, le néfopam doit être prescrit avec prudence et les
+signes de dépendance doivent être surveillés.
+Précautions d'emploi
+Il conviendra d'être particulièrement prudent en cas :
+ d'insuffisance hépatique ;
+ d'insuffisance rénale, en raison du risque d'accumulation et donc du risque augmenté d'effet
+indésirable ;
+ chez tous les patients avec pathologie cardiovasculaire en raison de l'effet tachycardisant du produit
+(voir rubriques 4.5 et 4.8) ;
+ en raison de ces effets anticholinergiques, le traitement par NEFOPAM ARROW est déconseillé chez le
+sujet âgé.
+Excipient à effet notoire
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par ampoule, c’est-à-dire qu’il est
+essentiellement « sans sodium ».
+Ce médicament contient 31,38 mg de sodium par dose maximale de 6 ampoules, ce qui équivaut à 1,57 %
+de l’apport alimentaire quotidien maximal recommandé par l’OMS de 2 g de sodium par adulte.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Il faut prendre en compte le fait que de nombreux médicaments ou substances peuvent additionner
+leurs effets dépresseurs du système nerveux central et contribuer à diminuer la vigilance. Il s'agit des
+dérivés morphiniques (analgésiques, antitussifs et traitements de substitution), des neuroleptiques, des
+barbituriques, des benzodiazépines, des anxiolytiques autres que les benzodiazépines (par exemple, le
+méprobamate), des hypnotiques, des antidépresseurs sédatifs (amitriptyline, doxépine, miansérine,
+mirtazapine, trimipramine), des antihistaminiques H1 sédatifs, des antihypertenseurs centraux, du
+baclofène et du thalidomide.
+Associations déconseillées
+ Consommation d'alcool
+Majoration par l'alcool de l'effet sédatif de ces substances.
+L'altération de la vigilance peut rendre dangereuse la conduite de véhicules et l'utilisation de machines.
+Eviter la prise de boissons alcoolisées et de médicaments contenant de l'alcool.
+Associations à prendre en compte
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 3/9
+
+--- Page 4 ---
+ Autres médicaments sédatifs
+Dérivés morphiniques (analgésiques, antitussifs et traitements de substitution), neuroleptiques,
+barbituriques, benzodiazépines, anxiolytiques autres que les benzodiazépines (par exemple, le
+méprobamate), hypnotiques, antidépresseurs sédatifs (amitriptyline, doxépine, miansérine, mirtazapine,
+trimipramine), antihistaminiques H1 sédatifs, antihypertenseurs centraux, baclofène et thalidomide.
+Majoration de la dépression centrale. L'altération de la vigilance peut rendre dangereuses la conduite de
+véhicules et l'utilisation de machines.
+4.6. Fertilité, grossesse et allaitement
+En l'absence d'étude chez l'animal et de données cliniques humaines, le risque n'est pas connu ; par
+conséquent, par mesure de prudence, ne pas prescrire pendant la grossesse, ni pendant l'allaitement.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+En raison d'un risque éventuel de somnolence, la vigilance peut être altérée et rendre dangereuse la
+conduite de véhicules et l'utilisation de machines.
+4.8. Effets indésirables
+Les effets indésirables qui ont été rapportés sont classés ci-dessous par système-organe et par fréquence
+comme définies ci-après : très fréquents (> 1/10), fréquents (> 1/100, < 1/10), peu fréquents (> 1/1 000, <
+1/100), rares (> 1/10 000, < 1/1 000) et indéterminées (ne peut être estimée sur la base des données
+disponibles).
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 4/9
+
+--- Page 5 ---
+*Bien que n'ayant jamais été rapportés, d'autres effets atropiniques que ceux décrits sont susceptibles
+d'être constatés.
+Pharmacodépendance
+L’utilisation de NEFOPAM ARROW peut entraîner une pharmacodépendance. Le risque de dépendance
+peut varier en fonction des facteurs de risque individuels du patient (voir rubrique 4.4).
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/.
+Système -
+Organe Très fréquents Fréquents Rares Indéterminées
+Psychiatrie
+excitabilité*,
+irritabilité*,
+hallucination, abus,
+pharmacodépendance
+état
+confusionnel
+Système
+Nerveux Central somnolence vertige* convulsion* coma
+Cœur tachycardie*, palpitation*
+Gastro-
+intestinal
+nausée avec
+ou sans
+vomissement
+bouche
+sèche*
+Rein rétention urinaire
+Général hyperhydrose* malaise
+Système
+immunitaire
+réaction
+d'hypersensibilité
+(urticaire, œdème de
+Quincke, choc
+anaphylactique)
+Troubles
+généraux et
+anomalies au
+site
+d’administration
+douleur au site
+d’injection
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 5/9
+
+--- Page 6 ---
+4.9. Surdosage
+Ce sont des manifestations de type anticholinergique : tachycardie, coma, convulsions et hallucinations
+(voir rubrique 4.4).
+Traitement
+Traitement symptomatique avec surveillance cardiaque et respiratoire, en milieu hospitalier.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : autres analgésiques et antipyrétiques, code ATC : N02BG06.
+ Analgésique central non morphinique, le néfopam possède une structure chimique non apparentée à
+celle des antalgiques actuellement connus.
+ In vitro, sur des synaptosomes de rat, une inhibition de la recapture des catécholamines et de la
+sérotonine est évoquée.
+ In vivo, chez l'animal, le néfopam a montré des propriétés anti-nociceptives. Il a également été
+démontré une activité antihyperalgésique par un mécanisme qui n'est pas complètement élucidé.
+ Le néfopam a montré un effet sur le frisson post-opératoire au cours d'études cliniques.
+ Le néfopam n'a aucune action anti-inflammatoire ou antipyrétique. Il n'entraîne pas de dépression
+respiratoire et ne ralentit pas le transit intestinal.
+ Le néfopam possède une activité anticholinergique.
+ Sur le plan hémodynamique, il a été observé une augmentation modérée et transitoire de la fréquence
+cardiaque et de la pression artérielle.
+5.2. Propriétés pharmacocinétiques
+Absorption
+Après administration d'une dose de 20 mg par voie IM, le pic plasmatique (Tmax) est situé entre 0,5 et 1
+heure et les concentrations maximales (Cmax) sont en moyenne de 25 ng/mL. La demi-vie plasmatique
+moyenne est de 5 heures.
+Lors d'une administration par voie IV d'une même dose, la demi-vie plasmatique moyenne est de 4
+heures.
+Distribution
+La liaison aux protéines plasmatiques est de 71-76 %.
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 6/9
+
+--- Page 7 ---
+Biotransformation
+La biotransformation est importante et 3 métabolites majeurs ont été identifiés : le déméthyl-néfopam,
+le N-oxyde-néfopam et le N-glucuronide-néfopam. Les deux premiers métabolites, non conjugués, n'ont
+pas montré d'activité analgésique chez l'animal.
+Élimination
+L'élimination est essentiellement urinaire : 87 % de la dose administrée sont retrouvés dans les urines.
+Moins de 5 % de la dose sont excrétés sous forme inchangée ; les métabolites identifiés dans les urines
+représentent respectivement 6 %, 3 %, et 36 % de la dose administrée par voie IV.
+5.3. Données de sécurité préclinique
+Sans objet.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Phosphate monosodique dihydraté, phosphate disodique dodécahydraté, eau pour préparations
+injectables.
+6.2. Incompatibilités
+Ce médicament ne doit pas être mélangé avec d'autres médicaments à l'exception de ceux mentionnés
+dans la rubrique 4.2.
+6.3. Durée de conservation
+3 ans.
+Après ouverture/reconstitution/dilution : le produit doit être utilisé immédiatement.
+6.4. Précautions particulières de conservation
+Ce médicament ne nécessite pas de précautions particulières de conservation.
+6.5. Nature et contenu de l'emballage extérieur
+Ampoule en verre transparent de 2 mL avec une seule bande bleue et une marque OPC bleue.
+Boite de 5 et 20 ampoules de 2 mL emballées dans un conditionnement en PVC ou Polystyrène blanc.
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 7/9
+
+--- Page 8 ---
+Pas d’exigences particulières pour l’élimination.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+EUGIA PHARMA (MALTA) LTD
+VAULT 14, LEVEL 2
+VALLETTA WATERFRONT
+FLORIANA, FRN 1914
+MALTE
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+ 34009 302 824 0 3 : Ampoule de 2 mL. Boîte de 5.
+ 34009 302 824 1 0 : Ampoule de 2 mL. Boîte de 20.
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 8/9
+
+--- Page 9 ---
+legifrance.gouv.fr gouvernement.fr service-public.fr data.gouv.fr
+Nos partenaires
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
+MINISTÈRE
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+ET DES FAMILLES
+19/11/2026 23:34 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/68701965/extrait#tab-rcp 9/9

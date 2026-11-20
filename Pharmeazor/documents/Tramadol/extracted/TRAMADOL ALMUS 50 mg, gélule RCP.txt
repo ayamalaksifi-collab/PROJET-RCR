@@ -1,0 +1,591 @@
+--- Page 1 ---
+Dernière mise à jour le 03/11/2026
+TRAMADOL ALMUS 50 mg, gélule
+ANSM - Mis à jour le : 19/03/2026
+1. DENOMINATION DU MEDICAMENT
+TRAMADOL ALMUS 50 mg, gélule
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chlorhydrate de tramadol ...................................................................................................... 50 mg
+Pour une gélule.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Gélule.
+Poudre de couleur blanc à blanc cassé, contenue dans des gélules de gélatine, blanches, opaques de
+taille ’4’ (14,4 mm x 5,33 mm).
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Traitement des douleurs modérées à intenses chez les adultes et les adolescents âgés de 12 ans et plus.
+4.2. Posologie et mode d'administration
+Posologie
+Fiche info Résumé des caractéristiques du produit Notice Bon usage
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 1/17
+
+--- Page 2 ---
+La dose devra être adaptée à l’intensité de la douleur et à la sensibilité individuelle de chaque patient. La
+posologie minimale efficace analgésique doit être généralement utilisée. A l’exception des circonstances
+cliniques particulières, la dose totale journalière ne doit pas excéder 400 mg de substance active.
+Sauf indication contraire, ce médicament doit être administré comme suit :
+Adultes
+Normalement, la dose initiale de chlorhydrate de tramadol est de 50 à 100 mg (1 ou 2 gélules) suivie de
+50 ou 100 mg toutes les 4 à 6 heures, sans dépasser une dose quotidienne de 400 mg (8 gélules) (voir
+rubrique 5.1).
+Population pédiatrique
+En raison de la quantité de principe actif par gélule, le médicament ne convient pas aux enfants (de
+moins de 12 ans). Il existe d'autres présentations disponibles dans le commerce adaptées à
+l'administration chez les enfants.
+Les adolescents de plus de 12 ans peuvent suivre les recommandations pour les adultes.
+Pour les enfants de plus de 3 ans, la dose recommandée est de 1 à 2 mg de chlorhydrate de tramadol par
+kg de poids corporel. Les doses peuvent être répétées, si nécessaire, 3 à 4 fois par jour (à des intervalles
+de 6 à 8 heures). Les doses journalières ne doivent pas dépasser 8 mg de chlorhydrate de tramadol par kg
+de poids corporel ou 400 mg de chlorhydrate de tramadol (la plus faible des deux valeurs) (voir rubrique
+5.1).
+L'utilisation du tramadol n'est pas recommandée chez les patients qui sont des métaboliseurs ultra-
+rapides ou qui présentent des problèmes respiratoires (y compris une apnée obstructive du sommeil) et
+qui doivent subir une adénoïdectomie/amygdalectomie, en raison du risque potentiel de dépression
+respiratoire mettant en jeu le pronostic vital (voir rubriques 4.4 et 4.8).
+Des cas de surdosage accidentel et des cas de métaboliseurs ultra-rapides chez les enfants ont été
+rapportés (voir rubriques 4.4 « Enfants et métaboliseurs ultra-rapides du CYP2D6 » et 4.9 « Surdosage »).
+Patients âgés
+Une adaptation posologique n'est habituellement pas nécessaire chez les patients âgés de moins de 75
+ans, en l'absence d'insuffisance hépatique ou rénale cliniquement avérée. Chez les patients âgés de plus
+de 75 ans, l’élimination du produit peut être retardée. C’est pourquoi l’intervalle posologique devra être
+allongé, si nécessaire, en fonction des besoins du patient.
+Patients ayant une insuffisance rénale/dialyse et une insuffisance hépatique
+L’élimination du tramadol est lente chez les insuffisants rénaux et/ou hépatiques. Chez ces patients, une
+augmentation de l’intervalle entre les prises doit être envisagée en fonction des besoins du patient.
+Mode d’administration
+Voie orale.
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 2/17
+
+--- Page 3 ---
+Les gélules doivent être prises entières, sans être divisées ou mâchées, avec une quantité suffisante de
+liquide, et avec ou sans nourriture.
+Objectifs du traitement et de son arrêt
+Avant l’instauration du traitement avec TRAMADOL ALMUS, une stratégie thérapeutique comprenant la
+durée et les objectifs du traitement, ainsi qu’un plan pour la fin du traitement, doit être convenue avec
+le patient, conformément aux recommandations relatives à la prise en charge de la douleur. Pendant le
+traitement, des contacts fréquents doivent avoir lieu entre le médecin et le patient afin d’évaluer la
+nécessité de poursuivre le traitement, d’envisager l’arrêt ou d’ajuster la posologie du traitement si
+nécessaire. Lorsqu’un patient n’a plus besoin du traitement par tramadol, il est conseillé de réduire
+progressivement la dose pour éviter les symptômes de sevrage. En l’absence de contrôle adéquat de la
+douleur, la possibilité d’une hyperalgie, d’une tolérance et d’une progression de la maladie sous-jacente
+doit être envisagée (voir rubrique 4.4).
+Durée de traitement
+Ce médicament ne doit pas être administré pendant une durée supérieure à celle absolument
+nécessaire. Si un traitement au long cours de la douleur par le tramadol est nécessaire, compte tenu de la
+nature et de la sévérité de la maladie, il convient de procéder à une surveillance soigneuse et régulière
+(en intercalant si nécessaire des pauses thérapeutiques) en vue de vérifier si, et dans quelle mesure, la
+poursuite du traitement est nécessaire.
+4.3. Contre-indications
+TRAMADOL ALMUS est contre-indiqué :
+ en cas d’hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1,
+ en cas d’intoxications aiguës par l’alcool, les hypnotiques, les analgésiques, les opioïdes ou d’autres
+médicaments psychotropes,
+ chez les patients qui sont traités simultanément ou qui ont été traités dans les 14 jours précédents par
+les inhibiteurs de la monoamine oxydase (MAO) (voir rubrique 4.5),
+ en cas d’épilepsie non contrôlée par un traitement,
+ dans le traitement de sevrage des toxicomanes.
+4.4. Mises en garde spéciales et précautions d'emploi
+TRAMADOL ALMUS doit être utilisé avec prudence chez les patients dépendants aux opioïdes, chez les
+patients présentant un traumatisme crânien, un état de choc, une altération de la conscience d’origine
+incertaine, des troubles centraux ou périphériques de la fonction respiratoire ou une augmentation de la
+pression intracrânienne.
+Chez les patients dépendants aux opioïdes le traitement devra être pris avec précaution.
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 3/17
+
+--- Page 4 ---
+L'utilisation concomitante de TRAMADOL ALMUS et de médicaments sédatifs tels que les
+benzodiazépines ou les médicaments apparentés peut entraîner une sédation, une dépression
+respiratoire, le coma et la mort. En raison de ces risques, la prescription concomitante de ces
+médicaments sédatifs doit être réservée aux patients pour lesquels d’autres options de traitement ne
+sont pas possibles. Si une décision est prise de prescrire TRAMADOL ALMUS en association avec des
+médicaments sédatifs, la dose efficace la plus faible doit être utilisée et la durée du traitement doit être
+aussi courte que possible.
+Les patients doivent être suivis de près pour détecter tout signe ou symptôme de dépression respiratoire
+et de sédation. À cet égard, il est fortement recommandé d’informer les patients et leurs soignants de
+ces symptômes (voir rubrique 4.5).
+Des convulsions ont été rapportées chez des patients recevant du tramadol aux doses recommandées.
+Le risque de convulsions est accru si les doses de chlorhydrate de tramadol dépassent la limite
+supérieure de la dose quotidienne recommandée (400 mg). Le tramadol peut en outre accroître le risque
+de convulsions chez les patients prenant d’autres produits qui abaissent le seuil épileptogène (voir
+rubrique 4.5). Les patients épileptiques ou les patients susceptibles de présenter des convulsions ne
+devront être traités par tramadol qu’en cas de nécessité absolue.
+Une attention particulière devra être portée lors du traitement des patients souffrant d’insuffisance
+respiratoire ou traités par dépresseurs centraux (voir rubrique 4.5), ou si la dose recommandée est
+largement dépassée (voir rubrique 4.9) : un risque de dépression respiratoire ne peut être exclu dans ces
+situations.
+Troubles respiratoires liés au sommeil
+Les opioïdes peuvent provoquer des troubles respiratoires liés au sommeil, notamment l’apnée centrale
+du sommeil (ACS) et l’hypoxémie liée au sommeil. Le risque d’ACS augmente en fonction de la dose
+d’opioïdes utilisée. Chez les patients présentant une ACS, une diminution de la dose totale d’opioïdes
+doit être envisagée.
+Syndrome sérotoninergique
+Le syndrome sérotoninergique, une affection potentiellement mortelle, a été rapporté chez des patients
+traités par le tramadol en association avec d’autres agents sérotoninergiques ou par le tramadol seul (voir
+rubriques 4.5, 4.8 et 4.9).
+Si un traitement concomitant avec d’autres agents sérotoninergiques est justifié sur le plan clinique, il est
+conseillé d’observer attentivement le patient, tout particulièrement pendant l’instauration du
+traitement et les augmentations de dose.
+Les symptômes du syndrome sérotoninergique peuvent comprendre des modifications de l’état mental,
+une instabilité autonome, des anomalies neuromusculaires et/ou des symptômes gastro-intestinaux.
+En cas de suspicion de syndrome sérotoninergique, une réduction de dose ou un arrêt du traitement
+devra être envisagé(e) en fonction de la gravité des symptômes. Le retrait des médicaments
+sérotoninergiques apporte généralement une amélioration rapide.
+Tolérance et trouble de l’usage d’opioïdes (abus et pharmacodépendance)
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 4/17
+
+--- Page 5 ---
+L’administration répétée d’opioïdes tels que TRAMADOL ALMUS peut entraîner une accoutumance, une
+dépendance physique et psychologique et un trouble de l’usage d’opioïdes (TUO). L’utilisation répétée
+de TRAMADOL ALMUS peut induire un trouble de l’usage d’opioïdes (TUO). Plus la dose est élevée et plus
+la durée du traitement par opioïdes est prolongée, plus le risque de développer un TUO sera accru.
+L’abus ou le mésusage intentionnel de TRAMADOL ALMUS peuvent entraîner un surdosage et/ou le
+décès.
+Le risque de développer un TUO est accru chez les patients présentant des antécédents personnels ou
+familiaux (parents ou frères et sœurs) de troubles liés à la consommation de substances (y compris
+l’alcoolisme), chez les fumeurs actifs ou chez les patients ayant des antécédents personnels de
+problèmes de santé mentale (par ex. dépression majeure, anxiété et trouble de la personnalité).
+Avant l’instauration du traitement par TRAMADOL ALMUS et pendant toute la durée du traitement, les
+objectifs thérapeutiques et un plan d’arrêt du traitement doivent être convenus avec le patient (voir
+rubrique 4.2). Avant et pendant le traitement, le patient doit également être informé des risques et des
+signes du TUO. Si ces signes apparaissent, il est conseillé aux patients de contacter leur médecin.
+Les patients devront être surveillés pour détecter les signes de consommation excessive de médicament
+(par ex. des demandes de renouvellement trop précoces). Cela inclut l'examen des opioïdes et des
+médicaments psychoactifs concomitants (comme les benzodiazépines). Pour les patients présentant des
+signes et symptômes de TUO, il convient d’envisager une consultation avec un spécialiste en
+toxicomanie.
+Lorsqu'un patient n'a plus besoin de traitement par tramadol, il peut être conseillé de diminuer
+progressivement la dose pour prévenir les symptômes de sevrage.
+Le tramadol ne convient pas comme substitut chez les patients dépendants aux opioïdes. Bien qu'il soit
+un agoniste des opioïdes, le tramadol ne peut pas supprimer les symptômes de sevrage de la morphine.
+Métabolisme par le CYP2D6
+Le tramadol est métabolisé par l’intermédiaire d’une enzyme hépatique, le CYP2D6. En cas de déficit ou
+d’absence totale de cette enzyme chez le patient, l’effet analgésique attendu pourra ne pas être obtenu.
+Il est estimé que jusqu’à 7 % de la population caucasienne pourrait présenter ce déficit. Toutefois, si le
+patient est un métaboliseur ultra-rapide, il existe un risque, même à dose recommandée, de
+manifestation d’effets indésirables liés à la toxicité des opiacés.
+Les symptômes généraux de toxicité des opiacés incluent une confusion mentale, une somnolence, une
+respiration superficielle, des pupilles contractées, des nausées, des vomissements, une constipation et
+une perte d’appétit. Dans les cas graves, les patients peuvent présenter les symptômes d’une défaillance
+circulatoire et respiratoire pouvant engager le pronostic vital et conduire à une issue fatale dans de très
+rares cas.
+Les prévalences estimées de métaboliseurs ultra-rapides dans différentes populations sont résumées ci-
+dessous:
+Population % de prévalence
+Africain/Éthiopien 29 %
+Afro-américain de 3,4 % à 6,5 %
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 5/17
+
+--- Page 6 ---
+Asiatique de 1,2 % à 2 %
+Caucasien de 3,6 % à 6,5 %
+Grec 6%
+Hongrois 1,9 %
+Européen du Nord de 1 % à 2 %
+Utilisation postopératoire chez les enfants
+La littérature rapporte des cas de tramadol administré à des enfants en postopératoire après une
+amygdalectomie et/ou une adénoïdectomie dans le cadre du traitement de l’apnée obstructive du
+sommeil, ayant mené à des événements indésirables rares mais pouvant engager le pronostic vital.
+L’administration de tramadol à des enfants pour le soulagement de douleurs postopératoires doit être
+sujette à la plus grande prudence et doit s’accompagner d’une étroite surveillance des symptômes en
+lien avec la toxicité des opiacés, notamment la dépression respiratoire.
+Enfants présentant une fonction respiratoire altérée
+L’utilisation du tramadol n’est pas recommandée chez les enfants présentant une fonction respiratoire
+altérée, notamment en cas de déficit neuromusculaire, d’affections cardiaques ou respiratoires sévères,
+d’infections des voies aériennes supérieures ou des poumons, de polytraumatismes ou d’interventions
+chirurgicales lourdes. Ces facteurs sont susceptibles d’aggraver les symptômes de toxicité des opiacés.
+Le tramadol doit être utilisé avec prudence chez les patients atteints de porphyrie aiguë car des tests in
+vitro ont montré un risque d'accumulation de porphyrine hépatique, ce qui pourrait déclencher une
+crise porphyrique.
+Insuffisance surrénalienne
+Les antalgiques opioïdes peuvent occasionnellement provoquer une insuffisance surrénalienne réversible
+nécessitant une surveillance et un traitement de substitution par glucocorticoïde. Les symptômes
+d'insuffisance surrénale aiguë ou chronique peuvent inclure par ex. douleur abdominale sévère, nausées
+et vomissements, hypotension artérielle, fatigue extrême, diminution de l’appétit et perte de poids.
+Enfants et métaboliseurs ultra-rapides du CYP2D6
+ Des cas de métaboliseurs ultra-rapides ont été rapportés, en particulier chez les enfants.
+ Les parents ou les soignants doivent être informés de la nécessité de surveiller étroitement l'enfant, en
+particulier lors de la première administration, et de contacter un médecin ou les services d'urgence si
+des signes inhabituels sont observés, notamment une altération de la conscience, un myosis, des
+vomissements, des convulsions ou une dépression respiratoire (voir rubrique 4.9).
+Ce médicament contient moins de 1 mmol (23 mg) de sodium par gélule, c’est-à-dire qu’il est
+essentiellement « sans sodium ».
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 6/17
+
+--- Page 7 ---
+TRAMADOL ALMUS est contre-indiqué avec les IMAO (voir rubrique 4.3).
+Chez les patients traités par inhibiteurs de la MAO dans les 14 jours précédant l'utilisation de l’opioïde
+pethidine, des interactions potentiellement mortelles sur le système nerveux central, les fonctions
+respiratoires et cardiovasculaires ont été observées. Les mêmes interactions avec les inhibiteurs de la
+MAO ne peuvent être exclues pendant le traitement par le tramadol.
+L'administration concomitante de tramadol avec d'autres médicaments dépresseurs centraux, y compris
+l'alcool, peut potentialiser les effets sur le système nerveux central (voir rubrique 4.8).
+L'utilisation concomitante de TRAMADOL ALMUS avec des gabapentinoïdes (gabapentine et
+prégabaline) peut entraîner une dépression respiratoire, une hypotension, une sédation profonde, un
+coma ou la mort.
+Médicaments sédatifs tels que les benzodiazépines ou médicaments apparentés :
+L’utilisation concomitante d’opioïdes avec des médicaments sédatifs tels que les benzodiazépines ou des
+médicaments apparentés augmente le risque de sédation, de dépression respiratoire, de coma ou de
+décès en raison d’un effet dépresseur additif sur le système nerveux central. La dose et la durée
+d'utilisation concomitante doivent être limitées (voir rubrique 4.4).
+Les études pharmacocinétiques, réalisées à ce jour, ont montré que l'administration concomitante ou
+antérieure de cimétidine (inhibiteur enzymatique) est peu susceptible de provoquer des interactions
+cliniquement pertinentes.
+L'administration simultanée ou antérieure de carbamazépine (inducteur enzymatique) peut réduire les
+effets analgésiques et raccourcir la durée d'action du tramadol.
+Le tramadol peut provoquer des convulsions et augmenter le potentiel épileptogène des inhibiteurs
+sélectifs de la recapture de la sérotonine (ISRS), des inhibiteurs de la recapture de la sérotonine et de
+l'adrénaline (IRSA), des antidépresseurs tricycliques, des antipsychotiques et d'autres médicaments
+abaissant le seuil épileptogène (tels que le bupropion, la mirtazapine, le tétrahydrocannabinol).
+L'utilisation concomitante de tramadol et de médicaments sérotoninergiques, tels que les inhibiteurs
+sélectifs de la recapture de la sérotonine (ISRS), les inhibiteurs de la recapture de la sérotonine et de la
+noradrénaline (IRSAN), les inhibiteurs de la MAO (voir rubrique 4.3), les antidépresseurs tricycliques et la
+mirtazapine peut causer un syndrome sérotoninergique, une affection potentiellement mortelle (voir
+rubriques 4.4 et4.8).
+Des précautions doivent être prises lors de traitement concomitant du tramadol avec les dérivés de la
+coumarine (par exemple, la warfarine) en raison de cas signalés d’augmentation de l’INR (International
+Normalized Ratio) accompagnée de saignements majeurs et d’ecchymoses chez certains patients.
+D'autres médicaments, connus pour inhiber le CYP3A4 tels que le kétoconazole, l'érythromycine, le
+ritonavir, la quinidine, la paroxétine, la fluoxétine, la sertraline, l’amitriptyline, et l’isoniazide peuvent
+inhiber le métabolisme du tramadol (N-déméthylation) et probablement également le métabolisme du
+métabolite O-déméthylé actif. L'importance clinique d'une telle interaction n'a pas fait l'objet d'études
+(voir rubrique 4.8).
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 7/17
+
+--- Page 8 ---
+Dans un nombre limité d'études, l'application pré- ou post-opératoire de l'antagoniste antiémétique 5-
+HT3 ondansétron a augmenté les besoins en tramadol chez les patients présentant une douleur post-
+opératoire.
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Les études animales utilisant le tramadol à des doses très élevées ont montré des effets sur le
+développement des organes, l’ossification et la mortalité néonatale. Aucun effet tératogène n’a été
+observé. Le tramadol traverse la barrière placentaire.
+On ne dispose pas de preuves suffisantes, concernant l’emploi du tramadol pendant la grossesse dans
+l’espèce humaine. Le tramadol ne doit donc pas être utilisé chez les femmes enceintes.
+Administré avant ou pendant l’accouchement, le tramadol ne modifie pas la contractilité utérine.
+Le tramadol peut provoquer chez les nouveau-nés des modifications de la fréquence respiratoire, qui
+sont généralement sans conséquences cliniques préjudiciables. Une utilisation prolongée pendant la
+grossesse peut entraîner un syndrome de sevrage chez le nouveau-né.
+Allaitement
+Environ 0,1 % de la dose de tramadol administrée à la mère est excrété dans le lait maternel. Durant la
+période du post-partum immédiat, une prise orale quotidienne jusqu’à 400 mg de tramadol par la mère
+correspond à une quantité moyenne de tramadol ingérée par le nourrisson allaité de 3 % de la dose prise
+par la mère ajustée au poids corporel. Ainsi, il convient soit de ne pas utiliser le tramadol pendant la
+lactation, soit d’interrompre l’allaitement lors d’un traitement par tramadol. L’interruption de
+l’allaitement n’est généralement pas nécessaire à la suite d’une prise unique de tramadol.
+Fertilité
+Les études après-commercialisation n’ont pas mis en évidence d’effet du tramadol sur la fertilité. Les
+études chez l’animal n’ont pas montré d’effet du tramadol sur la fertilité.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Les analgésiques opioïdes peuvent diminuer la capacité mentale et/ou physique à effectuer des tâches
+potentiellement dangereuses (par exemple, conduire un véhicule ou utiliser des machines), en particulier
+au début du traitement, après une augmentation de la dose, après un changement de posologie et/ou en
+cas d'administration concomitante avec d'autres médicaments. Les patients doivent être avertis de ne
+pas conduire ou utiliser de machines s'ils ressentent une somnolence, des étourdissements ou des
+troubles visuels pendant la prise de TRAMADOL ALMUS, ou jusqu'à ce qu'il soit établi que la capacité à
+effectuer ces activités n'est pas altérée. Cela est encore plus probable en cas de prise concomitante
+d'alcool et d'autres médicaments psychotropes.
+4.8. Effets indésirables
+Les effets indésirables les plus fréquemment rapportés sont des nausées et des vertiges qui sont
+observés chez plus de 10 % des patients.
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 8/17
+
+--- Page 9 ---
+Les fréquences sont définies comme suit :
+ Très fréquent : ≥ 1/10.
+ Fréquent : ≥ 1/100 à < 1/10.
+ Peu fréquent : ≥ 1/1 000 à < 1/100.
+ Rare : ≥ 1/10 000 à < 1/1 000.
+ Très rare : < 1/10 000.
+ Fréquence indéterminée : ne peut pas être estimée à partir des données disponibles.
+Affections cardiaques
+Peu fréquent : effets sur la régulation cardiovasculaire (palpitations, tachycardie). Ces effets indésirables
+peuvent survenir en particulier après une administration intraveineuse et chez les patients soumis à un
+stress physique.
+Rare : bradycardie.
+Investigations
+Rare : augmentation de la pression artérielle.
+Affections vasculaires
+Peu fréquent : effets sur la régulation cardiovasculaire (hypotension artérielle orthostatique ou collapsus
+cardiovasculaire). Ces effets indésirables peuvent survenir en particulier après une administration
+intraveineuse et chez les patients soumis à un stress physique.
+Affections du métabolisme et de la nutrition
+Rare : modification de l’appétit.
+Fréquence indéterminée : hypoglycémie.
+Affections respiratoires, thoraciques et médiastinales
+Rare : dépression respiratoire, dyspnée.
+Fréquence indéterminée : hoquet
+Une dépression respiratoire peut survenir, si les doses administrées dépassent largement les doses
+recommandées et si d'autres médicaments dépresseurs centraux sont administrés de façon
+concomitante (voir rubrique 4.5).
+L'aggravation d'un asthme a été également signalée, bien qu'une relation de causalité n'ait pas été
+établie.
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 9/17
+
+--- Page 10 ---
+Affections du système nerveux
+Très fréquent : vertiges.
+Fréquent : céphalées, somnolence.
+Rare : paresthésie, tremblements, convulsions, contractions musculaires involontaires, anomalie de la
+coordination, syncope, trouble de l’élocution.
+Fréquence indéterminée : syndrome sérotoninergique.
+Des convulsions sont survenues principalement après administration de doses élevées de tramadol ou
+après un traitement concomitant par des médicaments qui peuvent abaisser le seuil convulsivant (voir
+rubriques 4.4 et 4.5).
+Affections psychiatriques
+Rare : hallucinations, confusion, troubles du sommeil, délire, anxiété et cauchemars. On peut également
+observer après l’administration de tramadol, différents effets secondaires psychiques dont l’intensité et
+la nature varient d’un patient à l’autre (en fonction de la réactivité individuelle et de la durée du
+traitement). On peut aussi observer des troubles de l'humeur (habituellement une exaltation,
+occasionnellement une dysphorie), des modifications de l'activité (habituellement diminution de
+l'activité, occasionnellement un accroissement) et des modifications des capacités cognitive et
+sensorielle (par exemple, la capacité décisionnelle, des troubles de la perception).
+Des symptômes de sevrage, analogues à ceux notés lors d'un sevrage aux opiacés, peuvent survenir tels
+qu’agitation, anxiété, nervosité, insomnie, hyperkinésie, tremblements et symptômes gastro-intestinaux.
+D’autres symptômes de sevrage ont été très rarement rapportés, incluant : attaque de panique, anxiété
+sévère, hallucinations, paresthésies, acouphènes, autres troubles du SNC (comme par exemple confusion,
+délire, dépersonnalisation, déréalisation, paranoïa).
+Affections visuelles
+Rare : myosis, mydriase, vision floue.
+Affections gastro-intestinales
+Très fréquent : nausées.
+Fréquent : constipation, sécheresse de la bouche, vomissements.
+Peu fréquent : haut-le-cœur, inconfort gastro-intestinal (sensation de pesanteur gastrique, flatulences),
+diarrhées.
+Affections cutanées et des tissus sous-cutanés
+Fréquent : hyperhidrose.
+Peu fréquent : réactions cutanées (par exemple prurit, éruption cutanée, urticaire).
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 10/17
+
+--- Page 11 ---
+Affections musculosquelettique et systémique
+Rare : faiblesse musculaire.
+Affections hépatobiliaires
+Dans quelques cas isolés, une augmentation des enzymes hépatiques a été rapportée dans un rapport
+temporel avec l'utilisation thérapeutique du tramadol.
+Affections urinaires et rénales
+Rare : troubles mictionnels (dysurie et rétention urinaire).
+Affections du système immunitaire
+Rare : réactions allergiques (par exemple, dyspnée, bronchospasme, sifflement, œdème de Quincke) et
+anaphylaxie.
+Troubles généraux et anomalies au site d’administration
+Fréquent : asthénie.
+Pharmacodépendance
+L’utilisation répétée de TRAMADOL ALMUS peut entraîner une dépendance aux médicaments
+(pharmacodépendance), même aux doses thérapeutiques. Le risque de pharmacodépendance peut
+varier en fonction des facteurs de risque individuels du patient, de la posologie et de la durée du
+traitement par opioïdes (voir rubrique 4.4).
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/.
+4.9. Surdosage
+Symptômes
+En principe, lors d’une intoxication par le tramadol, des symptômes analogues à ceux provoqués par
+d’autres analgésiques à action centrale (opioïdes) sont attendus. Il s’agit en particulier d’un myosis, de
+vomissements, d’un collapsus cardiovasculaire, de troubles de la conscience allant jusqu’au coma, de
+convulsions et d’une dépression respiratoire allant jusqu’à l’arrêt respiratoire.
+Le syndrome sérotoninergique a également été rapporté.
+Traitement
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 11/17
+
+--- Page 12 ---
+Prendre les mesures d’urgence générales habituelles. Assurer la liberté des voies respiratoires (aspiration),
+maintenir la ventilation et la circulation en fonction des symptômes.
+L’antidote en cas de dépression respiratoire est la naloxone. En expérimentation animale, la naloxone n’a
+exercé aucun effet sur les convulsions. Dans de tels cas, du diazépam devra être administré par voie
+intraveineuse.
+En cas d’intoxication par des formes orales, l’élimination gastro-intestinale au charbon actif ou par lavage
+gastrique est recommandée uniquement dans les 2 heures après la prise de tramadol. Passé ce délai, une
+décontamination gastro-intestinale peut-être utile en cas d’intoxication par des quantités
+exceptionnellement importantes de tramadol ou par des formes à libération prolongée.
+Le tramadol est épuré très faiblement du sérum par hémodialyse ou par hémofiltration. C’est pourquoi le
+traitement d’une intoxication aiguë par le TRAMADOL ALMUS à l’aide d’une hémodialyse ou d’une
+hémofiltration seule n’est pas approprié à une désintoxication.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : AUTRES OPIOIDES, Code ATC : N02AX02.
+Le tramadol est un analgésique opioïde d’action centrale. Il s'agit d'un agoniste pur et non sélectif des
+récepteurs morphiniques µ -, δ - et κ -; avec une affinité plus élevée pour les récepteurs µ . D'autres
+mécanismes qui contribuent aux effets analgésiques du produit, sont l'inhibition de la recapture
+neuronale de noradrénaline et l'augmentation de la libération de sérotonine.
+Le tramadol a un effet antitussif. A l'inverse de la morphine, une large gamme de doses analgésiques de
+tramadol ne présente pas d'effet dépresseur respiratoire. La motilité gastro-intestinale est également
+moins affectée. Les effets sur le système cardiovasculaire ont tendance à être peu marqués. La puissance
+du tramadol serait 1/10 à 1/6 de celle de la morphine.
+Population pédiatrique
+Les effets d’une administration orale ou parentérale de tramadol ont été étudiés dans des essais
+cliniques ayant inclus plus de 2000 patients pédiatriques âgés de 0 (nouveau-né) à 17 ans. Les indications
+étudiées dans ces essais comprenaient le traitement des douleurs post-chirurgicales (principalement
+abdominale), des douleurs suite à des extractions dentaires chirurgicales, des fractures, des brûlures ou
+des traumatismes ainsi que d'autres conditions douloureuses pouvant nécessiter un traitement
+antalgique pendant au moins 7 jours.
+A des doses allant jusqu'à 2 mg/kg en dose unique ou 8 mg/kg par jour en doses multiples (sans dépasser
+400 mg par jour), l'efficacité du tramadol a été jugée supérieure au placebo, et supérieure ou égale au
+paracétamol, à la nalbuphine, à la péthidine ou à la morphine à faible dose. Les essais conduits ont
+confirmé l'efficacité du tramadol. Le profil de sécurité du tramadol était similaire chez les patients
+adultes et les patients pédiatriques âgés de plus de 1 an (voir rubrique 4.2).
+5.2. Propriétés pharmacocinétiques
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 12/17
+
+--- Page 13 ---
+Absorption
+Le tramadol est absorbé rapidement et presque complètement après administration orale. La
+biodisponibilité d'une dose orale de 50 à 100 mg est comprise entre 70 et 90 %. Après administration
+orale répétée de 50 à 100 mg de tramadol toutes les 6 heures, l'état d'équilibre est atteint après environ
+36 heures et la biodisponibilité augmente pour dépasser 90 %. La concentration plasmatique maximale
+de tramadol après une dose orale de 100 mg est d'environ 300 ng/ml et est atteinte environ deux heures
+après l'administration.
+La demi-vie de la phase d'absorption est de 0,38 ± 0,18 h.
+Distribution
+La demi-vie de la phase de distribution a une t½α d'environ 0,8 heure. Le volume de distribution est de 3
+à 4 l/kg.
+Le tramadol a une affinité tissulaire élevée (Vd,ß = 203 ± 40 l). La liaison du tramadol aux protéines
+plasmatiques humaines est d'environ 20 % et cette liaison semble indépendante de la concentration
+(jusqu'à 10 μ g/ml). La saturation de la liaison aux protéines plasmatiques ne se produit qu'à des
+concentrations bien supérieures à celles cliniquement pertinentes.
+Le tramadol traverse les barrières hémato-encéphalique et placentaire. Le tramadol et son dérivé O-
+déméthylé ont été détectés en très petites quantités dans le lait maternel (respectivement 0,1 % et 0,02
+% de la dose administrée).
+Métabolisme ou biotransformation
+Le métabolisme du tramadol chez l'homme se produit principalement par O-déméthylation et N-
+déméthylation, ainsi que par conjugaison de dérivés O-déméthylés avec l'acide glucuronique. Seul l'O-
+déméthyltramadol est pharmacologiquement actif. Des différences quantitatives interindividuelles
+significatives existent entre les autres métabolites. À ce jour, 11 métabolites ont été identifiés dans
+l'urine. Des études animales ont montré que l'O-déméthyltramadol est 2 à 4 fois plus puissant que le
+composé parent. Sa demi-vie t1/2,ß (chez 6 volontaires sains) est de 7,9 h (entre 5,4 et 9,6 h), ce qui est
+approximativement la même que celle du tramadol.
+L'inhibition d'un ou des deux types d'isoenzymes CYP3A4 et CYP2D6, impliqués dans la
+biotransformation du tramadol, peut affecter la concentration plasmatique du tramadol ou de son
+métabolite actif.
+Élimination
+Le tramadol et ses métabolites sont presque entièrement éliminés par voie rénale. L'élimination urinaire
+cumulée représente 90 % de la radioactivité totale de la dose administrée. En cas de dysfonctionnement
+rénal et hépatique, la demi-vie peut être légèrement prolongée. Chez les patients atteints de cirrhose du
+foie, la demi-vie d'élimination est de 13,3 ± 4,9 h (tramadol) et de 18,5 ± 9,4 h (O-desméthyltramadol), les
+cas extrêmes étant respectivement de 22,3 h et 36 h. Chez les patients souffrant d'insuffisance rénale
+(clairance de la créatinine < 5 ml/min), les valeurs étaient de 11 ± 3,2 h et 16,9 ± 3 h, les cas extrêmes étant
+respectivement de 19,5 h et 43,2 h.
+Quel que soit le mode d'administration, la demi-vie d'élimination t1/2,ß est d'environ 6 h. Chez les
+patients de plus de 75 ans, cette valeur peut augmenter d'environ 1,4 fois.
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 13/17
+
+--- Page 14 ---
+Linéarité
+Le profil pharmacocinétique du tramadol est linéaire dans la plage de doses thérapeutiques. La relation
+entre les concentrations sériques et l'effet analgésique dépend de la dose ; elle peut toutefois varier
+considérablement dans certains cas. En général, une concentration sérique de 100 à 300 ng/ml est
+efficace.
+Population pédiatrique
+Les profils pharmacocinétiques du tramadol et de l’O-desméthyltramadol après une dose unique et des
+doses multiples en administration orale à des sujets de 1 an à 16 ans ont été généralement semblables à
+ceux observés chez l’adulte lorsque la dose était ajustée au poids corporel, mais avec une variabilité plus
+élevée les sujets les plus jeunes d’âge pouvant aller jusqu’à 8 ans.
+Concernant les enfants de moins de 1 an, les profils pharmacocinétiques du tramadol et de l’O-
+desméthyltramadol ont été étudiés, mais n'ont pas été entièrement caractérisés. Les données pour ce
+groupe d’âge issues des études cliniques indiquent que le taux de formation de l’O-desméthyltramadol
+via le cytochrome CYP2D6 augmente de manière continue chez le nouveau-né, et les niveaux d'activité
+du CYP2D6 de l’adulte seraient atteints à environ 1 an. En outre, les systèmes immatures de
+glucuronidation ainsi que la fonction rénale immature peuvent entrainer une élimination lente et
+l'accumulation de l’O-desméthyltramadol chez les enfants de moins de 1 an.
+5.3. Données de sécurité préclinique
+Après administration orale et parentérale répétée de tramadol pendant 6 à 26 semaines chez le rat et
+chez le chien et après administration orale pendant 12 mois chez le chien, les études hématologiques,
+biochimiques et histologiques n'ont montré aucun signe en faveur de modifications liées au principe
+actif. Des manifestations neurologiques centrales sont survenues uniquement après des doses élevées,
+considérablement supérieures aux doses thérapeutiques: agitation, salivation, convulsions et réduction
+de la prise de poids. Les rats et les chiens ont respectivement toléré des doses orales de 20 mg/kg et 10
+mg/kg, et les chiens des doses rectales de 20 mg/kg, sans présenter de réactions.
+Chez le rat, des posologies de tramadol supérieures ou égales à 50 mg/kg/jour ont provoqué des effets
+toxiques chez les rates gestantes et un accroissement de la mortalité néonatale. On a observé dans la
+descendance des retards de croissance sous forme d'anomalies de l'ossification et des retards à
+l'ouverture vaginale et oculaire. La fertilité des animaux mâles et femelles n'a pas été altérée. Chez le
+lapin, on a mis en évidence des effets toxiques chez les mères à partir de doses de 125 mg/kg et des
+anomalies squelettiques dans la descendance.
+On a retrouvé dans certains tests in vitro des signes en faveur d'un effet mutagène. Les études in vivo
+n'ont pas montré de tels effets. Selon l'expérience acquise à ce jour, le tramadol peut être considéré
+comme non mutagène.
+Des études ont été effectuées chez les rats et les souris sur le potentiel carcinogène du chlorhydrate de
+tramadol. L'étude chez les rats n'a montré aucune preuve de l’augmentation de l’incidence des tumeurs,
+liée au principe actif. Dans l'étude chez les souris, on a noté un accroissement de la fréquence des
+adénomes hépatocellulaires chez les animaux mâles (accroissement dose-dépendant non significatif à
+partir de 15 mg/kg) et un accroissement des tumeurs pulmonaires chez les femelles pour tous les groupes
+posologiques (significatif, mais non dose-dépendant).
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 14/17
+
+--- Page 15 ---
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Cellulose microcristalline PH 102, carboxyméthylamidon sodique (type A), silice colloïdale anhydre,
+stéarate de magnésium.
+Enveloppe de la gélule :
+Gélatine, dioxyde de titane (E171).
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans.
+6.4. Précautions particulières de conservation
+A conserver dans l’emballage d’origine.
+6.5. Nature et contenu de l'emballage extérieur
+10, 20, 30, 60 et 100 gélules sous plaquettes (PVC/PVDC/Aluminium) de couleur blanche opaque.
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+ALMUS FRANCE
+211 AVENUE DES GRESILLONS
+92230 GENNEVILLIERS
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+ 34009 302 744 7 7 : 10 gélules sous plaquettes (PVC/PVDC/Aluminium).
+ 34009 301 768 6 3 : 20 gélules sous plaquettes (PVC/PVDC/Aluminium).
+ 34009 301 768 7 0 : 30 gélules sous plaquettes (PVC/PVDC/Aluminium).
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 15/17
+
+--- Page 16 ---
+ 34009 301 768 8 7 : 60 gélules sous plaquettes (PVC/PVDC/Aluminium).
+ 34009 550 640 7 7 : 100 gélules sous plaquettes (PVC/PVDC/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+Prescription en toutes lettres sur ordonnance sécurisée. Prescription limitée à 12 semaines
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 16/17
+
+--- Page 17 ---
+legifrance.gouv.fr gouvernement.fr service-public.fr data.gouv.fr
+Nos partenaires
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
+MINISTÈRE
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+ET DES FAMILLES
+19/11/2026 23:30 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67105161/extrait#tab-rcp 17/17

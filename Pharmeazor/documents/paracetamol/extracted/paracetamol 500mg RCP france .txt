@@ -1,0 +1,439 @@
+--- Page 1 ---
+Dernière mise à jour le 03/11/2026
+PARACETAMOL ACCORD 500 mg, comprimé effervescent
+ANSM - Mis à jour le : 06/02/2026
+1. DENOMINATION DU MEDICAMENT
+PARACETAMOL ACCORD 500 mg, comprimé effervescent
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Paracétamol......................................................................................................................... 500 mg
+Pour un comprimé effervescent.
+Excipients à effet notoire: chaque comprimé contient environ 418,5 mg de sodium et 100 mg de sorbitol
+(E420).
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé effervescent.
+Comprimés blancs à blanc cassé, ronds, plats, à bords biseautés, sans inscription sur les deux faces,
+sentant le citron.
+Diamètre : 25,4 mm approximativement.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles.
+Fiche info Résumé des caractéristiques du produit Notice Bon usage
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 1/13
+
+--- Page 2 ---
+4.2. Posologie et mode d'administration
+Posologie
+La dose maximale quotidienne ne doit pas être dépassée pour éviter un risque d’atteintes hépatiques
+sévères (voir rubriques 4.4 et 4.9)
+Chez l'adulte et l’adolescent de plus de 50 kg (> 15 ans)
+1 à 2 comprimés (500 mg à 1 g) toutes les 4 à 6 heures.
+Il n'est généralement pas nécessaire de dépasser 3 g de paracétamol par jour (6 comprimés par 24
+heures).
+La dose quotidienne maximale est de 4 g (8 comprimés par 24 heures).
+Population pédiatrique
+La posologie pédiatrique doit être basée sur le poids corporel et la forme posologique appropriée doit
+être utilisée.
+Les informations sur l'âge des enfants dans le groupe de poids donné ci-dessous sont fournies à titre
+indicatif.
+La dose recommandée chez les enfants est de 10-15 mg / kg de poids corporel toutes les 4 à 6 heures, 3 à
+4 fois par 24 heures. La dose maximale pour les enfants est de 60 mg / kg / 24 heures répartie en 4 doses.
+Enfants de plus de 40 kg (> 12 ans)
+1 comprimé (500 mg) toutes les 4-6 heures. La dose quotidienne maximale est de 2,5 g (5 comprimés par
+24 heures).
+L'intervalle entre les doses doit toujours être d'au moins 4 heures.
+Mode d’administration
+Voie orale.
+Les comprimés doivent être complétement dissous dans un verre d’eau avant d'être avalés.
+Groupes spéciaux de patients:
+Fonction hépatique altérée, consommation chronique d'alcool:
+Chez les patients présentant une insuffisance hépatique ou un syndrome de Gilbert, la dose doit être
+réduite, ou bien l'intervalle d'administration doit être prolongé.
+Insuffisance rénale:
+En cas d'insuffisance rénale, la dose doit être réduite de la manière suivante :
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 2/13
+
+--- Page 3 ---
+Patients âgés:
+Aucun ajustement posologique n'est nécessaire chez les personnes âgées.
+4.3. Contre-indications
+Hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1.
+4.4. Mises en garde spéciales et précautions d'emploi
+La prudence est conseillée lors de l'administration de paracétamol aux patients présentant une
+insuffisance rénale modérée ou grave, une insuffisance hépatocellulaire légère à modérée (notamment,
+syndrome de Gilbert), une insuffisance hépatique grave (score de Child-Pugh > 9), une hépatite aiguë,
+aux patients sous traitement concomitant par des médicaments affectant les fonctions hépatiques, aux
+patients souffrant d'un déficit en glucose-6-phosphatedéshydrogénase, d'anémie hémolytique, de
+déshydratation, de toxicomanie alcoolique et de dénutrition chronique.
+Ne pas associer avec d’autres analgésiques contenant du paracétamol (ex. médicaments en association).
+Des doses plus élevées que celles recommandées entraînent un risque de lésions hépatiques très graves.
+Les signes cliniques d’atteinte hépatique ne commencent généralement qu’après quelques jours et
+atteignent généralement leur apogée après 4-6 jours. Un antidote doit être administré dès que possible.
+Voir également rubrique 4.9 Surdosage.
+En cas de forte fièvre, de signes d'infection secondaire ou si les symptômes durent plus de 3 jours, le
+traitement doit être réévalué.
+Il convient d'être prudent chez les patients asthmatiques sensibles à l’aspirine, une légère réaction à type
+de bronchospasme ayant été rapportées avec le paracétamol (réaction croisée).
+Les risques de surdosage sont plus importants chez les patients atteints d'une maladie hépatique
+alcoolique non cirrhotique due à la consommation d'alcool. Des précautions doivent être prises chez les
+patients présentant un alcoolisme chronique. Dans de tels cas, la dose ne doit pas dépasser 2 g par jour.
+Il convient de ne pas consommer d’alcool pendant le traitement par paracétamol.
+Mise en garde chez les patients présentant des états d'appauvrissement en glutathion tels que la
+septicémie : l'utilisation de paracétamol peut augmenter le risque d'acidose métabolique.
+Des cas d’acidose métabolique à trou anionique élevé (AMTAE) due à une acidose pyroglutamique ont
+été rapportés chez les patients atteints d’une maladie grave telle qu’une d'insuffisance rénale sévère et
+un sepsis, ou chez les patients souffrant de malnutrition ou d'autres sources de déficit en glutathion (par
+exemple, l’alcoolisme chronique), qui ont été traités par du paracétamol à une dose thérapeutique
+pendant une période prolongée ou par une association de paracétamol et de flucloxacilline. En cas de
+Taux de filtration glomérulaire Posologie
+10– 50 ml/min 500 mg toutes les 6 heures
+< 10 ml/min 500 mg toutes les 8 heures
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 3/13
+
+--- Page 4 ---
+suspicion d’AMTAE due à une acidose pyroglutamique, il est recommandé d’arrêter immédiatement le
+paracétamol et d’effectuer une surveillance étroite. La mesure de la 5-oxoproline urinaire peut être utile
+pour identifier l’acidose pyroglutamique comme cause sous-jacente de l’AMTAE chez les patients
+présentant de multiples facteurs de risque.
+Ce médicament contient 418,5 mg de sodium par comprimé effervescent, ce qui correspond à 20,9% des
+apports journaliers maximums en sodium recommandés par l’OMS pour un adulte (2 g). Ce médicament
+a une teneur élevée en sodium
+La dose quotidienne maximum de ce médicament est équivalente à 167,4 % de l’apport alimentaire
+quotidien maximal en sodium recommandé par l’OMS, pour un adulte (2 g).
+PARACETAMOL ACCORD 500 mg, comprimé effervescent a une teneur élevée en sodium. Ceci est à
+prendre en compte chez les patients suivant un régime hyposodé.
+Chaque comprimé effervescent contient 100 mg de sorbitol (E420). Le sorbitol est une source de
+fructose. Les patients présentant une intolérance héréditaire au fructose (IHF), ne doivent pas
+prendre/recevoir ce médicament.
+Interférence avec les analyses de laboratoire
+Le paracétamol peut affecter les dosages de l'acide urique par l'acide phosphotungstique, et les
+déterminations de la glycémie par la glucose-oxydase-peroxydase.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Interactions pharmacodynamiques
+Des études ont montré que l’effet de la warfarine pouvait être renforcé lors d’un traitement au
+paracétamol. L'effet semble augmenter avec la dose de paracétamol mais peut se produire à des doses
+d'à peine 1,5 à 2,0 g de paracétamol par jour pendant au moins 5 à 7 jours. Des doses uniques de
+paracétamol à une posologie normale ne sont pas réputées avoir d'effet.
+Interactions pharmacocinétiques
+Effets d'autres médicaments sur la pharmacocinétique du paracétamol
+Des études pharmacocinétiques ont montré que des médicaments inducteurs enzymatiques, tels que
+certains antiépileptiques (phénytoïne, phénobarbital, carbamazépine), réduisaient l'ASC plasmatique du
+paracétamol d’environ 60%. D'autres substances ayant des propriétés d’inducteurs enzymatiques, par
+exemple la rifampicine et le millepertuis (Hypericum perforatum) sont également suspectés de provoquer
+des concentrations plus faibles de paracétamol. En outre, le traitement par la dose maximale
+recommandée de paracétamol chez les patients prenant des médicaments inducteurs enzymatiques
+peut entraîner un risque accru de lésions hépatiques.
+Le probénécide entraîne immédiatement une diminution de moitié de la clairance du paracétamol en
+inhibant sa conjugaison avec l'acide glucuronique. Cela signifierait que la dose de paracétamol devrait
+être réduite de moitié en cas de traitement concomitant avec le probénécide.
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 4/13
+
+--- Page 5 ---
+Le métoclopramide peut augmenter le taux d'absorption du paracétamol, mais les substances peuvent
+être administrées ensemble. L'absorption de paracétamol est réduite par la cholestyramine. La
+cholestyramine ne doit pas être administrée dans l’heure si l’effet analgésique maximal doit être atteint.
+La zidovudine peut affecter le métabolisme du paracétamol et inversement, ce qui peut augmenter la
+toxicité des deux médicaments.
+Effets de PARACETAMOL ACCORD sur la pharmacocinétique d'autres médicaments
+Le paracétamol peut affecter la pharmacocinétique du chloramphénicol. L'analyse du chloramphénicol
+plasmatique est donc recommandée lors d’un traitement d'association.
+Des précautions doivent être prises lorsque le paracétamol est utilisé en même temps que la
+flucloxacilline, car une prise concomitante a été associée à une acidose métabolique à trou anionique
+élevé due à une acidose pyroglutamique, en particulier chez les patients présentant des facteurs de
+risque (voir rubrique 4.4).
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Une grande quantité de données sur les femmes enceintes n’indiquent ni toxicité malformative, ni
+toxicité féto/néonatale. Le paracétamol peut être utilisé pendant la grossesse si cela est cliniquement
+nécessaire, mais il doit être utilisé à la dose efficace la plus faible possible le moins longtemps possible et
+à la fréquence la plus faible possible.
+Allaitement
+Après administration orale, le paracétamol est sécrété en petites quantités dans le lait maternel. A ce
+jour, il n'a pas été rapporté de réactions ou d'effets indésirables en relation avec l'allaitement. Des doses
+thérapeutiques de paracétamol peuvent être administrées pendant l'allaitement.
+Le paracétamol est excrété en faibles quantités dans le lait maternel. Aucun effet indésirable sur les
+nourrissons allaités n'a été rapporté. Le paracétamol peut être utilisé pendant l'allaitement tant que la
+posologie recommandée n'est pas dépassée. Il convient d’être prudent en cas d'utilisation à long terme.
+Fertilité
+Il n’y a pas d’effet dû au traitement par du paracétamol sur la fertilité.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Le paracétamol n'a aucun effet sur l'aptitude à conduire des véhicules et à utiliser des machines.
+4.8. Effets indésirables
+Les effets idésirables causés par PARACETAMOL ACCORD sont généralement rares. Les effets
+indésirables les plus courants sont les réactions cutanées et l’augmentation du taux de transaminases
+hépatiques.
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 5/13
+
+--- Page 6 ---
+La fréquence des effets indésirables est décrite à l'aide des conventions suivantes: très fréquent (≥ 1/10) ;
+fréquent (≥ 1/100 à < 1/10) ; peu fréquent (≥ 1/1 000 à < 1/100) ; rare (≥ 1/10 000 à < 1/1 000) ; très rare (<
+1/10 000), fréquence indéterminée (ne peut pas être estimée sur la base des données disponibles).
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 6/13
+
+--- Page 7 ---
+Système Classe
+Organe Fréquence Effets indésirables
+Affections
+hématologiques et du
+système lymphatique
+Rare
+Thrombopathies, atteintes des
+cellules souches,
+agranulocytose,
+thrombocytopénie,
+neutropénie, leucopénie,
+anémie hémolytique,
+pancytopénie
+Affections du système
+immunitaire
+Rare Allergies (sauf angiœdème).
+Très rare
+Choc anaphylactique, réaction
+d'hypersensibilité (nécessitant
+l'arrêt du traitement)
+Troubles du
+métabolisme et de la
+nutrition
+Très rare Hypoglycémie
+Indéterminée Acidose métabolique à trou anionique élevé
+Affections
+psychiatriques Rare Dépression confusion, hallucinations
+Affections du système
+nerveux Rare Tremblements, céphalées
+Affections oculaires Rare Vision anormale
+Affections
+respiratoires,
+thoraciques et
+médiastinales
+Très rare Bronchospasme
+Affections gastro-
+intestinales Rare
+Hémorragie, douleur
+abdominale, diarrhée, nausées,
+vomissements
+Affections
+hépatobiliaires
+Rare
+Elévation des transaminases
+hépatiques, fonction hépatique
+anormale, insuffisance
+hépatique, nécrose hépatique,
+jaunisse.
+Très rare Dommages hépatiques
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 7/13
+
+--- Page 8 ---
+Description des effets indésirables sélectionnés
+Acidose métabolique à trou anionique élevé
+Des cas d’acidose métabolique à trou anionique élevé due à une acidose pyroglutamique ont été
+observés chez des patients présentant des facteurs de risque et prenant du paracétamol (voir rubrique
+4.4). Une acidose pyroglutamique peut survenir chez ces patients en raison des faibles taux de
+glutathion.
+Des lésions hépatiques liées au paracétamol ont été associées à un abus d’alcool. Le risque de dommages
+aux reins ne peut pas être entièrement exclu avec une utilisation à long terme.
+Une néphrite interstitielle a d'ailleurs été rapportée après une utilisation prolongée de doses élevées.
+Certains cas d'érythème polymorphe, d'œdème du larynx, d'anémie, d'altération hépatique et
+d'hépatite, d'altération rénale (insuffisance rénale grave, hématurie, anurie) et de vertiges ont été
+rapportés.
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr .
+4.9. Surdosage
+A des doses trop élevées, la capacité de conjugaison hépatique peut être réduite, consécutivement une
+grande partie de la dose est métabolisée par oxydation. Si les réserves de glutathion sont épuisées, les
+métabolites intermédiaires se lient de manière irréversible aux macromolécules du foie. Les symptômes
+cliniques de lésions hépatiques n'apparaissent généralement qu'après quelques jours. Après des doses
+toxiques il est donc crucial de commencer le traitement avec un antidote dès que possible afin de
+prévenir ou de minimiser les dommages hépatiques.
+Système Classe
+Organe Fréquence Effets indésirables
+Affections de la peau
+et du tissu sous-
+cutané
+Rare Prurit, urticaire, angiœdème, dermatite allergique
+Très rare Des réactions cutanées graves ont été rapportées
+Indéterminée Syndrome de Stevens-Johnson, nécrolyse épidermique toxique
+Affections rénales et
+urinaires Très rare Pyurie stérile (urine trouble) et effets secondaires rénaux
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 8/13
+
+--- Page 9 ---
+Toxicité
+Voir le paragraphe « Traitement » ci-dessous pour les informations sur les concentrations plasmatiques
+toxiques. Des intoxications létales ont été provoquées par 5 g sur 24 heures chez des enfants jusqu’à 3,5
+ans, 15-20 g chez les adultes, 10 g chez un alcoolique. La dose toxique pour les adultes est généralement
+de 140 mg/kg et la dose toxique pour les enfants est d’environ 175 mg/kg. La famine, la déshydratation,
+les médicaments contenant des inducteurs enzymatiques (antiépileptiques, prométhazine, etc.) et une
+consommation excessive d’alcool chronique sont des facteurs de risque et peuvent provoquer des
+lésions hépatiques marquées, même à faible dose. Même un surdosage "thérapeutique" subaigu a
+conduit à une intoxication grave avec des doses variant de 6 g/jour pendant une semaine, 20 g pendant
+2 ou 3 jours, etc.
+Symptômes
+Quelques heures après l'ingestion et pendant les 2 premiers jours, des douleurs abdominales, des
+nausées et des vomissements peuvent apparaitre. Après 2 à 3 jours, des signes de lésion hépatique avec
+élévation des taux de transaminases, chute des valeurs de prothrombine, coagulopathie, ictère, malaise,
+hypoglycémie, hypokaliémie, hypophosphatémie, acidose métabolique, coagulation intravasculaire
+disséminée peuvent apparaitre. Insuffisance hépatique et coma hépatique. Les dommages hépatiques
+atteignent généralement leur maximum après 4 à 6 jours. Les lésions rénales peuvent être secondaires
+aux lésions hépatiques ou constituer la manifestation toxique unique ou principale dans les 24 à 72
+heures suivant le surdosage. Une pancréatite et des lésions toxiques du myocarde avec arythmie et
+insuffisance cardiaque ont été rapportées. À des concentrations extrêmement élevées, des cas de perte
+de conscience associée à une acidose et à une hyperglycémie ont été rapportés. Pancytopénie.
+Traitement
+Si nécessaire, lavage gastrique et charbon activé. La concentration plasmatique de paracétamol doit être
+mesurée 4 heures ou plus après l'ingestion. Réponse aiguë. De fausses valeurs peuvent être mesurées si
+de la N-acétylcystéine a déjà été administrée. Si un anti diarrhéique a été administré, un nouvel
+échantillon doit être prélevé 2 heures après le premier prélèvement (concentration maximale différée).
+Un traitement par N-acétylcystéine débuté dans les 8 à 10 heures permet une protection complète
+contre les lésions hépatiques, après quoi l'effet diminue. La N-acétylcystéine est utilisée si la
+concentration de paracétamol est supérieure aux niveaux suivants aux temps respectifs: 1000 µ mol/l à 4
+heures, 700 µ mol/l à 6 heures et 450 µ mol/l à 9 heures après l'exposition.
+En cas d'alcoolisme concomitant, de famine, de déshydratation, d'altération de la fonction hépatique ou
+de prise de médicaments contenant des inducteurs enzymatiques, il peut être justifié de fixer le seuil du
+traitement antidote à environ ¾ des niveaux indiqués ci-dessus. La méthode d'administration est
+adaptée aux circonstances (niveau de conscience, tendance aux vomissements, etc.). Cependant, la N-
+acétylcystéine administrée par voie intraveineuse est jugée plus efficace et plus sûre.
+Posologie de la N-acétylcystéine: 150 mg/kg initialement par voie intraveineuse dans 200 à 300 ml de
+solution isotonique pour perfusion sur 15 minutes, puis 50 mg/kg dans 500 ml de glucose à 50 mg/ml sur
+4 heures, puis 6,25 mg/kg/heure sur 16 heures (75 mg/kg dissous dans 500 ml de solution de glucose
+isotonique et administrés en 12 heures). Les volumes perfusés peuvent être réduits si nécessaire.
+Contactez le centre antipoison pour obtenir plus d’informations.
+Dans des circonstances exceptionnelles, la N-acétylcystéine peut être administrée par voie orale si la voie
+intraveineuse n'est pas possible. Contactez le centre antipoison pour plus d'informations. La N-
+acétylcystéine peut garantir une certaine protection même après 10 heures, mais dans ce cas, un
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 9/13
+
+--- Page 10 ---
+traitement prolongé doit être administré. La N-acétylcystéine réduit également la mortalité en cas
+d’insuffisance hépatique due au paracétamol (veuillez-vous adresser au centre antipoison).
+Surveillance étroite des fonctions hépatique et rénale, de la coagulation et des électrolytes.
+Lorsque le délailimite pour un traitement antidote efficace est dépassé et en cas de concentrations
+toxiques, une hémoperfusion peut être indiquée dans des circonstances spéciales. Dans les cas extrêmes,
+une greffe du foie peut être nécessaire.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique: autres analgésiques et antipyrétiques, code ATC: N02BE01.
+Le paracétamol est un dérivé de l'aniline ayant des actions analgésiques et antipyrétiques similaires à
+celles de l'acide acétylsalicylique.
+L'effet antipyrétique est probablement obtenu par une action sur l’hypothalamus, centre de régulation
+de la température, en augmentant la dispersion de chaleur. L'action centrale est probablement liée à
+l'inhibition de la synthèse des prostaglandines dans l'hypothalamus.
+La période de latence pour l'effet analgésique est d'environ 30 minutes. L'effet maximal est atteint en 1 à
+2 heures et dure 4 à 5 heures. L'évolution de l'effet antipyrétique est un peu plus lente. Ainsi, la période
+de latence est d'environ 30 minutes, la réduction maximale de la fièvre est observée après 2 à 3 heures et
+l'effet dure environ 8 heures.
+5.2. Propriétés pharmacocinétiques
+Absorption
+L'absorption du paracétamol administré par voie orale est rapide et complète. Les concentrations
+plasmatiques maximales sont atteintes 30 à 60 minutes après l'ingestion.
+Distribution
+Le paracétamol est distribué rapidement à travers tous les tissus. Les concentrations sont comparables
+dans le sang, la salive et le plasma. La liaison aux protéines est faible aux doses recommandées.
+Biotransformation
+La demi-vie dans le plasma est d'environ 2 heures.
+Le paracétamol est métabolisé principalement dans le foie par le biais de deux voies métaboliques
+majeures: la conjugaison à l'acide glucuronique et la conjugaison à l'acide sulfurique. Une petite quantité
+(environ 3 à 10% de la dose thérapeutique) est métabolisée par oxydation par le cytochrome P450,
+entraînant la formation d'un réactif intermédiaire qui se lie préférentiellement au glutathion hépatique
+et est éliminé après conjugaison avec la cystéine et l'acide mercapturique.
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 10/13
+
+--- Page 11 ---
+Elimination
+L'élimination est rénale. Environ 2 à 3% de la dose thérapeutique sont excrétés sous forme inchangée,
+environ 80-90% sous forme de glucuronide et de sulfate et une plus petite quantité sous forme de
+dérivés de la cystéine et de l'acide mercapturique.
+Insuffisance rénale
+Chez les patients présentant une insuffisance rénale sévère (clairance à la créatinine <10 ml/min),
+l’élimination du paracétamol et de ses métabolites est retardée.
+Patients âgés
+La conjugaison est inchangée dans ce groupe de patients.
+Population pédiatrique
+Chez les nouveau-nés et les enfants de moins de 12 ans, la conjugaison au sulfate est la principale voie
+d'élimination et la glucurono-conjugaison est plus faible que chez l'adulte. L'élimination totale chez les
+enfants est comparable à celle des adultes, en raison d'une capacité accrue de conjugaison des sulfates.
+Chez les enfants, la formation du produit intermédiaire toxique est réduite par rapport à celle des
+adultes. De plus, les nouveau-nés ont une capacité accrue à remplacer le glutathion dans le foie. Par
+conséquent, les lésions hépatiques graves causées par le paracétamol semblent être plus rares chez les
+enfants que chez les adultes. La demi-vie d'élimination du paracétamol est de 2 à 2,5 heures chez
+l'enfant.
+5.3. Données de sécurité préclinique
+Il n'y a pas de données précliniques pertinentes pour l'évaluation de la sécurité d'emploi au-delà de ce
+qui a déjà été couvert dans le Résumé des caractéristiques du produit.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Acide citrique anhydre (E330), bicarbonate de sodium, sorbitol (E420), carbonate de sodium anhydre,
+povidone, siméticone, saccharine sodique, macrogol, Powdarome Lemon Premium (préparations
+aromatisantes, substances aromatisantes, substances aromatisantes naturelles, maltodextrine de maïs,
+gomme d'acacia, alpha-tocophérol).
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+2 ans.
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 11/13
+
+--- Page 12 ---
+6.4. Précautions particulières de conservation
+A conserver à une température ne dépassant pas 30°C.
+Tube : conserver le tube soigneusement fermé à l'abri de l'humidité.
+Films thermosoudés : conserver dans l'emballage extérieur d'origine à l'abri de l'humidité.
+6.5. Nature et contenu de l'emballage extérieur
+Films thermosoudés :
+6, 10, 12, 16, 20, 24, 30, 40, 60, 90, 100 et 500 comprimés sous films themosoudés unitaires prédécoupés [4
+couches papier/PE/Alu/Surlyn (copolymère d'éthylène/acide méthacrylique/zinc)].
+Tube:
+6, 10, 12, 16, 20, 24, 30, 40, 60, 90, 100 et 500 comprimés en tube fermé par un capuchon inviolable en
+polyéthylène, opaque blanc, avec déshydratant incorporé (granules sèches ou billes de gel de silice et
+tamis moléculaire).
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+ACCORD HEALTHCARE FRANCE SAS
+635 RUE DE LA CHAUDE RIVIERE
+59000 LILLE
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+ 34009 301 683 4 9 : 16 comprimés sous plaquette(s) (Papier/PE/Aluminium/Surlyn).
+ 34009 301 683 5 6 : 16 comprimés en tube (Polypropylène).
+ 34009 550 615 7 1 : 100 comprimés sous plaquette(s) (Papier/PE/Aluminium/Surlyn).
+ 34009 550 615 9 5 : 100 comprimés en tube (Polypropylène).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 12/13
+
+--- Page 13 ---
+legifrance.gouv.fr gouvernement.fr service-public.fr data.gouv.fr
+Nos partenaires
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Médicament non soumis à prescription médicale.
+MINISTÈRE
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+ET DES FAMILLES
+19/11/2026 22:42 Base de Données Publique des Médicaments
+https://base-donnees-publique.medicaments.gouv.fr/medicament/67017786/extrait#tab-rcp 13/13
