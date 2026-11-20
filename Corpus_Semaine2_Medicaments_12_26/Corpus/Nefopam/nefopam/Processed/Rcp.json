@@ -1,0 +1,130 @@
+{
+  "document_type": "Résumé des caractéristiques du produit (RCP)",
+  "source_file": "Raw/Rcp.pdf",
+  "medicine": {
+    "brand_name": "NEFOPAM ARROW",
+    "active_substance": "chlorhydrate de néfopam",
+    "strength": "20 mg/2 mL",
+    "pharmaceutical_form": "solution injectable",
+    "route": [
+      "intramusculaire (IM)",
+      "intraveineuse (IV)"
+    ],
+    "atc_code": "N02BG06"
+  },
+  "composition": {
+    "active_substance_per_ampoule": "chlorhydrate de néfopam 20 mg",
+    "ampoule_volume": "2 mL",
+    "excipients": [
+      "phosphate monosodique dihydraté",
+      "phosphate disodique dodécahydraté",
+      "eau pour préparations injectables"
+    ],
+    "sodium_note": "Le document mentionne 5,23 mg de sodium par ampoule."
+  },
+  "indication_therapeutique": "Traitement symptomatique des affections douloureuses aiguës, notamment des douleurs post-opératoires.",
+  "posologie": {
+    "general": "Adapter à l'intensité de la douleur et à la réponse clinique.",
+    "IM": "20 mg par injection IM profonde; répétition si nécessaire toutes les 6 heures; maximum 120 mg/24 heures.",
+    "IV": "20 mg par injection en perfusion IV lente sur plus de 15 minutes, patient en décubitus; répétition si nécessaire toutes les 4 heures; maximum 120 mg/24 heures."
+  },
+  "contre_indications": [
+    "Hypersensibilité à la substance active ou à un excipient",
+    "Enfant de moins de 15 ans (en l'absence d'étude clinique)",
+    "Convulsions ou antécédents de troubles convulsifs",
+    "Risque de rétention urinaire lié à des troubles urétroprostatiques",
+    "Risque de glaucome par fermeture de l'angle"
+  ],
+  "precautions": [
+    "Insuffisance hépatique",
+    "Insuffisance rénale: risque d'accumulation et d'effets indésirables",
+    "Pathologie cardiovasculaire: effet tachycardisant",
+    "Sujet âgé: traitement déconseillé en raison des effets anticholinergiques",
+    "Risque de pharmacodépendance"
+  ],
+  "interactions": {
+    "alcohol": "Association déconseillée; majoration de l'effet sédatif et altération de la vigilance.",
+    "other_cns_depressants": [
+      "dérivés morphiniques",
+      "neuroleptiques",
+      "barbituriques",
+      "benzodiazépines",
+      "anxiolytiques",
+      "hypnotiques",
+      "antidépresseurs sédatifs",
+      "antihistaminiques H1 sédatifs",
+      "antihypertenseurs centraux",
+      "baclofène",
+      "thalidomide"
+    ]
+  },
+  "pregnancy_breastfeeding": "Par mesure de prudence, ne pas prescrire pendant la grossesse ni pendant l'allaitement.",
+  "driving": "Risque éventuel de somnolence et d'altération de la vigilance.",
+  "adverse_effects": {
+    "very_common": [
+      "somnolence",
+      "nausée avec ou sans vomissement",
+      "hyperhydrose"
+    ],
+    "common": [
+      "vertige",
+      "tachycardie",
+      "palpitation",
+      "bouche sèche",
+      "rétention urinaire"
+    ],
+    "rare": [
+      "excitabilité",
+      "irritabilité",
+      "hallucination",
+      "abus",
+      "pharmacodépendance",
+      "convulsion",
+      "malaise",
+      "réaction d'hypersensibilité"
+    ],
+    "frequency_undetermined": [
+      "état confusionnel",
+      "coma",
+      "douleur au site d'injection"
+    ]
+  },
+  "overdose": {
+    "manifestations": [
+      "tachycardie",
+      "coma",
+      "convulsions",
+      "hallucinations"
+    ],
+    "management": "Traitement symptomatique avec surveillance cardiaque et respiratoire en milieu hospitalier."
+  },
+  "pharmacology": {
+    "class": "Autres analgésiques et antipyrétiques",
+    "mechanism_summary": "Analgésique central non morphinique; activité anticholinergique; inhibition de la recapture des catécholamines et de la sérotonine décrite in vitro."
+  },
+  "pharmacokinetics": {
+    "IM_20mg": {
+      "Tmax": "0,5 à 1 heure",
+      "Cmax": "25 ng/mL en moyenne",
+      "half_life": "5 heures en moyenne"
+    },
+    "IV_same_dose_half_life": "4 heures en moyenne",
+    "plasma_protein_binding": "71–76 %",
+    "elimination": "Essentiellement urinaire; 87 % de la dose retrouvés dans les urines; moins de 5 % sous forme inchangée."
+  },
+  "storage_and_shelf_life": {
+    "shelf_life": "3 ans",
+    "after_opening_reconstitution_dilution": "Utiliser immédiatement",
+    "storage": "Pas de précautions particulières"
+  },
+  "marketing_authorisation_holder": "EUGIA PHARMA (MALTA) LTD",
+  "marketing_authorisation_numbers": [
+    "34009 302 824 0 3 — ampoule de 2 mL, boîte de 5",
+    "34009 302 824 1 0 — ampoule de 2 mL, boîte de 20"
+  ],
+  "prescription_category": "Liste I",
+  "source_notes": [
+    "Les données de ce JSON sont transcrites du RCP fourni NEFOPAM ARROW 20 mg/2 mL solution injectable.",
+    "Le fichier Notice_patient.pdf concerne une autre présentation: Nefopam hydrochloride 30 mg comprimés; ses données ne sont pas mélangées à celles du RCP injectable."
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "n": 17,
+  "dci": "ceftriaxone",
+  "atc": "J01DD04",
+  "classe": "Antibiotiques",
+  "source_pdf": "Raw/Rcp_arrow_500mg_2mL_IM.pdf",
+  "nb_caracteres": 61313,
+  "nb_sections": 28,
+  "nb_chunks": 103,
+  "chunks": [
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0000",
+      "section": null,
+      "titre_section": "En-tête",
+      "texte": "EM MINISTÈRE h DU TRAVAIL, DE LA SANTE, = . PAT DES SOLIDARITÉS Base de Données Publique des Médicaments ET DES FAMILLES Dernière mise à jour le 03/11/2026 CEFTRIAXONE ARROW 500 mg/2 mL, poudre et solvant pour solution injectable (1M) Fiche info Résumé des caractéristiques du produit Notice ANSM - Mis à jour le : 02/08/2024"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0001",
+      "section": "1",
+      "titre_section": "DENOMINATION DU MEDICAMENT",
+      "texte": "CEFTRIAXONE ARROW 500 mg/2 mL, poudre et solvant pour solution injectable (1M)"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0002",
+      "section": "2",
+      "titre_section": "COMPOSITION QUALITATIVE ET QUANTITATIVE",
+      "texte": "CeftriaXOne.....................sssesesesesseseesenieseeeseeeneeenesnes 500,000 mg Sous forme de ceftriaxone sodique.. 539,635 mg Pour Un flacon de poudre Excipient à effet notoire : ce médicament contient 41,50 mg de sodium par flacon. Pour la liste complète des excipients, voir rubrique 61."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0003",
+      "section": "3",
+      "titre_section": "FORME PHARMACEUTIQUE",
+      "texte": "Poudre et solvant pour solution injectable (1M)."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0004",
+      "section": "4.1",
+      "titre_section": "Indications thérapeutiques",
+      "texte": "CEFTRIAXONE ARROW est indiqué dans le traitement des infections suivantes chez l'adulte et l'enfant, y compris le nouveau-né à terme (à partir de la naissance) : + méningite bactérienne, e pneumonie communautaire, + pneumonie nosocomiale, eotite moyenne aiguë, einfections intra-abdominales, einfections urinaires compliquées (pyélonéphrite incluse), einfections des os et des articulations, einfections compliquées de la peau et des tissus mous, egonorrhée, esyphilis, -endocardite bactérienne. CEFTRIAXONE ARROW peut être utilisé : dans le traitement des poussées aiguës de bronchopneumopathie chronique obstructive chez l'adulte ; - dans le traitement de la maladie de Lyme disséminée (phase précoce [stade 11] et phase tardive [stade I) chez l'adulte et l'enfant, y compris chez le nouveau-né à"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0005",
+      "section": "4.1",
+      "titre_section": "Indications thérapeutiques",
+      "texte": "sséminée (phase précoce [stade 11] et phase tardive [stade I) chez l'adulte et l'enfant, y compris chez le nouveau-né à partir de l'âge de 15 jours; een prophylaxie pré-opératoire des infections du site opératoire ; - pour le traitement des patients neutropéniques fébriles dont l'origine bactérienne est suspectée ; - dans le traitement des patients présentant une bactériémie associée ou suspectée d'être associée à l’Une des infections listées ci-dessus. CEFTRIAXONE ARROW doit être co-administré avec d'autres antibactériens en cas de suspicion d'infections impliquant des bactéries résistantes à la ceftriaxone (voir rubrique 4.4). Il convient de tenir compte des recommandations officielles concernant l’utilisation appropriée des antibactériens."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0006",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "L'ensemble de l'information relative aux posologies des spécialités CEFTRIAXONE ARROW par voie IV ou IM est mentionné dans cette rubrique. Il importe de toujours se référer à l'information pertinente en fonction de la dose et de la voie d'administration utilisées. Posologie La dose dépend de la sévérité, de la sensibilité bactérienne, du site et du type d'infection, ainsi que de l'âge et de la fonction hépatique et rénale du patient. Les doses recommandées dans les tableaux qui suivent correspondent aux doses généralement recommandées dans les indications mentionnées ci-dessous. Dans les cas particulièrement sévères, il conviendra d'envisager les doses maximales recommandées. Adultes et enfants de plus de 12 ans (> 50 kg) Fréquence Indications d’administration** reant Dose de ceftriaxone*"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0007",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "ées. Adultes et enfants de plus de 12 ans (> 50 kg) Fréquence Indications d’administration** reant Dose de ceftriaxone* Pneumonie communautaire Poussées aiguës de bronchopneumopathie chronique obstructive 1-2g Une fois par jour Infections intra- abdominales Infections urinaires compliquées (pyélonéphrite incluse) Pneumonie nosocomiale Infections compliquées de 2g Une fois par jour la peau et des tissus mous. Infections des os et des articulations Traitement des patients neutropéniques fébriles dont l'origine bactérienne est suspectée 2-49 Une fois par jour Endocardite bactérienne Méningite bactérienne *En cas de bactériémie documentée, il conviendra d'envisager les doses maximales recommandées. **Une administration deux fois par jour (toutes les 12 h) peut être envisagée lorsque des doses"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0008",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "maximales recommandées. **Une administration deux fois par jour (toutes les 12 h) peut être envisagée lorsque des doses supérieures à 2 g par jour sont administrées. Indications pour l'adulte et l'enfant de plus de 12 ans (> 50 kg) nécessitant des schémas posologiques spécifiques Otite moyenne aiguë Il'est possible d'administrer une seule dose de 1 à 2 g de CEFTRIAXONE ARROW par voie intramusculaire. Des données limitées semblent indiquer que la ceftriaxone peut être efficace lorsqu'elle est administrée à la dose de 1 à 2 g par jour pendant 3 jours par voie intramusculaire en cas de symptomatologie sévère ou en cas d'échec d'un traitement antérieur. Prophylaxie pré-opératoire des infections du site opératoire Dose pré-opératoire unique de 2 g. Gonorrhée Dose unique de 500 mg par voie"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0009",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "pératoire des infections du site opératoire Dose pré-opératoire unique de 2 g. Gonorrhée Dose unique de 500 mg par voie intramusculaire. Syphilis Les doses généralement recommandées sont de 500 mg à 1 g une fois par jour, portées à 2 g une fois par jour en cas de neurosyphilis, pendant 10 à 14 jours. Les recommandations posologiques pour la syphilis, y compris la neurosyphilis, sont basées sur des données limitées. Il convient de se référer aux recommandations nationales ou locales. Maladie de Lyme disséminée (phase précoce [Stade II] et phase tardive [Stade 111]) 2 g une fois par jour pendant 14 à 21 jours. Les durées de traitement recommandées varient et il convient de se référer aux recommandations nationales ou locales. Population pédiatrique Nouveau-nés, nourrissons et enfants de 15"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0010",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "se référer aux recommandations nationales ou locales. Population pédiatrique Nouveau-nés, nourrissons et enfants de 15 jours à 12 ans (< 50 kg) Pour les enfants pesant 50 kg ou plus, la dose habituellement recommandée chez l'adulte doit être utilisée. La dose unique maximale de lidocaïne chez l'enfant ne doit pas excéder 5 mg/kg de poids corporel. Pour les enfants obèses, la dose maximale doit être calculée sur la base d'un poids corporel idéal par rapport au sexe et à l'âge. Fréquence d’administration** Indications Dose de ceftriaxone* Infections intra- abdominales Infections urinaires compliquées 50-80 mg/kg Une fois par jour (pyélonéphrite incluse) Pneumonie communautaire Pneumonie nosocomiale Infections compliquées de la peau et des tissus mous Infections des os et des 50-100 mg/kg"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0011",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "utaire Pneumonie nosocomiale Infections compliquées de la peau et des tissus mous Infections des os et des 50-100 mg/kg (max 4 g) Une fois par jour articulations Traitement des patients neutropéniques fébriles dont l'origine bactérienne est suspectée 80-100 mg/kg (max 4 g) Une fois par jour Méningite bactérienne 100 mg/kg Une fois par jour Endocardite bactérienne (max 4 g) *En cas de bactériémie documentée, il conviendra d'envisager les doses maximales recommandées. #**Une administration deux fois par jour (toutes les 12 h) peut être envisagée lorsque des doses supérieures à 2 g par jour sont administrées. Indications pour les nouveau-nés, les nourrissons et les enfants de 15 jours à 12 ans (< 50 kg) nécessitant des schémas posologiques spécifiques Otite moyenne aiguë Pour le traitement"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0012",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "de 15 jours à 12 ans (< 50 kg) nécessitant des schémas posologiques spécifiques Otite moyenne aiguë Pour le traitement initial de l'otite moyenne aiguë, il est possible d'administrer une seule dose de 50 mg/kg de CEFTRIAXONE ARROW par voie intramusculaire. Des données limitées semblent indiquer que la ceftriaxone peut être efficace lorsqu'elle est administrée à la dose de 50 mg/kg/jour pendant 3 jours par voie intramusculaire dans les cas où l'enfant présente une symptomatologie sévère ou en cas d'échec d'un traitement antérieur. Prophylaxie pré-opératoire des infections du site opératoire Dose pré-opératoire unique de 50 à 80 mg/kg. Syphilis Les doses généralement recommandées sont de 75 à 100 mg/kg (max. 4 g) en une fois par jour pendant 10 à 14 jours. Les recommandations posologiques"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0013",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "mmandées sont de 75 à 100 mg/kg (max. 4 g) en une fois par jour pendant 10 à 14 jours. Les recommandations posologiques pour la syphilis, y compris la neurosyphilis, sont basées sur des données très limitées. 1| convient de se référer aux recommandations nationales ou locales. Maladie de Lyme disséminée (phase précoce [Stade 11] et phase tardive [Stade 111]) 50 à 80 mg/kg une fois par jour pendant 14 à 21 jours. Les durées de traitement recommandées varient et il convient de se référer aux recommandations nationales ou locales. Nouveau-nés de 0 à 14 jours CEFTRIAXONE ARROW est contre-indiqué chez le nouveau-né prématuré jusqu'à un âge post-menstruel de 41 semaines (âge gestationnel + âge chronologique). Fréquence Dose de ceftriaxone* d'administration Indications Infections intra-"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0014",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "s (âge gestationnel + âge chronologique). Fréquence Dose de ceftriaxone* d'administration Indications Infections intra- abdominales Infections compliquées de la peau et des tissus mous Infections urinaires compliquées (pyélonéphrite incluse) Pneumonie 20-50 mg/kg Une fois par jour communautaire Pneumonie nosocomiale Infections des os et des articulations Traitement des patients neutropéniques fébriles dont l'origine bactérienne est suspectée Méningite bactérienne 50 mg/kg Une fois par jour Endocardite bactérienne *En cas de bactériémie documentée, il conviendra d'envisager les doses maximales recommandées, sans dépasser la dose maximale journalière de 50 mg/kg. Indications pour les nouveau-nés de 0 à 14 jours nécessitant des schémas posologiques spécifiques Otite moyenne aiguë Pour le"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0015",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "tions pour les nouveau-nés de 0 à 14 jours nécessitant des schémas posologiques spécifiques Otite moyenne aiguë Pour le traitement initial de l'otite moyenne aiguë, il est possible d'administrer une seule dose de 50 mg/kg de ceftriaxone par voie intramusculaire. Prophylaxie pré-opératoire des infections du site opératoire Dose pré-opératoire unique de 20 à 50 mg/kg. Syphilis La dose généralement recommandée est de 50 mg/kg une fois par jour pendant 10 à 14 jours. Les recommandations posologiques pour la syphilis, y compris la neurosyphilis, sont basées sur des données très limitées. Il convient de se référer aux recommandations nationales ou locales. Durée du traitement La durée du traitement dépend de l'évolution de la pathologie. Comme pour tout traitement antibiotique, l'administration"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0016",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "a durée du traitement dépend de l'évolution de la pathologie. Comme pour tout traitement antibiotique, l'administration de ceftriaxone doit être poursuivie 48 à 72 heures après la disparition de la fièvre chez le patient ou après l'obtention de l'éradication bactérienne. Patients âgés Il n'est pas nécessaire de modifier les doses recommandées chez le patient âgé, à condition que les fonctions rénale et hépatique soient satisfaisantes. Patients insuffisants hépatiques Les données disponibles n'indiquent pas la nécessité d'adapter la posologie en cas d'insuffisance hépatique légère ou modérée, à condition que la fonction rénale ne soit pas altérée. Aucune donnée issue d'études n'est disponible chez des patients atteints d'insuffisance hépatique sévère (voir rubrique 5.2). Patients"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0017",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "ssue d'études n'est disponible chez des patients atteints d'insuffisance hépatique sévère (voir rubrique 5.2). Patients insuffisants rénaux Il n'est pas nécessaire de réduire la dose de ceftriaxone en cas d'insuffisance rénale, à condition que la fonction hépatique ne soit pas altérée. En cas d'insuffisance rénale préterminale (clairance de la créatinine < 10 mL/min), la dose de ceftriaxone ne doit pas dépasser 2 g par jour. Les patients sous dialyse ne nécessitent pas de dose supplémentaire suite à la dialyse. La ceftriaxone n'est pas éliminée par dialyse péritonéale ni par hémodialyse. Une surveillance clinique étroite de la tolérance et de l'efficacité est recommandée. Patients atteints d'insuffisance hépatique et rénale sévères Chez les patients présentant une insuffisance rénale et"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0018",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "e. Patients atteints d'insuffisance hépatique et rénale sévères Chez les patients présentant une insuffisance rénale et une insuffisance hépatique sévères, une surveillance clinique étroite de la tolérance et de l'efficacité est conseillée. Mode d'administration CEFTRIAXONE ARROW 500 mg/2 mL, poudre et solvant pour solution injectable (IM) peut être administré par injection intramusculaire profonde. Les injections intramusculaires doivent être injectées dans une masse musculaire importante et sans dépasser 1 g dans un même site. L'administration intramusculaire doit être envisagée lorsque la voie intraveineuse n'est pas possible ou est moins appropriée pour le patient. Pour des doses supérieures à 2 g, la voie intraveineuse doit être utilisée. Le solvant utilisé étant de la lidocaïne, la"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0019",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "our des doses supérieures à 2 g, la voie intraveineuse doit être utilisée. Le solvant utilisé étant de la lidocaïne, la solution obtenue ne doit jamais être administrée par voie intraveineuse (voir rubrique 4.3). Pour éviter le risque d'administrer par voie intraveineuse, il faut toujours aspirer avant d'injecter afin de s'assurer que l'on ne se trouve pas dans un vaisseau sanguin. La ceftriaxone est contre-indiquée chez le nouveau-né (< 28 jours) ayant besoin (ou risquant d'avoir besoin) d’un traitement par des solutions intraveineuses contenant du calcium, y compris les perfusions continues contenant du calcium telles les poches de nutrition parentérale, en raison du risque de précipitation de ceftriaxone calcique (voir rubrique 4.3). Pour la prophylaxie pré-opératoire des infections du"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0020",
+      "section": "4.2",
+      "titre_section": "Posologie et mode d'administration",
+      "texte": "sque de précipitation de ceftriaxone calcique (voir rubrique 4.3). Pour la prophylaxie pré-opératoire des infections du site opératoire, la ceftriaxone doit être administrée 30 à 90 minutes avant la chirurgie. Pour les instructions concernant la reconstitution du médicament avant administration, voir la rubrique 6.6."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0021",
+      "section": "4.3",
+      "titre_section": "Contre-indications",
+      "texte": "CEFTRIAXONE - Hypersensibilité à la substance active, à Une autre céphalosporine ou à l’un des excipients mentionnés à la rubrique 61; e antécédent d'hypersensibilité sévère (par exemple réaction anaphylactique) à une autre classe d'agent antibactérien de la famille des bêta-lactamines (pénicillines, monobactames et carbapénèmes). La ceftriaxone est contre-indiquée dans les cas suivants : + nouveau-nés prématurés jusqu'à un âge post-menstruel de 41 semaines (âge gestationnel + âge chronologique)*; «nouveau-nés à terme (jusqu'à 28 jours) : o en cas d'hyperbilirubinémie, d'ictère, ou d'hypoalbuminémie ou d'acidose, en raison du risque de modification de la liaison de la bilirubine*; o s'ils ont besoin (ou risquent d'avoir besoin) d'un traitement par calcium administré par voie intraveineuse"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0022",
+      "section": "4.3",
+      "titre_section": "Contre-indications",
+      "texte": "irubine*; o s'ils ont besoin (ou risquent d'avoir besoin) d'un traitement par calcium administré par voie intraveineuse ou de perfusions de solutions contenant du calcium, en raison du risque de précipitation d'un sel calcique de ceftriaxone (voir rubriques 4.4, 4.8 et 6.2). “Des études in vitro ont montré que la ceftriaxone peut déplacer la bilirubine de ses sites de liaison à l’albumine sérique, ce qui entraîne un risque possible d'encéphalopathie bilirubinique chez ces patients. LIDOCAÏÎNE Les solutions de ceftriaxone contenant de la lidocaïne ne doivent jamais être administrées par voie intraveineuse. Lorsque le solvant utilisé est une solution de lidocaïne, les contre-indications à la lidocaïne doivent être respectées avant d'envisager une administration par injection intramusculaire"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0023",
+      "section": "4.3",
+      "titre_section": "Contre-indications",
+      "texte": "e-indications à la lidocaïne doivent être respectées avant d'envisager une administration par injection intramusculaire de ceftriaxone (voir rubrique 4.4). e Hypersensibilité connue à la lidocaïne ou autres anesthésiques de type amide, «bloc cardiaque complet, «hypovolémie."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0024",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "Ceftriaxone Réactions d'hypersensibilité Comme avec tous les antibactériens de la famille des bêta-lactamines, des réactions d'hypersensibilité graves et parfois fatales ont été rapportées (voir rubrique 4.8). Les réactions d'hypersensibilité peuvent également évoluer vers Un syndrome de Kounis, une réaction allergique grave pouvant entraîner un infarctus du myocarde (voir rubrique 4.8). En cas de réactions d'hypersensibilité sévères, le traitement par la ceftriaxone doit être immédiatement arrêté et des mesures d'urgence adéquates doivent être instaurées. Avant de commencer le traitement, il convient de déterminer si le patient a un antécédent de réaction d'hypersensibilité sévère à la ceftriaxone, à d'autres céphalosporines ou à un autre antibiotique de la famille des bêta-lactamines."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0025",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "ilité sévère à la ceftriaxone, à d'autres céphalosporines ou à un autre antibiotique de la famille des bêta-lactamines. Il convient d'être prudent en cas d'administration de la ceftriaxone à des patients présentant un antécédent de réaction d'hypersensibilité non sévère à d'autres bêta-lactamines. Des réactions indésirables cutanées sévères (syndrome de Stevens-Johnson ou syndrome de Lyell/nécrolyse épidermique toxique ainsi que des réactions médicamenteuses avec éosinophilie et symptômes systémiques (DRESS)) pouvant mettre en jeu le pronostic vital ou entraîner le décès, ont été rapportées en lien avec un traitement par ceftriaxone ; toutefois la fréquence de ces événements n'est pas connue (voir rubrique 4.8). Interaction avec les produits contenant du calcium Des cas de réactions"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0026",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "vénements n'est pas connue (voir rubrique 4.8). Interaction avec les produits contenant du calcium Des cas de réactions fatales, avec présence de précipités de ceftriaxone calcique dans les poumons et les reins, chez des nouveau-nés prématurés et nés à terme âgés de moins d'un mois, ont été décrits. AU moins un de ces nouveau-nés avait reçu de la ceftriaxone et du calcium à des périodes d'administration différentes et par des voies intraveineuses séparées. Les données scientifiques disponibles ne mentionnent aucun cas de précipitation intravasculaire confirmée chez des patients autres que des nouveau-nés, traités par la ceftriaxone, et des solutions ou d’autres produits contenant du calcium. Des études in vitro ont démontré que le risque de précipitation de la ceftriaxone calcique est"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0027",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "ts contenant du calcium. Des études in vitro ont démontré que le risque de précipitation de la ceftriaxone calcique est accru chez le nouveau-né comparativement aux autres groupes d'âge. Quel que soit l’âge du patient, la ceftriaxone ne doit pas être mélangée ou administrée simultanément avec des solutions intraveineuses contenant du calcium, même par des tubulures de perfusion ou sur des sites de perfusion différents. Cependant, chez les patients âgés de plus de 28 jours, la ceftriaxone et des solutions contenant du calcium peuvent être administrées séquentiellement de manière consécutive, à condition d'utiliser des tubulures de perfusion sur des sites différents ou à condition que les tubulures de perfusion soient changées ou soigneusement rincées entre les perfusions à l’aide de"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0028",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "ou à condition que les tubulures de perfusion soient changées ou soigneusement rincées entre les perfusions à l’aide de solution saline physiologique, ce qui permettra ainsi d'éviter toute précipitation. Pour les patients nécessitant l'administration par perfusion continue d'une nutrition parentérale totale (NPT) contenant du calcium, les professionnels de santé pourraient envisager le recours à d'autres traitements antibactériens qui ne présentent pas le même risque de précipitation. Si l’utilisation de la ceftriaxone est considérée comme indispensable chez les patients ayant besoin d'une nutrition parentérale continue, les solutions de NPT et la ceftriaxone peuvent être administrées simultanément, toutefois via des tubulures de perfusion différentes placées sur des sites différents."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0029",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "être administrées simultanément, toutefois via des tubulures de perfusion différentes placées sur des sites différents. Autrement, la perfusion de la solution pour NPT peut aussi être arrêtée pendant la durée de perfusion de la ceftriaxone et les tubulures de perfusion rincées entre chaque administration de solutions (voir rubriques 4.3, 4.8, 5.2 et 6.2). Population pédiatrique Le profil de sécurité d'emploi et l'efficacité de la ceftriaxone chez les nouveau-nés, les nourrissons et les enfants ont été établies pour les doses mentionnées aux rubriques « Posologie » et « Mode d'administration » (voir rubrique 4.2). Des études ont montré que la ceftriaxone, comme certaines autres céphalosporines, peut déplacer la bilirubine de l'albumine sérique. CEFTRIAXONE ARROW est contre-indiqué chez les"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0030",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "utres céphalosporines, peut déplacer la bilirubine de l'albumine sérique. CEFTRIAXONE ARROW est contre-indiqué chez les prématurés et chez les nouveau-nés à terme à risque de développer une encéphalopathie bilirubinique (voir rubrique 4.3). Anémie hémolytique à médiation immunitaire Une anémie hémolytique à médiation immunitaire a été observée chez des patients recevant des antibactériens de la classe des céphalosporines, incluant la ceftriaxone (voir rubrique 4.8). Des cas graves d'anémie hémolytique, incluant des décès, ont été rapportés pendant le traitement par la ceftriaxone, chez des adultes et chez des enfants. Si un patient développe une anémie sous ceftriaxone, le diagnostic d'anémie associée aux céphalosporines doit être envisagé et la ceftriaxone arrêtée jusqu'à ce que"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0031",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "iaxone, le diagnostic d'anémie associée aux céphalosporines doit être envisagé et la ceftriaxone arrêtée jusqu'à ce que l'étiologie soit établie. Traitement à long terme Pendant un traitement prolongé, il convient de réaliser une numération formule sanguine à intervalles réguliers. Colite/Prolifération en excès de micro-organismes non sensibles Des cas de colite liée à l'administration d'un produit antibactérien et de colite pseudomembraneuse ont été rapportés avec presque tous les agents antibactériens, y compris la ceftriaxone avec une gravité allant de légère à menaçant le pronostic vital. Par conséquent il est important de prendre en compte ce diagnostic chez les patients qui présentent des diarrhées pendant et après l'administration de ceftriaxone (Voir rubrique 4.8). L'arrêt du"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0032",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "patients qui présentent des diarrhées pendant et après l'administration de ceftriaxone (Voir rubrique 4.8). L'arrêt du traitement par la ceftriaxone et l'administration d'un traitement spécifique contre Clostridium difficile doivent être envisagés. Toute administration d'inhibiteurs du péristaltisme est à proscrire. Des surinfections par des micro-organismes non sensibles peuvent survenir, comme avec tout agent antibactérien. Insuffisances hépatique et rénale sévères En cas d'insuffisances hépatique et rénale sévères, il est conseillé de procéder à une surveillance clinique étroite de la tolérance et de l'efficacité (voir rubrique 4.2). Interférence sur les tests de sérologie Une interférence sur les tests de Coombs peut survenir, CEFTRIAXONE ARROW pouvant entraîner des faux-positifs."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0033",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "érologie Une interférence sur les tests de Coombs peut survenir, CEFTRIAXONE ARROW pouvant entraîner des faux-positifs. CEFTRIAXONE ARROW peut aussi entraîner des faux-positifs pour les tests de galactosémie (voir rubrique 4.8). Les méthodes non-enzymatiques de dosage du glucose urinaire peuvent donner lieu à des faux-positifs. Le dosage du glucose urinaire doit être réalisé par une méthode enzymatique lors d'un traitement par CEFTRIAXONE ARROW (voir rubrique 4.8). La présence de ceftriaxone peut faussement abaisser les valeurs de glycémie sanguine obtenues avec certains appareils de mesure de glycémie. Veuillez-vous référer aux instructions d'utilisation de chaque appareil. Des méthodes alternatives de mesure peuvent être utilisées si nécessaire. Spectre d'activité antibactérienne Le"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0034",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "pareil. Des méthodes alternatives de mesure peuvent être utilisées si nécessaire. Spectre d'activité antibactérienne Le spectre d'activité antibactérienne de la ceftriaxone est limité, et la ceftriaxone peut ne pas être adaptée à une monothérapie pour le traitement de certains types d'infections sauf en cas de documentation de l'agent pathogène (voir rubrique 4.2). En cas d'infections polymicrobiennes, lorsque les agents pathogènes suspectés peuvent être résistants à la ceftriaxone, la co-administration d'un antibiotique doit être envisagée. Lithiase biliaire Si des ombres sont observées à l'échographie, la possibilité d'une présence de précipités de ceftriaxone calcique doit être envisagée. Des ombres, interprétées par erreur comme étant des calculs biliaires, ont été détectées lors"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0035",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "ique doit être envisagée. Des ombres, interprétées par erreur comme étant des calculs biliaires, ont été détectées lors d'échographie de la vésicule et ont été observées plus fréquemment à des doses de ceftriaxone allant de 1 g par jour ou plus. Il convient d'être particulièrement prudent dans la population pédiatrique. Ces précipités disparaissent après l'arrêt du traitement par la ceftriaxone. Rarement, les précipités de ceftriaxone calcique ont été associés à des symptômes. En cas de symptômes, un traitement conservateur non chirurgical est recommandé et l'arrêt du traitement par la ceftriaxone doit être envisagé par le médecin, sur la base d'une évaluation spécifique du rapport bénéfice-risque (voir rubrique 4.8). Stase biliaire Des cas de pancréatite pouvant être due à une"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0036",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "spécifique du rapport bénéfice-risque (voir rubrique 4.8). Stase biliaire Des cas de pancréatite pouvant être due à une obstruction biliaire ont été rapportés chez des patients traités par la ceftriaxone (voir rubrique 4.8). La plupart des patients présentaient des facteurs de risque de stase biliaire et de boue biliaire, par exemple un traitement lourd antérieur, une pathologie sévère et une nutrition parentérale totale. On ne peut exclure l'existence d'un élément déclenchant ou d'un cofacteur de précipitation biliaire liée à la ceftriaxone. Lithiase rénale Des cas de lithiase rénale ont été rapportés et se sont avérés réversibles à l'arrêt de la ceftriaxone (voir rubrique 4.8). Dans certains cas syÿmptomatiques, Une échographie doit être réalisée. Chez les patients présentant un"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0037",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "r rubrique 4.8). Dans certains cas syÿmptomatiques, Une échographie doit être réalisée. Chez les patients présentant un antécédent de lithiase rénale ou une hypercalciurie, l’utilisation doit être envisagée par le médecin sur la base d'une évaluation spécifique du rapport bénéfice-risque. Réaction de Jarisch-Herxheimer (RJH) Certains patients ayant une infection à spirochètes peuvent présenter une réaction de Jarisch- Herxheimer (RJH) peu de temps après le début du traitement par la ceftriaxone. La RJH se résout habituellement spontanément ou peut être traitée par un traitement symptomatique. Le traitement antibiotique ne doit pas être interrompu si cette réaction se produit. Encéphalopathie Des cas d'encéphalopathie ont été rapportés lors de l’utilisation de la ceftriaxone (voir rubrique"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0038",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "uit. Encéphalopathie Des cas d'encéphalopathie ont été rapportés lors de l’utilisation de la ceftriaxone (voir rubrique 4.8), en particulier chez des patients âgés présentant une insuffisance rénale grave (voir rubrique 4.2) ou des troubles du système nerveux central. Si une encéphalopathie associée à la ceftriaxone est suspectée (par exemple, diminution du niveau de conscience, altération de l'état mental, myoclonie, convulsions), l'arrêt de la ceftriaxone doit être envisagé. Lidocaine La lidocaïne (contenue dans le solvant pour l'injection par voie intramusculaire) doit être utilisée avec prudence chez les patients atteints de myasthénie, d'épilepsie, de troubles de la conduction cardiaque, d'insuffisance cardiaque congestive, de bradycardie ou de dépression respiratoire. La lidocaïne"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0039",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "a conduction cardiaque, d'insuffisance cardiaque congestive, de bradycardie ou de dépression respiratoire. La lidocaïne doit également être utilisée avec prudence dans les cas où des facteurs sont connus pour interagir avec la lidocaïne, soit en augmentant sa disponibilité ou ayant des effets additifs (par exemple, la phénytoïne), ou en prolongeant son élimination (par exemple, insuffisance hépatique ou rénale où les métabolites de la lidocaïne sont susceptibles de s'accumuler). La lidocaïne intramusculaire peut augmenter les concentrations de créatinine phosphokinase, ce qui peut interférer avec le diagnostic d’infarctus du myocarde en phase aiguë. Il a été démontré que la lidocaïne est porphyrinogène chez les animaux et elle doit être évitée chez les personnes présentant une porphyrie."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0040",
+      "section": "4.4",
+      "titre_section": "Mises en garde spéciales et précautions d'emploi",
+      "texte": "la lidocaïne est porphyrinogène chez les animaux et elle doit être évitée chez les personnes présentant une porphyrie. Chez les nouveau-nés, la concentration sérique optimale de lidocaïne requise pour éviter la toxicité (comme les convulsions et les arythmies cardiaques) dans ce groupe d'âge n'est pas connue. Excipient à effet notoire Ce médicament contient 41,50 mg de sodium par flacon, ce qui équivaut à 21 % de l'apport alimentaire quotidien maximal recommandé par l'OMS de 2 g de sodium par adulte."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0041",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "CEFTRIAXONE Les diluants contenant du calcium (par exemple solution de Ringer ou solution de Hartmann) ne doivent pas être utilisés pour la reconstitution des flacons de CEFTRIAXONE ARROW, ou pour la dilution d'un flacon reconstitué pour administration intraveineuse, en raison de la possibilité de formation d'un précipité. Une précipitation de ceftriaxone calcique peut aussi se produire lorsque la ceftriaxone est mélangée avec des solutions contenant du calcium dans la même voie d'administration intraveineuse. La ceftriaxone ne doit pas être administrée en même temps que des solutions intraveineuses contenant du calcium, y compris les perfusions continues contenant du calcium, telles les poches de nutrition parentérale, dans un site d'injection en Y. Toutefois, chez les patients autres"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0042",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "calcium, telles les poches de nutrition parentérale, dans un site d'injection en Y. Toutefois, chez les patients autres que les nouveau-nés, la ceftriaxone et des solutions contenant du calcium peuvent être administrées de manière consécutive si les tubulures de perfusion sont soigneusement rincées entre chaque perfusion en utilisant une solution compatible. Des études menées in vitro sur du plasma adulte et néonatal issu du sang de cordon ombilical ont démontré que les nouveau-nés présentent un risque accru de précipitation de ceftriaxone calcique (voir rubriques 4.2, 4.3, 44, 4,8 et 6.2). Une utilisation concomitante avec des anticoagulants oraux peut augmenter l'effet des anti-vitamines K et le risque de saignement. Il est recommandé de contrôler régulièrement l'International"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0043",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "r l'effet des anti-vitamines K et le risque de saignement. Il est recommandé de contrôler régulièrement l'International Normalized Ratio (INR) et la posologie des anti-vitamines K doit être ajustée en conséquence, pendant et après le traitement par la ceftriaxone (voir rubrique 4.8). Les éléments de preuve d'une augmentation potentielle de la toxicité rénale des aminosides utilisés en même temps que les céphalosporines sont contradictoires. Dans ces cas, il convient de respecter étroitement les recommandations de surveillance des concentrations d'aminoside (et de la fonction rénale) en pratique clinique. Dans une étude in vitro, des effets antagonistes ont été observés lors de l'association du chloramphénicol et de la ceftriaxone. On ne connaît pas la pertinence clinique de cette"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0044",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "servés lors de l'association du chloramphénicol et de la ceftriaxone. On ne connaît pas la pertinence clinique de cette observation. Aucune interaction n'a été rapportée entre la ceftriaxone et des produits contenant du calcium administrés par voie orale, ni entre la ceftriaxone administrée par voie intramusculaire et des produits contenant du calcium (administrés par voie intraveineuse ou orale). Chez les patients traités par la ceftriaxone, les résultats du test de Coombs peuvent se révéler être des faux-positifs. La ceftriaxone, comme d'autres antibiotiques, peut entraîner des faux-positifs pour les tests de galactosémie. De la même manière, les méthodes non-enzymatiques de dosage du glucose urinaire peuvent donner des faux-positifs. C'est pourquoi le dosage du glucose urinaire doit"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0045",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "iques de dosage du glucose urinaire peuvent donner des faux-positifs. C'est pourquoi le dosage du glucose urinaire doit être réalisé par une méthode enzymatique pendant Un traitement par la ceftriaxone. Aucune atteinte de la fonction rénale n'a été observée après administration concomitante de doses élevées de ceftriaxone et de diurétiques puissants (par exemple furosémide). L'administration simultanée de probénécide ne réduit pas l'élimination de la ceftriaxone. LIDOCAÏNE Interactions pharmacocinétiques La lidocaïne est un substrat des enzymes du CYP450, du CYP1A2 et du CYP3A4. Le métabolisme de la lidocaïne peut donc être inhibé par l'administration concomitante d'inhibiteurs du CYP (par exemple, clarithromycine, érythromycine, ciméditine) et augmenté par l'administration concomitante"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0046",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "ibiteurs du CYP (par exemple, clarithromycine, érythromycine, ciméditine) et augmenté par l'administration concomitante d'inducteurs enzymatiques (par exemple, barbituriques, carbamazépine, phénytoïne, primidone, rifampicine). Interactions pharmacodynamiques Les effets toxiques systémiques peuvent s’additionner lors de l'utilisation concomitante de substances actives qui sont des analogues structurels des anesthésiques locaux de type amide (par exemple, médicaments antiarythmiques tels que la mexilétine ou le tocaïnide). L'injection par voie intramusculaire de CEFTRIAXONE ARROW (avec un solvant contenant de la lidocaïne) doit par conséquent être administrée avec une prudence particulière chez les patients traités par de tels médicaments. Les effets des myorelaxants peuvent être augmentés"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0047",
+      "section": "4.5",
+      "titre_section": "Interactions avec d'autres médicaments et autres formes d'interactions",
+      "texte": "ence particulière chez les patients traités par de tels médicaments. Les effets des myorelaxants peuvent être augmentés par la lidocaïne. Veuillez consulter le résumé des caractéristiques du produit des médicaments administrés concomitamment."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0048",
+      "section": "4.6",
+      "titre_section": "Fertilité, grossesse et allaitement",
+      "texte": "CEFTRIAXONE Grossesse La ceftriaxone passe la barrière placentaire. Les données concernant l’utilisation de la ceftriaxone chez la femme enceinte sont limitées. Les études portant sur des animaux ne révèlent aucun effet néfaste direct ou indirect sur le développement embryonnaire/fœtal, périnatal ou post-natal (Voir rubrique 5.3). L'administration de la ceftriaxone pendant la grossesse, en particulier au cours du premier trimestre, doit être envisagée uniquement si le bénéfice est supérieur au risque. Allaitement La ceftriaxone est excrétée en faibles concentrations dans le lait maternel mais à des doses thérapeutiques, elle ne devrait avoir aucun effet sur le nourrisson allaité. Toutefois, le risque de diarrhée et d'infection fongique des membranes muqueuses ne peut être écarté. La"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0049",
+      "section": "4.6",
+      "titre_section": "Fertilité, grossesse et allaitement",
+      "texte": "isson allaité. Toutefois, le risque de diarrhée et d'infection fongique des membranes muqueuses ne peut être écarté. La possibilité d'une sensibilisation doit aussi être prise en compte. || convient de décider d'interrompre l'allaitement ou d'interrompre/s'abstenir de traiter par la ceftriaxone, en tenant compte des bénéfices de l'allaitement pour l'enfant et des bénéfices du traitement antibiotique pour la mère. Fertilité Des études sur la reproduction n'ont révélé aucun effet indésirable sur la fertilité masculine ou féminine. LIDOCAÎNE Grossesse Bien que les études animales n'aient révélé aucun signe de préjudice pour le fœtus, il convient de ne pas administrer la lidocaïne au cours des premiers stades de la grossesse, sauf si les bénéfices sont considérés comme l'emportant sur les"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0050",
+      "section": "4.6",
+      "titre_section": "Fertilité, grossesse et allaitement",
+      "texte": "lidocaïne au cours des premiers stades de la grossesse, sauf si les bénéfices sont considérés comme l'emportant sur les risques. Allaitement De petites quantités de lidocaïne sont secrétées dans le lait maternel et la possibilité d’une réaction allergique chez le nourrisson, bien que rare, doit être prise en considération lors de l’utilisation de lidocaïne chez des femmes qui allaitent. Fertilité Il n'y a pas de donnée disponible sur la fertilité avec l’utilisation de lidocaïne."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0051",
+      "section": "4.7",
+      "titre_section": "Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "texte": "Pendant le traitement par la ceftriaxone, des effets indésirables (par exemple étourdissements), susceptibles d'affecter l'aptitude à conduire des véhicules et à utiliser des machines, peuvent survenir (voir rubrique 4.8). Les patients doivent être prudents lors de la conduite de véhicules ou de l'utilisation de machines."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0052",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "CEFTRIAXONE Les réactions indésirables les plus fréquemment rapportées avec la ceftriaxone sont : éosinophilie, leucopénie, thrombocytopénie, diarrhées, éruption cutanée et augmentation des enzymes hépatiques. Les données utilisées pour déterminer la fréquence des effets indésirables liés à la ceftriaxone sont issues d'essais cliniques. La convention suivante est utilisée pour la classification de la fréquence : Très fréquent (> 1/10) Fréquent (2 1/100 à < 1/10) Peu fréquent (> 1/1 000 à < 1/100) Rare (> 1/10 000 à < 1/1 000) Indéterminée (les données disponibles ne permettent pas d'estimer la fréquence) Classe de } , Fréquence à : Fréquent Peu fréquent Rare Le a système d'organe indéterminée iecions et tien fongique Colite pseudo” Surinfectionb infestations génitale membraneuse"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0053",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "a système d'organe indéterminée iecions et tien fongique Colite pseudo” Surinfectionb infestations génitale membraneuse Affections | Eosinophilie Granulocytopénie Anémie hémolytique? hématologiques et du Leucopénie Anémie : | Le : Agranulocytose système lymphatique Thrombocytopénie Coagulopathie Choc anaphylactique Réaction anaphylactique Affections du système Réaction anaphylactoïde immunitaire Hypersensibilité? Réaction de Jarisch- Herxheimer? Affections cardiaques Syndrome de Kounis MCRICIEREUS CEE Encéphalopathie Convulsion nerveux Étourdissement Affections de l'oreille et Vertige du labyrinthe g Affections respiratoires pl | ns: Bronchospasme thoraciques et médiastinales seb Affections gastro- Diarrhéel Nausées Pancréatite : : : Stomatite intestinales Selles molles Vomissements :"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0054",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "stinales seb Affections gastro- Diarrhéel Nausées Pancréatite : : : Stomatite intestinales Selles molles Vomissements : Glossite Précipitation dans la . Augmentation des vésicule biliaire? Affections « AA & A os enzymes Ictère nucléaire néonatal hépatobiliaires Lu &natiteC hépatiques Hépatite Hépatite cholestatiqueP.© Syndrome de Stevens- Johnson? Nécrolyse épidermique toxique? Érythème polymorphe Affecti del Pustulose ea ons e a peau A Eruption cutanée Prurit Urticaire exanthémateuse aiguë et du tissu sous-cutané so snoles généralisée Réaction médicamenteuse avec éosinophilie et symptômes systémiques (DRESS}? Affections du rein et Hématurie Oligurie . . : Précipitation rénale des voies urinaires Glycosurie (réversible) Troubles généraux et Phlébite à g Réactions au site Œdème anomalies"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0055",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "rénale des voies urinaires Glycosurie (réversible) Troubles généraux et Phlébite à g Réactions au site Œdème anomalies au site Ho : , ne : d'injection Frissons d'administration : Pyrexie Test de Coombs faux- positifl Test de galactosémie D Augmentation de la faux-positif? investigations ee . me créatinine sanguine Faux-positifs aux méthodes non enzymatiques de dosage du glucose? 8 D'après les cas rapportés depuis la commercialisation. Compte tenu que ces réactions sont rapportées sur la base de la déclaration spontanée et sont survenues dans une population de taille incertaine, il n'est pas possible d'estimer de façon fiable leur fréquence, qui par conséquent est catégorisée comme indéterminée. P Voir rubrique 4.4. € Généralement réversible à l'arrêt de la ceftriaxone. Description de"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0056",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "égorisée comme indéterminée. P Voir rubrique 4.4. € Généralement réversible à l'arrêt de la ceftriaxone. Description de certains effets indésirables Infections et infestations Les cas de diarrhées déclarées après l’utilisation de la ceftriaxone peuvent être liés à Clostridium difficile. Un traitement hydro-électrolytique approprié doit être instauré (voir rubrique 44). Précipitation de sels calciques de ceftriaxone Rarement, des réactions indésirables sévères et dans certains cas, fatales, ont été déclarées chez des nouveau-nés prématurés et nés à terme (de moins de 28 jours) ayant été traités par ceftriaxone et calcium par voie intraveineuse. Des précipités de sels calciques de ceftriaxone ont été observés post- mortem dans les poumons et les reins. Le risque élevé de précipitation chez"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0057",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "iques de ceftriaxone ont été observés post- mortem dans les poumons et les reins. Le risque élevé de précipitation chez le nouveau-né est lié à leur faible volémie et à Une demi-vie plus longue de la ceftriaxone comparativement à l'adulte (voir rubriques 4.3, 44 et 5.2). Des cas de précipitation de la ceftriaxone dans le tractus urinaire ont été rapportés, principalement chez des enfants traités par des doses élevées (par exemple 2 80 mg/kg/jour ou des doses totales dépassant 10 grammes) et présentant des facteurs de risque (par exemple déshydratation ou alitement). Cet évènement peut être asymptomatique ou symptomatique et peut entraîner une obstruction urétérale ou une insuffisance rénale aiguë postrénale, mais il est habituellement réversible lors de l'arrêt de la ceftriaxone (voir"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0058",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "une insuffisance rénale aiguë postrénale, mais il est habituellement réversible lors de l'arrêt de la ceftriaxone (voir rubrique 4.4). Une précipitation de sels calciques de ceftriaxone dans la vésicule biliaire a été observée, principalement chez des patients traités à des doses supérieures à la dose standard recommandée. Chez l'enfant, des études prospectives ont montré une incidence variable de précipitation lors de l'administration intraveineuse, supérieure à 30 % dans certaines études. L'incidence semble être moins élevée en cas de perfusion lente (en 20 à 30 minutes). Cet effet est habituellement asymptomatique mais les précipitations ont été accompagnées dans de rares cas de symptômes cliniques tels que des douleurs, des nausées et des vomissements. Dans ces cas, un traitement"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0059",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "de rares cas de symptômes cliniques tels que des douleurs, des nausées et des vomissements. Dans ces cas, un traitement symptomatique est recommandé. La précipitation est habituellement réversible à l'arrêt de la ceftriaxone (Voir rubrique 4.4). Réactions au site d'injection L'administration par voie IM est cliniquement douloureuse. Les autres réactions au site d'injection incluent l'érythème au site d'injection, l'extravasation au site d'injection, le gonflement au site d'injection, l'éruption cutanée au site d'injection, le prurit au site d'injection, l'inflammation au site d'injection, l'induration au site d'injection et l'hématome au site d'injection. Les complications incluant une infection du site d'injection et des abcès au site d'injection ont été rarement rapportées. LIDOCAÏÎNE"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0060",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "ons incluant une infection du site d'injection et des abcès au site d'injection ont été rarement rapportées. LIDOCAÏÎNE Les données présentées ci-dessous décrivent les effets indésirables qui ont été observés lors de l’utilisation de la lidocaïne. Il n'existe pas de données spécifiques concernant l’utilisation combinée de ceftriaxone et de lidocaïne. Les réactions indésirables à la lidocaïne résultent généralement d'une élévation des concentrations plasmatiques due à une injection intravasculaire accidentelle, une dose excessive ou une absorption rapide à partir de zones fortement vascularisées, ou peuvent être dues à une hypersensibilité, une idiosyncrasie ou une diminution de la tolérance de la part du patient. La toxicité systémique implique principalement le système nerveux central"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0061",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "nution de la tolérance de la part du patient. La toxicité systémique implique principalement le système nerveux central et/ou le système cardiovasculaire. Classe de R , Peu Fréquence système Fréquent , Rare ou Lu fréquent indéterminée d'organe Réactions d'hypersensibilité Affections du (réactions système allergiques ou immunitaire anaphylactoïdes, et choc anaphylactique) Affections Nervosité psychiatriques Vertiges ou étourdissements, tremblements, paresthésie Affections du circumorale, système : engourdissement nerveux de la langue, somnolence, convulsions, coma Vision trouble, Affections diplopie, oculaires amaurose transitoire Affections de k . Acouphène, l'oreille et du hyperacousie labyrinthe Bradycardie, dépression Affections myocardique, cardiaques arythmies cardiaques, arrêt"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0062",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "le et du hyperacousie labyrinthe Bradycardie, dépression Affections myocardique, cardiaques arythmies cardiaques, arrêt cardiaque Hypotension, Affections | collapsus vasculaires circulatoire Affections Dyspnée, respiratoires, bronchospasme, thoraciques ou dépression médiastinales respiratoire Affections Nausées, gastro- | . vomissements intestinales Rash, Affections urticaire, cutanées et du œdème (y tissu sous- compris angio- cutané œdème, œdème du visage) Déclaration des effets indésirables suspectés La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration :"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0063",
+      "section": "4.8",
+      "titre_section": "Effets indésirables",
+      "texte": "icament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr/"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0064",
+      "section": "4.9",
+      "titre_section": "Surdosage",
+      "texte": "CEFTRIAXONE Symptômes En cas de surdosage, les symptômes de nausées, vomissements et diarrhées peuvent survenir. Prise en charge Il n'est pas possible de réduire les concentrations de ceftriaxone par hémodialyse ni par dialyse péritonéale. Il n'existe pas d'antidote spécifique. Le traitement du surdosage sera symptomatique. LIDOCAÏÎNE Symptômes Un surdosage en lidocaïne peut se manifester par une stimulation transitoire du système nerveux central avec des symptômes précoces : bâäillements, agitation, vertiges, nausées, vomissements, dysarthrie, ataxie, troubles auditifs et visuels. En cas d'intoxication modérée, des contractions et des convulsions peuvent également survenir. Cela peut être suivi par une perte de conscience, une dépression respiratoire et coma. En cas d'intoxication très"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0065",
+      "section": "4.9",
+      "titre_section": "Surdosage",
+      "texte": "enir. Cela peut être suivi par une perte de conscience, une dépression respiratoire et coma. En cas d'intoxication très sévère, dû à une diminution de la contraction du myocarde et un retard dans la conduction de l’influx au niveau du cœur, une hypotension et un collapsus cardiovasculaire peuvent être suivis d’un bloc cardiaque complet et d’un arrêt cardiaque. Prise en charge Les convulsions, l'hypotension, la dépression respiratoire et les évènements cardiaques doivent être traités avec des mesures appropriées. Une oxygénation continue et optimale ainsi qu'une assistance respiratoire et circulatoire et un traitement de l’acidose sont d’une importance vitale."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0066",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "Classe pharmacothérapeutique : antibactérien à usage systémique, céphalosporines de troisième génération, code ATC : J01DD04. CEFTRIAXONE Mécanisme d'action La ceftriaxone inhibe la synthèse de la paroi cellulaire bactérienne après fixation aux protéines de liaison de la pénicilline (PLP), ce qui entraîne l'arrêt de la biosynthèse (du peptidoglycane) de la paroi cellulaire, et conduit à la lyse et la mort de la cellule bactérienne. Résistance La résistance bactérienne à la ceftriaxone peut être due à un ou plusieurs des mécanismes suivants : + hydrolyse par les bêta-lactamases, incluant les bêta-lactamases à spectre étendu (BLSE), les carbapénémases et les enzymes Amp C, qui peuvent être induites ou dé-réprimées de manière stable chez certaines espèces bactériennes aérobies à Gram négatif"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0067",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "qui peuvent être induites ou dé-réprimées de manière stable chez certaines espèces bactériennes aérobies à Gram négatif ; ediminution de l'affinité de la protéine de liaison de la pénicilline pour la ceftriaxone ; eimperméabilité de la membrane externe des organismes à Gram négatif ; ° pompes à efflux bactériennes. Concentrations critiques Les valeurs critiques des concentrations minimales inhibitrices (CMI) établies par l'European Committee on Antimicrobial Susceptibility Testing (EUCAST) sont les suivantes : Test de dilution (CMI, mg/L) Agent pathogène Sensible Résistant Enterobacteriaceae <1 >2 Staphylococcus spp. a. a. Streptococcus spp. b b (Groupes À, B, C et G) Streptococcus pneumoniae <0,5°- >2 Streptocoques du groupe <05 >05 Viridans Haemopthilus influenzae <0,12°- > 0,12"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0068",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "t G) Streptococcus pneumoniae <0,5°- >2 Streptocoques du groupe <05 >05 Viridans Haemopthilus influenzae <0,12°- > 0,12 Moraxella catarrhalis si >2 Neisseria gonorrhoeae < 0,12 > 0,12 Neisseria meningitidis < 0,12€: > 0,12 Concentrations critiques <1% 59 non liées à l'espèce a. Sensibilité déduite de la sensibilité à la céfoxitine. b. Sensibilité déduite de la sensibilité à la pénicilline. c. Les isolats présentant une CMI de ceftriaxone supérieure à la concentration critique sont rares et, s'ils sont détectés, doivent être re-testés ; s'ils sont confirmés, ils doivent être envoyés à un laboratoire de référence. d. Les valeurs critiques sont applicables pour une dose quotidienne intraveineuse de 1 g x 1 et pour une dose élevée d'au moins 2 g x1. Efficacité clinique vis-à-vis de bactéries"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0069",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "tidienne intraveineuse de 1 g x 1 et pour une dose élevée d'au moins 2 g x1. Efficacité clinique vis-à-vis de bactéries pathogènes spécifiques La prévalence de la résistance acquise peut varier en fonction de la région géographique et du temps pour certaines espèces ; il est donc utile de disposer d'informations sur la résistance locale, surtout pour le traitement d'infections sévères. Si nécessaire, il est souhaitable d'obtenir un avis spécialisé principalement lorsque l'intérêt de la ceftriaxone dans certaines infections peut être mis en cause du fait du niveau de prévalence de la résistance locale. Espèces habituellement sensibles Aérobies à Gram positif Staphylococcus aureus (sensible à la méticilline)£ Staphylocoques à coagulase négative (sensibles à la méticilline Streptococcus"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0070",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "occus aureus (sensible à la méticilline)£ Staphylocoques à coagulase négative (sensibles à la méticilline Streptococcus pyogenes (groupe A) Streptococcus agalactiae (groupe B) Streptococcus pneumoniae Streptocoques du groupe Viridans Ê Aérobies à Gram négatif Borrelia burgdorferi Haemophilus influenzae Haemophilus parainfluenzae Moraxella catarrhalis Neisseria gonorrhoeae Neisseria meningitidis Proteus mirabilis Providencia spp Treponema pallidum Espèces inconstamment sensibles (résistance acquise 2 10%) Aérobies à Gram positif Staphylococcus epidermidis* Staphylococcus haemolyticus* Staphylococcus hominis* Aérobies à Gram négatif Citrobacter freundii Enterobacter aerogenes Enterobacter cloacae Escherichia coli” Klebsiella pneumoniae Klebsiella oxytoca# Morganella morganii Proteus"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0071",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "aerogenes Enterobacter cloacae Escherichia coli” Klebsiella pneumoniae Klebsiella oxytoca# Morganella morganii Proteus vulgaris Serratia marcescens % Anaérobies Bacteroides spp. Fusobacterium spp. Peptostreptococcus spp. Clostridium perfringens Espèces naturellement résistantes Aérobies à Gram positif Enterococcus spp. Listeria monocytogenes Aérobies à Gram négatif Acinetobacter baumannii Pseudomonas aeruginosa Stenotrophomonas maltophilia Anaérobies Clostridium difficile Autres Chlamydia spp. Chlamydophila spp. Mycoplasma spp. Legionella spp. Ureaplasma urealyticum ÊTous les staphylocoques résistants à la méticilline sont aussi résistants à la ceftriaxone. + Le : L Taux de résistance > 50 % dans au moins une région. % : : 2 Les souches productrices de BLSE sont toujours résistantes."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0072",
+      "section": "5.1",
+      "titre_section": "Propriétés pharmacodynamiques",
+      "texte": "Taux de résistance > 50 % dans au moins une région. % : : 2 Les souches productrices de BLSE sont toujours résistantes. LIDOCAÏNE La lidocaïne (contenue dans le solvant pour injection IM) est un anesthésique local de type amide. Elle est utilisée pour fournir une anesthésie locale et par blocs nerveux par l'intermédiaire d'un mécanisme de blocage du canal sodium dépendant. Elle possède un début d'action rapide (environ 15 minutes suite à l'injection intramusculaire). Les effets durent environ de 60 à 90 minutes après injection intramusculaire. Dans une étude clinique, il a été montré que le solvant lidocaïne à 1 % a réduit la douleur (diminution d'un facteur > 6 du score d'évaluation de la douleur 15 min après l'injection, p<0,01) après administration intramusculaire de la ceftriaxone."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0073",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "Les résultats pharmacocinétiques présentés ci-dessous reposent sur des études en monothérapie, dans lesquelles la ceftriaxone ou la lidocaïne ont été administrés seules. La lidocaïne n'a pas d'effet sur la pharmacocinétique de la ceftriaxone après l'administration intramusculaire de la ceftriaxone. CEFTRIAXONE Absorption Après injection intramusculaire, les concentrations plasmatiques maximales moyennes de ceftriaxone sont environ la moitié de celles observées après administration intraveineuse d'une dose équivalente. La concentration plasmatique maximale après une seule dose intramusculaire de 1 g est d'environ 81 mg/L; elle est atteinte 2 à 3 heures après administration. L'aire sous la courbe concentration plasmatique/temps après administration intramusculaire est équivalente à celle"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0074",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "ion. L'aire sous la courbe concentration plasmatique/temps après administration intramusculaire est équivalente à celle obtenue après administration intraveineuse d'une dose équivalente. Distribution Le volume de distribution de la ceftriaxone est de 7 à 12 L. Des concentrations nettement supérieures aux concentrations minimales inhibitrices de la plupart des agents pathogènes pertinents sont détectables dans les tissus, incluant le poumon, le cœur, les voies biliaires, le foie, les amygdales, l'oreille moyenne, les muqueuses nasales et l'os, ainsi que dans les liquides céphalo-rachidien, pleural, prostatique et synovial. On observe une augmentation de 8 à 15 % de la concentration plasmatique maximale (C,.,,) moyenne en cas d'administration répétée ; l'état d'équilibre est atteint dans la"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0075",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "entration plasmatique maximale (C,.,,) moyenne en cas d'administration répétée ; l'état d'équilibre est atteint dans la plupart des cas en 48 à 72 heures, selon la voie d'administration. Pénétration dans des tissus particuliers La ceftriaxone pénètre dans les méninges. La pénétration est plus importante lorsque les méninges sont inflammées. D'après les données publiées, les concentrations maximales moyennes de ceftriaxone dans le LCR des patients atteints d'une méningite bactérienne peuvent atteindre 25 % des taux plasmatiques, contre 2 % chez les patients ne présentant pas d'inflammation des méninges. Les concentrations maximales de ceftriaxone dans le LCR sont atteintes environ 4 à 6 heures après injection intraveineuse. La ceftriaxone traverse la barrière placentaire et elle est"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0076",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "teintes environ 4 à 6 heures après injection intraveineuse. La ceftriaxone traverse la barrière placentaire et elle est excrétée dans le lait maternel à de faibles concentrations (voir rubrique 4.6). Fixation protéique La liaison de la ceftriaxone à l’albumine est réversible. La fixation aux protéines plasmatiques est d'environ 95 % pour des concentrations plasmatiques inférieures à 100 mg/L. La fixation est saturable et la fraction liée diminue lorsque la concentration augmente (jusqu'à 85 % à une concentration plasmatique de 300 mg/L). Biotransformation La ceftriaxone n'est pas métabolisée systématiquement, mais elle est transformée en métabolites inactifs par la flore intestinale. Élimination La clairance plasmatique de la ceftriaxone totale (fraction liée et non liée) est de 10 à 22"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0077",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "e intestinale. Élimination La clairance plasmatique de la ceftriaxone totale (fraction liée et non liée) est de 10 à 22 mL/min. Sa clairance rénale est de 5 à 12 mL/min. 50 à 60 % de la ceftriaxone est excrétée sous forme inchangée dans l'urine, principalement par filtration glomérulaire, et 40 à 50 % est excrétée sous forme inchangée dans la bile. La demi-vie d'élimination de la ceftriaxone totale chez l'adulte est d'environ 8 heures. Patients atteints d'insuffisance rénale ou hépatique Chez les patients atteints d’un dysfonctionnement rénal ou hépatique, la pharmacocinétique de la ceftriaxone n'est que faiblement altérée : la demi-vie est légèrement augmentée (égale à moins du double), même chez les patients présentant une insuffisance rénale sévère. Cette augmentation relativement"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0078",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "e à moins du double), même chez les patients présentant une insuffisance rénale sévère. Cette augmentation relativement modeste de la demi-vie dans l'insuffisance rénale s'explique par une augmentation compensatoire de la clairance non rénale résultant d'une diminution de la fixation protéique et correspondant à une augmentation de la clairance non rénale de la ceftriaxone totale. Chez les patients insuffisants hépatiques, la demi-vie d'élimination de la ceftriaxone n'est pas allongée, en raison d’une augmentation compensatrice de la clairance rénale. Ceci s'explique aussi par une augmentation de la fraction plasmatique libre de la ceftriaxone, qui contribue à l'augmentation paradoxale observée de la clairance totale du médicament, avec une augmentation concomitante du volume de"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0079",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "'augmentation paradoxale observée de la clairance totale du médicament, avec une augmentation concomitante du volume de distribution. Sujet âgé Chez le sujet de plus de 75 ans, la demi-vie d'élimination moyenne est habituellement deux à trois fois plus élevée que celle observée chez l'adulte jeune. Population pédiatrique La demi-vie de la ceftriaxone est prolongée chez les nouveau-nés. Entre la naissance et le 14° jour de vie, les taux de ceftriaxone libre peuvent être accrus par des facteurs tels qu'une diminution de la filtration glomérulaire et une modification de la fixation protéique. Pendant l'enfance, la demi-vie est plus courte que chez le nouveau-né ou l'adulte. La clairance plasmatique et le volume de distribution de la ceftriaxone totale sont plus élevés chez les nouveau-nés,"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0080",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": ". La clairance plasmatique et le volume de distribution de la ceftriaxone totale sont plus élevés chez les nouveau-nés, les nourrissons et les enfants que chez les adultes. Linéarité/non linéarité La pharmacocinétique de la ceftriaxone est non linéaire et tous les principaux paramètres pharmacocinétiques, à l'exception de la demi-vie d'élimination, sont dose-dépendants sur la base des concentrations totales de médicament ; ils augmentent à une vitesse moindre que proportionnellement à la dose. Cette non-linéarité est due à la saturation de la fixation aux protéines plasmatiques, et elle est donc observée pour la ceftriaxone plasmatique totale mais non pour la ceftriaxone libre (non liée). Relations pharmacocinétique/pharmacodynamique Comme avec les autres bêta-lactamines, le paramètre"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0081",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "one libre (non liée). Relations pharmacocinétique/pharmacodynamique Comme avec les autres bêta-lactamines, le paramètre pharmacocinétique-pharmacodynamique le plus prédictif de l'efficacité in vivo est le pourcentage de temps pendant lequel la concentration non liée de l’antibiotique se situe au-dessus de la concentration minimale inhibitrice (CMI) de la ceftriaxone pour l'espèce ciblée entre deux administrations (par exemple %T > CMI). LIDOCAÏNE Absorption La lidocaïne est rapidement absorbée, avec une vitesse d'absorption dépendant de la vascularisation du site d'injection. Distribution La lidocaïne possède un volume de distribution à l'état d'équilibre de 91 L. Pénétration dans des tissus particuliers La lidocaïne traverse facilement le placenta, et l'équilibre des concentrations de la"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0082",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "tion dans des tissus particuliers La lidocaïne traverse facilement le placenta, et l'équilibre des concentrations de la fraction non liée est rapidement atteint. Le degré de fixation aux protéines plasmatiques chez le fœtus est inférieur à celui de la mère, ce qui conduit à des concentrations plasmatiques totales plus faibles chez le fœtus. Fixation protéique La fixation de la lidocaïne aux protéines plasmatiques est concentration-dépendante et la fixation diminue avec l'augmentation de la concentration. AUX concentrations comprises entre 1 et 5 ug/mL, 60 % à 80 % de la lidocaïne est liée aux protéines. La fixation protéique dépend également de la concentration plasmatique de l'al-glycoprotéine acide. Il a été montré que la lidocaïne traversait la barrière hémato-encéphalique."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0083",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "n plasmatique de l'al-glycoprotéine acide. Il a été montré que la lidocaïne traversait la barrière hémato-encéphalique. Biotransformation La lidocaïne est essentiellement métabolisée par le foie. Les principaux métabolites de la lidocaïne sont le monoéthylglycine xylidide, le glycinexylidide, la 2,6-diméthylaniline et la 4-hydroxy-2,6- diméthylaniline. La N-déalkylation de la lidocaïne en monoéthylglycine xylidide est considérée comme médiée à la fois par le CYP1A2 et le CYP3A4. Le métabolite 2,6-diméthylaniline est converti en 4- hydroxy-2,6-diméthylaniline par le CYP2A6 et le CYP2E1. Élimination La clairance de la lidocaïne dans le plasma après administration intraveineuse en bolus est comprise entre 9 et 10 mL/min/kg. La demi-vie d'élimination de la lidocaïne après injection"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0084",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "intraveineuse en bolus est comprise entre 9 et 10 mL/min/kg. La demi-vie d'élimination de la lidocaïne après injection intraveineuse en bolus est généralement de 1,5 à 2 heures. Le monoéthylglycine xylidide possède une demi-vie d'environ 2,3 heures et le glycinexylidide possède une demi-vie d'environ 10 heures et est susceptible de s’accumuler lors d'une administration au long cours. Seulement 3 % de la lidocaïne est excrétée par les reins sous forme inchangée. Environ 73 % de la lidocaïne apparait dans l'urine sous forme de métabolite 4-hydroxy-2,6-diméthylaniline. Patients présentant une insuffisance rénale ou hépatique Après administration intraveineuse, la demi-vie de la lidocaïne est environ 3 fois plus élevée chez les patients présentant une insuffisance hépatique. Une insuffisance"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0085",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "e la lidocaïne est environ 3 fois plus élevée chez les patients présentant une insuffisance hépatique. Une insuffisance rénale légère à modérée (CICr de 30 à 60 mL/min) n'a pas d'incidence sur la pharmacocinétique de la lidocaïne, mais elle peut accroître l'accumulation du métabolite glycinexylidide après administration intraveineuse. Toutefois, la clairance de la lidocaïne est divisée par deux environ et sa demi-vie est approximativement doublée avec l'augmentation de l'accumulation du métabolite glycinexylidide chez les patients présentant une insuffisance rénale sévère (CICr <30 mL/min). La pharmacocinétique de la lidocaïne et de son principal métabolite monoéthylglycine xylidide n'est pas modifiée de manière significative chez les patients hémodialysés qui reçoivent une dose"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0086",
+      "section": "5.2",
+      "titre_section": "Propriétés pharmacocinétiques",
+      "texte": "éthylglycine xylidide n'est pas modifiée de manière significative chez les patients hémodialysés qui reçoivent une dose intraveineuse de lidocaïne."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0087",
+      "section": "5.3",
+      "titre_section": "Données de sécurité préclinique",
+      "texte": "Des études menées chez l'animal ont montré que des doses élevées du sel calcique de ceftriaxone entraînaient la formation de concrétions et de précipités dans la vésicule biliaire des chiens et des singes, qui s'est avérée réversible. Les études menées chez l'animal n'ont apporté aucune preuve de toxicité pour la reproduction, ni de génotoxicité. Aucune étude de carcinogénicité n'a été menée avec la ceftriaxone. Des études précliniques sur l'association de ceftriaxone et lidocaïne n'ont pas été conduites."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0088",
+      "section": "6.1",
+      "titre_section": "Liste des excipients",
+      "texte": "Solvant : chlorhydrate de lidocaïne, eau pour préparations injectables."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0089",
+      "section": "6.2",
+      "titre_section": "Incompatibilités",
+      "texte": "D'après les données de la littérature, la ceftriaxone est incompatible avec l'amsacrine, la vancomycine, le fluconazole et les aminosides. Les solutions contenant de la ceftriaxone ne doivent pas être mélangées, ni ajoutées à d'autres agents exceptés ceux mentionnés en rubrique 6.6. En particulier, il convient de ne pas utiliser de solutions contenant du calcium (par exemple solution de Ringer ou solution de Hartmann) pour la reconstitution des flacons de ceftriaxone. La ceftriaxone ne doit pas être mélangée à des solutions contenant du calcium, ni administrée en même temps que ces solutions, y compris les poches de nutrition parentérale totale (voir rubriques 4.2, 4.3, 44 et 4.8). Il'est indispensable de rincer la tubulure entre chaque administration. La ceftriaxone sodique ne doit pas"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0090",
+      "section": "6.2",
+      "titre_section": "Incompatibilités",
+      "texte": "44 et 4.8). Il'est indispensable de rincer la tubulure entre chaque administration. La ceftriaxone sodique ne doit pas être mélangée à des solutions contenant du calcium, notamment : Ringer lactates : Hartmann B21, Glucosé B39 e Polyioniques : B46, B66 + Plasmalytes : B27, B22 e Compensal : B45E En cas d'association prévue de CEFTRIAXONE ARROW pendant le traitement, avec d'autres antibiotiques, l'administration ne doit pas être réalisée dans la même seringue ou dans la même solution pour perfusion."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0091",
+      "section": "6.3",
+      "titre_section": "Durée de conservation",
+      "texte": "3 ans. Après reconstitution : La solution doit être utilisée immédiatement après reconstitution. Toutefois, la stabilité physico- chimique en cours d'utilisation a été démontrée pendant 6 heures à Une température comprise entre 2 °C et 8 °C. D'un point de vue microbiologique, le produit doit être utilisé immédiatement. En cas d'utilisation non immédiate, les durées et conditions de conservation en cours d'utilisation relèvent de la responsabilité de l'utilisateur."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0092",
+      "section": "6.4",
+      "titre_section": "Précautions particulières de conservation",
+      "texte": "A conserver à une température ne dépassant pas 30°C. Pour les conditions de conservation du médicament après reconstitution, voir rubrique 6.3."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0093",
+      "section": "6.5",
+      "titre_section": "Nature et contenu de l'emballage extérieur",
+      "texte": "500 mg de poudre en flacon (verre incolore de type 11) avec capsule (aluminium), bouchon (chlorobutyl) et 2 mL de solvant en ampoule (verre incolore de type l)."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0094",
+      "section": "6.6",
+      "titre_section": "Précautions particulières d'élimination et de manipulation",
+      "texte": "Préparation de la solution injectable : L'utilisation de solutions reconstituées extemporanément est recommandée. Pour les conditions de conservation de la solution reconstituée, voir la rubrique 6.3. CEFTRIAXONE ARROW ne doit pas être mélangé dans la même seringue avec un médicament autre que la solution de chlorhydrate de lidocaïne à 1 % (pour une injection intramusculaire uniquement). En raison de la haute solubilité de la ceftriaxone, CEFTRIAXONE ARROW est immédiatement et complètement dissous dans la solution reconstituée. La solution reconstituée est Une solution claire de couleur jaune à jaune-brun. Pour l'injection par voie intramusculaire, 500 mg de CEFTRIAXONE ARROW sont dissous dans 2 mL de la solution fournie, qui contient 10 mg de chlorhydrate de lidocaïne par mL d'eau pour"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0095",
+      "section": "6.6",
+      "titre_section": "Précautions particulières d'élimination et de manipulation",
+      "texte": "ARROW sont dissous dans 2 mL de la solution fournie, qui contient 10 mg de chlorhydrate de lidocaïne par mL d'eau pour préparation injectable. Le flacon doit être légèrement enroulé entre les paumes, et visuellement inspecté pour s'assurer que la reconstitution est terminée et qu'il n'y a pas de présence de particule. Par la suite, cette solution est administrée par voie intramusculaire profonde. Le volume de déplacement de 500 mg de CEFTRIAXONE ARROW est de 0,36 mL dans une solution de chlorhydrate de lidocaïne à 1 %. Lorsque 2 mL de solution de chlorhydrate de lidocaïne à 1 % sont ajoutés, la concentration finale en ceftriaxone de la solution reconstituée est de 211,86 mg/mL. Les doses supérieures à 1 g doivent être divisées et injectées sur plusieurs sites. Voir également la rubrique"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0096",
+      "section": "6.6",
+      "titre_section": "Précautions particulières d'élimination et de manipulation",
+      "texte": "6 mg/mL. Les doses supérieures à 1 g doivent être divisées et injectées sur plusieurs sites. Voir également la rubrique 6.2. A Usage unique. Tout médicament non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur. Afin d'éviter un phénomène de carottage du bouchon, il est recommandé d'utiliser une aiguille de diamètre extérieur inférieur ou égal à 0,8 mm pour la reconstitution du produit. La couleur de la solution reconstituée peut varier du jaune au jaune-brun dans les conditions de conservation ci-dessus précisées."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0097",
+      "section": "7",
+      "titre_section": "TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE",
+      "texte": "EUGIA PHARMA (MALTA) LIMITED VAULT 14, LEVEL 2 VALLETTA WATERFRONT FLORIANA, FRN 1914 MALTE"
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0098",
+      "section": "8",
+      "titre_section": "NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE",
+      "texte": "+ 34009 357 438 0 0 : 500 mg de poudre en flacon (verre) + 2 mL de solvant en ampoule (verre), boîte de 1. + 34009 563 670 2 3 : 500 mg de poudre en flacon (verre) + 2 mL de solvant en ampoule (verre), boîte de 10. + 34009 563 669 4 1: 500 mg de poudre en flacon (verre) + 2 mL de solvant en ampoule (verre), boîte de 30."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0099",
+      "section": "9",
+      "titre_section": "DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE",
+      "texte": "L'AUTORISATION A compléter ultérieurement par le titulaire."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0100",
+      "section": "10",
+      "titre_section": "DATE DE MISE A JOUR DU TEXTE",
+      "texte": "A compléter ultérieurement par le titulaire."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0101",
+      "section": "11",
+      "titre_section": "DOSIMETRIE",
+      "texte": "Sans objet."
+    },
+    {
+      "id": "17_Ceftriaxone/Rcp_arrow_500mg_2mL_IM-0102",
+      "section": "12",
+      "titre_section": "INSTRUCTIONS POUR LA PREPARATION DES",
+      "texte": "RADIOPHARMACEUTIQUES Sans objet. CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE Liste |. EX MINISTÈRE } DU TRAVAIL, DE LA SANTÉ, DES SOLIDARITÉS ET DES FAMILLES Liberté Égalité Fraternité legifrance.gouv.fr [7 gouvernement.fr [7 service-public.fr [7 data.gouv.fr [7 Nos partenaires ansm fers H OX x /# ss l'Assurance ” D SA Maladie Agir ensemble, protéger chacun HAUTE AUTORITÉ DE SANTÉ Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0 [7"
+    }
+  ]
+}

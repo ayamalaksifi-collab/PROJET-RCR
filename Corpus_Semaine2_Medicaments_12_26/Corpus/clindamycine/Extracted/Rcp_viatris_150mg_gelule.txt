@@ -1,0 +1,742 @@
+EM
+
+MINISTÈRE h
+
+DU TRAVAIL, DE LA SANTE, = . PAT
+
+DES SOLIDARITÉS Base de Données Publique des Médicaments
+ET DES FAMILLES
+
+Dernière mise à jour le 03/11/2026
+
+CLINDAMYCINE VIATRIS 150 mg, gélule
+
+Fiche info Résumé des caractéristiques du produit Notice
+
+ANSM - Mis à jour le : 10/09/2025
+
+1. DENOMINATION DU MEDICAMENT +
+
+CLINDAMYCINE VIATRIS 150 mg, gélule
+
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE +
+Chaque gélule contient 150 mg de clindamycine (sous forme de chlorhydrate).
+Excipient à effet notoire :
+
+Chaque gélule contient 0,65 mg de lactose monohydraté.
+
+Pour la liste complète des excipients, voir rubrique 61
+
+3. FORME PHARMACEUTIQUE +
+
+Gélule
+
+Gélules cylindriques de gélatine de taille n°2 mesurant environ 18 mm de long et dotées d'une coiffe et
+d'un corps bleus.
+
+4. DONNEES CLINIQUES +
+
+41. Indications thérapeutiques
+
+La clindamycine est indiquée dans le traitement :
+
+Des infections graves provoquées par des bactéries anaérobies, dont des infections intra-abdominales,
+des infections cutanées et des infections des tissus mous. Le cas échéant, la clindamycine doit être
+administrée en association à un autre agent antibactérien qui est actif contre une bactérie aérobie à
+Gram négatif.
+
+° Amygdalite
+
+e Infection dentaire
+
+Il convient de tenir compte des recommandations officielles concernant l'utilisation appropriée des
+antibactériens.
+
+Administrée aux posologies efficaces du point de vue thérapeutiques, la clindamycine ne franchit pas la
+barrière hémato-encéphalique.
+
+4.2. Posologie et mode d'administration
+
+Posologie
+Adultes
+
+La dose habituelle est comprise entre 150 et 450 mg toutes les six heures, en fonction de la sévérité de
+l'infection.
+
+Sujets âgés
+
+La demi-vie, le volume de distribution et la clairance, ainsi que l'absorption après administration de
+chlorhydrate de clindamycine ne sont pas altérés chez le sujet âgé. L'analyse des résultats tirés des
+études cliniques n'a pas mis en évidence une augmentation de la toxicité liée à l'âge. Chez les patients
+âgés, les exigences en matière de posologie ne doivent pas seulement prendre en compte l'âge.
+
+Population pédiatrique
+
+La dose habituelle est de 3 à 6 mg/kg toutes les six heures, en fonction de la sévérité de l'infection (ne
+pas dépasser la dose prévue chez l'adulte).
+
+Les gélules de clindamycine ne conviennent pas aux enfants qui ne peuvent les avaler entières. Les
+gélules ne délivrent pas les doses exactes en mg/kg, par conséquent il peut être nécessaire, dans certains
+cas, d'utiliser une formulation alternative.
+
+La posologie de clindamycine chez les enfants est à adapter en fonction du poids corporel total,
+indépendamment d'une obésité.
+
+Insuffisance rénale
+Aucune adaptation posologique n'est nécessaire chez les patients présentant une insuffisance rénale
+
+légère à modérée. Chez les patients présentant une insuffisance rénale sévère ou une anurie, la
+concentration plasmatique doit être surveillée. En fonction des résultats, cette mesure peut conduire à
+
+une diminution de la posologie ou à une augmentation de l'intervalle nécessaire entre les doses pouvant
+aller jusqu'à 8 heures ou même 12 heures.
+
+Insuffisance hépatique
+
+Chez les patients présentant une insuffisance hépatique modérée à sévère, la demi-vie d'élimination de
+la clindamycine est prolongée. Il n'est généralement pas nécessaire de diminuer la posologie si la
+clindamycine est administrée toutes les 8 heures. Toutefois, il faut surveiller la concentration
+plasmatique de clindamycine chez les patients présentant une insuffisance hépatique sévère. En
+fonction des résultats, cette mesure peut conduire à une diminution de la posologie ou à une
+augmentation de l'intervalle nécessaire entre les doses.
+
+Dans les cas d'infection par un streptocoque béta-hémolytique, le traitement par CLINDAMYCINE
+VIATRIS 150 mg, gélule devra être poursuivi pendant au moins 10 jours pour réduire le risque d'apparition
+d'un rhumatisme articulaire aigu ou d'une glomérulonéphrite.
+
+Mode d'administration
+
+Voie orale.
+
+CLINDAMYCINE VIATRIS 150 mg, gélule doit être pris en entier, en l’avalant avec un grand verre d'eau. La
+prise doit être effectuée en position verticale (debout ou assis), sans s'allonger pendant au moins 30
+minutes après l'administration. L'absorption de clindamycine n'est sensiblement pas modifiée par la prise
+conjointe de nourriture.
+
+4.3. Contre-indications
+
+La clindamycine est contre-indiquée chez des patients précédemment reconnus comme hypersensibles
+à la clindamycine, à la lincomycine ou à l’un des excipients mentionnés à la rubrique 61.
+
+4.4. Mises en garde spéciales et précautions d'emploi
+
+Hypersensibilité
+
+Des réactions d'hypersensibilité graves, y compris des réactions cutanées graves, telles que le syndrome
+d'hypersensibilité médicamenteuse avec éosinophilie et symptômes systémiques (DRESS), le syndrome
+de Stevens-Johnson (SSJ), la nécrolyse épidermique toxique (NET) et la pustulose exanthématique aiguë
+généralisée (PEAG) ont été rapportées chez des patients recevant un traitement par clindamycine. En cas
+de survenue d’une hypersensibilité ou d'une réaction cutanée sévère, la clindamycine doit être arrêtée et
+un traitement adapté doit être mis en place (voir rubriques 4.3 et 4.8).
+
+Le choix de la clindamycine doit être fondé sur des facteurs tels que la sévérité de l'infection, la
+prévalence de résistance à d'autres agents appropriés et le risque de sélectionner une bactérie résistante
+à la clindamycine.
+
+Il convient de prendre des précautions pour utiliser la clindamycine chez des personnes atopiques.
+
+Colites associées aux antibiotiques
+
+La clindamycine ne doit être utilisée que dans le traitement des infections sévères. Lorsque le praticien
+envisage l'usage du produit, il doit avoir présent à l'esprit le type d'infection et le risque potentiel de la
+diarrhée qui est susceptible de se développer, puisque des cas de colites ont été rapportés pendant ou
+même deux ou trois semaines à la suite de l'administration de clindamycine.
+
+Le traitement par agents antibactériens peut altérer de manière significative la flore normale du colon,
+entraînant la prolifération de Clostridium difficile. Cela a été rapporté avec l'emploi de presque tous les
+agents antibactériens, dont la clindamycine. Clostridium difficile produit des toxines A et B qui
+contribuent au développement de diarrhées associées à Clostridium difficile (DACD) et est une des
+principales causes de « colites associées aux antibiotiques ».
+
+Il est important de considérer le diagnostic de DACD chez les patients qui présentent des diarrhées
+après l'administration d'agents antibactériens. Cela pourrait évoluer en une colite, dont la colite pseudo-
+membraneuse (Voir rubrique 4.8).
+
+La colite est une maladie qui a un spectre clinique s'étendant de la diarrhée aqueuse légère à la diarrhée
+sévère persistante, leucocytose, fièvre, crampes abdominales sévères qui peuvent être associées au
+passage de sang et de mucus. Si l'évolution de cette maladie n'est pas contrôlée, elle peut donner lieu à
+une péritonite, Un choc et à Un mégacôlon toxique.
+
+L'issue peut être fatale. L'apparition d'une diarrhée importante doit être considérée comme un signe
+indiquant l'arrêt immédiat du produit. La maladie risque de présenter une évolution plus sévère chez les
+patients âgés ou chez les patients qui sont affaiblis.
+
+Habituellement ce sont les symptômes cliniques qui permettent d'établir le diagnostic, mais la
+démonstration endoscopique peut confirmer la colite pseudo-membraneuse. La présence de la maladie
+peut être en outre confirmée par la culture de selles pour rechercher Clostridium difficile sur des milieux
+sélectifs et par le dosage d'un échantillon de selles pour déceler la/les toxine(s) de C. difficile. Si une
+diarrhée associée à un antibiotique ou une colite associée à un antibiotique est soupçonnée ou
+confirmée, le traitement en cours avec des agents antibactériens, dont la clindamycine, doivent être
+arrêtés et des dispositions thérapeutiques doivent être initiées immédiatement. Les médicaments
+inhibant le péristaltisme sont contre-indiqués dans cette situation.
+
+Il convient d'être prudent lors de la prescription de clindamycine à des personnes ayant des antécédents
+de maladie gastro-intestinale, en particulier de colite.
+
+Traitement à long terme
+
+La clindamycine ne franchit pas la barrière hémato-encéphalique lorsqu'elle est administrée aux
+quantités efficaces du point de vue thérapeutique.
+
+Etant donné que la clindamycine ne diffuse pas adéquatement dans le liquide céphalo-rachidien, ce
+médicament ne peut pas être utilisé pour le traitement de la méningite.
+
+AU cours d’un traitement prolongé, il faut réaliser des analyses de la fonction hépatique et de la fonction
+rénale. Un tel suivi est également recommandé chez les nouveau-nés et les nourrissons.
+
+L'administration prolongée de clindamycine, comme avec tout anti-infectieux, peut donner lieu à une
+surinfection due à des organismes résistants à la clindamycine.
+
+Des cas de lésions rénales aiguës, y compris d'insuffisance rénale aiguë, ont été rarement signalés. Ainsi,
+la surveillance de la fonction rénale devra être considérée chez les patients recevant un traitement
+prolongé, souffrant d'un trouble rénal préexistant ou prenant des traitements néphrotoxiques
+concomitants (voir la rubrique 4.8).
+
+Atteintes œsophagiennes
+
+En raison du risque d'atteintes œsophagiennes, il est important de faire respecter les conditions
+d'administration (voir rubriques 4.2 et 4.8).
+
+Excipients
+
+CLINDAMYCINE VIATRIS 150 mg, gélule contient du lactose. Les patients qui présentent des problèmes
+rares d'intolérance au galactose, de déficience totale en lactase ou de malabsorption au glucose-
+galactose de doivent pas prendre ce médicament.
+
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Myorelaxants
+
+Il s'est avéré que la clindamycine possède des propriétés bloquantes neuromusculaires qui peuvent
+renforcer l'activité d'autres bloquants neuromusculaires. Chez les patients traités par ce type de
+médicaments, la clindamycine doit être utilisée prudemment.
+
+Agents antibactériens
+
+Un antagonisme a été démontré in vitro entre clindamycine et érythromycine. En raison de la pertinence
+clinique possible, il ne faut pas administrer simultanément les deux médicaments et, par conséquent la
+clindamycine ne doit pas être associée à des macrolides ou à des agents antibactériens que sont les
+streptogramines.
+
+Antagonistes de la vitamine K
+
+Une augmentation des résultats des tests de la coagulation (TP/INR) et/ou des saignements ont été
+rapportés chez les patients traités par clindamycine en association avec un antagoniste de la vitamine K
+(par exemple warfarine, acénocoumarol et fluindione). C'est pourquoi il conviendra d'effectuer
+régulièrement des tests de la coagulation chez les patients recevant des antagonistes de la vitamine K.
+
+Co-administration de clindamycine avec des inhibiteurs des CYP3A4 et CYP3A5
+
+La clindamycine est essentiellement métabolisée par le CYP3A4, et dans une moindre mesure par le
+CYP3A5, en un métabolite majeur qui est le sulfoxyde de clindamycine et en un métabolite mineur qui
+est le N-desméthylclindamycine. Par conséquent, les inhibiteurs des CYP3A4 et CYP3AS peuvent réduire
+la clairance de la clindamycine et des inducteurs de ces isoenzymes peuvent augmenter la clairance de la
+clindamycine. En présence d'inducteurs puissants du CYP3A4 comme la rifampicine, surveiller
+l'éventuelle perte d'efficacité.
+
+Des études in vitro indiquent que la clindamycine n'inhibe pas CYP1A2, CYP2C9, CYP2C19, CYP2E1 ou
+CYP2D6 et inhibe seulement modérément CYP3A4.C Par conséquent, les interactions cliniquement
+importantes entre la clindamycine et les médicaments co-administrés métabolisés par ces enzymes CYP
+sont peu probables.
+
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+
+Les études effectuées chez l'animal ont mis en évidence une toxicité maternelle et une toxicité
+embryofoetale.
+
+La clindamycine traverse le placenta dans l'espece humaine. Après des doses multiples, les
+concentrations dans le liquide amniotique s'élevaient approximativement à 30% des concentrations
+enregistrées dans le sang maternel.
+
+Dans les études cliniques conduites auprès de femmes enceintes, l'administration systémique de
+clindamycine au cours du deuxième et du troisième trimestre n'a pas été associée à une augmentation
+de la fréquence de malformations congénitales. On ne dispose pas d'études adéquates, bien contrôlées,
+conduites auprès de femmes enceintes au cours du premier trimestre de la grossesse. La clindamycine ne
+doit être utilisée pendant la grossesse qu'en cas d’absolue nécessité.
+
+Allaitement
+
+Le passage de la clindamycine dans le lait maternel est faible et les quantités ingérées très inférieures aux
+doses thérapeutiques pédiatriques après un usage systémique.
+
+En conséquence, l'allaitement est possible en cas de prise de cet antibiotique. Toutefois, reconsidérer la
+poursuite de l'allaitement (ou revoir le médicament) en cas de survenue de diarrhée, de sang dans les
+selles, de candidose ou d'éruption cutanée chez le nourrisson.
+
+Fertilité
+
+Les études de fertilité effectuées chez des rats traités par clindamycine orale n'ont pas mis en évidence
+d'effets sur la fertilité ou la capacité d'accouplement.
+
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+
+La clindamycine n'a aucun effet ou un effet négligeable sur l'aptitude à conduire des véhicules et à
+utiliser des machines.
+
+4.8. Effets indésirables
+
+Le tableau ci-dessous reprend les effets indésirables identifiés lors des études cliniques et de la
+pharmacovigilance, par classes de systèmes d'organes et par fréquence. Les effets indésirables identifiés
+lors de la pharmacovigilance sont inclus en italique. Les catégories de fréquence présentées sont définies
+selon la convention suivante : très fréquent (> 1/10) ; fréquent (> 1/100, < 1/10) ; peu fréquent (2 1/1 000, <
+1/100) ; rare (> 1/10 000, < 1/1 000) ; très rare (< 1/10 000) et fréquence indéterminée (ne peut être estimée
+sur la base des données disponibles). Au sein de chaque groupe de fréquence, les effets indésirables sont
+présentés par ordre de sévérité décroissante.
+
+Classe de
+systèmes
+d'organes
+
+Fréquent
+(2 1/100, < 1/10)
+
+Peu fréquent
+( 1/1 000, <
+1/100)
+
+Rare
+21/10
+000, < 1/1
+000
+
+Fréquence
+indéterminée (ne
+peut être estimée
+
+sur la base des
+données
+disponibles)
+
+Infections et
+infestations
+
+Colite
+pseudomembraneuse*#
+
+Colite à Clostridium
+difficile*, infection
+vaginale*
+
+Affections
+hématologiques
+et du système
+lymphatique
+
+Agranulocytose”,
+neutropénie*,
+
+Lo +
+thrombocytopénie,
+leucopénie*,
+éosinophilie
+
+Affections du
+système
+immunitaire
+
+Choc
+anaphylactique*,
+réaction
+anaphylactoïde*,
+réaction
+anaphylactique*,
+hypersensibilité*
+
+Affections du
+
+système Dysgueusie
+
+nerveux
+
+Affections . , . Ulcères
+Diarrhée, douleurs Vomissements, .
+
+gastro- . h œsophagiens*f,
+
+: . abdominales nausées .
+
+intestinales œsophagite*f
+
+Affections _ *
+
+a ARR Ictère
+
+hépatobiliaires
+
+Affections du
+
+rein et des Lésion rénale aiguë”
+
+voies urinaires
+
+Affections de la Éruption Nécrolyse
+
+peau et du tissu
+soUs-cUutané
+
+maculopapuleuse,
+urticaire
+
+épidermique
+toxique (NET*,
+syndrome de
+Stevens-Johnson
+(SSJ}*, réaction
+médicamenteuse
+s'accompagnant
+d'une éosinophilie
+et de symptômes
+
+Fréquence
+
+, Rare indéterminée (ne
+Classe de Fréquent Peu fréquent 21/10 peut être estimée
+systèmes 21/1000,
+der en (2 1/100, < 1/10) ( 11100) < 000, < 1/1 sur la base des
+8 000 données
+disponibles)
+systémiques
+(DRESS}*,
+exanthème
+
+pustuleux aigu
+généralisé*, angio-
+œdème*, dermatite
+exfoliative*,
+dermatite bulleuse*,
+érythème
+polymorphe*,
+prurit, éruption
+morbilliforme*
+
+Tests anormaux de la
+
+Investigations . , .
+É fonction hépatique
+
+* El identifiés après la commercialisation du médicament.
+
+El ne survenant qu'avec les formulations orales.
+
+# Voir rubrique 44.
+
+Déclaration des effets indésirables suspectés
+
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle
+permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de
+santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale
+de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres Régionaux de
+Pharmacovigilance - Site internet : https://signalement.social-sante.gouv.fr.
+
+4.9. Surdosage
+
+En cas de surdosage, aucun traitement spécifique n'est indiqué.
+
+La demi-vie biologique sérique de la clindamycine est de 2,4 heures. La dialyse ou dialyse péritonéale ne
+permettent pas d'éliminer facilement la clindamycine du sang.
+
+Si un effet indésirable allergique survient, il convient d'instaurer les traitements d'urgence habituels,
+incluant l'administration de corticostéroïdes, d'adrénaline et d'antihistaminiques.
+
+5. PROPRIETES PHARMACOLOGIQUES +
+
+51. Propriétés pharmacodynamiques
+
+Classe pharmacothérapeutique : anti-infectieux à usage systémique, code ATC. J01FF01.
+
+La clindamycine est un antibiotique de la famille des lincosamides.
+Mécanisme d'action
+
+La clindamycine inhibe la synthèse des protéines bactériennes en se liant à la sous-unité 50S du
+ribosome bactérien.
+
+Aux doses habituelles, la clindamycine présente une activité bactériostatique in vitro.
+Relation pharmacocinétique-pharmacodynamique
+Le pourcentage de temps pendant lequel la concentration de l'antibiotique se situe au-dessus de la
+
+concentration minimale inhibitrice (CMI) de la bactérie entre deux administrations (ÆT>CMI), est le
+paramètre le plus prédictif de l'efficacité de la clindamycine.
+
+Résistance
+
+Une résistance à la clindamycine est le plus souvent due aux mutations au site de fixation de
+l'antibiotique sur l'ARNr ou à la méthylation de nucléotides spécifiques de l'ARN 23S de la sous-unité 50S
+du ribosome. Ces altérations peuvent déterminer une résistance croisée in vitro aux macrolides et aux
+streptogramines B (phénotype MLSà).
+
+Des mécanismes de résistance peuvent être dus à l’efflux actif.
+
+La résistance à la clindamycine peut être inductible par des macrolides chez des souches bactériennes
+résistantes aux macrolides.
+
+Il existe une résistance croisée complète entre la clindamycine et la lincomycine.
+
+L'incidence de la résistance à la clindamycine est plus élevée parmi les souches de staphylocoques
+résistants à la méticilline et les souches de pneumocoques de sensibilité diminuée à la pénicilline.
+
+Seuils des tests de sensibilité
+
+Les critères d'interprétation des concentrations minimales inhibitrices (CMI) pour les tests de sensibilité
+ont été établis par le Comité européen des antibiogrammes (EUCAST) pour la clindamycine et sont
+énumérés ci-dessous : https://www.ema.europa.eu/documents/other/minimum-inhibitory-concentration-
+mic-breakpoints_en.xlsx
+
+Spectre d'activité antibactérienne
+
+La prévalence de la résistance acquise peut varier selon la géographie et avec le temps pour des espèces
+sélectionnées et des informations locales sur la résistance sont souhaitables, en particulier au moment
+de traiter des infections sévères. Si nécessaire, il convient de prendre l'avis auprès d'un expert lorsque la
+prévalence locale de résistance est telle que l'utilité de l'agent dans au moins certains types d'infections
+est discutable.
+
+Classes
+
+ESPÈCES HABITUELLEMENT SENSIBLES
+Aérobies à Gram positif
+
+Bacillus cereus
+
+Corynebacterium diphtheriae
+Staphylococcus méticilline-sensible
+Streptococcus agalactiae
+
+Aérobies à Gram négatif
+Campylobacter
+
+Anaérobies
+
+Actinomyces
+
+Capnocytophaga
+
+Clostridium perfringens
+Eubacterium
+
+Fusobacterium
+Gardnerella vaginalis
+Porphyromonas
+Prevotella
+Propionibacterium acnes
+Veillonella
+
+Autres
+
+Chlamydia trachomatis
+Leptospires
+
+Mycoplasma hominis
+Mycoplasma pneumoniae
+
+ESPÈCES INCONSTAMMENT SENSIBLES
+(Résistance acquise 2 10%)
+
+Aérobies à Gram positif
+
+Enterococcus faecium
+
+Erysipelothrix
+
+Staphylococcus méticilline-résistant
+Streptococcus pneumoniae
+Streptococcus pyogenes
+
+Streptocoques oraux
+
+Anaérobies
+
+Bacteroides
+
+Clostridium (autres que difficile et perfringens)
+Mobiluncus
+
+Peptococcus
+
+Peptostreptococcus
+
+ESPÈCES NATURELLEMENT RESISTANTES
+
+Aérobies à Gram positif
+
+Corynebacterium jeikeium
+
+Enterococcus spp. (autres que Enterococcus faecium)
+Listeria
+
+Nocardia asteroides
+
+Rhodococcus equi
+
+Aérobies à Gram négatif
+
+Bacilles à Gram négatif non fermentaires
+(Acinetobacter, Pseudomonas, ….)
+Entérobactéries
+
+Haemophilus
+
+Legionella
+
+Branhamella catarrhalis
+
+Neisseria
+
+Pasteurella
+
+Anaérobies
+
+Clostridium difficile
+
+Autres
+
+Mycobactéries
+
+Ureaplasma urealyticum
+
+Activité Anti-parasitaire
+La clindamycine possède une activité in vitro et in vivo sur Toxoplasma gondii.
+5.2. Propriétés pharmacocinétiques
+
+Caractéristiques générales de la substance active
+
+Près de 90% d'une dose de clindamycine est absorbé à partir des voies gastro-intestinales; des
+concentrations de 2 à 3 microgrammes par ml apparaissent une heure après administration d'une dose
+de 150 mg de clindamycine, avec des concentrations moyennes d'environ 0,7 microgrammes par ml
+après 6 heures. Après des doses de 300 à 600 mg des concentrations plasmatiques maximales
+respectives de 4 et 8 microgrammes par ml ont été rapportées. La présence d'aliments dans l'estomac ne
+diminue pas l'absorption de manière significative, mais la vitesse d'absorption peut être réduite.
+
+La clindamycine se distribue largement dans les liquides et les tissus corporels, y compris l'os, mais les
+concentrations atteintes dans le liquide céphalo-rachidien ne sont pas significatives. Elle diffuse à travers
+le placenta dans la circulation fœtale et il a été rapporté qu'elle passait dans le lait maternel. Des
+concentrations élevées sont présentes dans la bile. Elle s'accumule dans les leucocytes et les
+macrophages. Plus de 90% de la clindamycine présente dans la circulation est liée aux protéines
+plasmatiques. La demi-vie est de 2 à 3 heures, mais elle peut être prolongée chez les nouveau-nés et chez
+les patients ayant une insuffisance rénale sévère.
+
+La clindamycine est métabolisée, sans doute dans le foie, en métabolites actifs N-déméthyl et sulfoxyde
+ainsi qu'en certains métabolites inactifs. Près de 10 % d'une dose est excrété dans l'urine sous forme de
+médicament actif ou de métaboblites, et environ 4 % dans les selles ; le reste est excrété sous la forme de
+métabolites inactifs L'excrétion est lente, et se déroule sur plusieurs jours. La dialyse ne permet pas de
+l'éliminer efficacement de la circulation sanguine.
+
+Patients obèses
+Une analyse de données pharmacocinétiques chez des patients pédiatriques obèses et non obèses âgés
+
+de 2 à moins de 18 ans et chez des adultes obèses et non obèses âgés de 18 à 20 ans, a montré sur la
+base d’un modèle pharmacocinétique que la clairance et le volume de distribution de la clindamycine
+
+normalisés par le poids corporel total sont comparables indépendamment de l'obésité.
+Caractéristiques des patients
+
+Pas de caractéristiques particulières. Se reporter à la rubrique 4.4 pour obtenir de plus amples
+informations.
+
+5.3. Données de sécurité préclinique
+
+Non indiquées
+
+6. DONNEES PHARMACEUTIQUES +
+
+61. Liste des excipients
+
+Contenu de la gélule :
+
+Silice colloïdale anhydre, lactose monohydraté, amidon de maïs, stéarate de magnésium.
+Enveloppe des gélules :
+
+Indigotine (E132), dioxyde de titane (E171), gélatine.
+
+6.2. Incompatibilités
+
+Sans objet.
+
+6.3. Durée de conservation
+
+3 ans
+
+Flacons : A utiliser dans les 6 mois après ouverture.
+
+6.4. Précautions particulières de conservation
+
+A conserver à une température ne dépassant pas 25°C.
+
+Pour les conditions de conservation du médicament après première ouverture, voir la rubrique 6.3.
+6.5. Nature et contenu de l'emballage extérieur
+
+Plaquettes (PVC/aluminium) de 16 et 24 gélules.
+
+Plaquettes prédécoupées unitaires (PVC/aluminium) de 12 x 1 gélules.
+
+Flacons (PEHD) de 100 gélules.
+
+Toutes les présentations peuvent ne pas être commercialisées.
+
+6.6. Précautions particulières d'élimination et de manipulation
+
+Pas d'exigences particulières pour l'élimination.
+
+7. TITULAIRE DE L'AUTORISATION DE MISE SUR LE MARCHE +
+
+VIATRIS SANTE
+
+1 RUE DE TURIN
+
+69007 LYON
+
+8. NUMERO(S) D'AUTORISATION DE MISE SUR LE MARCHE +
+
+- 34009 301 475 3 5 : Gélules sous plaquettes prédécoupées unitaires (PVC/Aluminium). Boîte de 12x1.
+° 34009 301 475 4 2 : Gélules sous plaquettes (PVC/Aluminium). Boîte de 16.
+
++ 34009 301 475 5 9 : Gélules sous plaquettes (PVC/Aluminium). Boîte de 24.
+
++ 34009 550 552 2 8 : Gélules en flacon (PEHD). Boîte de 100.
+
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L'AUTORISATION
+
+[à compléter ultérieurement par le titulaire]
+
+10. DATE DE MISE A JOUR DU TEXTE +
+
+[à compléter ultérieurement par le titulaire]
+
+11. DOSIMETRIE +
+
+Sans objet.
+
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+
+Sans objet.
+
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+
+Liste |.
+
+El
+
+MINISTÈRE .
+DU TRAVAIL, DE LA SANTÉ,
+DES SOLIDARITÉS
+
+ET DES FAMILLES
+
+Liberté
+
+Égalité
+Fraternité
+
+legifrance.gouv.fr [7 gouvernement.fr [7 service-public.fr [7 data.gouv.fr [7
+
+Nos partenaires
+
+ansm. HAS Gps
+
+Je de écrit dumédament £XT Maladie
+
+de santé Agir ensemble, protéger chacun
+
+HAUTE AUTORITÉ DE SANTÉ
+
+Sauf mention contraire, tous les contenus de ce site sont sous licence etalab-2.0 [7

@@ -1,0 +1,44 @@
+{
+  "document_type": "French RCP excerpt",
+  "source": "Text pasted by the user in chat; original PDF not supplied",
+  "medicine": {
+    "name": "CEFIXIME ARROW LAB 200 mg, comprimé pelliculé",
+    "active_ingredient": "cefixime",
+    "strength": "200 mg per tablet",
+    "pharmaceutical_form": "Film-coated tablet",
+    "route": "oral",
+    "atc_code": "J01DD08"
+  },
+  "indications_transcribed": [
+    "Acute pyelonephritis without uropathy",
+    "Complicated or uncomplicated lower urinary tract infections, except prostatitis",
+    "Bacterial superinfections of acute bronchitis and exacerbations of chronic bronchitis",
+    "Suspected bacterial pneumonia",
+    "Acute sinusitis and otitis",
+    "Male gonococcal urethritis"
+  ],
+  "posology_transcribed": [
+    "Adults and children over 12 years: 400 mg/day in two administrations 12 hours apart.",
+    "Gonococcal urethritis: the supplied text indicates a single dose of two 200 mg tablets (400 mg).",
+    "If creatinine clearance is below 20 mL/min, including haemodialysis: do not exceed 200 mg/day in one administration.",
+    "No dosage adjustment stated for hepatic impairment."
+  ],
+  "contraindications_transcribed": [
+    "Hypersensitivity to cefixime, a cephalosporin antibiotic, or an excipient."
+  ],
+  "warnings_and_precautions_transcribed": [
+    "Stop treatment if an allergic manifestation occurs.",
+    "Use particular caution in patients with penicillin allergy because of possible cross-allergy.",
+    "Consider antibiotic-associated and pseudomembranous colitis in patients with diarrhoea.",
+    "Serious skin reactions, haemolytic anaemia and encephalopathy are described.",
+    "Dose adjustment may be needed in severe renal impairment."
+  ],
+  "excipients": "The supplied excerpt lists pregelatinized maize starch, calcium hydrogen phosphate, magnesium stearate, microcrystalline cellulose, hypromellose, polyvinyl alcohol, titanium dioxide, talc, soy lecithin and xanthan gum; verify against the official RCP because the OCR text is imperfect.",
+  "source_pages": null,
+  "extraction_quality": {
+    "status": "partial",
+    "original_pdf_available": false,
+    "contains_ocr_errors_or_missing_values": true,
+    "verification_required": true
+  }
+}
