@@ -1,0 +1,444 @@
+--- Page 1 ---
+ANSM ANSM - Mis à jour le : 02/10/2014
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+1. DENOMINATION DU MEDICAMENT
+ADALATE 20 mg L.P., comprimé à libération prolongée
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Nifédipine .......................................................................................................................................... 20
+mg
+Pour un comprimé enrobé.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé à libération prolongée.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Hypertension artérielle.
+4.2. Posologie et mode d'administration
+Voie orale.
+1 comprimé deux fois par jour à avaler sans croquer, avec un peu de liquide.
+Il est recommandé d’instaurer le traitement avec prudence chez les patients susceptibles de
+présenter une réaction excessive à la nifédipine.
+En cas d’arrêt du traitement, les doses doivent être réduites de façon progressive.
+L’intervalle recommandé entre 2 prises d’ADALATE LP 20 mg est d’environ 12 heures et doit être au
+minimum de 4 heures.
+Populations particulières
+Enfants et adolescents
+La sécurité d’emploi et l’efficacité d’ADALATE LP 20 mg, comprimé n’ont pas été étudiées chez
+l’enfant de moins de 18 ans. Les données actuellement disponibles sur l’utilisation de la nifédipine
+dans l’hypertension artérielle sont décrites en rubrique 5.1.
+Patient âgé
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 1 of 12
+
+--- Page 2 ---
+La biodisponibilité de la nifédipine étant augmentée chez les personnes âgées, ADALATE LP 20 mg,
+comprimé doit être administré avec prudence dans cette population.
+Insuffisance hépatique
+Du fait de son métabolisme hépatique, la nifédipine doit être administrée sous surveillance chez les
+insuffisants hépatiques. Par ailleurs, il n’existe pas de données cliniques chez les insuffisants
+hépatiques sévères.
+Insuffisance rénale
+Il n’existe pas de données cliniques chez l’insuffisant rénal. ADALATE LP 20 mg, doit être administré
+avec prudence chez ces patients.
+4.3. Contre-indications
+Ce médicament ne doit pas être utilisé dans les cas suivants :
+hypersensibilité connue à la nifédipine, ou à l’un des excipients,
+infarctus du myocarde datant de moins de 1 mois,
+angor instable (voir rubrique 4.4),
+choc cardio-vasculaire (voir rubrique 4.4),
+en association avec le diltiazem (voir rubrique 4.5)
+Ce médicament est généralement déconseillé pendant la grossesse ou l’allaitement (voir rubrique
+4.6).
+4.4. Mises en garde spéciales et précautions d'emploi
+Mises en garde
+La prise de ce médicament avec la ciclosporine, ou le dantrolène administré par perfusion est
+déconseillée (voir rubrique 4.5).
+Ce médicament contient du lactose. Son utilisation est déconseillée chez les patients présentant une
+intolérance au galactose, un déficit en lactase de Lapp ou un syndrome de malabsorption du glucose
+ou du galactose (maladies héréditaires rares).
+Précautions d'emploi
+La prudence est recommandée chez les patients dans des conditions hémodynamiques précaires
+(hypovolémie, hypotension sévère avec pression systolique inférieure à 90 mmHg, collapsus,
+dysfonctionnement systolique sévère du ventricule gauche, insuffisance cardiaque cliniquement
+significative, sténose aortique sévère).
+La nifédipine n'affecte pas la conduction cardiaque. Cependant, par référence aux autres
+antagonistes calciques, la prudence s'impose en cas de dysfonctionnement sinusal et d'anomalie
+de la conduction.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 2 of 12
+
+--- Page 3 ---
+En cas de constipation sévère, il est conseillé d'administrer des lubrifiants pour éviter l'aggravation
+excessive de la constipation.
+Pour une utilisation chez les populations particulières voir rubrique 4.2.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations contre-indiquées
++ Diltiazem
+Augmentation importante des concentrations de nifédipine par diminution de son métabolisme
+hépatique par le diltiazem, avec risque d'hypotension sévère.
+Associations déconseillées
++ Ciclosporine
+Risque d'addition d'effets indésirables à type de gingivopathies.
+Utiliser une autre dihydropyridine.
++ Dantrolène administré par perfusion
+Chez l'animal des cas de fibrillations ventriculaires mortelles sont constamment observés lors de
+l'administration de vérapamil et de dantrolène IV. L'association d'un antagoniste du calcium et de
+dantrolène est donc potentiellement dangereuse.
+Cependant, quelques patients ont reçu l'association nifédipine et dantrolène sans inconvénient.
+Associations faisant l'objet de précautions d’emploi
++ Baclofène
+Majoration de l'effet antihypertenseur.
+Surveillance de la pression artérielle et adaptation posologique de l'antihypertenseur si nécessaire.
++ Phénytoïne
+Augmentation des concentrations plasmatiques de phénytoïne avec signes de surdosage (en
+particulier neurologiques). Mécanisme invoqué : déplacement de la fixation protéique de la
+phénytoïne et inhibition de son métabolisme.
+Surveillance clinique et réduction des doses de phénytoïne dès l’apparition des signes de surdosage.
+Contrôler les concentrations plasmatiques de phénytoïne.
++ Inhibiteurs puissants du CYP3A4.
+Majoration des effets indésirables de la nifédipine, le plus souvent à type d’hypotension, notamment
+chez le sujet âgé.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 3 of 12
+
+--- Page 4 ---
+Surveillance clinique et adaptation posologique pendant le traitement par l’inhibiteur enzymatique et
+après son arrêt.
++ Cimétidine (≥ 800 mg/j)
+Augmentation de l'effet hypotenseur de la nifédipine par inhibition de son métabolisme hépatique par
+la cimétidine.
+Surveillance clinique accrue; adapter la posologie de la nifédipine pendant le traitement par la
+cimétidine et après son arrêt.
++ Antifongiques azolés (i.e. Itraconazole, Kétoconazole)
+Risque majoré d'effets indésirables, notamment d'œdèmes, par diminution du métabolisme
+hépatique de la dihydropyridine.
+Surveillance clinique et adaptation éventuelle de la posologie de la dihydropyridine pendant le
+traitement par l'antifongique azolé et après son arrêt.
++ Anticonvulsivants inducteurs enzymatiques (carbamazépine, phénobarbital, phénytoïne,
+primidone, fosphénytoïne)
+Diminution des concentrations plasmatiques de la nifédipine par augmentation de son métabolisme
+hépatique par l'inducteur.
+Surveillance clinique et adaptation éventuelle de la posologie de la nifédipine pendant le traitement
+par l'inducteur et après son arrêt.
++ Rifampicine
+Diminution des concentrations plasmatiques de la nifédipine par augmentation de son métabolisme
+hépatique.
+Surveillance clinique et adaptation éventuelle de la posologie de la nifédipine pendant le traitement
+par la rifampicine et après son arrêt.
+Associations à prendre en compte
++ Médicaments abaissant la pression artérielle :
+Majoration du risque d’hypotension, notamment orthostatique.
++ Alpha-bloquants adrénergiques y compris à visée urologique (alfuzosine, doxazosine,
+prazosine, tamsulosine, térazosine, trimazosine, urapidil)
+Majoration de l'effet hypotenseur. Risque d'hypotension orthostatique majoré.
++ Amifostine
+Majoration de l'hypotension par addition d'effets indésirables.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 4 of 12
+
+--- Page 5 ---
++ Antidépresseurs imipraminiques, neuroleptiques
+Effet antihypertenseur et risque d'hypotension orthostatique majoré (effet additif).
++ Bêtabloquants (sauf esmolol)
+Hypotension, défaillance cardiaque chez les malades en insuffisance cardiaque latente ou non
+contrôlée. La présence d’un traitement bêtabloquant peut minimiser la réaction sympathique réflexe
+mise en jeu en cas de répercussion hémodynamique excessive et démasquer un effet inotrope
+négatif pouvant s’ajouter à celui du bêta-bloquant.
+En cas d’insuffisance cardiaque traitée par ß-bloquant (bisoprolol, carvédilol, métoprolol ou
+nébivolol), l'administration concomitante de nifédipine impose une surveillance étroite du patient, en
+raison d’une aggravation de l’insuffisance cardiaque, dans des cas isolés.
++ Glucocorticoïdes (sauf hydrocortisone en traitement de substitution) et minéralocorticoïdes.
+Diminution de l'effet antihypertenseur (rétention hydrosodée des corticoïdes).
+4.6. Grossesse et allaitement
+Grossesse
+Les études réalisées chez l'animal ont mis en évidence un risque tératogène et fœtotoxique de la
+nifédipine.
+En clinique, aucun effet malformatif ou fœtotoxique n'est apparu à ce jour.
+Toutefois, le suivi de grossesses exposées à la nifédipine est insuffisant à ce jour pour pouvoir
+exclure tout risque.
+En conséquence, l'utilisation de la nifédipine est déconseillée pendant la grossesse et chez les
+femmes en âge de procréer n'utilisant pas de mesure contraceptive. Toutefois, la découverte d'une
+grossesse sous nifédipine n'en justifie pas l'interruption.
+En cas d'exposition au premier trimestre de la grossesse, une surveillance prénatale orientée sur le
+cœur et le squelette peut être envisagée.
+Allaitement
+La nifédipine passe dans le lait maternel. En conséquence, par mesure de précaution, il convient
+d'éviter, si cela est possible, l'administration de ce médicament chez la femme qui allaite.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Des réactions au médicament, variables d'un individu à l'autre, peuvent altérer la capacité de
+conduire des véhicules ou l'utilisation des machines. Plus particulièrement au début ou en cas de
+modification du traitement ainsi qu'en association à l'alcool.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 5 of 12
+
+--- Page 6 ---
+4.8. Effets indésirables
+Les risques d’hypotension et/ou de décompensation d’une insuffisance cardiaque devront faire l’objet
+d’une attention particulière.
+Les effets indésirables décrits dans les études contrôlées contre placebo évaluant l’effet de la
+nifédipine sont présentés ci-dessous par catégorie de fréquence CIOMS III (base de données
+d'études cliniques : nifédipine n = 2 661; placebo n = 1 486 ; état en date du 22 février 2006 et étude
+ACTION : nifédipine n = 3 825 ; placebo n = 3 840).
+Les effets indésirables considérés comme « fréquents » ont été observés avec une incidence
+inférieure à 3 %, à l’exception des œdèmes (9,9 %) et des céphalées (3,9 %).
+La fréquence des effets indésirables rapportés avec les produits contenant de la nifédipine est
+résumée dans le tableau ci-dessous. Dans chaque groupe de fréquence, les effets indésirables sont
+présentés par ordre décroissant de sécurité.
+Les fréquences sont définies comme suit :
+Fréquent : ≥ 1/100 à < 1/10
+Peu fréquent : ≥ 1/1000 à < 1/100
+Rare : ≥ 1/10 000 à < 1/1000
+Les effets indésirables identifiés uniquement au cours de la surveillance post-commercialisation et
+pour lesquels la fréquence ne peut être exprimée sont classées sous la rubrique « fréquence
+inconnue ».
+Système classe-organe
+(MedDRA) Fréquent Peu fréquent Rare Fréquence inconnue
+Affections hématologiques
+et du système lymphatique
+Agranulocytose
+Leucopénie
+Affections du système
+immunitaire
+Réaction
+allergique,
+Œdème de
+Quincke
+Prurit
+Urticaire
+Eruption
+cutanée
+Réaction
+anaphylactique/anaphylactoïde
+Affections psychiatriques Nervosité
+Insomnie
+Troubles du métabolisme et
+de la nutrition
+Hyperglycémie
+Affections du système
+nerveux
+Céphalées Vertiges
+Sensations
+ébrieuses
+Tremblements
+Paresthésie
+/Dysesthésie
+Syndrome
+extrapyramidal
+Somnolence
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 6 of 12
+
+--- Page 7 ---
+Système classe-organe
+(MedDRA) Fréquent Peu fréquent Rare Fréquence inconnue
+Affections oculaires Troubles de la vision
+(essentiellement vision
+floue ou baisse de la
+vision)
+Douleurs oculaires
+Affections cardiaques Tachycardie
+Palpitations
+Douleur thoracique
+(angor)
+Affections vasculaires Œdème
+Vasodilatation
+Hypotension artérielle
+Syncope
+Affections respiratoires,
+thoraciques et
+médiastinales
+Epistaxis Dyspnée
+Affections gastro-
+intestinales
+Constipation Douleurs gastro-
+intestinales et
+abdominales
+Nausées
+Dyspepsie
+Flatulence
+Sécheresse buccale
+Hyperplasie
+gingivale
+Vomissements,
+Œsophagite liée à une
+insuffisance du
+sphincter gastro-
+oesophagien
+Affections hépato-biliaires Augmentation
+transitoire des
+transaminases
+hépatiques ou de la
+bilirubine
+Ictère
+Affections de la peau et du
+tissu sous-cutané
+Erythème Purpura Nécrolyse
+épidermique toxique
+Réaction de
+photosensibilité
+Affections musculo-
+squelettiques et
+systémiques
+Crampes musculaires
+Gonflement
+inflammatoire des
+articulations
+Arthralgie
+Myalgie
+Affections du rein et des
+voies urinaires
+Polyurie
+Dysurie
+Affections des organes de
+la reproduction et du sein
+Dysfonction érectile
+Troubles généraux et
+anomalies au site
+d’administration
+Malaise
+Asthénie ou
+Fatigue,
+Frissons
+1 = pouvant mettre en jeu le pronostic vital
+Chez des patients dialysés atteints d’hypertension maligne et d’hypovolémie, la vasodilatation peut
+entraîner une chute tensionnelle notable.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 7 of 12
+
+--- Page 8 ---
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante.
+Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels
+de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence
+nationale de sécurité du médicament et des produits de santé (Ansm) et réseau des Centres
+Régionaux de Pharmacovigilance - Site internet : www.ansm.sante.fr
+4.9. Surdosage
+Les symptômes suivants sont observés en cas de surdosage :
+Une augmentation de la fréquence cardiaque, une hypotension, des troubles du rythme cardiaque à
+type de bradycardie/tachycardie, un choc cardiogénique avec œdème pulmonaire, une
+hyperglycémie, une acidose métabolique, une hypoxie, des troubles de la conscience pouvant aller
+jusqu’au coma.
+En cas de surdosage, la priorité est basée sur l’élimination de la substance active et la restauration
+d'une stabilité cardiovasculaire.
+Après une ingestion orale du produit, un lavage gastrique minutieux est préconisé avec irrigation de
+l'intestin grêle si nécessaire et surveillance en unité de soins intensifs.
+En particulier dans des cas d'intoxication avec les formes à libération prolongée, l'élimination doit être
+la plus complète possible, y compris au niveau de l'intestin grêle, afin d'éviter l'absorption prolongée
+de la substance active.
+L'hémodialyse n'est pas utile, car la nifédipine n'est pas dialysable, cependant, une plasmaphérèse
+est envisageable (compte tenu de la fixation importante aux protéines plasmatiques et du volume de
+distribution relativement faible).
+La bradycardie peut être traitée de façon symptomatique par l’administration de
+ß‐sympathomimétiques; la mise en place temporaire d’un stimulateur cardiaque (pacemaker) est
+recommandée si ce trouble du rythme menace le pronostic vital.
+En cas de surdosage massif : une perfusion de gluconate de calcium semble être indiquée (10-20 ml
+d’une solution de gluconate de calcium à 10 % en administration IV lente, de façon répétitive si
+nécessaire).
+Cette mesure risque d’accroître la calcémie jusqu’à la limite supérieure de la normale, voire même
+légèrement au-delà. Si les effets du calcium s'avèrent inadéquats, le traitement sera poursuivi par
+l'addition de sympatho-mimétiques vasoconstricteurs, tels que la dopamine ou la noradrénaline, à
+des posologies reposant uniquement sur les effets obtenus.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 8 of 12
+
+--- Page 9 ---
+Veiller au maintien du rythme, de la conduction et du débit cardiaque. Une hypotension importante
+peut être contrôlée par perfusion IV prudente de tout mode d'expansion volémique en tenant compte
+du risque de surcharge hydrique
+Dans tous les cas informer de la prise concomitante de bêta-bloquants.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+INHIBITEURS CALCIQUES SELECTIFS A EFFETS VASCULAIRES - Code ATC : C08CA05
+La nifédipine inhibe à de très faibles concentrations la pénétration et la diffusion des ions calcium
+dans les cellules du muscle lisse.
+Le calcium joue un rôle sur l'activation du couplage excitation-contraction. En inhibant le tonus
+artériel par ce mécanisme, la nifédipine entraîne une vasodilatation, en abaissant les résistances
+artériolaires et le niveau de pression artérielle.
+Cette vasodilatation s'accompagne :
+d'une augmentation du diamètre artériel,
+d'une préservation, voire d'une augmentation des flux sanguins périphériques et des débits
+locorégionaux (rénal, cérébral),
+d'une augmentation de la compliance artérielle (distensibilité).
+En administration chronique :
+il n'a pas été observé de variation nette du système Renine-Angiotensine-Aldostérone, ni de prise
+de poids sous traitement prolongé; ces éléments sont en faveur d'une absence de rétention
+hydrosodée,
+l'accélération de la fréquence cardiaque n'est pas observée.
+En administration aiguë la réduction de pression artérielle est liée au niveau du taux plasmatique de
+nifédipine.
+Population pédiatrique :
+Les données de comparaison entre la nifédipine et les autres agents antihypertenseurs dans
+l’hypertension aiguë et l’hypertension à long terme sont limitées et concernent différentes
+formulations et différents dosages.
+Les effets antihypertenseurs de la nifédipine ont été démontrés mais les recommandations
+posologiques, la tolérance et les effets cardiovasculaires à long terme n’ont pas été établis. Il n’existe
+pas de formes pédiatriques.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 9 of 12
+
+--- Page 10 ---
+5.2. Propriétés pharmacocinétiques
+Dans sa forme LP la nifédipine se trouve sous forme micro-cristalline à vitesse de dissolution lente.
+Sa résorption est donc plus lente que celle de la forme à libération immédiate.
+Après administration orale, la nifédipine est presque entièrement absorbée (95%).
+La concentration plasmatique est maximale 2 à 4 heures après l'administration.
+Un "écrêtement" du pic de la concentration et un ralentissement de l'élimination par rapport à une
+forme à libération immédiate sont la conséquence de la réduction de vitesse de résorption. La demi-
+vie apparente d'élimination de la forme LP varie de 6 à 11 h.
+La biodisponibilité absolue de la nifédipine administrée par voie orale est d'environ 50% en raison
+d'un effet de premier passage hépatique. La prise simultanée de nourriture conduit à ralentir mais
+non à diminuer l'absorption.
+La fixation protéique est de 90 à 95%.
+Chez l'homme, la nifédipine est presque entièrement métabolisée au niveau du foie en plusieurs
+métabolites inactifs.
+80 à 90% de la substance sont éliminés par le rein, plus de 90% de cette quantité se retrouvent dans
+les urines des 24 heures; 15% environ sont éliminés par les fèces.
+Il n'y a donc pas d'accumulation de la molécule dans l'organisme après prise répétée de la forme LP.
+La nifédipine n'est pas dialysable.
+5.3. Données de sécurité préclinique
+La nifédipine ne s’est pas montrée cancérogène dans une étude conventionnelle chez le rat.
+Une diminution de la fertilité a été observée chez des rats recevant une dose 30 fois supérieure à la
+dose maximale recommandée chez l’Homme.
+L’administration de nifédipine a été associée à divers effets toxiques sur l’embryon, le placenta et le
+foetus. Chez le rat, la souris et le lapin, il était notamment rapporté des effets tératogènes (anomalies
+digitales, fentes palatines, fentes sternales et des malformations costales), foetotoxiques
+(hypotrophie foetale), et embryo-fœtolétaux. Chez le singe, une hypotrophie placentaire avec
+villosités chorioniques sous-développées était également observée. Chez le rat, on notait de plus une
+prolongation de la gestation et une diminution de la survie des nouveau-nés (non évalué dans les
+autres espèces). Les effets tératogènes, embryotoxiques ou fœtotoxiques survenaient à des doses
+induisant également des effets toxiques chez les génitrices. Les doses associées à de tels effets
+exprimées en mg/kg ou en mg/m2 sont soit supérieures à la dose maximale recommandée chez
+l’Homme, soit inférieures mais dans le même ordre de grandeur.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 10 of 12
+
+--- Page 11 ---
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Amidon de maïs, cellulose microcristalline, lactose, polysorbate 80, stéarate de magnésium.
+Enrobage: hydroxypropylméthylcellulose, polyoxyéthylène glycol 4000, dioxyde de titane, oxyde de
+fer rouge.
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+5 ans.
+6.4. Précautions particulières de conservation
+Pas de précautions particulières de conservation.
+6.5. Nature et contenu de l'emballage extérieur
+30, 60, 100 ou 180 comprimés sous plaquettes thermoformées (PP/Aluminium)
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+BAYER HEALTHCARE SAS
+220 avenue de la recherche
+59120 LOOS
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+327 401-1: 30 comprimés sous plaquettes thermoformées (PP/Aluminium).
+327 402-8: 60 comprimés sous plaquettes thermoformées (PP/Aluminium).
+557 492-9: 100 comprimés sous plaquettes thermoformées (PP/Aluminium).
+372 387-4: 180 comprimés sous plaquettes thermoformées (PP/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter par le titulaire]
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 11 of 12
+
+--- Page 12 ---
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+RCP — ADALATE 20 mg L.P., comprimé à libération prolongée (ANSM) Page 12 of 12

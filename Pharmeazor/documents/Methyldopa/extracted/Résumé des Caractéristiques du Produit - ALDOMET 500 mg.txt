@@ -1,0 +1,286 @@
+--- Page 1 ---
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+ANSM - Mis à jour le : 08/12/2011
+1. DENOMINATION DU MEDICAMENT
+ALDOMET 500 mg, comprimé enrobé
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Méthyldopa sesquihydraté ........................................................................................................ 565,0000
+mg
+Quantité correspondant en méthyldopa anhydre ..........................................................................
+500,0000 mg
+Pour un comprimé enrobé.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé enrobé.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Hypertension artérielle modérée ou sévère.
+4.2. Posologie et mode d'administration
+Chez l'adulte: débuter habituellement par 250 mg de méthyldopa 2 ou 3 fois par jour pendant les
+48 premières heures.
+Ensuite adapter la posologie quotidienne en augmentant, si besoin, par paliers de 48 heures au
+moins, jusqu'à obtention d'un résultat thérapeutique satisfaisant. La posologie habituelle est de 750
+mg à 1,5 g/jour sans dépasser 3 g par jour.
+On peut commencer le traitement par la méthyldopa chez la plupart des malades déjà traités par
+d'autres antihypertenseurs, en cessant l'administration de ces médicaments, d'une façon progressive
+si nécessaire. Lorsque la méthyldopa prend le relais d'un autre antihypertenseur, sa posologie devra
+être limitée au début à 500 mg au plus par jour, puis augmentée en fonction des besoins, chaque
+augmentation des doses devant être séparée de la précédente par un intervalle d'au moins 2 jours.
+Chez l'enfant: administrer au début 10 mg/kg de poids corporel et par jour, en 2 à 4 prises.
+Ensuite adapter la posologie - augmenter ou réduire les doses - de façon à obtenir un résultat
+satisfaisant. La posologie maximale est de 65 mg/kg sans dépasser une dose totale de 3 g/jour.
+RCP — ALDOMET 500 mg Page 1 of 8
+
+--- Page 2 ---
+De nombreux malades ressentent un effet sédatif au moins au début du traitement ou lors de
+l'augmentation des doses du médicament. En conséquence, il apparaît souhaitable que
+l'augmentation des doses porte d'abord sur la prise du soir.
+4.3. Contre-indications
+Ce médicament NE DOIT PAS ETRE UTILISE dans les cas suivants
+état dépressif grave,
+antécédents d'hépatite médicamenteuse ou de troubles hépatiques associés à la méthyldopa,
+maladie hépatique évolutive telle que hépatite aiguë et chronique ou cirrhose,
+hypersensibilité à l'un des composants de ce médicament,
+anémie hémolytique.
+Ce médicament est généralement déconseillé en cas d'association à l'alcool et aux médicaments
+contenant de l'alcool.
+4.4. Mises en garde spéciales et précautions d'emploi
+Contrôle du bilan hématologique
+Une anémie hémolytique acquise a rarement été rapportée en association avec un traitement par
+la méthyldopa.
+Devant des symptômes évoquant une anémie, la mesure de l'hémoglobine et/ou de l'hématocrite
+doit être effectuée. En cas d'anémie, les examens biologiques appropriés doivent être faits afin de
+déterminer l'existence d'une hémolyse.
+Une anémie hémolytique est une indication à l'arrêt du traitement. L'arrêt de la méthyldopa ou
+l'instauration d'une corticothérapie entraîne habituellement une rémission rapide de l'anémie.
+Cependant, des décès ont été rapportés.
+La fréquence d'un test de Coombs positif chez les malades sous méthyldopa au long cours est de 10
+à 20%. Il est peu probable de l'observer lors d'une administration continue s'il ne se développe pas
+dans les 12 premiers mois.
+La pratique d'un test de Coombs direct peut être utile à titre systématique pour détecter une auto-
+immunisation latente. Elle est indispensable en cas d'anémie pour confirmer le mécanisme auto-
+immun de l'hémolyse.
+Ce phénomène est dose-dépendant: l'incidence la plus basse est observée chez les patients
+recevant une dose inférieure ou égale à 1 g/jour de méthyldopa.
+La négativation du test de Coombs survient dans les semaines ou dans les mois qui suivent l'arrêt
+du traitement.
+En cas de test de Coombs direct positif avant une transfusion sanguine, réaliser un test de Coombs
+indirect. S'il est négatif, la transfusion peut être entreprise; dans le cas contraire, il convient de
+prendre un avis spécialisé.
+Rarement, une diminution réversible du nombre des globules blancs portant principalement sur
+les granulocytes a été observée. Le nombre de granulocytes est rapidement retourné à la normale
+après l'arrêt du traitement. Une thrombopénie réversible a rarement été rapportée.
+Contrôle du bilan hépatique
+RCP — ALDOMET 500 mg Page 2 of 8
+
+--- Page 3 ---
+Occasionnellement, une fièvre est survenue pendant les trois premières semaines de traitement
+par la méthyldopa. Dans quelques cas, cette fièvre a été associée à une hyperéosinophilie ou à des
+anomalies d'un ou de plusieurs tests fonctionnels hépatiques. Un ictère, avec ou sans fièvre peut
+également survenir; il débute habituellement dans les deux ou trois premiers mois de traitement.
+Chez quelques malades, les résultats des examens sont compatibles avec ceux d'une cholestase. De
+rares cas de nécroses hépatiques mortelles ont été rapportés.
+Des biopsies hépatiques effectuées chez plusieurs patients ayant des anomalies de la fonction
+hépatique ont montré une nécrose focale microscopique compatible avec une hypersensibilité
+médicamenteuse.
+Explorer la fonction hépatique (transaminases) et faire pratiquer une numération et une formule
+sanguine à intervalles réguliers au cours des 6 à 12 premières semaines de traitement ou s'il
+apparaît une fièvre inexpliquée (voir rubrique 4.8). La survenue d'une fièvre, d'anomalies des tests
+fonctionnels hépatiques ou d'un ictère doit entraîner l'arrêt du traitement par la méthyldopa. La
+fièvre et les anomalies des tests fonctionnels hépatiques liées à la prise de méthyldopa, sont
+normalisées à l'arrêt du traitement, qui ne doit pas être réintroduit chez ces malades. La
+méthyldopa doit être employée avec précaution chez les malades avec des antécédents d'affection
+hépatique.
+Populations à risque
+En cas d'insuffisance rénale, diminuer les doses.
+Par ailleurs, la dialyse éliminant la méthyldopa, elle peut être suivie d'une réapparition de
+l'hypertension artérielle.
+Chez les sujets âgés, en raison d'une sensibilité accrue (syncope), utiliser des doses faibles.
+Chez les malades atteints d'une affection vasculaire cérébrale bilatérale grave, on a pu observer de
+façon rare des mouvements choréoathétosiques. En pareil cas, arrêter le traitement.
+L'emploi de la méthyldopa n'est pas recommandé chez les malades atteints d'un
+phéochromocytome.
+Anesthésie
+Des doses moindres d'anesthésiques peuvent être nécessaires chez les patients traités par la
+méthyldopa; si une hypotension survenait pendant l'anesthésie, elle devrait être contrôlée par des
+vasopresseurs. Les récepteurs adrénergiques restent sensibles pendant le traitement avec la
+méthyldopa.
+Examens paracliniques
+La méthyldopa peut fausser le dosage de l'acide urique urinaire par la méthode du
+phosphotungstène, de la créatinine sérique par la méthode du picrate alcalin et des SGOT par
+colorimétrie. On n'a pas signalé d'interférence avec les méthodes spectrophotométriques pour
+l'analyse des SGOT.
+La méthyldopa peut donner lieu à des valeurs faussement positives lors du dosage des
+catécholamines urinaires: la méthyldopa résonne en fluorescence dans les mêmes longueurs
+d'onde que les catécholamines, ce qui peut brouiller le diagnostic d'un phéochromocytome.
+RCP — ALDOMET 500 mg Page 3 of 8
+
+--- Page 4 ---
+La méthyldopa ne fausse pas le dosage des VMA (acide vanillylmandélique) par les méthodes
+basées sur la conversion de l'acide vanillylmandélique en vanilline.
+L'emploi de la méthyldopa n'est toutefois pas recommandé chez les malades atteints d'un
+phéochromocytome (cf. supra).
+Dans de rares cas, les urines exposées à l'air peuvent noircir du fait de la décomposition de la
+méthyldopa ou de ses métabolites.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations déconseillées
++ Alcool
+Majoration par l'alcool de l'effet sédatif de ces substances. L'altération de la vigilance peut rendre
+dangereuses la conduite de véhicules et l'utilisation de machines.
+Eviter la prise de boissons alcoolisées et de médicaments contenant de l'alcool.
+Associations faisant l'objet de précautions d’emploi
++ Baclofène
+Majoration de l'effet antihypertenseur.
+Surveillance de la tension artérielle et adaptation posologique de l'antihypertenseur si nécessaire.
++ Lithium
+Augmentation de la lithémie pouvant atteindre des valeurs toxiques avec signes de surdosage en
+lithium. Surveillance clinique et adaptation de la posologie du lithium.
+Associations à prendre en compte
++ Antidépresseurs imipraminiques (tricycliques), neuroleptiques
+Effet antihypertenseur et risque d'hypotension orthostatique majoré (effet additif).
++ Corticoïdes et tétracosactide (voie générale) (sauf hydrocortisone employée comme
+traitement substitutif dans la maladie d'Addison).
+Diminution de l'effet antihypertenseur (rétention hydrosodée des corticoïdes).
++ Amifostine.
+Majoration de l'effet antihypertenseur.
++ Autres dépresseurs du SNC: dérivés morphiniques (analgésiques, antitussifs et traitements de
+substitution); benzodiazépines; anxiolytiques autres que benzodiazépines: carbamates, captodiame,
+étifoxine, hypnotiques, neuroleptiques; antihistaminiques H1 sédatifs: antidépresseurs sédatifs;
+baclofène; thalidomide.
+Majoration de la dépression centrale. L'altération de la vigilance peut rendre dangereuses la conduite
+de véhicules et l'utilisation de machines.
+RCP — ALDOMET 500 mg Page 4 of 8
+
+--- Page 5 ---
+4.6. Grossesse et allaitement
+Grossesse
+Les études chez l'animal n'ont pas mis en évidence d'effet tératogène. En l'absence d'effet tératogène
+chez l'animal, un effet malformatif dans l'espèce humaine n'est pas attendu. En effet, à ce jour, les
+substances responsables de malformations dans l'espèce humaine se sont révélées tératogènes chez
+l'animal au cours d'études bien conduites sur deux espèces.
+En clinique, l'analyse d'un nombre élevé de grossesses exposées n'a apparemment révélé aucun effet
+malformatif ou fœtotoxique particulier de la méthyldopa. Toutefois, seules des études
+épidémiologiques permettraient de vérifier l'absence de risque.
+En conséquence, la méthyldopa peut être prescrite pendant la grossesse si besoin.
+Allaitement
+Le passage dans le lait maternel existe mais est faible. Malgré l'absence de suivi épidémiologique,
+aucun effet indésirable particulier n'a été rapporté à ce jour chez le nouveau-né de mère traitée.
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+L'attention est attirée chez les conducteurs de véhicules et les utilisateurs de machines sur les risques
+de somnolence attachés à l'emploi de ce médicament.
+4.8. Effets indésirables
+Les réactions rapportées sont d'ordre:
+neurologique central: effet sédatif habituellement transitoire surtout en début de traitement ou
+lors de l'augmentation des doses, céphalées, asthénie ou sensation de faiblesse, paresthésies,
+syndrome parkinsonien, paralysie faciale périphérique, mouvements choréo-athétosiques.
+Troubles psychiques avec cauchemars, perturbation de l'acuité mentale et états psychotiques ou
+dépressifs réversibles.
+Etourdissements, sensation de tête vide et symptômes d'insuffisance vasculaire cérébrale (pouvant
+être en rapport avec la baisse de la pression artérielle);
+cardiovasculaire: hypotension orthostatique, bradycardie, aggravation d'une angine de poitrine.
+Œdèmes (et prise de poids) régressant habituellement sous l'effet d'un diurétique (arrêter le
+traitement par la méthyldopa si les œdèmes s'accentuent ou s'il apparaît des signes d'insuffisance
+cardiaque);
+digestif: nausées, vomissements, ballonnement abdominal, constipation, flatulence, diarrhée,
+colite, sécheresse modérée de la bouche, langue saburrale ou «noire», pancréatite, inflammation
+des glandes salivaires;
+hématologique: test de Coombs positif, anémie hémolytique, aplasie médullaire, leucopénie,
+granulocytopénie, thrombocytopénie, présence d'anticorps antinucléaires, de cellules LE et du
+facteur rhumatoïde; l'hyperéosinophilie est exceptionnelle;
+allergique: fièvre médicamenteuse et anomalies des tests fonctionnels hépatiques avec ictère et
+lésions hépatocellulaires, syndrome lupique, myocardite, péricardite;
+RCP — ALDOMET 500 mg Page 5 of 8
+
+--- Page 6 ---
+hépatique: hépatites aiguës cytolytiques, hépatites chroniques actives, ictère, avec ou sans fièvre,
+au cours des 2 ou 3 premiers mois du traitement. Cet ictère est habituellement dû à une nécrose
+hépatocellulaire.
+On a rapporté quelques rares cas mortels. Les biopsies hépatiques effectuées chez plusieurs
+malades ayant des troubles fonctionnels hépatiques ont révélé une nécrose focale microscopique
+compatible avec une hypersensibilité médicamenteuse. Dans quelques cas, un ictère cholestatique
+a été observé;
+dermatologique: signes cutanés de type eczémateux ou lichénoïde; nécrose épidermique toxique;
+divers: congestion nasale, élévation de l'urée sanguine, gonflement des seins, gynécomastie,
+galactorrhée, hyperprolactinémie, aménorrhée, impuissance sexuelle, baisse de la libido,
+arthralgies discrètes avec ou sans tuméfaction de l'articulation, myalgies.
+4.9. Surdosage
+Un surdosage peut entraîner une hypotension marquée ainsi que des signes neurologiques et digestifs
+(effet sédatif excessif, sensation de faiblesse ou de tête vide, bradycardie, étourdissements,
+constipation, ballonnement abdominal, flatulence, diarrhée, nausée, vomissements).
+Traitement:
+pas d'antidote spécifique;
+lavage gastrique ou induction de vomissements si l'ingestion est récente;
+perfusion si l'ingestion est moins récente afin de favoriser l'excrétion urinaire;
+veiller au maintien du rythme et du débit cardiaques, de la volémie, de l'équilibre électrolytique, de
+la fonction urinaire et de l'activité cérébrale;
+surveiller la survenue d'un iléus paralytique;
+administrer si besoin des sympathomimétiques: noradrénaline, adrénaline, bitartrate de
+métaraminol.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+ANTI-HYPERTENSEUR/SYMPATHOLYTIQUE D'ACTION CENTRALE,
+(C02AB02: système cardio-vasculaire).
+La méthyldopa est un antihypertenseur central qui inhibe le tonus sympathique: la baisse de la
+pression artérielle résulte de la stimulation des récepteurs alpha2-adrénergiques centraux,
+éventuellement par l'intermédiaire de «faux neurotransmetteurs».
+L'effet de la méthyldopa sur l'équilibre des amines adrénergiques dû, semble-t-il, exclusivement à
+l'isomère gauche, est réversible.
+Elle n'a pas d'effet direct sur les fonctions cardiaque ou rénale, ne réduit pas habituellement la
+filtration glomérulaire, le débit sanguin rénal, la fraction de filtration.
+L'arrêt du traitement est suivi, habituellement dans les 48 heures, d'un retour progressif aux chiffres
+tensionnels antérieurs, en général sans rebond hypertensif.
+RCP — ALDOMET 500 mg Page 6 of 8
+
+--- Page 7 ---
+5.2. Propriétés pharmacocinétiques
+L'absorption de la méthyldopa montre des variations inter-individuelles importantes et se situe en
+moyenne autour de 50%.
+La baisse maximale de la pression artérielle a lieu entre 4 et 6 heures après l'administration orale.
+L'excrétion de la méthyldopa est essentiellement rénale. Environ 70% de la quantité de produit
+absorbé sont excrétés dans les urines sous forme de méthyldopa et de son métabolite
+sulfoconjugué. La clairance rénale est de l'ordre de 130 ml/min chez le sujet normal; elle est
+diminuée chez l'insuffisant rénal. Après administration orale, l'excrétion est quasi complète au
+bout de 36 heures.
+La méthyldopa traverse le placenta et passe dans le lait maternel.
+5.3. Données de sécurité préclinique
+Sans objet.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Acide citrique anhydre, calcium édétate de sodium, éthylcellulose, galactomannane du guar, cellulose
+en poudre, silice colloïdale anhydre, stéarate de magnésium, OPADRY JAUNE (acide citrique
+monohydraté, hypromellose, dioxyde de titane, laque aluminique de jaune de quinoléine, oxyde de fer
+rouge, propylèneglycol, talc), cire de carnauba.
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans.
+6.4. Précautions particulières de conservation
+Pas de précautions particulières de conservation.
+6.5. Nature et contenu de l'emballage extérieur
+30 comprimés sous plaquettes thermoformées (PVC/Aluminium).
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+RCP — ALDOMET 500 mg Page 7 of 8
+
+--- Page 8 ---
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+IROKO PRODUCTS LIMITED
+ONE SILK STREET
+LONDON
+EC2Y 8HQ
+ROYAUME-UNI
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+317 380-1: 30 comprimés sous plaquettes thermoformées (PVC/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I
+RCP — ALDOMET 500 mg Page 8 of 8

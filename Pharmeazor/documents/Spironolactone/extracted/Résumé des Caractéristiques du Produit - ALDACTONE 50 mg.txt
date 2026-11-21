@@ -1,0 +1,341 @@
+--- Page 1 ---
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+ANSM - Mis à jour le : 24/06/2013
+1. DENOMINATION DU MEDICAMENT
+ALDACTONE 50 mg, comprimé sécable
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Spironolactone micronisée ............................................................................................................. 50,00
+mg
+Pour un comprimé sécable.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé sécable.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Traitement de l'hyperaldostéronisme primaire.
+Hyperaldostéronisme réactionnel à un traitement diurétique efficace.
+Hypertension artérielle essentielle.
+Etats œdémateux pouvant s'accompagner d'un hyperaldostéronisme secondaire:
+œdème et ascite de l'insuffisance cardiaque,
+ascite cirrhotique,
+syndrome néphrotique,
+œdème cyclique idiopathique.
+Thérapeutique adjuvante de la myasthénie: dans cette indication, la spironolactone est une
+médication permettant de maintenir le capital potassique et de diminuer les besoins exagérés de
+potassium.
+4.2. Posologie et mode d'administration
+Traitement de l'hyperaldostéronisme: le traitement usuel est de 300 mg par jour. Les doses
+seront adaptées en fonction de la réponse du malade.
+Hypertension artérielle essentielle: la dose initiale est de 50 mg par jour. Après 6 à 8 semaines
+de traitement, cette posologie sera augmentée si nécessaire à 75 mg par jour voire, après un nouveau
+palier de 6 à 8 semaines, à 100 mg par jour. A chaque étape, en cas de contrôle tensionnel insuffisant,
+comme alternative à l'augmentation posologique, un autre antihypertenseur pourra être associé.
+RCP — ALDACTONE 50 mg Page 1 of 10
+
+--- Page 2 ---
+Etat œdèmateux et ascite de l'insuffisance cardiaque: la spironolactone peut être administrée
+seule ou associée à un autre diurétique. La dose habituelle quotidienne est de 50 à 100 mg en continu.
+Dans les cas sévères, la posologie peut être augmentée jusqu'à 300 mg, la dose d'entretien se situant
+entre 50 à 150 mg par jour.
+Ascite cirrhotique:
+traitement d'attaque: 200 à 300 mg par jour,
+traitement d'entretien: 50 à 150 mg par jour.
+Dans les deux cas, les doses seront adaptées à la réponse diurétique et au bilan électrolytique du
+malade.
+Syndromes néphrotiques: la dose moyenne est de 50 à 150 mg par jour.
+Chez les enfants: 2 mg/kg en moyenne par 24 heures.
+Œdèmes cycliques idiopathiques: 150 à 300 mg par jour au moment des poussées, puis 50 à 100
+mg par jour en traitement d'entretien.
+Myasthénie: 50 à 300 mg par jour en moyenne.
+4.3. Contre-indications
+Ce médicament NE DOIT JAMAIS être utilisé en cas de :
+insuffisance rénale sévère ou aiguë notamment : anurie, dysfonctionnement rénal à évolution
+rapide.
+hyperkaliémie.
+stade terminal de l'insuffisance hépatique.
+hypersensibilité à la spironolactone ou à l’un des excipients.
+association à l’éplérénone.
+association à d'autres diurétiques hyperkaliémiants, aux sels de potassium (sauf en cas
+d’hypokaliémie) (voir rubrique 4.5).
+Ce médicament est généralement déconseillé :
+chez le cirrhotique quand la natrémie est inférieure à 125 mmol/l.
+chez les sujets susceptibles de présenter une acidose.
+4.4. Mises en garde spéciales et précautions d'emploi
+Hyperkaliémie
+Toute prescription d'un médicament agissant sur le système rénine-angiotensine-aldostérone est
+susceptible de provoquer une hyperkaliémie. Ce risque, potentiellement mortel, est majoré chez les
+sujets âgés, les insuffisants rénaux et les diabétiques, et/ou en cas d'association de plusieurs
+médicaments hyperkaliémiants, et/ou lors de la survenue d'évènements intercurrents (voir également
+rubriques 4.5).
+RCP — ALDACTONE 50 mg Page 2 of 10
+
+--- Page 3 ---
+Avant d'envisager une association de plusieurs médicaments bloquant le système rénine-
+angiotensine-aldostérone, il faut évaluer soigneusement le rapport bénéfice/risque et l'existence
+d'alternatives éventuelles.
+Les principaux facteurs de risque d'hyperkaliémie à prendre en considération sont:
+diabète, altération de la fonction rénale, âge (> 70 ans);
+association avec un ou plusieurs autres médicaments bloquant le système rénine-angiotensine-
+aldostérone et/ou d'autres médicaments hyperkaliémiants et/ou de suppléments potassiques.
+Certains médicaments ou classes thérapeutiques sont en effet susceptibles de favoriser la survenue
+d'une hyperkaliémie: sels de potassium, diurétiques hyperkaliémiants, inhibiteurs de l'enzyme de
+conversion (IEC), antagonistes de l'angiotensine II (ARA II), anti-inflammatoires non stéroïdiens (y
+compris inhibiteurs sélectifs de la COX 2), héparines (de bas poids moléculaires ou non fractionnées),
+immunosuppresseurs comme la ciclosporine ou le tacrolimus, le triméthoprime.
+événements intercurrents, en particulier: déshydratation, décompensation cardiaque aiguë, acidose
+métabolique, altération de la fonction rénale, altération importante et soudaine de l'état général (par
+exemple lors de maladies infectieuses), souffrance et lyse cellulaire (par exemple: ischémie aiguë d'un
+membre, rhabdomyolyse, traumatismes étendus).
+Le suivi des patients, et notamment des patients à risque, devra comporter un ionogramme sanguin,
+avec en particulier un contrôle de la kaliémie, de la natrémie, et de la fonction rénale:
+avant l'instauration du traitement puis une semaine à 15 jours après,
+de même (avant et après) chaque augmentation de dose ou modification de traitement,
+Puis en traitement d'entretien, les contrôles devront être réalisés régulièrement OU lors de la
+survenue d'un événement intercurrent.
+Un bilan hépatique est indispensable chez les malades graves.
+Fonction rénale
+La valeur de la créatininémie peut être faussement rassurante quant à la fonction rénale; celle-ci peut
+être mieux évaluée par un ionogramme ou une formule comme celle de Cockroft qui tient compte de
+l'âge, du poids et du sexe:
+Cl cr = (140 - âge) x poids/0.814 x créatininémie
+Avec
+l'âge exprimé en années,
+Le poids en kg
+La créatininémie en micromol/l.
+Cette formule est valable pour les sujets de sexe masculin, et doit être corrigée pour les femmes en
+multipliant le résultat par 0.85.
+L'attention des sportifs est attirée sur le fait que cette spécialité contient un principe actif pouvant
+induire une réaction positive des tests pratiqués lors des contrôles anti-dopage.
+RCP — ALDACTONE 50 mg Page 3 of 10
+
+--- Page 4 ---
+En raison de la présence de lactose, ce médicament est contre-indiqué en cas de galactosémie
+congénitale, de syndrome de malabsorption du glucose et du galactose ou de déficit en lactase.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Certains médicaments ou classes thérapeutiques sont susceptibles de favoriser la survenue d'une
+hyperkaliémie: les sels de potassium, les diurétiques hyperkaliémiants, les inhibiteurs de l'enzyme de
+conversion, les antagonistes de l'angiotensine II, les anti-inflammatoires non stéroïdiens, les
+héparines (de bas poids moléculaire ou non fractionnées), les immunosuppresseurs comme la
+ciclosporine ou le tacrolimus, le triméthoprime. L'association de ces médicaments majore le risque
+d'hyperkaliémie. Ce risque est particulièrement important avec les diurétiques épargneurs de
+potassium, notamment lorsqu'ils sont associés entre eux ou avec des sels de potassium, tandis que
+l'association d'un IEC et d'un AINS, par exemple, est à moindre risque dès l'instant que sont mises en
+œuvre les précautions recommandées.
+Pour connaître les risques et les niveaux de contrainte spécifiques aux médicaments
+hyperkaliémiants, il convient de se reporter aux interactions propres à chaque substance.
+Toutefois, certaines substances, comme le triméthoprime, ne font pas l'objet d'interactions
+spécifiques au regard de ce risque. Néanmoins, ils peuvent agir comme facteurs favorisants lorsqu'ils
+sont associés à d'autres médicaments déjà mentionnés dans ce chapeau.
+Associations contre-indiquées
+(sauf s'il existe une hypokaliémie)
++ Autres diurétiques épargneurs de potassium (seuls ou associés) (amiloride, canréonate
+de potassium, triamtérène)
+Hyperkaliémie potentiellement létale notamment chez l'insuffisant rénal (addition des effets
+hyperkaliémiants).
++ Sels de potassium
+Hyperkaliémie potentiellement létale en particulier chez l'insuffisant rénal (addition des effets
+hyperkaliémiants).
+Associations déconseillées
++ Ciclosporine, tacrolimus
+Hyperkaliémie potentiellement létale, notamment chez l'insuffisant rénal (addition des effets
+hyperkaliémiants).
++ Lithium
+Augmentation de la lithémie avec signes de surdosage, comme lors d'un régime désodé (diminution
+de l'excrétion urinaire du lithium).
+Si l'association ne peut être évitée, surveillance stricte de la lithémie et adaptation de la posologie du
+lithium.
++ Inhibiteurs de l'enzyme de conversion (sauf s'il existe une hypokaliémie)
+RCP — ALDACTONE 50 mg Page 4 of 10
+
+--- Page 5 ---
+Sauf pour la spironolactone à des doses comprises entre 12,5 mg et 50 mg/jour dans le traitement de
+l'insuffisance cardiaque:
+Risque d'hyperkaliémie (potentiellement létale) surtout lors d'une insuffisance rénale (addition des
+effets hyperkaliémiants).
++ Antagonistes des récepteurs de l'angiotensine II (sauf s'il existe une hypokaliémie)
+Hyperkaliémie potentiellement létale notamment chez l'insuffisant rénal (addition des effets
+hyperkaliémiants).
+Associations faisant l'objet de précautions d’emploi
++ Anti-inflammatoires non stéroïdiens
+Insuffisance rénale aiguë chez le malade à risque (sujet âgé et/ou déshydraté) par diminution de la
+filtration glomérulaire (inhibition des prostaglandines vasodilatatrices, due aux A.I.N.S). Par ailleurs,
+réduction de l'effet antihypertenseur.
+Hydrater le malade; surveiller la fonction rénale en début de traitement.
++ Acétylsalicylique (acide)
+Pour des doses anti-inflammatoires d'acide acétylsalicylique (=1g par prise et/ou = 3g par jour) ou
+pour des doses antalgiques ou antipyrétiques (= 500 mg par prise et/ou < 3 g par jour):
+Insuffisance rénale aiguë chez le malade déshydraté, par diminution de la filtration glomérulaire
+secondaire à une diminution de la synthèse des prostaglandines rénales. Par ailleurs, réduction de
+l'effet antihypertenseur.
+Hydrater le malade et surveiller la fonction rénale en début de traitement.
++ Inhibiteurs de l'enzyme de conversion dans le cas de l'insuffisance cardiaque (traitée
+par l'association IEC à faibles doses + diurétiquehypokaliémiant à faibles doses).
+Avec la spironolactone à la posologie de 12,5 à 50 mg par jour, et avec des doses d'IEC < à 75 mg en
+équivalent captopril ou < à 10 mg en équivalent énalapril ou lisinopril.
+Dans le cas du traitement de l'insuffisance cardiaque de classe III ou IV (NYHA) avec fraction
+d'éjection < 35 % et préalablement traitée par l'association inhibiteur de l'enzyme de conversion +
+diurétique de l'anse):
+Risque d'hyperkaliémie, potentiellement létale, en cas de non-respect des conditions de prescription
+de cette association.
+Vérifier au préalable l'absence d'hyperkaliémie et d'insuffisance rénale. Surveillance biologique
+étroite de la kaliémie et de la créatininémie (1 fois par semaine pendant le premier mois, puis une fois
+par mois ensuite).
++ Metformine
+Acidose lactique due à la metformine déclenchée par une éventuelle insuffisance rénale fonctionnelle
+liée aux diurétiques et plus spécialement aux diurétiques de l'anse.
+RCP — ALDACTONE 50 mg Page 5 of 10
+
+--- Page 6 ---
+Ne pas utiliser la metformine lorsque la créatininémie dépasse 15 mg/l (135 micromoles/litre) chez
+l'homme et 12 mg/l (110 micromoles/litre) chez la femme.
++ Baclofène
+Majoration de l'effet antihypertenseur.
+Surveillance de la pression artérielle et adaptation posologique du diurétique si nécessaire.
++ Produits de contraste iodés
+En cas de déshydratation provoquée par les diurétiques, risque majoré d'insuffisance rénale aiguë, en
+particulier lors d'utilisation de doses importantes de produits de contraste iodés.
+Réhydratation avant administration du produit iodé.
++ Diurétiques hypokaliémiants
+L'association rationnelle, utile pour certains patients, n'exclut pas la survenue d'hypokaliémie ou, en
+particulier chez l'insuffisant rénal et le diabétique, d'hyperkaliémie.
+Surveiller la kaliémie, éventuellement l'E.C.G. et s'il y a lieu, reconsidérer le traitement.
+Associations à prendre en compte
++ Antidépresseurs imipraminiques, neuroleptiques
+Effet antihypertenseur et risque d'hypotension orthostatique majoré (effet additif).
++ Corticoïdes
+Diminution de l'effet antihypertenseur (rétention hydrosodée des corticoïdes).
++ Alpha-bloquants à visée urologique: alfuzosine, doxazosine, prazosine, tamsulosine,
+térazosine
+Majoration de l'effet hypotenseur. Risque majoré d'hypotension orthostatique.
++ Antihypertenseurs alpha-bloquants
+Majoration de l'effet hypotenseur. Risque majoré d'hypotension orthostatique.
++ Amifostine
+Majoration de l'hypotension par addition d'effets indésirables.
++ Autres hyperkaliémiants
+Risque de majoration de l'hyperkaliémie potentiellement létale.
+4.6. Grossesse et allaitement
+Grossesse
+Les études réalisées chez l'animal n'ont pas mis en évidence d'effet tératogène, toutefois à fortes doses
+une féminisation des fœtus mâles a été décrite lors de l'administration de spironolactone pendant
+toute la vie fœtale, c'est-à-dire après l'organogenèse.
+RCP — ALDACTONE 50 mg Page 6 of 10
+
+--- Page 7 ---
+En clinique, le risque n'est pas connu; toutefois, à ce jour, aucun cas de féminisation des fœtus mâles
+n'a été rapporté.
+En l'absence de données cliniques, la spironolactone est déconseillée pendant toute la grossesse et ne
+doit être réservée qu'aux indications où il n'existe aucune alternative thérapeutique.
+En particulier, le traitement des œdèmes, de la rétention hydrosodée ou de l'HTA gravidique ne
+constituent pas une indication au traitement par diurétiques au cours de la grossesse car ceux-ci
+peuvent entraîner une ischémie fœtoplacentaire avec un risque d'hypotrophie fœtale.
+Allaitement
+La spironolactone est excrétée en faible quantité dans le lait maternel. Néanmoins, elle ne doit pas
+être utilisée en période d'allaitement en raison:
+d'une diminution voire d'une suppression de la sécrétion lactée,
+de ses effets indésirables, notamment biologiques (kaliémie).
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Sans objet.
+4.8. Effets indésirables
+Ces effets indésirables ont été observés chez l’adulte :
+Au plan clinique
+Une gynécomastie peut apparaître lors de l’utilisation de la spironolactone, son développement
+semble être en relation aussi bien avec la posologie utilisée qu'avec la durée de la thérapeutique ; elle
+est habituellement réversible à l'arrêt de l'administration de la spironolactone : cependant dans de
+rares cas elle peut persister.
+D'autres effets indésirables rares et généralement réversibles à l'arrêt de la thérapeutique ont été
+rencontrés, il s'agit de :
+Affections gastro-intestinales : intolérance digestive.
+Affections hépatobiliaires : hépatite.
+Affections musculo-squelettiques et systémiques : crampes des membres inférieurs.
+Affections du système nerveux : somnolence.
+Affections des organes de reproduction et du sein : troubles des règles chez la femme, impuissance
+chez l'homme.
+Affections de la peau et du tissu sous-cutané : éruption cutanée.
+Affections du rein et des voies urinaires : insuffisance rénale aiguë.
+Au plan biologique
+Des perturbations électrolytiques et des hyponatrémies peuvent être observées.
+RCP — ALDACTONE 50 mg Page 7 of 10
+
+--- Page 8 ---
+Sous spironolactone, la kaliémie peut augmenter modérément. Des hyperkaliémies plus marquées
+sont rapportées chez l’insuffisant rénal et chez les patients sous supplémentation potassique ou sous
+IEC : bien que dans leur grande majorité, ces hyperkaliémies soient asymptomatiques, elles doivent
+être rapidement corrigées. En cas d’hyperkaliémie, le traitement par la spironolactone sera arrêté.
+4.9. Surdosage
+Symptômes: somnolence, nausées et vomissements, diarrhée.
+Les cas d'hyponatrémie ou d'hyperkaliémie sont rares.
+Traitement:
+procéder à un lavage gastrique,
+corriger les éventuelles variations des électrolytes.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+DIURETIQUE EPARGNEUR POTASSIQUE
+(C03DA01: système cardio-vasculaire)
+La spironolactone est un diurétique épargneur de potassium, antagoniste de l'aldostérone.
+5.2. Propriétés pharmacocinétiques
+La spironolactone est absorbée au niveau gastro-intestinal.
+Elle est rapidement transformée en métabolites sanguins, dont les deux principaux sont:
+la canrénone (ou aldadiène),
+le β OH thiométhyl dérivé, et plusieurs autres métabolites identifiés.
+L'élimination de la spironolactone se fait par voie urinaire (31 pour cent en moyenne en 5 jours) et
+dans les fèces (22 pour cent en moyenne en 5 jours).
+Les principaux métabolites urinaires sont:
+la canrénone, (ou aldadiène)
+l'ester glucuronide de canrénoate,
+le 6 β OH sulfoxide,
+le 6 β OH thiométhyl dérivé,
+le 15 α hydroxycanrénone.
+L'effet maximal antiminéralocorticoïde de la spironolactone s'obtient au bout de 24 heures, son effet
+diurétique se prolonge de 24 à 48 heures.
+La spironolactone ou ses métabolites peuvent traverser la barrière placentaire ou apparaître dans le
+lait maternel.
+RCP — ALDACTONE 50 mg Page 8 of 10
+
+--- Page 9 ---
+5.3. Données de sécurité préclinique
+La spironolactone est transformée partiellement dans l'organisme en canrénone ou aldadiène et en de
+nombreux métabolites, dont les plus actifs sont la spironolactone inchangée, le 7 α thiospironolactone
+et le 7 α thiométhylspironolactone.
+Les tests de mutagénèse ont fourni des résultats divergents.
+Certaines études de cancérogénèse réalisées avec la canrénone ont montré l'existence d'anomalies
+sans qu'il soit possible d'extrapoler les résultats à l'espèce humaine. Les études réalisées avec la
+spironolactone sont négatives.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Amidon de riz, lactose monohydraté, stéarate de magnésium, polyméthacrylate de potassium,
+laurilsulfate de sodium pur.
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+2 ans
+6.4. Précautions particulières de conservation
+A conserver à une température ne dépassant pas 25°C
+6.5. Nature et contenu de l'emballage extérieur
+20, 30, 90 ou 100 comprimés sous plaquettes thermoformées (PVC/Aluminium).
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+PFIZER HOLDING FRANCE
+23-25 AVENUE DU DOCTEUR LANNELONGUE
+75014 PARIS
+RCP — ALDACTONE 50 mg Page 9 of 10
+
+--- Page 10 ---
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+327 250-3: 20 comprimés sous plaquette thermoformée (PVC/Aluminium).
+351 253-9: 30 comprimés sous plaquette thermoformée (PVC/Aluminium).
+372 335-4: 90 comprimés sous plaquettes thermoformées (PVC/Aluminium).
+552 457-0: 100 comprimés sous plaquettes thermoformées (PVC/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste II.
+RCP — ALDACTONE 50 mg Page 10 of 10

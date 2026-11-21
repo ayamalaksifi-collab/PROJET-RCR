@@ -1,0 +1,383 @@
+--- Page 1 ---
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+ANSM - Mis à jour le : 28/11/2011
+1. DENOMINATION DU MEDICAMENT
+INDAPAMIDE ISOMED LP 1,5 mg, comprimé pelliculé à libération prolongée
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Chaque comprimé à libération prolongée contient 1,5 mg d'indapamide.
+Excipient: lactose.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé à libération prolongée.
+Comprimé pelliculé biconvexe rond, blanc à blanc cassé.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Hypertension artérielle essentielle.
+4.2. Posologie et mode d'administration
+Voie orale.
+Un comprimé par 24 heures, de préférence le matin.
+Des doses plus élevées n'améliorent pas l'action antihypertensive de l'indapamide mais augmentent
+en revanche son effet salidiurétique.
+Mode d'administration
+Le comprimé doit être avalé entier avec une quantité suffisante de liquide (ex. un verre d'eau) et ne
+doit pas être croqué ni mâché.
+Insuffisance rénale (voir rubriques 4.3 et 4.4):
+En cas d'insuffisance rénale sévère (clairance de la créatinine < 30 ml/min) le traitement est contre-
+indiqué.
+Les diurétiques thiazidiques et apparentés ne sont pleinement efficaces que lorsque la fonction rénale
+est normale ou peu altérée.
+Sujets âgés (voir rubrique 4.4):
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 1 of 11
+
+--- Page 2 ---
+Chez le sujet âgé, la valeur de la créatininémie doit être réajustée en fonction de l'âge, du poids et du
+sexe du patient. Ces patients pourront être traités avec INDAPAMIDE ISOMED LP 1,5 mg, comprimé
+pelliculé à libération prolongée uniquement lorsque la fonction rénale est normale ou peu altérée.
+Insuffisant hépatique (voir rubriques 4.3 et 4.4):
+En cas d'insuffisance hépatique sévère, le traitement est contre-indiqué.
+Enfants et adolescents:
+En l'absence des données suffisantes concernant l'efficacité et la sécurité d'emploi, ce médicament ne
+doit pas être utilisé chez l'enfant et l'adolescent.
+4.3. Contre-indications
+Hypersensibilité à l'indapamide, aux autres sulfamides ou à l'un des excipients.
+Insuffisance rénale sévère.
+Encéphalopathie hépatique ou insuffisance hépatique sévère.
+Hypokaliémie.
+4.4. Mises en garde spéciales et précautions d'emploi
+Mises en garde spéciales
+En cas d'atteinte hépatique, l'indapamide peut induire une encéphalopathie hépatique, en particulier
+en cas de déséquilibre électrolytique. Dans ce cas, l'administration du diurétique doit être
+immédiatement interrompue.
+Photosensibilité
+Des cas de photosensibilité ont été rapportés avec l'indapamide (voir rubrique 4.8). Si une réaction de
+photosensibilité apparaît pendant le traitement, il est recommandé d'arrêter le traitement. Si une
+nouvelle administration du diurétique s'avère nécessaire, il est recommandé de protéger les parties
+du corps exposées au soleil ou aux UVA artificiels.
+Précautions d'emploi
+Equilibre hydroélectrolytique:
+Natrémie:
+Elle doit être contrôlée avant la mise en route du traitement, puis à intervalles réguliers par la
+suite. Le traitement par indapamide peut en effet provoquer une hyponatrémie, aux conséquences
+parfois graves. La baisse de la natrémie peut être initialement asymptomatique, un contrôle
+régulier est donc indispensable et doit être encore plus fréquent chez les sujets âgés et les
+cirrhotiques (voir rubriques 4.8 et 4.9).
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 2 of 11
+
+--- Page 3 ---
+Kaliémie:
+La déplétion potassique avec hypokaliémie constitue le risque majeur lié au traitement par
+indapamide. Le risque de survenue d'une hypokaliémie (< 3,4 mmol/l) doit être prévenu dans
+certaines populations à haut risque, représentées par les sujets âgés, dénutris et/ou polymédiqués,
+les cirrhotiques avec œdèmes et ascite, les coronariens, les insuffisants cardiaques. En effet, dans
+ce cas, l'hypokaliémie majore la toxicité cardiaque des digitaliques et le risque de troubles du
+rythme.
+Les sujets présentant un espace QT long sont également à risque, que l'origine en soit congénitale
+ou iatrogénique. L'hypokaliémie, de même que la bradycardie, agit alors comme un facteur
+favorisant la survenue de troubles du rythme sévères, en particulier des torsades de pointes,
+potentiellement fatales.
+Dans tous les cas, des contrôles plus fréquents de la kaliémie sont nécessaires. Le premier contrôle
+du potassium plasmatique doit être effectué au cours de la première semaine qui suit la mise en
+route du traitement. La constatation d'une hypokaliémie nécessite sa correction.
+Calcémie:
+L'indapamide peut diminuer l'excrétion urinaire du calcium et entraîner une augmentation légère
+et transitoire de la calcémie. Une hypercalcémie franche peut être en rapport avec une
+hyperparathyroïdie méconnue.
+Le traitement doit être interrompu avant d'explorer la fonction parathyroïdienne.
+Glycémie:
+Il importe chez les diabétiques, de contrôler la glycémie, notamment en présence d'hypokaliémie.
+Acide urique:
+Chez les patients hyperuricémiques, la tendance aux accès de goutte peut être augmentée.
+Fonction rénale et diurétiques:
+L'indapamide n'est pleinement efficaces que lorsque la fonction rénale est normale ou peu altérée
+(créatininémie inférieure à des valeurs de l'ordre de 25 mg/l, soit 220 µmol/l pour un adulte). Chez le
+sujet âgé, la valeur de la créatininémie doit être réajustée en fonction de l'âge, du poids et du sexe du
+patient.
+L'hypovolémie, secondaire à la perte d'eau et de sodium induite par le diurétique en début de
+traitement, entraîne une réduction de la filtration glomérulaire. Il peut en résulter une augmentation
+de l'urée sanguine et de la créatininémie. Cette insuffisance rénale fonctionnelle transitoire est sans
+conséquence chez le sujet à fonction rénale normale mais peut aggraver une insuffisance rénale
+préexistante.
+Sportifs:
+L'attention des sportifs est attirée sur le fait que cette spécialité contient un principe actif pouvant
+induire une réaction positive des tests pratiqués lors des contrôles antidopage.
+Excipients
+Ces comprimés contiennent du lactose. Les patients présentant des problèmes héréditaires rares
+d'intolérance au galactose, de déficit en de Lapp lactase ou de malabsorption du galactose ne peuvent
+pas prendre ce médicament.
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 3 of 11
+
+--- Page 4 ---
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations déconseillées
++ Lithium
+Augmentation de la lithiémie avec signes de surdosage, comme lors d'un régime désodé (diminution
+de l'excrétion urinaire du lithium). Cependant, si l'usage des diurétiques est nécessaire, surveillance
+stricte de la lithiémie et adaptation de la posologie sont requises.
++ Diurétiques
+L'association de l'indapamide avec d'autres diurétiques hypokaliémiants (bumetanide, furosémide,
+pirétanide, thiazidiques, xipamide) est déconseillée.
+Associations faisant l'objet de précautions d’emploi
++ Médicaments pouvant induire des torsades de pointe:
+classe Ia antiarythmiques (quinidine, hydroquinidine, disopyramide),
+classe III antiarythmiques (amiodarone, sotalol, dofétilide, ibutilide),
+certains antipsychotiques:
+phénothiazines (chlorpromazine, cyamémazine, lévomépromazine, thioridazine,
+trifluopérazine),
+benzamides (amisulpride, sulpiride, sultopride, tiapride),
+butyrophénones (dropéridol, halopéridol);
+autres: bépridil, cisapride, diphémanil, érythromicine IV, halofantrin, mizolastine,
+pentamidine, sparfloxacine, moxifloxacine, vincamine IV.
+Augmentation du risque d'arythmie ventriculaire, en particulier de torsades de pointe (l'hypokaliémie
+est un facteur de risque).
+L'hypokaliémie doit être surveillée et corrigée si nécessaire, avant d'introduire une association. La
+clinique, les électrolytes plasmatiques et l'ECG sont à surveiller.
+Utiliser des substances ne présentant pas de risques de torsades de pointe en présence d'une
+hypokaliémie.
++ Anti-inflammatoires non stéroïdiens (A.I.N.S.) (voie générale), incluant les
+inhibiteurs sélectifs des COX-2, l'acide salicylique à forte dose (≥3g/jour)
+Diminution possible de l'effet antihypertenseur de l'indapamide.
+Risque d'une insuffisance rénale aiguë chez le malade déshydraté (diminution de la filtration
+glomérulaire). Hydrater le patient; surveiller la fonction rénale en début de traitement.
++ Inhibiteurs de l'enzyme de conversion (I.E.C.)
+Risque d'hypotension artérielle soudaine et/ou d'insuffisance rénale aiguë lors de l'instauration du
+traitement par un inhibiteur de l'enzyme de conversion en cas de déplétion sodée pré-existante (en
+particulier chez les sujets porteurs de sténose de l'artère rénale).
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 4 of 11
+
+--- Page 5 ---
+Dans l'hypertension essentielle, lorsqu'un traitement diurétique préalable peut avoir entraîné une
+déplétion sodée, il faut:
+soit arrêter le diurétique 3 jours avant le début du traitement par l'I.E.C. et réintroduire un
+diurétique hypokaliémiant si nécessaire
+soit administrer des doses initiales faibles de l'I.E.C. et augmenter progressivement.
+Dans l'insuffisance cardiaque congestive, commencer par une dose très faible d'I.E.C.
+éventuellement après réduction de la dose du diurétique hypokaliémiant associé.
+Dans tous les cas, surveiller la fonction rénale (dosage de la créatininémie) au cours des premières
+semaines du traitement par l'I.E.C.
++ Autres hypokaliémiants: amphotéricine B (voie IV), gluco- et minéra locorticoïdes
+(voie générale), tétracosactide, laxatifs stimulants
+Risque majoré d'hypokaliémie (effet additif).
+Surveillance de la kaliémie et, si besoin, correction; risque à prendre particulièrement en compte en
+cas de thérapeutique digitalique associée. Utiliser des laxatifs non stimulants.
++ Baclofène
+Majoration de l'effet antihypertenseur.
+Hydrater le malade, surveiller la fonction rénale en début de traitement.
++ Digitaliques
+Hypokaliémie favorisant les effets toxiques des digitaliques.
+Surveillance de la kaliémie et de l'ECG et adaptation du traitement si nécessaire.
+Associations à prendre en compte
++ Diurétiques hyperkaliémiants (amiloride, spironolactone, triamtérène)
+Dans le cas d'une association rationnelle, utile pour certains patients, la survenue d'une hypokaliémie
+ou d'une hyperkaliémie (en particulier chez les patients présentant une insuffisance rénale ou
+diabétiques) n'est pas à exclure. La kaliémie et l'ECG doivent être surveillés et, s'il y a lieu,
+reconsidérer le traitement.
++ Metformine
+Risque majoré de survenue d'une acidose lactique due à la metformine déclenchée par une éventuelle
+insuffisance rénale fonctionnelle liée à l'association avec les diurétiques et plus spécialement avec les
+diurétiques de l'anse.
+Ne pas associer la metformine lorsque la créatininémie dépasse 15 mg/l (135 µmoles/l) chez l'homme
+et 12 mg/l (110 µmoles/l) chez la femme.
++ Produits de contraste iodés
+En cas de déshydratation provoquée par les diurétiques, le risque d'insuffisance rénale aiguë est
+majoré, en particulier lors de l'utilisation de doses importantes de produits de contraste iodés.
+Réhydratation avant administration du produit iodé.
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 5 of 11
+
+--- Page 6 ---
++ Antidépresseurs imipraminiques, neuroleptiques
+Effet antihypertenseur et risque majoré d'hypotension orthostatique (effet additif).
++ Calcium (sels de)
+Risque d'hypercalcémie par diminution de l'élimination urinaire du calcium.
++ Ciclosporine, tacrolimus
+Risque d'augmentation de la créatininémie sans modification des taux circulants de ciclosporine,
+même en l'absence de déplétion hydrosodée.
++ Corticoïdes, tétracosactide (voie générale)
+Diminution de l'effet antihypertenseur (rétention hydrosodée des corticoïdes).
+4.6. Grossesse et allaitement
+Grossesse
+En règle générale, l'administration de diurétiques doit être évitée chez la femme enceinte et ne jamais
+constituer le traitement des œdèmes physiologiques de la grossesse. Les diurétiques peuvent, en effet,
+entraîner une ischémie fœtoplacentaire, avec un risque d'altération de la croissance fœtale.
+Allaitement
+L'allaitement est déconseillé (passage dans le lait maternel).
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+L'indapamide ne modifie pas la vigilance mais des réactions individuelles en relation avec une baisse
+de la pression artérielle peuvent survenir chez certains patients, particulièrement en début de
+traitement ou lors de l'association à un autre médicament antihypertenseur. Par conséquent,
+l'aptitude à conduire des véhicules ou à utiliser des machines peut être diminuée.
+4.8. Effets indésirables
+Les effets indésirables biologiques ou cliniques sont pour la plupart dose-dépendants.
+L'indapamide peut entraîner les effets indésirables suivants classés selon les fréquences suivantes:
+très fréquent (≥1/10), fréquent (≥1/100 à <1/10), peu fréquent (≥1/1000 à <1/100); rare (≥1/10000 à
+<1/1000), très rare (<1/10000), fréquence indéterminée (ne peut être estimée sur la base des
+données disponibles).
+Troubles du système sanguin et lymphatique
+Très rare: thrombocytopénie, leucopénie, agranulocytose, anémie aplasique, anémie hémolytique
+Troubles du système nerveux
+Rare: vertiges, fatigue, céphalées, paresthésie
+Troubles cardiaques
+Très rare: arythmie, hypotension
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 6 of 11
+
+--- Page 7 ---
+Troubles gastro-intestinaux
+Peu fréquent: vomissements
+Rare: nausées, constipation, bouche sèche
+Très rare: pancréatite
+Affections du rein et des voies urinaires
+Très rare: insuffisance rénale
+Troubles hépato-biliaires
+Très rare: fonction hépatique altérée
+Fréquence indéterminée: En cas d'insuffisance hépatique, possibilité de survenue d'encéphalopathie
+hépatique (voir rubriques 4.3 et 4.4)
+Affections de la peau et du tissu sous-cutané.
+Réactions d'hypersensibilité principalement dermatologiques chez des sujets prédisposés aux
+manifestations allergiques et asthmatiques.
+Fréquent: éruptions maculopapuleuses
+Peu fréquent: purpura
+Très rare: angio-œdème et/ou urticaire, nécrolyse épidermique toxique, syndrome de Steven-
+Johnson
+Fréquence indéterminée: possibilité d'une aggravation d'un lupus érythémateux aigu disséminé
+préexistant.
+Des cas de réactions de photosensibilité ont été observées (voir rubrique 4.4).
+Paramètres biologiques:
+Au cours des essais cliniques, il a été observé, une hypokaliémie après 4 à 6 semaines de traitement:
+10% des patients avaient une kaliémie < 3,4 mmol/l et 4% des patients une kaliémie < 3,2 mmol/l.
+Après 12 semaines de traitement, la baisse moyenne de la kaliémie est de 0,23 mmol/l.
+Très rare: hypercalcémie.
+Fréquence indéterminée:
+Une déplétion potassique avec hypokaliémie, particulièrement grave chez certaines populations à
+haut risque (voir rubrique 4.4).
+Une hyponatrémie avec hypovolémie à l'origine d'une déshydratation et d'une hypotension
+orthostatique. La perte concomitante d'ions chlorures peut secondairement entraîner une alcalose
+métabolique compensatrice: l'incidence et l'amplitude de cet effet sont faibles.
+Une élévation de l'uricémie et de la glycémie au cours du traitement: l'emploi de ces diurétiques
+sera soigneusement mesuré chez les sujets goutteux et diabétiques.
+4.9. Surdosage
+L'indapamide n'a pas montré de toxicité jusqu'à 40 mg soit 27 fois la dose thérapeutique.
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 7 of 11
+
+--- Page 8 ---
+Les signes de l'intoxication aiguë se manifestent surtout par des désordres hydro-électrolytiques
+(hyponatrémie, hypokaliémie).
+Symptômes:
+Cliniquement, possibilité de nausées, vomissements, hypotension artérielle, crampes, vertiges,
+somnolence, états confusionnels, polyurie ou oligurie allant jusqu'à l'anurie (par hypovolémie).
+Traitement:
+Les premières mesures consistent à éliminer rapidement le/ou les produits ingérés par lavage
+gastrique et/ou administration de charbon activé, puis à restaurer l'équilibre hydro-électrolytique
+dans un centre spécialisé jusqu'à normalisation.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique: diurétique antihypertenseur.
+Code ATC: C03BA11.
+L'indapamide est un dérivé sulfamide à noyau indol, apparenté aux diurétiques thiazidiques sur le
+plan pharmacologique qui agit en inhibant la réabsorption du sodium au niveau du segment cortical
+de dilution. Il augmente l'excrétion urinaire du sodium et des chlorures et, à un moindre degré,
+l'excrétion du potassium et du magnésium, accroissant de la sorte la diurèse et exerçant une action
+antihypertensive.
+Les études de phases II et III ont montré, en monothérapie, un effet antihypertenseur se prolongeant
+pendant 24 heures. Il apparaît à des doses où n'apparaissent que faiblement ses propriétés
+diurétiques.
+Son activité antihypertensive est en rapport avec une amélioration de la compliance artérielle et une
+diminution des résistances périphériques totales et artériolaires.
+L'indapamide réduit l'hypertrophie ventriculaire gauche.
+Il existe un plateau de l'effet antihypertenseur des diurétiques thiazidiques et apparentés au-delà
+d'une certaine dose, tandis que les effets indésirables continuent d'augmenter: en cas d'inefficacité du
+traitement, ne pas chercher à augmenter les doses.
+En outre, il a été démontré, à court, moyen et long terme chez l'hypertendu, que l'indapamide:
+respecte le métabolisme lipidique: triglycérides, LDL-cholestérol et HDL-cholestérol,
+respecte le métabolisme glucidique, même chez l'hypertendu diabétique.
+5.2. Propriétés pharmacocinétiques
+INDAPAMIDE ISOMED LP 1.5 mg, comprimé pelliculé à libération prolongée se présente sous forme
+de comprimés dotés d'un système de matrice dans lequel la substance active est dispersée dans un
+support permettant la libération prolongée de l'indapamide.
+Absorption
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 8 of 11
+
+--- Page 9 ---
+La fraction libérée de l'indapamide est rapidement et totalement absorbée par le tractus digestif.
+La prise de nourriture augmente légèrement la vitesse d'absorption mais n'a pas d'influence sur la
+quantité de produit absorbée.
+Le pic sanguin après administration unique est atteint 12 heures environ après la prise, la répétition
+des prises permet de limiter les variations des concentrations sanguines entre deux prises. Il existe
+une variabilité intra-individuelle.
+Distribution
+La liaison aux protéines plasmatiques est de 79%.
+La demi-vie d'élimination est comprise entre 14 et 24 heures (en moyenne 18 heures).
+L'état d'équilibre est atteint après 7 jours.
+Les administrations répétées ne provoquent pas d'accumulation.
+Métabolisme
+L'élimination est essentiellement urinaire (70% de la dose) et fécale (22%) sous forme de métabolites
+inactifs.
+Populations à risque
+Les paramètres pharmacocinétiques sont inchangés chez l'insuffisant rénal.
+5.3. Données de sécurité préclinique
+Les plus fortes doses administrées par voie orale chez différentes espèces animales (40 à 8000 fois la
+dose thérapeutique) ont montré une exacerbation des propriétés diurétiques de l'indapamide. Les
+principaux symptômes des études de toxicité aiguë avec l'indapamide administré par voie
+intraveineuse ou intrapéritonéale sont en relation avec l'activité pharmacologique de l'indapamide,
+c'est-à-dire bradypnée et vasodilatation périphérique.
+Les tests de mutagénicité et de carcinogénicité de l'indapamide sont négatifs.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Noyau du comprimé: lactose monohydraté, hypromellose, silice colloïde anhydre, stéarate de
+magnésium
+Pelliculage: hypromellose, glycérol 85%, dioxyde de titane (E171)
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans.
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 9 of 11
+
+--- Page 10 ---
+6.4. Précautions particulières de conservation
+A conserver à une température ne dépassant pas 30°C dans l'emballage extérieur d'origine.
+6.5. Nature et contenu de l'emballage extérieur
+10, 14, 15, 20, 28, 30, 50, 60, 90, 100 comprimés à libération prolongée sous plaquettes
+thermoformées (PVC/PVDC/Aluminium)
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+Tout produit non utilisé ou déchet doit être éliminé conformément à la réglementation en vigueur.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+PLUS PHARMACIE S.A.
+26, BOULEVARD PAUL VAILLANT-COUTURIER
+94200 IVRY-SUR-SEINE
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+393 462-5 ou 34009 393 462 5 0: 10 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 463-1 ou 34009 393 463 1 1: 14 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 464-8 ou 34009 393 464 8 9: 15 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 465-4 ou 34009 393 465 4 0: 20 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 466-0 ou 34009 393 466 0 1: 28 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 467-7 ou 34009 393 467 7 9: 30 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 468-3 ou 34009 393 468 3 0: 50 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 470-8 ou 34009 393 470 8 0: 60 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+393 471-4 ou 34009 393 471 4 1: 90 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+574 976-0 ou 34009 574 976 0 6: 100 comprimés sous plaquettes thermoformées
+(PVC/PVDC/Aluminium).
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 10 of 11
+
+--- Page 11 ---
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE
+L’AUTORISATION
+[à compléter par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES
+RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste II.
+RCP — INDAPAMIDE ISOMED LP 1,5 mg Page 11 of 11

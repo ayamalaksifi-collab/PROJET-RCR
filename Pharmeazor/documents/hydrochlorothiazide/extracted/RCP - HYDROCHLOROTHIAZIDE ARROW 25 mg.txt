@@ -1,0 +1,563 @@
+--- Page 1 ---
+ANSM — RÉPERTOIRE DES SPÉCIALITÉS PHARMACEUTIQUES ANSM - Mis à jour le : 04/08/2021
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+1. DENOMINATION DU MEDICAMENT
+HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Hydrochlorothiazide...............................................................
+............................... 25 mg
+Pour un comprimé sécable.
+Excipient à effet notoire : chaque comprimé contient 54,250 mg de lactose monohydraté.
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé sécable.
+Comprimé rond (6,4 mm de diamètre) sécable, blanc à blanchâtre, plat avec des bords biseautés,
+gravé « HC 25 » sur une face et possédant une barre de sécabilité sur l’autre face.
+Le comprimé peut être divisé en deux doses égales.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable est indiqué chez les adultes dans le
+traitement des pathologies suivantes :
+Œdèmes d'origine cardiaque ou rénale.
+Œdèmes d'origine hépatique, le plus souvent en association avec un diurétique épargneur de
+potassium.
+Hypertension artérielle.
+4.2. Posologie et mode d'administration
+Posologie
+Voie orale.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 1 of 16
+
+--- Page 2 ---
+Comme avec tous les autres diurétiques, le traitement doit être initié avec la plus petite dose
+possible. Cette dose doit être établie en fonction de la réponse individuelle du patient afin d’obtenir le
+bénéfice thérapeutique maximal tout en minimisant la survenue d’effets indésirables. La dose
+quotidienne d’HYDROCHLOROTHIAZIDE ARROW peut être administrée en une ou deux prises,
+avec ou sans nourriture.
+Œdèmes
+La posologie initiale est de 50 à 100 mg/jour, éventuellement 200 mg/jour. La plus petite dose
+efficace doit être identifiée par titration et doit être administrée seulement sur des périodes limitées.
+La posologie d’entretien est de 25 à 50 mg/jour ou 1 jour sur 2.
+Hypertension artérielle
+Les doses préconisées actuellement dans l’hypertension artérielle sont de 12,5 ou de 25 mg/jour.
+Pour une posologie donnée, l’effet maximum est atteint en 3 à 4 semaines. Si la tension artérielle
+n’est pas suffisamment abaissée avec une dose de 25 mg /jour, un traitement combiné avec un autre
+médicament antihypertenseur est recommandé. La déplétion sodée et/ou volémique doit être
+corrigée avant d’utiliser HYDROCHLOROTHIAZIDE ARROW en association avec un IEC, un
+antagoniste des récepteurs de l’angiotensine II ou un inhibiteur direct de la rénine. Dans le cas
+contraire, le traitement doit être initié sous surveillance médicale étroite.
+Populations particulières
+Insuffisance rénale
+Aucun ajustement de la dose initiale n’est nécessaire chez les patients présentant une insuffisance
+rénale légère à modérée (voir rubrique 5.2).
+HYDROCHLOROTHIAZIDE ARROW est contre-indiqué chez les sujets présentant une anurie et
+chez les patients atteints d’insuffisance rénale sévère.
+Insuffisance hépatique
+Aucun ajustement de la dose initiale n’est nécessaire chez les patients présentant une insuffisance
+hépatique légère à modérée (voir rubrique 5.2).
+HYDROCHLOROTHIAZIDE ARROW doit être utilisé avec prudence chez les patients présentant une
+insuffisance hépatique sévère (voir rubrique 4.4).
+Sujets âgés (de plus de 65 ans) : Chez les sujets âgés, il convient de prêter attention à l’éventuelle
+altération de la fonction rénale.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 2 of 16
+
+--- Page 3 ---
+Décompensation cardiaque sévère : Chez les patients présentant une décompensation cardiaque
+sévère, la résorption de l'hydrochlorothiazide peut être significativement limitée.
+Population pédiatrique : La sécurité et l’efficacité de l’hydrochlorothiazide chez les enfants et les
+adolescents âgés de moins de 18 ans n’ont pas été établies. Aucune donnée n’est disponible. Par
+conséquent, l'utilisation chez les enfants et les adolescents n'est donc pas recommandée.
+Mode d’administration et durée du traitement
+Le comprimé doit être avalé avec une quantité de liquide suffisante.
+La durée du traitement n’est pas limitée. Elle dépend de la pathologie et de sa sévérité. Après un
+traitement à long terme, l’hydrochlorothiazide devra être arrêté progressivement.
+4.3. Contre-indications
+hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1 ;
+anurie ;
+insuffisance rénale sévère (clairance de la créatinine inférieure à 30 ml/min).
+4.4. Mises en garde spéciales et précautions d'emploi
+Cancer de la peau non mélanome
+Un risque accru de cancer de la peau non mélanome (CPNM) [carcinome basocellulaire (CB) et
+carcinome épidermoïde (CE)] avec une augmentation de la dose cumulative d'exposition à
+l'hydrochlorothiazide (HCTZ) a été observé dans deux études épidémiologiques issues du registre
+danois des cancers. Les actions photosensibilisantes de l’HCTZ pourraient constituer un mécanisme
+possible du CPNM.
+Les patients prenant de l’HCTZ doivent être informés du risque de CPNM et être invités à vérifier
+régulièrement leur peau pour détecter toute nouvelle lésion et à signaler rapidement toute lésion
+cutanée suspecte. Des mesures préventives possibles telles qu'une exposition limitée au soleil et
+aux rayons UV et, en cas d'exposition, une protection adéquate devraient être conseillées aux
+patients afin de minimiser le risque de cancer de la peau. Les lésions cutanées suspectes doivent
+être examinées rapidement, y compris éventuellement par un examen histologique des biopsies.
+L'utilisation d’HCTZ peut également devoir être reconsidérée chez les patients ayant déjà présenté
+un CPNM (voir aussi rubrique 4.8).
+Mises en garde spéciales
+Ce médicament est généralement déconseillé en cas de sténose bilatérale de l’artère rénale ou sur
+rein fonctionnellement unique et en cas d’hypokaliémie.
+L’hydrochlorothiazide est un sulfamide. La possibilité d’une allergie croisée avec les autres
+sulfamides notamment antibactériens reste théorique et non validée en clinique.
+Insuffisance hépatique
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 3 of 16
+
+--- Page 4 ---
+Les diurétiques thiazidiques, comme d’autres diurétiques peuvent induire un déséquilibre
+électrolytique, une encéphalopathie hépatique ou un syndrome hépato-rénal quand ils sont utilisés
+pour traiter les ascites cirrhotiques. L’hydrochlorothiazide doit être utilisé avec prudence
+particulièrement chez les sujets présentant des atteintes hépatiques sévères.
+Des cas de réaction de photosensibilité ont été rapportés lors de l’utilisation des diurétiques
+thiazidiques (voir rubrique 4.8). En cas de survenue de réaction de photosensibilité sous traitement, il
+est recommandé d’interrompre le traitement. Si une réadministration du traitement est indispensable,
+il est recommandé de protéger les zones exposées au soleil ou aux UVA artificiels.
+Précautions d’emploi
+Equilibre hydro-électrolytique
+Natrémie : La natrémie doit être contrôlée avant la mise en route du traitement, puis à intervalles
+réguliers par la suite. Les diurétiques thiazidiques peuvent provoquer une hyponatrémie ou
+exacerber une hyponatrémie préexistante. Chez les sujets présentant une baisse importante de la
+natrémie et/ou une déplétion volémique importante, tel qu’observé chez les patients recevant de
+fortes doses de diurétiques, une hypotension symptomatique peut apparaître dans de rares cas
+après l’initiation du traitement par l’hydrochlorothiazide.
+La baisse de la natrémie pouvant être initialement asymptomatique, un contrôle régulier est donc
+indispensable et doit être encore plus fréquent dans les populations à risque représentées par les
+sujets âgés, a fortiori dénutris, et les cirrhotiques (voir rubriques 4.8 et 4.9). Chez les patients ayant
+une ascite liée à une cirrhose hépatique, et chez les patients ayant un œdème lié à un syndrome
+néphrotique une surveillance particulière doit être effectuée.
+Des cas isolés d’hyponatrémie accompagnée de symptômes neurologiques (nausées, désorientation
+progressive, apathie) ont été observés. Les diurétiques thiazidiques ne doivent être utilisés qu’après
+la normalisation de toute déplétion sodée et/ou volémique existantes. Dans le cas contraire, le
+traitement sera instauré sous surveillance médicale étroite.
+Kaliémie : Les diurétiques thiazidiques et apparentés peuvent provoquer la survenue d’une
+hypokaliémie ou exacerber une hypokaliémie préexistante. Les diurétiques thiazidiques doivent être
+administrés avec prudence chez les patients souffrant d’une pathologie pouvant être à l’origine d’une
+perte importante de potassium, comme par exemple dans les néphropathies avec perte de sels ou
+les troubles de la fonction rénale d’origine pré-rénale (cardiogéniques).
+Le risque de survenue d’une hypokaliémie (< 3,5 mmol/l) doit être prévenu dans certaines
+populations à risque représentées par les sujets âgés et/ou dénutris et/ou polymédiqués, les
+cirrhotiques avec œdèmes et ascite, les coronariens, les insuffisants cardiaques. En effet, dans ce
+cas, l’hypokaliémie majore la toxicité cardiaque des digitaliques et le risque de troubles du rythme.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 4 of 16
+
+--- Page 5 ---
+Les patients présentant un espace QT long à l’ECG sont également à risque, que l’origine en soit
+congénitale ou médicamenteuse. L’hypokaliémie (de même que la bradycardie) agit alors comme un
+facteur favorisant la survenue de troubles du rythme sévères, en particulier des torsades de pointes,
+potentiellement fatales, surtout en présence d’une bradycardie.
+La normalisation d’une hypokaliémie et de toute hypomagnésémie l’accompagnant est
+recommandée avant d’initier un traitement avec des diurétiques thiazidiques. Le premier contrôle du
+potassium plasmatique doit être effectué au cours de la semaine qui suit la mise en route du
+traitement. Par la suite, un contrôle régulier de la kaliémie est recommandé. L’équilibre électrolytique,
+particulièrement celui du potassium, doit être contrôlé chez tous les patients recevant des diurétiques
+thiazidiques. En cas de traitement chronique, la kaliémie doit être contrôlée à l’initiation du traitement.
+Un contrôle à 3-4 semaines pourrait être envisagé en fonction des facteurs de risque. Ensuite un
+contrôle régulier doit être recommandé notamment chez les patients à risque.
+Acide urique : L’hydrochlorothiazide, comme d’autres diurétiques, peut entrainer une augmentation
+des concentrations plasmatiques d’acide urique, du fait de la diminution de son élimination urinaire et
+par conséquent favoriser l’apparition d’une hyperuricémie ou aggraver une hyperuricémie
+préexistante pouvant déclencher des crises de goutte chez les patients prédisposés. La posologie
+sera adaptée en fonction des concentrations plasmatiques d’acide urique.
+Effets métaboliques
+Calcémie : Les diurétiques thiazidiques diminuent l'excrétion urinaire du calcium et peuvent entraîner
+une élévation légère et transitoire de la calcémie en l’absence d’anomalies connues du métabolisme
+calcique. L’hydrochlorothiazide doit être utilisé avec prudence chez les patients présentant une
+hypercalcémie et il ne doit être administré qu’après correction de toute hypercalcémie préexistante.
+L’hydrochlorothiazide doit être interrompu en cas de survenue d’une hypercalcémie lors du
+traitement. La calcémie doit être contrôlée régulièrement pendant le traitement par les diurétiques
+thiazidiques. Une hypercalcémie marquée peut être le signe d’une hyperparathyroïdie masquée. Les
+diurétiques thiazidiques doivent être arrêtés avant d’explorer la fonction parathyroïdienne.
+Glycémie et lipidémie : Les diurétiques thiazidiques, y compris l’hydrochlorothiazide, peuvent
+diminuer la tolérance au glucose et augmenter les taux sériques de cholestérol et triglycérides. Il peut
+être nécessaire d’adapter la posologie de l’insuline ou des hypoglycémiants oraux chez les patients
+diabétiques.
+Fonction rénale et diurétique : Les diurétiques thiazidiques ne sont pleinement efficaces que lorsque
+la fonction rénale est normale ou peu altérée (évaluée par exemple par le calcul de la clairance de la
+créatinine à partir de la créatininémie). Chez le sujet âgé, la valeur de la clairance de la créatinine
+doit être réajustée en fonction de l’âge, du poids et du sexe du patient, selon la formule de Cockroft,
+par exemple :
+Clcr = (140 − âge) × poids / (0,814 × créatininémie)
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 5 of 16
+
+--- Page 6 ---
+Avec :
+l’âge exprimé en années,
+le poids en kg,
+la créatininémie en µmol/l.
+Cette formule est valable pour les sujets âgés de sexe masculin, et doit être corrigée pour les
+femmes en multipliant le résultat par 0,85.
+L’hypovolémie, secondaire à la perte d’eau et de sodium, induite par le diurétique en début de
+traitement, entraîne une réduction de la filtration glomérulaire. Il peut en résulter une augmentation
+de l’urée sanguine et de la créatininémie. Cette insuffisance rénale fonctionnelle transitoire peut
+aggraver une insuffisance rénale préexistante.
+Épanchement choroïdien, myopie aiguë et glaucome aigu secondaire à angle fermé : Les sulfamides
+ou leurs dérivés peuvent provoquer une réaction idiosyncratique qui peut conduire à un
+épanchement choroïdien avec anomalie du champ visuel, à une myopie aiguë transitoire et à un
+glaucome aigu à angle fermé. Les symptômes incluent l'apparition soudaine d'une réduction de
+l'acuité visuelle ou d'une douleur oculaire et surviennent en règle générale dans les heures ou les
+semaines suivant le début du traitement. Un glaucome aigu à angle fermé non traité peut induire une
+perte de la vision permanente. La première mesure à adopter est l'arrêt du traitement le plus
+rapidement possible. Un recours rapide à un traitement médicamenteux ou à la chirurgie peut
+s'avérer nécessaire si la pression intraoculaire reste incontrôlée. Les facteurs de risque de survenue
+d'un glaucome aigu à angle fermé peuvent inclure les antécédents d'allergies aux sulfamides ou à la
+pénicilline.
+Autres
+Associations anti-hypertensives : Il est conseillé de réduire la posologie en cas d’association avec un
+autre antihypertenseur, au moins dans un premier temps. L’effet anti-hypertenseur des IEC, des
+antagonistes de l’angiotensine II ou des inhibiteurs de la rénine est potentialisé par des traitements
+qui augmentent l’activité rénine plasmatique (diurétiques). La prudence est recommandée lorsqu’un
+IEC, un antagoniste de l’angiotensine II ou un inhibiteur direct de la rénine est administré
+conjointement à HYDROCHLOROTHIAZIDE ARROW, et plus particulièrement chez les patients
+présentant une déplétion sodée et/ou volémique importante.
+Sportifs : L’attention des sportifs est attirée sur le fait que cette spécialité contient un principe actif
+pouvant induire une réaction positive des tests pratiqués lors des contrôles antidopages.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 6 of 16
+
+--- Page 7 ---
+Autre : Lupus érythémateux : des cas d’exacerbation ou d’activation d’un lupus érythémateux
+disséminé ont été rapportés avec les diurétiques thiaziques, incluant l’hydrochlorothiazide. Les
+réactions d’hypersensibilité à l’hydrochlorothiazide sont plus fréquentes chez les patients allergiques
+et asthmatiques. Ce médicament contient du lactose. Les patients présentant une intolérance au
+galactose, un déficit total en lactase ou un syndrome de malabsorption du glucose et du galactose
+(maladies héréditaires rares) ne doivent pas prendre ce médicament.
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+L’administration concomitante d’HYDROCHLOROTHIAZIDE ARROW avec les médicaments suivants
+peut entraîner des interactions.
+Médicaments hypokaliémiants : L’hypokaliémie est un facteur favorisant l’apparition de troubles du
+rythme cardiaque (torsades de pointes, notamment) et augmentant la toxicité de certains
+médicaments, par exemple la digoxine. De ce fait, les médicaments qui peuvent entraîner une
+hypokaliémie sont impliqués dans un grand nombre d’interactions. Il s’agit des diurétiques
+hypokaliémiants, seuls ou associés, des laxatifs stimulants, des glucocorticoïdes, du tétracosactide
+et de l’amphotéricine B (voie IV).
+Médicaments hyponatrémiants : Certains médicaments sont plus fréquemment impliqués dans la
+survenue d’une hyponatrémie. Ce sont les diurétiques, la desmopressine, les antidépresseurs
+inhibant la recapture de la sérotonine, la carbamazépine et l’oxcarbazépine. L’association de ces
+médicaments majore le risque d’hyponatrémie.
+Associations déconseillées
++ Lithium : Augmentation de la lithémie avec signes de surdosage en lithium, comme lors d’un
+régime désodé (diminution de l’excrétion rénale du lithium). Si l’association ne peut être évitée,
+surveillance stricte de la lithémie et adaptation de la posologie du lithium.
+Associations faisant l'objet de précautions d’emploi
++ Acide acétylsalicylique : Pour des doses anti-inflammatoires d’acide acétylsalicylique (≥ 1 g par
+prise et/ou ≥ 3 g par jour) ou pour des doses antalgiques ou antipyrétiques (≥ 500 mg par prise et/ou
+< 3 g par jour) : Insuffisance rénale aigüe chez le malade déshydraté, par diminution de la filtration
+glomérulaire secondaire à une diminution de la synthèse des prostaglandines rénales. Par ailleurs,
+réduction de l’effet antihypertenseur. Hydrater le malade et surveiller la fonction rénale en début de
+traitement.
++ Anti-inflammatoires non stéroïdiens : Insuffisance rénale aiguë chez le malade à risque (sujet
+âgé et/ou déshydraté) par diminution de la filtration glomérulaire (inhibition des prostaglandines
+vasodilatatrices due aux anti-inflammatoires non stéroïdiens). Par ailleurs, réduction de l’effet
+antihypertenseur. Hydrater le malade et surveiller la fonction rénale en début de traitement.
++ Carbamazépine : Risque d’hyponatrémie symptomatique. Surveillance clinique et biologique. Si
+possible, utiliser une autre classe de diurétiques.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 7 of 16
+
+--- Page 8 ---
++ Résines chélatrices : La prise de résine chélatrice peut diminuer l’absorption intestinale et,
+potentiellement, l’efficacité d’autres médicaments pris simultanément. D’une façon générale, la prise
+de la résine doit se faire à distance de celle des autres médicaments, en respectant un intervalle de
+plus de 2 heures, si possible.
++ Digitaliques : Hypokaliémie favorisant les effets toxiques des digitaliques. Corriger auparavant
+toute hypokaliémie, et réaliser une surveillance clinique, électrolytique et électrocardiographique.
++ Diurétiques épargneurs de potassium (seuls ou associés) : L’association rationnelle, utile pour
+certains patients, n’exclut pas la survenue d’hypokaliémie ou, en particulier chez l’insuffisant rénal et
+le diabétique, d’hyperkaliémie. Surveiller la kaliémie, éventuellement de l’ECG, et, s’il y a lieu,
+reconsidérer le traitement.
++ Inhibiteurs de l'enzyme de conversion (IEC), antagoniste de l'angiotensine II : Risque
+d’hypotension artérielle brutale et/ou d’insuffisance rénale aiguë lors de l’instauration ou de
+l’augmentation de la posologie d’un traitement par un inhibiteur de l’enzyme de conversion ou un
+antagoniste de l’angiotensine II en cas de déplétion hydrosodée préexistante. Dans l’hypertension
+artérielle, lorsqu’un traitement diurétique préalable a pu entraîner une déplétion hydrosodée, il faut :
+soit arrêter le diurétique avant de débuter le traitement par l’antagoniste de l’angiotensine II ou par
+l’IEC, et réintroduire un diurétique hypokaliémiant si nécessaire ultérieurement ;
+soit administrer des doses initiales réduites d’antagoniste de l’angiotensine II ou d’IEC et
+augmenter progressivement la posologie.
+Dans l’insuffisance cardiaque congestive traitée par diurétiques, commencer par une dose très faible
+d’IEC ou d’antagoniste de l’angiotensine II, éventuellement après réduction de la dose du diurétique
+hypokaliémiant associé. Dans tous les cas, surveiller la fonction rénale (créatininémie) dans les
+premières semaines du traitement par l’IEC ou par l’antagoniste de l’angiotensine II.
++ Médicaments susceptibles de donner des torsades de pointes (amiodarone, amisulpride,
+arsénieux, arténimol, chloroquine, chlorpromazine, citalopram, cyamémazine, diphemanil,
+disopyramide, dofetilide, dolasetron, dompéridone, dronédarone, droperidol, érythromycine,
+escitalopram, flupentixol, fluphenazine, halofantrine, halopéridol, hydroquinidine, hydroxyzine,
+ibutilide, lévofloxacine, levomepromazine, lumefantrine, mequitazine, méthadone, mizolastine,
+moxifloxacine, pentamidine, pimozide, pipamperone, pipéraquine, pipotiazine, prucalopride,
+quinidine, sotalol, spiramycine, sulpiride, sultopride, tiapride, toremifene, vandétanib, vincamine,
+zuclopenthixol) : Risque majoré de troubles du rythme ventriculaires, notamment de torsades de
+pointes. Corriger toute hypokaliémie avant d’administrer le produit et réaliser une surveillance
+clinique, électrolytique et électrocardiographique.
++ Autres hypokaliémiants : Risque majoré d’hypokaliémie. Surveillance de la kaliémie avec si
+besoin correction.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 8 of 16
+
+--- Page 9 ---
++ Produits de contraste iodés : En cas de déshydratation provoquée par les diurétiques, risque
+majoré d’insuffisance rénale fonctionnelle aiguë, en particulier lors de l’utilisation de doses
+importantes de produits de contraste iodés. Réhydratation avant administration du produit iodé.
+Associations à prendre en compte
++ Alphabloquants à visée urologique (alfuzosine, doxazosine, prazosine, silodosine, tamsulosine,
+térazosine) : Majoration de l’effet hypotenseur. Risque d’hypotension orthostatique majoré.
++ Anti-hypertenseurs alphabloquants : Majoration de l’effet hypotenseur. Risque d’hypotension
+orthostatique majoré.
++ Médicaments à l’origine d’une hypotension orthostatique : Outre les antihypertenseurs, de
+nombreux médicaments peuvent entraîner une hypotension orthostatique. C’est le cas notamment
+des dérivés nitrés, des inhibiteurs de la phosphodiestérase de type 5, des alpha-bloquants à visée
+urologique, des antidépresseurs imipraminiques et des neuroleptiques phénothiaziniques, des
+agonistes dopaminergiques, de la lévodopa, du baclofène, de l’amifostine…. Risque de majoration
+d’une hypotension, notamment orthostatique.
++ Calcium : Risque d'hypercalcémie par diminution de l'élimination urinaire du calcium.
++ Ciclosporine : Risque d’augmentation de la créatininémie sans modification des concentrations
+sanguines de ciclosporine, même en l’absence de déplétion hydrosodée. Egalement risque
+d’hyperuricémie et de complications comme la goutte.
++ Dérivés nitrés et apparentés : Majoration du risque d’hypotension, notamment orthostatique.
+4.6. Fertilité, grossesse et allaitement
+Grossesse
+Les données concernant l’utilisation de l’hydrochlorothiazide pendant la grossesse sont limitées
+spécialement pendant le premier trimestre. Les études chez les animaux sont insuffisantes.
+L’hydrochlorothiazide traverse la barrière placentaire. Sur la base du mécanisme d’action
+pharmacologique de l’hydrochlorothiazide, son utilisation pendant le deuxième et le troisième
+trimestre de grossesse peut diminuer la perfusion fœto-placentaire et entraîner des effets fœtaux et
+néonataux tels qu’ictère, déséquilibres électrolytiques et thrombopénie.
+L’hydrochlorothiazide ne doit pas être utilisé en cas d’œdème gestationnel, d’hypertension
+gestationnelle ou de pré-éclampsie en raison du risque de diminution du volume plasmatique et
+d’hypo perfusion placentaire, sans effet bénéfique sur l’évolution de la maladie.
+L’hydrochlorothiazide ne doit pas être utilisé dans le traitement de l’hypertension essentielle chez les
+femmes enceintes, sauf dans de rares cas où aucun autre traitement ne peut être utilisé.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 9 of 16
+
+--- Page 10 ---
+Allaitement
+L’hydrochlorothiazide est excrété dans le lait maternel en faible quantité. Les diurétiques thiazidiques
+à fortes doses provoquant une diurèse importante peuvent inhiber la lactation. L’utilisation de
+l’hydrochlorothiazide pendant l’allaitement n’est pas recommandée. Si l’hydrochlorothiazide est utilisé
+pendant l’allaitement, les doses administrées doivent rester les plus faibles possible.
+Fertilité
+Il n’existe pas de données sur l’effet de l’hydrochlorothiazide sur la fertilité chez l’homme. Dans les
+études réalisées chez l’animal, l'hydrochlorothiazide n’a aucun effet sur la fertilité ni sur la conception
+(voir rubrique 5.3).
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+HYDROCHLOROTHIAZIDE ARROW a une influence mineure ou modérée sur l’aptitude à conduire
+des véhicules et à utiliser des machines. Il faut en tenir compte plus particulièrement à l’initiation du
+traitement, en cas de diminution de la posologie, si le médicament est remplacé ou s’il est pris en
+même temps que de l’alcool.
+4.8. Effets indésirables
+Les évènements indésirables (Tableau 1) sont classés par fréquence, en commençant par les plus
+fréquents selon la convention suivante : très fréquent (> 1/10) ; fréquent (> 1/100, < 1/10) ; peu
+fréquent (> 1/1 000, < 1/100) ; rare (> 1/10 000, < 1/1 000) ; très rare (< 1/10 000) et fréquence
+indéterminée (ne peut être estimée sur la base des données disponible).
+Fréquence Effets indésirables
+Tumeurs bénignes, malignes et non précisées (y compris kystes et polypes)
+Fréquence indéterminée Cancer de la peau non mélanome (carcinome basocellulaire et carcinome
+épidermoïde)
+Affections hématologiques et du système lymphatique
+Rare Thrombocytopénie (parfois avec purpura)
+Très rare Insuffisance médullaire, anémie hémolytique, leucopénie, agranulocytose
+Fréquence indéterminée Aplasie médullaire
+Affections du système immunitaire
+Très rare Réaction d’hypersensibilité
+Troubles du métabolisme et de la nutrition
+Très fréquent Hypokaliémie, hyperlipidémie
+Fréquent Hyperuricémie, hypomagnésémie, hyponatrémie
+Rare Hypercalcémie, hyperglycémie, glycosurie, aggravation du diabète
+métabolique
+Très rare Alcalose hypochlorémique
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 10 of 16
+
+--- Page 11 ---
+Fréquence Effets indésirables
+Affections psychiatriques
+Rare Dépression, troubles du sommeil
+Affections du système nerveux
+Rare Céphalées, vertiges, paresthésies
+Affections oculaires
+Rare Troubles visuels
+Fréquence indéterminée Glaucome aigu à angle fermé, épanchement choroïdien
+Affections cardiaques
+Rare Arythmies
+Affections vasculaires
+Fréquent Hypotension orthostatique
+Affections respiratoires, thoraciques et médiastinales
+Très rare Détresse respiratoire (incluant pneumonie et œdème pulmonaire)
+Affections gastro-intestinales
+Fréquent Diarrhée, perte d’appétit, nausées et vomissements
+Rare Inconfort abdominal, constipation
+Très rare Pancréatite
+Affections hépatobiliaires
+Rare Cholestase intrahépatique, ictère
+Affections de la peau et du tissu sous-cutané
+Fréquent Urticaire et autres formes d’éruptions cutanées
+Rare Réaction de photosensibilité
+Très rare Réaction de type lupus érythémateux, réactivation d’un lupus
+érythémateux, vascularite nécrosante et nécrolyse épidermique toxique
+Fréquence indéterminée Erythème polymorphe
+Affections musculo-squelettiques et systémiques
+Fréquence indéterminée Spasmes musculaires
+Affections du rein et des voies urinaires
+Peu fréquent Insuffisance rénale aiguë
+Fréquence indéterminée Trouble de la fonction rénale
+Affections des organes de la reproduction et du sein
+Fréquent Impuissance
+Troubles généraux et anomalies au site d’administration
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 11 of 16
+
+--- Page 12 ---
+Fréquence Effets indésirables
+Fréquence indéterminée Asthénie, fièvre
+Description de certains effets indésirables : Cancer de la peau non mélanome : d'après les
+données disponibles provenant d'études épidémiologiques, une association cumulative dose-
+dépendante entre l’HCTZ et le CPNM a été observée (voir aussi rubriques 4.4 et 5.1).
+Déclaration des effets indésirables suspectés
+La déclaration des effets indésirables suspectés après autorisation du médicament est importante.
+Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels
+de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence
+nationale de sécurité du médicament et des produits de santé (ANSM) et réseau des Centres
+Régionaux de Pharmacovigilance - Site internet : www.signalement-sante.gouv.fr.
+4.9. Surdosage
+Symptômes
+Les symptômes de surdosage aigu et chronique dépendent de l’ampleur des pertes en liquide et en
+électrolytes.
+Dans les cas de perte de liquide et d’électrolytes importantes, le surdosage peut se manifester par
+les signes suivants : soif, faiblesse, vertiges, vomissements, douleurs musculaires et crampes
+musculaires (comme des crampes de mollet), maux de tête, tachycardie, hypotension et hypotension
+orthostatique. La déshydratation et l'hypovolémie peuvent entraîner une hémoconcentration, des
+convulsions, une léthargie, une confusion, un collapsus et une insuffisance rénale aiguë. Des
+troubles électrolytiques avec arythmies peuvent survenir.
+L'hypokaliémie peut entraîner fatigue, faiblesse musculaire, paresthésie, parésie, apathie,
+météorisme, constipation ou arythmies. Une perte sévère de potassium peut entraîner un iléus
+paralytique ou une perte de conscience et un coma hypokaliémique.
+Prise en charge
+Dès les premiers signes de surdosage, le traitement par hydrochlorothiazide doit être immédiatement
+arrêté. Dans le cas d’un surdosage de survenue récente, on peut tenter de réduire l’absorption
+systémique de l’hydrochlorothiazide par élimination primaire du médicament (vomissements
+provoqués, lavage gastrique) ou en réduisant la résorption (charbon activé).
+Les signes vitaux doivent être surveillés. En outre, l’équilibre hydro-électrolytique, le métabolisme
+acido-basique ainsi que la glycémie doivent être vérifiés régulièrement. Une analyse d'urine clinique
+doit être effectuée. Les écarts par rapport aux valeurs normales doivent être corrigés.
+Mesures thérapeutiques
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 12 of 16
+
+--- Page 13 ---
+en cas d'hypovolémie : substitution de volume ;
+en cas d'hypokaliémie : substitution de potassium ;
+en cas d'effondrement : position de Trendelenburg, traitement de choc, si nécessaire.
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Classe pharmacothérapeutique : diurétiques du segment cortical de dilution, code ATC :
+C03AA03
+Mécanisme d’action
+L’hydrochlorothiazide est un diurétique benzothiazidique. Les diurétiques thiazidiques agissent
+principalement au niveau du tubule distal du rein (partie initiale du tube contourné) en inhibant la
+réabsorption du chlorure de sodium (par blocage du co-transporteur NaCl).
+L’augmentation de libération de Na+ et d’eau dans le tube collecteur cortical et/ou l’augmentation du
+débit entrainent une augmentation de sécrétion et d’excrétion de K+ et H+. L’inhibition de la
+réabsorption de NaCl entraine également une stimulation indirecte de la réabsorption du Ca2+.
+Les effets diurétiques et natriurétiques apparaissent dans les 1 à 2 heures suivant l’administration
+orale d’hydrochlorothiazide. Cette activité est maximale au bout de 4 à 6 heures et pourrait persister
+pendant 10 à 12 heures.
+La diurèse induite par les diurétiques thiazidiques entraine d’abord une baisse du volume
+plasmatique, du débit cardiaque, et de la pression artérielle systémique. Le système rénine-
+angiotensine-aldostérone peut être activé. Lors d’une administration continue, l’effet hypotenseur est
+maintenu, probablement en raison de la baisse de résistance vasculaire périphérique ; le débit
+cardiaque revient à des valeurs enregistrées avant traitement, le volume plasmatique reste parfois
+réduit et l’activité de la rénine plasmatique peut être augmentée.
+L’hydrochlorothiazide n’est pas efficace chez les patients atteints d’insuffisance rénale chronique
+(clairance à la créatinine < 30 ml/min et/ou une créatinine sérique > 1,8 mg/100 ml).
+Hypertension
+Lors de l’administration chronique, l’effet anti-hypertenseur de l’hydrochlorothiazide est dose
+dépendant chez la plupart des patients, pour des doses allant de 12,5 mg/jour jusqu’à 50-75 mg/jour.
+L’effet thérapeutique des diurétiques thiazidiques reste en plateau au-delà d’une certaine dose,
+tandis que les effets indésirables continuent d’augmenter : en cas d’inefficacité du traitement, il n’est
+pas utile, et souvent mal toléré, d’augmenter les doses au-delà des posologies recommandées (voir
+rubrique 4.2).
+Chez les patients présentant un diabète insipide néphrogénique, l’hydrochlorothiazide diminue le
+volume urinaire et augmente l’osmolalité urinaire.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 13 of 16
+
+--- Page 14 ---
+Cancer de la peau non mélanome
+D'après les données disponibles provenant d'études épidémiologiques, une association cumulative
+dose-dépendante entre l’HCTZ et le CPNM a été observée. Une étude comprenait une population
+composée de 71 533 cas de CB et de 8 629 cas de CE appariés à 1 430 833 et 172 462 témoins de
+la population, respectivement. Une utilisation élevée d’HCTZ (dose cumulative ≥ 50 000 mg) a été
+associée à un odds ratio (OR) ajusté de 1,29 (intervalle de confiance de 95 % : 1,23-1,35) pour le CB
+et de 3,98 (intervalle de confiance de 95 % : 3,68-4,31) pour le CE. Une relation claire entre la
+relation dose-réponse cumulative a été observée pour le CB et le CE.
+Une autre étude a montré une association possible entre le cancer des lèvres (CE) et l'exposition à
+l’HCTZ : 633 cas de cancer des lèvres ont été appariés à 63 067 témoins de la population, à l'aide
+d'une stratégie d'échantillonnage axée sur les risques. Une relation dose-réponse cumulative a été
+démontrée avec un OR ajusté de 2,1 (intervalle de confiance de 95 % : 1,7-2,6) allant jusqu'à un OR
+de 3,9 (3,0-4,9) pour une utilisation élevée (~25 000 mg) et un OR de 7,7 (5,7-10,5) pour la dose
+cumulative la plus élevée (~100 000 mg) (voir aussi rubrique 4.4).
+5.2. Propriétés pharmacocinétiques
+Absorption
+Après administration d’une dose orale, l’hydrochlorothiazide est absorbé rapidement (Tmax d’environ
+2 heures). L’augmentation de l’ASC moyenne est linéaire et dose-proportionnelle dans l’intervalle
+thérapeutique. L’effet de la prise de nourriture sur l’absorption de l’hydrochlorothiazide a peu de
+répercussion clinique. Après administration orale, la biodisponibilité absolue de l’hydrochlorothiazide
+est de 70 %. Chez les patients présentant une insuffisance cardiaque congestive, l’absorption
+d’hydrochlorothiazide est diminuée. L’administration en continu ne modifie pas le métabolisme de
+l’hydrochlorothiazide. Après 3 mois de traitement par une dose journalière de 50 mg
+d’hydrochlorothiazide, l’absorption, l’élimination ou l’excrétion sont similaires à celles observées lors
+des traitements de courte durée.
+Distribution
+L’hydrochlorothiazide s’accumule dans les érythrocytes, atteignant sa concentration maximale 4
+heures après l’administration par voie orale. Après 10 heures, la concentration dans les érythrocytes
+est approximativement 3 fois supérieure à celle du plasma. Une liaison aux protéines plasmatiques
+d’environ 40-70 % a été rapportée, et un volume apparent de distribution estimé à 4-8 L/kg. La demi-
+vie est très variable d’un sujet à un autre : elle est comprise entre 6 et 25 heures.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 14 of 16
+
+--- Page 15 ---
+Élimination
+L’hydrochlorothiazide est éliminé du plasma principalement sous forme inchangée avec une demi-vie
+d’environ 6 à 15 h dans la phase terminale d’élimination. En 72 h, 60 à 80 % d’une dose orale unique
+est excrétée dans les urines, 95 % sous forme inchangée, et 4 % sous forme d’hydrolysat 2-amino-4-
+chloro-m-benzenedisulfonamide (ABCS). Jusqu’à 24 % de la dose orale est retrouvé dans les fèces
+et une quantité négligeable est excrétée dans la bile. Chez les insuffisants rénaux et cardiaques, la
+clairance rénale de l’hydrochlorothiazide est diminuée, et la demi-vie d’élimination augmentée. Il en
+est de même chez les sujets âgés, avec en outre une augmentation de la concentration plasmatique
+maximale.
+5.3. Données de sécurité préclinique
+Bien que certains modèles expérimentaux aient mis en évidence de manière équivoque un effet
+génotoxique ou cancérigène, l’expérience étendue de l’hydrochlorothiazide chez l’homme n’a pas
+montré de lien entre son utilisation et une augmentation du nombre de néoplasmes.
+L'hydrochlorothiazide n’a pas montré d’effets tératogènes et n'a eu aucun effet sur la fertilité et la
+conception des souris et des rats.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Lactose monohydraté, hydrogénophosphate de calcium dihydraté, amidon de maïs prégélatinisé,
+amidon de maïs, silice colloïdale anhydre, stéarate de magnésium.
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans.
+6.4. Précautions particulières de conservation
+Ce médicament ne nécessite pas de précautions particulières de conservation.
+Plaquettes : conserver la plaquette dans l’étui, à l'abri de la lumière.
+Flacons : conserver dans l’emballage d’origine, à l'abri de la lumière.
+6.5. Nature et contenu de l'emballage extérieur
+HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable est commercialisé en plaquettes
+PVC/Aluminium et en flacons ronds, opaques et blancs en PEHD (polyéthylène de haute densité)
+fermés par un bouchon à vis blanc et opaque en polypropylène. Chaque flacon en PEHD contient un
+dessiccant (gel de silice).
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 15 of 16
+
+--- Page 16 ---
+Plaquettes : boîte de 20, 30, 40, 50, 60, 90 et 100 comprimés.
+Flacons PEHD de 500 comprimés.
+Toutes les présentations peuvent ne pas être commercialisées.
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d’exigences particulières. Tout médicament non utilisé ou déchet doit être éliminé conformément
+à la réglementation en vigueur.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+ARROW GENERIQUES
+26 AVENUE TONY GARNIER
+69007 LYON
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+34009 301 800 4 4 : 30 comprimés sous plaquettes (PVC/Aluminium).
+34009 301 800 5 1 : 90 comprimés sous plaquettes (PVC/Aluminium).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+[à compléter ultérieurement par le titulaire]
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter ultérieurement par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste II.
+RCP — HYDROCHLOROTHIAZIDE ARROW 25 mg, comprimé sécable Page 16 of 16

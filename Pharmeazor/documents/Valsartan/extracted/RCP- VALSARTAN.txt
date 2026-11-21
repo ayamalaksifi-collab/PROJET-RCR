@@ -1,0 +1,624 @@
+--- Page 1 ---
+RÉSUMÉ DES CARACTÉRISTIQUES DU PRODUIT
+ANSM - Mis à jour le : 17/10/2014
+1. DENOMINATION DU MEDICAMENT
+VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable
+2. COMPOSITION QUALITATIVE ET QUANTITATIVE
+Valsartan 160,00 mg
+Pour un comprimé pelliculé sécable.
+Excipient: lactose (84,44 mg par comprimé).
+Pour la liste complète des excipients, voir rubrique 6.1.
+3. FORME PHARMACEUTIQUE
+Comprimé pelliculé sécable.
+4. DONNEES CLINIQUES
+4.1. Indications thérapeutiques
+Hypertension
+Traitement de l'hypertension artérielle essentielle.
+Post-infarctus du myocarde récent
+Traitement des patients cliniquement stables présentant une insuffisance cardiaque symptomatique
+ou une dysfonction systolique ventriculaire gauche asymptomatique post-infarctus du myocarde
+récent (entre 12 heures et 10 jours) (voir rubriques 4.4 et 5.1).
+Insuffisance cardiaque
+Traitement de l'insuffisance cardiaque symptomatique lorsque les inhibiteurs de l'enzyme de
+conversion (IEC) ne peuvent pas être utilisés ou en association aux IEC lorsque les bêtabloquants ne
+peuvent pas être utilisés (voir rubriques 4.4 et 5.1).
+4.2. Posologie et mode d'administration
+Posologie
+Hypertension
+La posologie initiale recommandée de VALSARTAN ARROW GENERIQUES est de 80 mg une fois
+par jour. L'effet antihypertenseur est nettement perceptible en l'espace de 2 semaines, et l'effet
+maximal est atteint en 4 semaines. Chez certains patients dont la pression artérielle n'est pas
+suffisamment contrôlée, il est possible d'augmenter la posologie à 160 mg et jusqu'à un maximum de
+320 mg.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 1 of 17
+
+--- Page 2 ---
+VALSARTAN ARROW GENERIQUES peut également être administré avec d'autres
+antihypertenseurs. L'association d'un diurétique tel que l'hydrochlorothiazide diminuera encore
+davantage la pression artérielle chez ces patients.
+Post-infarctus du myocarde récent
+Chez les patients cliniquement stables, le traitement peut être débuté dès la douzième heure après un
+infarctus du myocarde. La posologie initiale est de 20 mg deux fois par jour. Le traitement par
+valsartan sera ensuite augmenté à 40 mg, 80 mg puis 160 mg deux fois par jour au cours des
+semaines suivantes. La dose initiale est fournie par le comprimé sécable à 40 mg.
+La dose maximale cible est de 160 mg deux fois par jour. En règle générale, il est recommandé que les
+patients atteignent une dose de 80 mg deux fois par jour dans les deux semaines qui suivent le début
+du traitement, et que la dose maximale cible de 160 mg deux fois par jour, soit atteinte dans un délai
+de trois mois, en fonction de la tolérance du patient. En cas de survenue d'un épisode d'hypotension
+artérielle symptomatique ou de dysfonctionnement rénal, une diminution de la posologie sera
+envisagée.
+Le valsartan peut être utilisé avec d'autres traitements du post-infarctus du myocarde, par exemple
+les agents thrombolytiques, l'acide acétylsalicylique, les bêtabloquants, les statines et les diurétiques.
+L'association avec les inhibiteurs de l'enzyme de conversion (IEC) n'est pas recommandée (voir
+rubriques 4.1 et 5.1).
+L'évaluation des patients après un infarctus du myocarde doit toujours comporter une exploration de
+leur fonction rénale.
+Insuffisance cardiaque
+La posologie initiale recommandée de VALSARTAN ARROW GENERIQUES est de 40 mg deux fois
+par jour. La dose sera augmentée à 80 mg puis 160 mg deux fois par jour, par paliers d'au moins deux
+semaines, en fonction de la tolérance du patient. Une réduction de la dose de diurétiques administrés
+simultanément doit être envisagée. La posologie quotidienne maximale administrée au cours des
+essais cliniques est de 320 mg en doses fractionnées.
+Le valsartan peut être utilisé avec d'autres traitements de l'insuffisance cardiaque. Toutefois, la triple
+association d'un IEC, d'un bêtabloquant et de valsartan est déconseillée (voir rubriques 4.4 et 5.1).
+L'évaluation des patients ayant une insuffisance cardiaque doit toujours comporter une exploration
+de leur fonction rénale.
+Mode d'administration
+VALSARTAN ARROW GENERIQUES peut être pris en dehors des repas et doit être administré avec
+de l'eau.
+Informations supplémentaires concernant les populations particulières.
+Sujets âgés
+Aucune adaptation posologique n'est nécessaire chez le sujet âgé.
+Insuffisance rénale
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 2 of 17
+
+--- Page 3 ---
+Aucune adaptation posologique n'est nécessaire chez les patients dont la clairance de la créatinine est
+> 10 ml/min (voir rubriques 4.4 et 5.2).
+Insuffisance hépatique
+La posologie ne doit pas dépasser 80 mg chez les patients atteints d'insuffisance hépatique légère à
+modérée sans cholestase. VALSARTAN ARROW GENERIQUES est contre-indiqué chez les patients
+atteints d'insuffisance hépatique sévère et les patients atteints de cholestase (voir rubriques 4.3, 4.4 et
+5.2).
+Patients pédiatriques
+VALSARTAN ARROW GENERIQUES n'est pas recommandé chez les enfants de moins de 18 ans
+compte tenu de l'absence de données concernant la sécurité et l'efficacité.
+4.3. Contre-indications
+Hypersensibilité à la substance active ou à l'un des excipients.
+Insuffisance hépatique sévère, cirrhose biliaire et cholestase.
+Deuxième et troisième trimestres de grossesse (voir rubriques 4.4 et 4.6).
+4.4. Mises en garde spéciales et précautions d'emploi
+Hyperkaliémie
+L'administration concomitante de suppléments potassiques, de diurétiques épargneurs de potassium,
+de substituts du sel contenant du potassium ou d'autres agents pouvant augmenter les taux de
+potassium (héparine, etc.) est déconseillée. Un contrôle du potassium doit être mis en œuvre le cas
+échéant.
+Déplétion sodée et/ou volumique
+Dans de rares cas, une hypotension artérielle symptomatique peut survenir après l'instauration du
+traitement par VALSARTAN chez les patients présentant une déplétion sodée et/ou volumique sévère
+(par ex. chez les patients recevant des doses élevées de diurétiques). Un déficit sodé et/ou volumique
+doit être corrigé avant le début d'un traitement par VALSARTAN, en réduisant par exemple la dose de
+diurétiques.
+Sténose de l'artère rénale
+L'innocuité de VALSARTAN n'a pas été établie chez les patients présentant une sténose bilatérale des
+artères rénales ou une sténose de l'artère rénale sur rein unique.
+L'administration à court terme de VALSARTAN à douze patients présentant une hypertension
+rénovasculaire secondaire à une sténose unilatérale de l'artère rénale n'a pas entraîné de modification
+significative de l'hémodynamique rénale, de la créatinine sérique ou de l'urée plasmatique.
+Cependant, d'autres médicaments agissant sur le système rénine-angiotensine sont susceptibles de
+provoquer une augmentation de l'urée sanguine et la créatinine sérique chez les patients présentant
+une sténose unilatérale de l'artère rénale. Un suivi de la fonction rénale est donc recommandé chez
+les patients traités par valsartan.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 3 of 17
+
+--- Page 4 ---
+Transplantation rénale
+Il n'y a actuellement pas d'expérience sur l'innocuité de VALSARTAN chez les patients ayant
+récemment subi une transplantation rénale.
+Hyperaldostéronisme primaire
+Les patients présentant un hyperaldostéronisme primaire ne doivent pas être traités par
+VALSARTAN car leur système rénine-angiotensine n'est pas activé.
+Sténose des valves aortique et mitrale, cardiomyopathie hypertrophique obstructive
+Comme avec tous les autres vasodilatateurs, des précautions particulières devront être prises chez les
+patients présentant une sténose aortique ou mitrale ou une cardiomyopathie hypertrophique
+obstructive (CMHO).
+Altération de la fonction rénale
+Aucune adaptation posologique n'est nécessaire chez les patients dont la clairance de la créatinine est
+> 10 ml/min. Il n'y a actuellement pas d'expérience sur l'innocuité de VALSARTAN chez les patients
+dont la clairance de la créatinine est < 10 ml/min et chez les patients dialysés. Le valsartan doit donc
+être utilisé avec prudence chez ces patients (voir rubriques 4.2 et 5.2).
+Insuffisance hépatique
+VALSARTAN doit être utilisé avec prudence chez les patients atteints d'insuffisance hépatique légère
+à modérée sans cholestase (voir rubriques 4.2 et 5.2).
+Grossesse
+Les antagonistes des récepteurs à l'angiotensine II (ARAII) ne doivent pas être débutés au cours de la
+grossesse. A moins que le traitement par ARAII soit considéré comme essentiel, il est recommandé de
+remplacer le traitement chez les patientes qui envisagent une grossesse par un antihypertenseur
+ayant un profil de sécurité établi pendant la grossesse. En cas de diagnostic de grossesse, le
+traitement par ARAII doit être arrêté immédiatement et si nécessaire un traitement alternatif sera
+débuté (voir rubriques 4.3 et 4.6).
+Post-infarctus du myocarde récent
+L'association de captopril et de valsartan n'a pas montré de bénéfice clinique supplémentaire, mais a,
+au contraire, augmenté le risque d'événement indésirable par rapport au traitement par chacun de ces
+traitements individuellement (voir rubriques 4.2 et 5.1). Par conséquent, l'association de valsartan et
+d'un IEC est déconseillée.
+La prudence est de rigueur lors de l'instauration du traitement chez les patients en post-infarctus du
+myocarde. L'évaluation des patients après un infarctus du myocarde doit toujours comporter une
+exploration de leur fonction rénale (voir rubrique 4.2).
+L'utilisation de VALSARTAN chez des patients après un infarctus du myocarde entraîne
+fréquemment une certaine diminution de la pression artérielle. Cependant, un arrêt du traitement
+par VALSARTAN en raison d'une hypotension artérielle symptomatique persistante n'est
+généralement pas nécessaire lorsque les consignes posologiques sont suivies (voir rubrique 4.2).
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 4 of 17
+
+--- Page 5 ---
+Insuffisance cardiaque
+Chez les patients présentant une insuffisance cardiaque, la triple association d'un IEC, d'un
+bêtabloquant et de VALSARTAN n'a pas montré de bénéfice clinique (voir rubrique 5.1). Cette
+association semble augmenter le risque d'événement indésirable. Elle est donc déconseillée.
+La prudence est de rigueur lors de l'instauration du traitement chez les patients atteints d'insuffisance
+cardiaque. L'évaluation des patients ayant une insuffisance cardiaque doit toujours comporter une
+exploration de leur fonction rénale (voir rubrique 4.2).
+L'utilisation de VALSARTAN chez des patients ayant une insuffisance cardiaque entraîne
+fréquemment une certaine diminution de la pression artérielle. Cependant, un arrêt du traitement en
+raison d'une hypotension artérielle symptomatique persistante n'est généralement pas nécessaire
+lorsque les consignes posologiques sont suivies (voir rubrique 4.2).
+Chez les patients dont la fonction rénale dépend de l'activité du système rénine-angiotensine (ex.
+patients atteints d'insuffisance cardiaque congestive sévère), le traitement par un inhibiteur de
+l'enzyme de conversion de l'angiotensine a été associé à une oligurie et/ou une azotémie progressive
+et, dans de rares cas, à une insuffisance rénale aiguë et/ou au décès. Le valsartan étant un antagoniste
+de l'angiotensine II, on ne peut pas exclure que l'utilisation de VALSARTAN soit associée à une
+altération de la fonction rénale.
+Ce médicament contient du lactose. Son utilisation est déconseillée chez les patients présentant une
+intolérance au galactose, un déficit en lactase de Lapp ou un syndrome de malabsorption du glucose
+ou du galactose (maladies héréditaires rares).
+4.5. Interactions avec d'autres médicaments et autres formes d'interactions
+Associations déconseillées
++ Lithium
+Des augmentations réversibles des concentrations sériques de lithium et de la toxicité ont été
+rapportées lors de l'administration concomitante d'IEC. En raison de l'absence d'expérience sur
+l'administration concomitante de valsartan et de lithium, cette association est déconseillée. Si cette
+association est nécessaire, une surveillance stricte de la lithémie est recommandée.
++ Diurétiques épargneurs de potassium, suppléments potassiques, substituts du sel
+contenant du potassium et autres substances pouvant augmenter les taux de
+potassium.
+Une surveillance des concentrations plasmatiques de potassium est recommandée en cas
+d'association jugée nécessaire de valsartan avec un médicament agissant sur les taux de potassium.
+Précaution d'emploi en cas d'utilisation concomitante
++ Anti-inflammatoires non stéroïdiens (AINS), y compris les inhibiteurs sélectifs de la
+COX-2, l'acide acétylsalicylique à plus de 3 g/jour et les AINS non sélectifs
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 5 of 17
+
+--- Page 6 ---
+Une atténuation de l'effet antihypertenseur peut survenir en cas d'administration concomitante
+d'antagonistes de l'angiotensine II et d'AINS, cette association peut conduire à une augmentation du
+risque d'altération/aggravation de la fonction rénale et d'augmentation du potassium sérique. Par
+conséquent, il convient de surveiller la fonction rénale en début de traitement et de maintenir un état
+d'hydratation approprié du patient.
++ Autres
+Dans les études d'interaction médicamenteuse avec valsartan, aucune interaction cliniquement
+significative n'a été observée entre le valsartan et l'une des substances suivantes: cimétidine,
+warfarine, furosémide, digoxine, aténolol, indométacine, hydrochlorothiazide, amlodipine,
+glibenclamide.
+4.6. Grossesse et allaitement
+Grossesse
+L'utilisation d'ARAII est déconseillée pendant le 1er trimestre de la grossesse (voir rubrique 4.4).
+L'utilisation des ARAII est contre-indiquée aux 2ème et 3ème trimestres de la grossesse (voir
+rubriques 4.3 et 4.4)
+Les données épidémiologiques disponibles concernant le risque de malformation après exposition
+aux IEC au 1er trimestre de la grossesse ne permettent pas de conclure. Cependant une petite
+augmentation du risque de malformations congénitales ne peut être exclue. Il n'existe pas d'études
+épidémiologiques disponibles concernant l'utilisation des ARAII au 1er trimestre de la grossesse,
+cependant un risque similaire à celui des IEC pourrait exister pour cette classe. A moins que le
+traitement par ARAII ne soit considéré comme essentiel, il est recommandé chez les patientes qui
+envisagent une grossesse de modifier le traitement antihypertenseur pour un médicament ayant un
+profil de sécurité établi pendant la grossesse. En cas de diagnostic de grossesse, le traitement par
+ARAII doit être arrêté immédiatement et si nécessaire un traitement alternatif sera débuté.
+L'exposition aux ARAII au cours des 2ème et 3ème trimestres de la grossesse est connue pour
+entraîner une fœtotoxicité (diminution de la fonction rénale, oligohydramnios, retard d'ossification
+des os du crâne) et une toxicité chez le nouveau-né (insuffisance rénale, hypotension, hyperkaliémie)
+(voir rubrique 5.3). En cas d'exposition à partir du 2ème trimestre de la grossesse, il est recommandé
+de faire une échographie fœtale afin de vérifier la fonction rénale et les os de la voute du crâne. Les
+nouveau-nés de mère traitée par ARAII doivent être surveillés sur le plan tensionnel (voir rubriques
+4.3 et 4.4).
+Allaitement
+En raison de l'absence d'information disponible sur l'utilisation de VALSARTAN au cours de
+l'allaitement, VALSARTAN ARROW GENERIQUES est déconseillé. Il est préférable d'utiliser d'autres
+traitements ayant un profil de sécurité bien établi pendant l'allaitement, particulièrement chez le
+nouveau-né ou le prématuré.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 6 of 17
+
+--- Page 7 ---
+4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines
+Les effets sur l'aptitude à conduire des véhicules et à utiliser des machines n'ont pas été étudiés. Une
+prudence particulière devra être observée chez les conducteurs de véhicules et les utilisateurs de
+machines, en raison du risque occasionnel de sensation d'étourdissements et de fatigue.
+4.8. Effets indésirables
+Au cours des études cliniques contrôlées chez des patients hypertendus, la fréquence globale des
+événements indésirables (EI) a été comparable entre les groupes traités par le valsartan et ceux traités
+par le placebo et compatible avec la pharmacologie du valsartan. La fréquence des EI n'a pas semblé
+être liée à la dose ou à la durée du traitement et n'a également montré aucune association avec le
+sexe, l'âge ou la race.
+Le tableau ci-dessous regroupe, par classe de système organe, les EI rapportés au cours des études
+cliniques, ceux observés depuis la mise sur le marché ainsi que les résultats biologiques.
+Les événements indésirables sont classés par ordre décroissant de fréquence, selon la convention
+suivante: très fréquent (≥ 1/10); fréquent (≥ 1/100 à< 1/10); peu fréquent (≥ 1/1 000 à< 1/100); rare
+(≥ 1/10 000 à < 1/1 000); très rare (< 1/10 000), y compris des rapports isolés. Au sein de chaque
+groupe de fréquence, les effets indésirables ont été classés par ordre décroissant de gravité.
+Aucune fréquence ne peut être appliquée aux EI rapportés après la mise sur le marché ni aux résultats
+biologiques. Ils sont donc rapportés avec la mention « fréquence inconnue ».
+Hypertension
+Affections hématologiques et du système lymphatique
+Fréquence inconnue Diminution de l'hémoglobine, diminution de l'hématocrite,
+neutropénie, thrombocytopénie
+Affections du système immunitaire
+Fréquence inconnue Hypersensibilité y compris maladie sérique
+Troubles du métabolisme et de la nutrition
+Fréquence inconnue Augmentation du potassium sérique
+Affection de l'oreille et du labyrinthe
+Peu fréquent Vertige
+Affections vasculaires
+Fréquence inconnue Vascularite
+Affections respiratoires, thoraciques et médiastinales
+Peu fréquent Toux
+Affections gastro-intestinales
+Peu fréquent Douleurs abdominales
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 7 of 17
+
+--- Page 8 ---
+Affections hématologiques et du système lymphatique
+Troubles hépato-biliaires
+Fréquence inconnue Elévation des valeurs de la fonction hépatique, y compris
+augmentation de la bilirubine sérique
+Affections de la peau et du tissu sous-cutané
+Fréquence inconnue Angiœdème, éruption cutanée, prurit
+Affections musculo-squelettiques et systémiques
+Fréquence inconnue Myalgie
+Affections du rein et des voies urinaires
+Fréquence inconnue Insuffisance et atteinte rénales, élévation de la créatinine sérique
+Troubles généraux et anomalies au site d'administration
+Peu fréquent Fatigue
+Le profil de la sécurité d'emploi observé lors des études cliniques contrôlées chez les patients ayant eu
+un infarctus du myocarde et/ou présentant une insuffisance cardiaque, diffère du profil de tolérance
+global observé chez les patients hypertendus. Ceci peut être lié à la maladie sous-jacente des patients.
+Le tableau ci-dessous énumère les EI qui se sont manifestés chez les patients ayant eu un infarctus du
+myocarde et/ou présentant une insuffisance cardiaque:
+Post-infarctus du myocarde et/ou insuffisance cardiaque
+Affections hématologiques et du système lymphatique
+Fréquence inconnue Thrombocytopénie
+Affections du système immunitaire
+Fréquence inconnue Hypersensibilité y compris maladie sérique
+Troubles du métabolisme et de la nutrition
+Peu fréquent Hyperkaliémie
+Fréquence inconnue Augmentation du potassium sérique
+Affections du système nerveux
+Fréquent Sensation vertigineuse, sensation vertigineuse orthostatique
+Peu fréquent Syncope, céphalée
+Affection de l'oreille et du labyrinthe
+Peu fréquent Vertige
+Affections cardiaques
+Peu fréquent Insuffisance cardiaque
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 8 of 17
+
+--- Page 9 ---
+Affections hématologiques et du système lymphatique
+Affections vasculaires
+Fréquent Hypotension, hypotension orthostatique
+Fréquence inconnue Vascularite
+Affections respiratoires, thoraciques et médiastinales
+Peu fréquent Toux
+Affections gastro-intestinales
+Peu fréquent Nausée, diarrhée
+Troubles hépato-biliaires
+Fréquence inconnue Elévations des valeurs de la fonction hépatique
+Affections de la peau et du tissu sous-cutané
+Peu fréquent Angiœdème
+Fréquence inconnue Eruption cutanée, prurit
+Affections musculo-squelettiques et systémiques
+Fréquence inconnue Myalgie
+Affections du rein et des voies urinaires
+Fréquent Atteinte et insuffisance rénales
+Peu fréquent Insuffisance rénale aiguë, élévation de la créatinine sérique
+Fréquence inconnue Augmentation de l'urée plasmatique
+Troubles généraux et anomalies au site d'administration
+Peu fréquent Asthénie, fatigue
+4.9. Surdosage
+Symptômes
+Le surdosage avec valsartan peut se manifester par une hypotension importante pouvant aller jusqu'à
+une diminution du niveau de conscience, un collapsus cardio-vasculaire et/ou un état de choc.
+Traitement
+Les mesures thérapeutiques dépendent du moment de l'ingestion et du type et de la sévérité des
+symptômes; la stabilisation de l'état circulatoire est d'importance primordiale.
+En cas d'hypotension, le patient doit être placé en position couchée et une correction de la volémie
+doit être entreprise.
+II est peu probable que le valsartan puisse être éliminé par hémodialyse.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 9 of 17
+
+--- Page 10 ---
+5. PROPRIETES PHARMACOLOGIQUES
+5.1. Propriétés pharmacodynamiques
+Groupe pharmacothérapeutique: Antagonistes de l'angiotensine II, non associés, code ATC:
+C09CA03
+Le valsartan, en administration orale, est un antagoniste puissant et spécifique du récepteur de
+l'angiotensine II. Il inhibe de manière sélective le récepteur AT1, responsable des effets connus de
+l'angiotensine II. L'augmentation des concentrations plasmatiques d'angiotensine II secondaire au
+blocage du récepteur AT1 pourrait stimuler le récepteur AT2 non bloqué, ce qui semble compenser
+l'effet du récepteur AT1. Aucune activité agoniste partielle sur le récepteur AT1 n'a été mise en
+évidence pour le valsartan dont l'affinité pour le récepteur AT1 est beaucoup plus forte (environ 20
+000 fois) que pour le récepteur AT2. Le valsartan ne se lie à aucun autre récepteur hormonal et ne
+bloque aucun canal ionique dont l'importance pour la régulation cardiovasculaire soit connue.
+Le valsartan n'a pas d'action inhibitrice sur l'ECA (également appelée kinase II) qui convertit
+l'angiotensine I en angiotensine II et qui dégrade la bradykinine. Les antagonistes de l'angiotensine II
+ne devraient pas provoquer de toux, dans la mesure où ils n'agissent pas sur l'enzyme de conversion
+et ne potentialisent pas l'action de la bradykinine ou de la substance P. Les études cliniques
+comparant le valsartan et un IEC ont montré que l'incidence d'une toux sèche était significativement
+plus faible (p < 0,05) sous valsartan que sous IEC (2,6 % contre 7,9 % respectivement). Au cours
+d'une étude clinique incluant des patients ayant des antécédents de toux sèche sous IEC, cette toux
+est apparue chez 19,5 % des sujets sous valsartan et chez 19,0 % de ceux sous diurétique thiazidique
+contre 68,5 % de ceux sous IEC (p < 0,05).
+Hypertension
+L'administration de VALSARTAN ARROW GENERIQUES à des patients hypertendus diminue la
+pression artérielle sans toutefois influencer la fréquence cardiaque.
+Chez la plupart des patients, l'effet antihypertenseur se manifeste dans les 2 heures après
+administration d'une dose orale unique, la réduction maximale de la pression artérielle étant obtenue
+dans les 4 à 6 heures. L'effet antihypertenseur persiste pendant 24 heures suivant la prise. Lors de
+l'administration répétée, l'effet antihypertenseur est nettement perceptible en l'espace de 2 semaines,
+et l'effet maximum est atteint en 4 semaines et se maintient lors du traitement à long terme.
+L'association de valsartan et d'hydrochlorothiazide permet d'obtenir une réduction supplémentaire
+significative de la pression artérielle.
+L'interruption subite du traitement avec VALSARTAN ARROW GENERIQUES n'a pas été associée à
+un rebond de l'hypertension ou à d'autres événements cliniques indésirables.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 10 of 17
+
+--- Page 11 ---
+Il a été montré que le valsartan diminuait l'excrétion urinaire d'albumine chez les patients
+hypertendus diabétiques de type 2 ayant une microalbuminurie. L'étude MARVAL (Micro
+Albuminuria Reduction with Valsartan) évaluait la diminution de l'excrétion urinaire d'albumine
+(EUA) sous un traitement par valsartan (80 à 160 mg une fois par jour) en comparaison à
+l'amlodipine (5 à 10 mg une fois par jour), chez 332 patients diabétiques de type 2 (âge moyen: 58
+ans; 265 hommes) présentant une microalbuminurie (valsartan: 58 µg/min; amlodipine: 55,4
+µg/min), hypertendus ou non, avec une fonction rénale préservée (créatininémie < 120 µmol/l). A 24
+semaines, l'EUA était abaissée (p < 0,001) de 42 % (-24,2 µg/min; IC 95 %: -40,4 % à -19,1 %) pour le
+valsartan et d'environ 3 % (-1,7 µg/min; IC 95 %: - 5,6 % à 14,9 %) pour l'amlodipine en dépit d'une
+baisse de pression artérielle similaire dans les deux groupes.
+L'étude DROP (Diovan Reduction of Proteinuria) a examiné plus en détail l'efficacité du valsartan sur
+la réduction de l'EUA chez 391 patients hypertendus (PA = 150/88 mmHg) diabétiques de type 2,
+albuminuriques (moyenne = 102 µg/min; 20-700 µg/min) et dont la fonction rénale était préservée
+(créatininémie moyenne = 80 µmol/l). Les patients ont été randomisés pour recevoir l'une des 3
+doses de valsartan (160, 320 ou 640 mg une fois par jour) et ont été traités pendant 30 semaines.
+L'objectif de cette étude était de déterminer la dose optimale de valsartan afin de réduire l'EUA chez
+les patients hypertendus diabétiques de type 2. A 30 semaines, le pourcentage de variation de l'EUA
+était significativement réduit de 36 % par rapport à l'inclusion sous valsartan 160 mg (IC à 95 %: 22 à
+47 %), et de 44 % sous valsartan 320 mg (IC à 95 %: 31 à 54 %). Il a été conclu que 160 à 320 mg de
+valsartan entraînaient des réductions cliniquement pertinentes de l'EUA chez les patients
+hypertendus diabétiques de type 2.
+Post-infarctus du myocarde récent
+L'étude VALsartan In Acute myocardial iNfarcTion (VALIANT) était une étude internationale,
+contrôlée, randomisée, en double aveugle, réalisée chez 14 703 patients présentant un infarctus aigu
+du myocarde, et des signes cliniques ou radiologiques d'insuffisance cardiaque congestive et/ou de
+signes de dysfonction ventriculaire systolique gauche (se manifestant par une fraction d'éjection ≤ 40
+% à la ventriculographie isotopique ou ≤ 35 % à l'échocardiographie ou à l'angiographie ventriculaire
+de contraste). Les patients étaient randomisés entre 12 heures et 10 jours après l'apparition des
+symptômes d'infarctus du myocarde pour recevoir du valsartan, du captopril ou une association de
+valsartan et de captopril. La durée moyenne du traitement a été de deux ans. Le critère principal
+d'évaluation était le délai avant mortalité, toutes causes confondues.
+Le valsartan a été aussi efficace que le captopril sur la réduction de la « mortalité toutes causes
+confondues » après infarctus du myocarde. Le pourcentage de « mortalité toutes causes confondues »
+a été semblable dans l'ensemble des groupes de traitement: valsartan (19,9 %), captopril (19,5 %), et
+valsartan + captopril (19,3 %). L'association de valsartan et de captopril n'a pas apporté de bénéfice
+supplémentaire par rapport au captopril administré seul. Il n'y a pas eu de différence entre le
+valsartan et le captopril sur la « mortalité toutes causes confondues » sur la base de l'âge, du sexe, de
+l'appartenance ethnique, des traitements initiaux ou de la pathologie sous-jacente. Le valsartan a
+également été efficace sur l'allongement du délai avant mortalité cardiovasculaire, la réduction de la
+mortalité cardiovasculaire, le taux d'hospitalisation pour insuffisance cardiaque, la récidive
+d'infarctus du myocarde, l'arrêt cardiaque ressuscité et l'accident vasculaire cérébral non fatal (critère
+d'évaluation composite secondaire).
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 11 of 17
+
+--- Page 12 ---
+Le profil de tolérance du valsartan correspondait à l'évolution clinique des patients traités dans un
+contexte de post-infarctus du myocarde. En ce qui concerne la fonction rénale, un doublement de la
+créatinine sérique a été observé chez 4,2 % des patients traités par valsartan, chez 4,8 % de ceux
+traités par l'association valsartan + captopril et chez 3,4 % de ceux traités par captopril. On a rapporté
+des arrêts de traitements en raison de différents types de dysfonctionnement rénal chez 1,1 % des
+patients traités par valsartan, 1,3 % de ceux traités par valsartan + captopril et 0,8 % de ceux traités
+par captopril. L'évaluation des patients après un infarctus du myocarde doit comporter une
+exploration de leur fonction rénale.
+Il n'y a pas eu de différence sur la mortalité toutes causes confondues ou sur la mortalité ou la
+morbidité cardiovasculaires lorsque des bêtabloquants ont été administrés concomitamment à
+l'association valsartan-captopril, au valsartan seul ou au captopril seul. Quel que soit le traitement, la
+mortalité a été inférieure dans le groupe de patients traités par un bêtabloquant, ce qui suggère que le
+bénéfice connu des bêtabloquants dans cette population s'est maintenu pendant cette étude.
+Insuffisance cardiaque
+L'étude Val-HeFT était une étude clinique multicentrique, randomisée, contrôlée, comparant l'effet
+du valsartan par rapport à un placebo sur la morbidité et la mortalité chez 5 010 patients souffrant
+d'insuffisance cardiaque de classe II (62 %), III (36 %) ou IV (2 %) selon la classification NYHA,
+recevant les traitements standards et présentant une FEVG < 40 % et un diamètre télédiastolique
+ventriculaire gauche (DTDVG) > 2,9 cm/m2. Les traitements à l'inclusion comportaient des IEC (93
+%), des diurétiques (86 %), de la digoxine (67 %) et des bêtabloquants (36%). La durée moyenne du
+suivi a été de près de deux ans. La dose moyenne quotidienne de VALSARTAN dans l'étude Val-HeFT
+a été de 254 mg. L'étude comportait deux critères principaux d'évaluation: la mortalité toutes causes
+confondues (délai jusqu'au décès) et le critère composite mortalité et morbidité liée à l'insuffisance
+cardiaque (délai avant le premier événement morbide). Ce dernier critère a été défini comme suit:
+décès, mort subite ressuscitée, hospitalisation pour insuffisance cardiaque ou administration d'agents
+inotropiques ou vasodilatateurs pendant quatre heures ou plus, sans hospitalisation.
+Le critère « mortalité toutes causes confondues » a été similaire (p = NS) dans les groupes valsartan
+(19,7 %) et placebo (19,4 %). Le bénéfice primaire a été une réduction de 27,5 % (IC à 95 %: 17 % à 37
+%) du risque de première hospitalisation pour insuffisance cardiaque (13,9 % contre 18,5 %). Les
+résultats semblant favoriser le placebo (critère composite mortalité et morbidité de 21,9 % sous
+placebo contre 25,4 % sous valsartan) ont été observés chez les patients recevant la triple association
+IEC, bêtabloquant et valsartan.
+Les bénéfices sur la morbidité ont été les plus importants dans un sous-groupe de patients (n = 366)
+ne recevant pas d'IEC. Dans ce sous-groupe de patients, on a observé une réduction significative de
+33 % (IC à 95 %: -6 % à 58 %) de la mortalité toutes causes confondues sous valsartan par rapport au
+placebo (17,3 % valsartan contre 27,1 % placebo) ainsi qu'une réduction significative de 44 % du
+critère composite de risque de mortalité et de morbidité (24,9 % valsartan contre 42,5 % placebo).
+Chez les patients recevant un IEC sans bêtabloquant, la mortalité toutes causes confondues a été
+similaire (p = NS) dans les groupes valsartan (21,8 %) et placebo (22,5 %). Le critère composite de
+risque de mortalité et de morbidité a été significativement réduit de 18,3 % (IC à 95 %: 8 % à 28 %)
+sous valsartan par rapport au placebo (31,0 % contre 36,3 %).
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 12 of 17
+
+--- Page 13 ---
+Dans la population globale de l'étude Val-HeFT, les patients traités par valsartan ont eu une
+amélioration significative, par rapport au placebo, de la classe fonctionnelle NYHA, ainsi que des
+signes et symptômes d'insuffisance cardiaque, y compris la dyspnée, la fatigue, l'œdème et les râles.
+Les patients traités par valsartan avaient une meilleure qualité de vie que ceux traités par le placebo
+ainsi que l'attestait la différence entre les scores obtenus au questionnaire de qualité de vie Minnesota
+Living with Heart Failure Quality of Life à l'entrée et à la sortie de l'étude. Par rapport aux patients
+sous placebo, une augmentation significative de la fraction d'éjection et une diminution significative
+du DTDVG entre l'inclusion et la fin de l'étude, ont été observées chez les patients sous valsartan.
+5.2. Propriétés pharmacocinétiques
+Absorption
+Après administration orale de valsartan seul, les pics de concentration plasmatique de valsartan sont
+atteints après 2 à 4 heures. La biodisponibilité absolue moyenne est de 23 %. Les concentrations
+sanguines de valsartan (mesurées par l'AUC) et les pics plasmatiques (Cmax) diminuent
+respectivement d'environ 40 % et 50 % si le valsartan est administré au cours d'un repas, mais les
+taux plasmatiques sont similaires 8 heures après la prise, que le patient ait été à jeun ou non.
+Toutefois, cette réduction de l'AUC n'est pas associée à une diminution cliniquement significative de
+l'effet thérapeutique, c'est pourquoi le valsartan peut être pris pendant ou en dehors des repas.
+Distribution
+Le volume de distribution à l'état d'équilibre du valsartan après administration intraveineuse est
+d'environ 17 litres, ce qui indique qu'il n'y a pas de distribution importante du valsartan dans les
+tissus. La liaison du valsartan aux protéines sériques est forte (94 à 97 %); il se lie principalement à
+l'albumine.
+Métabolisme
+Le valsartan n'est pas largement biotransformé puisque seuls 20 % de la dose sont retrouvés sous
+forme de métabolites. De faibles concentrations plasmatiques d'un métabolite hydroxy ont été
+retrouvées (moins de 10 % de l'AUC du valsartan). Ce métabolite est inactif sur le plan
+pharmacologique.
+Elimination
+Le valsartan se caractérise par une décroissance cinétique multiexponentielle (t1/2α < 1 h et t1/2β
+d'environ 9 heures). L'excrétion du valsartan se fait principalement par voie biliaire dans les fécès
+(environ 83 % de la dose) mais également par voie rénale dans les urines (environ 13 % de la dose),
+essentiellement sous forme inchangée. Après administration intraveineuse, la clairance plasmatique
+du valsartan est d'environ 2 l/h et sa clairance rénale de 0,62 l/h (environ 30 % de la clairance totale).
+La demi-vie du valsartan est de 6 heures.
+Chez les patients insuffisants cardiaques:
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 13 of 17
+
+--- Page 14 ---
+Le délai moyen pour atteindre le pic de concentration plasmatique et la demi-vie d'élimination du
+valsartan chez les patients ayant une insuffisance cardiaque ont été semblables à ceux observés chez
+les volontaires sains. Les valeurs de l'AUC et de la Cmax du valsartan augmentent de manière linéaire
+et sont presque proportionnelles à la dose sur l'éventail des doses cliniques (40 à 160 mg deux fois
+par jour).
+Le rapport d'accumulation moyen est d'environ 1,7. La clairance apparente du valsartan après
+administration orale est d'environ 4,5 L/h. L'âge n'a pas d'influence sur la clairance apparente chez
+les patients ayant une insuffisance cardiaque.
+Populations particulières
+Sujets âgés
+Chez certaines personnes âgées, des concentrations sanguines du valsartan légèrement plus élevées
+que chez des sujets jeunes ont été constatées, sans toutefois que cela ait une signification clinique.
+Altération de la fonction rénale
+On n'a constaté aucune corrélation entre la fonction rénale et les concentrations sanguines du
+valsartan, ce qui est attendu pour une substance dont la clairance rénale ne représente que 30 % de la
+clairance plasmatique totale. Par conséquent, aucune adaptation posologique n'est requise chez les
+patients présentant une atteinte rénale (clairance de la créatinine > 10 ml/min). Il n'y a actuellement
+pas d'expérience sur l'innocuité de VALSARTAN chez les patients dont la clairance de la créatinine est
+< 10 ml/min et chez les patients dialysés. Le valsartan doit donc être utilisé avec prudence chez ces
+patients (voir rubrique 4.2 et 4.4). Du fait de sa forte liaison aux protéines plasmatiques, une
+élimination du valsartan par dialyse est peu probable.
+Insuffisance hépatique
+Environ 70 % de la dose absorbée sont éliminés par voie biliaire, essentiellement sous forme
+inchangée. Le valsartan ne subit pas de biotransformation importante. Un doublement de l'exposition
+(AUC) a été observée chez les patients présentant une insuffisance hépatique légère à modérée par
+rapport aux sujets sains. Cependant, aucune corrélation entre les concentrations plasmatiques de
+valsartan et la gravité du dysfonctionnement hépatique n'a été observée. VALSARTAN n'a pas été
+étudié chez des patients atteints de dysfonctionnement hépatique sévère (voir rubriques 4.2, 4.3 et
+4.4).
+5.3. Données de sécurité préclinique
+Les données non cliniques issues des études conventionnelles de pharmacologie de sécurité,
+toxicologie en administration répétée, génotoxicité, cancérogenèse, et des fonctions de reproduction,
+n'ont pas révélé de risque particulier pour l'homme.
+Chez le rat, des doses toxiques maternelles (600 mg/kg/jour) dans les derniers jours de la gestation et
+de la lactation, ont entraîné une survie et un gain pondéral inférieurs ainsi qu'un retard de
+développement (décollement de l'auricule, ouverture du conduit auditif) chez la progéniture (voir
+rubrique 4.6). Ces doses chez le rat (600 mg/kg/jour) représentent environ 18 fois la dose
+recommandée chez l'homme sur la base de mg/m2 (les calculs supposent une dose orale de 320
+mg/jour et un patient de 60 kg).
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 14 of 17
+
+--- Page 15 ---
+Lors des études non cliniques de sécurité, l'administration chez le rat de fortes doses de valsartan
+(200 à 600 mg/kg de poids corporel) a entraîné une diminution des paramètres relatifs aux globules
+rouges (érythrocytes, hémoglobine, hématocrite) et l'apparition de signes probants d'altération de
+l'hémodynamique rénale (urémie légèrement augmentée, hyperplasie tubulaire rénale et basophilie
+chez les mâles). Ces doses chez le rat (200 à 600 mg/kg/jour) représentent environ 6 à 18 fois la dose
+recommandée chez l'homme sur la base de mg/m2 (les calculs supposent une dose orale de 320
+mg/jour et un patient de 60 kg).
+Des doses identiques chez le ouistiti ont entraîné des altérations similaires mais plus sévères, en
+particulier au niveau rénal, où les altérations ont évolué vers une néphropathie incluant une
+augmentation de l'urée et de la créatinine.
+On a également observé une hypertrophie des cellules juxtaglomérulaires rénales dans les deux
+espèces. On a jugé que toutes ces altérations résultaient de l'activité pharmacologique du valsartan,
+qui produit une hypotension prolongée, particulièrement chez le ouistiti. L'hypertrophie des cellules
+juxtaglomérulaires rénales ne semble pas être pertinente aux doses thérapeutiques de valsartan chez
+l'homme.
+6. DONNEES PHARMACEUTIQUES
+6.1. Liste des excipients
+Lactose monohydraté, cellulose microcristalline, croscarmellose sodique, povidone K29-K32, talc,
+silice colloïdale anhydre, stéarate de magnésium.
+Pelliculage: OPADRY II 85G32408 Jaune (alcool polyvinilique, talc, dioxyde de titane (E171),
+macrogol 3350, lécithine (E322), oxyde de fer rouge (E172), oxyde de fer jaune (E172).
+6.2. Incompatibilités
+Sans objet.
+6.3. Durée de conservation
+3 ans pour le conditionnement sous plaquette thermoformée.
+4 ans pour le conditionnement en flacon.
+6.4. Précautions particulières de conservation
+Pour les plaquettes: A conserver à une température ne dépassant pas 30°C.
+Pour les flacons: Pas de précautions particulières de conservation.
+6.5. Nature et contenu de l'emballage extérieur
+7, 14, 25, 30, 56, 90, 98 ou 280 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+7, 14, 25, 30, 56, 90, 98 ou 280 comprimés pelliculés sécables en flacon (PE).
+Toutes les présentations peuvent ne pas être commercialisées.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 15 of 17
+
+--- Page 16 ---
+6.6. Précautions particulières d’élimination et de manipulation
+Pas d'exigences particulières.
+7. TITULAIRE DE L’AUTORISATION DE MISE SUR LE MARCHE
+ARROW GENERIQUES
+26 AVENUE TONY GARNIER
+69007 LYON
+8. NUMERO(S) D’AUTORISATION DE MISE SUR LE MARCHE
+399 374-0 ou 34009 399 374 0 3: 7 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+399 375-7 ou 34009 399 375 7 1: 14 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+399 376-3 ou 34009 399 376 3 2: 25 comprimés pelliculés sécables sous plaquettes
+thermoformées (PVC/PE/PVDC/Aluminium).
+419 191-3 ou 34009 419 191 3 8: 30 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+399 378-6 ou 34009 399 378 6 1: 56 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+419 193-6 ou 34009 419 193 6 7: 90 comprimés pelliculés sécables sous plaquettes thermoformées
+(PVC/PE/PVDC/Aluminium).
+399 379-2 ou 34009 399 379 2 2: 98 comprimés pelliculés sécables sous plaquettes
+thermoformées (PVC/PE/PVDC/Aluminium).
+576 523-3 ou 34009 576 523 3 3: 280 comprimés pelliculés sécables sous plaquettes
+thermoformées (PVC/PE/PVDC/Aluminium).
+399 380-0 ou 34009 399 380 0 4: 7 comprimés pelliculés sécables en flacon (PE).
+399 381-7 ou 34009 399 381 7 2: 14 comprimés pelliculés sécables en flacon (PE).
+399 382-3 ou 34009 399 382 3 3: 25 comprimés pelliculés sécables en flacon (PE).
+419 194-2 ou 34009 419 194 2 8: 30 comprimés pelliculés sécables en flacon (PE).
+399 384-6 ou 34009 399 384 6 2: 56 comprimés pelliculés sécables en flacon (PE).
+419 195-9 ou 34009 419 195 9 6: 90 comprimés pelliculés sécables en flacon (PE).
+399 385-2 ou 34009 399 385 2 3: 98 comprimés pelliculés sécables en flacon (PE).
+576 525-6 ou 34009 576 525 6 2: 280 comprimés pelliculés sécables en flacon (PE).
+9. DATE DE PREMIERE AUTORISATION/DE RENOUVELLEMENT DE L’AUTORISATION
+[à compléter par le titulaire]
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 16 of 17
+
+--- Page 17 ---
+10. DATE DE MISE A JOUR DU TEXTE
+[à compléter par le titulaire]
+11. DOSIMETRIE
+Sans objet.
+12. INSTRUCTIONS POUR LA PREPARATION DES RADIOPHARMACEUTIQUES
+Sans objet.
+CONDITIONS DE PRESCRIPTION ET DE DELIVRANCE
+Liste I.
+RCP — VALSARTAN ARROW GENERIQUES 160 mg, comprimé pelliculé sécable Page 17 of 17

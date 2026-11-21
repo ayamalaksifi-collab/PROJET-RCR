@@ -1,0 +1,384 @@
+{
+  "created_on": "2026-11-20",
+  "purpose": "Local PDF-to-text extraction report for antihypertensive medicines. Original PDFs remain unchanged.",
+  "records": [
+    {
+      "source_pdf": "Pharmeazor/documents/Amlodipine/raw/amlodipine DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Amlodipine/extracted/amlodipine DailyMed prescribing information.txt",
+      "page_count": 30,
+      "non_empty_page_count": 27,
+      "character_count": 52881,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Amlodipine/raw/amlodipine-RCP.pdf",
+      "output_text": "Pharmeazor/documents/Amlodipine/extracted/amlodipine-RCP.txt",
+      "page_count": 13,
+      "non_empty_page_count": 13,
+      "character_count": 35881,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Amlodipine/raw/Notice patient - AMLODIPINE.pdf",
+      "output_text": "Pharmeazor/documents/Amlodipine/extracted/Notice patient - AMLODIPINE.txt",
+      "page_count": 8,
+      "non_empty_page_count": 8,
+      "character_count": 16430,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Atenolol/raw/ATENOLOLDailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Atenolol/extracted/ATENOLOLDailyMed prescribing information.txt",
+      "page_count": 23,
+      "non_empty_page_count": 23,
+      "character_count": 46368,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Atenolol/raw/Notice Patient - ATENOLOL MYLAN 50 mg.pdf",
+      "output_text": "Pharmeazor/documents/Atenolol/extracted/Notice Patient - ATENOLOL MYLAN 50 mg.txt",
+      "page_count": 7,
+      "non_empty_page_count": 7,
+      "character_count": 13536,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Atenolol/raw/Résumé des Caractéristiques du Produit - ATENOLOL ACCORD HEALTHCARE 50 mg.pdf",
+      "output_text": "Pharmeazor/documents/Atenolol/extracted/Résumé des Caractéristiques du Produit - ATENOLOL ACCORD HEALTHCARE 50 mg.txt",
+      "page_count": 12,
+      "non_empty_page_count": 12,
+      "character_count": 25279,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Bisoprolol/raw/BISOPROLOLDailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Bisoprolol/extracted/BISOPROLOLDailyMed prescribing information.txt",
+      "page_count": 17,
+      "non_empty_page_count": 16,
+      "character_count": 31073,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Bisoprolol/raw/Notice Patient - BISOPROLOL .pdf",
+      "output_text": "Pharmeazor/documents/Bisoprolol/extracted/Notice Patient - BISOPROLOL .txt",
+      "page_count": 8,
+      "non_empty_page_count": 8,
+      "character_count": 18067,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Bisoprolol/raw/RCP - BISOPROLOL EG 2,5 mg.pdf",
+      "output_text": "Pharmeazor/documents/Bisoprolol/extracted/RCP - BISOPROLOL EG 2,5 mg.txt",
+      "page_count": 13,
+      "non_empty_page_count": 13,
+      "character_count": 29208,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Enalapril/raw/Enalapril DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Enalapril/extracted/Enalapril DailyMed prescribing information.txt",
+      "page_count": 29,
+      "non_empty_page_count": 29,
+      "character_count": 60658,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Enalapril/raw/Notice Patient - ENALAPRIL.pdf",
+      "output_text": "Pharmeazor/documents/Enalapril/extracted/Notice Patient - ENALAPRIL.txt",
+      "page_count": 2,
+      "non_empty_page_count": 2,
+      "character_count": 4343,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Enalapril/raw/RCP- ENALAPRIL.pdf",
+      "output_text": "Pharmeazor/documents/Enalapril/extracted/RCP- ENALAPRIL.txt",
+      "page_count": 3,
+      "non_empty_page_count": 3,
+      "character_count": 6089,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/hydrochlorothiazide/raw/HYDROCHLOROTHIAZIDEDailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/hydrochlorothiazide/extracted/HYDROCHLOROTHIAZIDEDailyMed prescribing information.txt",
+      "page_count": 9,
+      "non_empty_page_count": 9,
+      "character_count": 18979,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/hydrochlorothiazide/raw/Notice Patient - HYDROCHLOROTHIAZIDE ARROW 25 mg.pdf",
+      "output_text": "Pharmeazor/documents/hydrochlorothiazide/extracted/Notice Patient - HYDROCHLOROTHIAZIDE ARROW 25 mg.txt",
+      "page_count": 9,
+      "non_empty_page_count": 9,
+      "character_count": 21692,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/hydrochlorothiazide/raw/RCP - HYDROCHLOROTHIAZIDE ARROW 25 mg.pdf",
+      "output_text": "Pharmeazor/documents/hydrochlorothiazide/extracted/RCP - HYDROCHLOROTHIAZIDE ARROW 25 mg.txt",
+      "page_count": 16,
+      "non_empty_page_count": 16,
+      "character_count": 38718,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Indapamide/raw/INDAPAMIDEDailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Indapamide/extracted/INDAPAMIDEDailyMed prescribing information.txt",
+      "page_count": 13,
+      "non_empty_page_count": 13,
+      "character_count": 27385,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Indapamide/raw/Notice patient-INDAPAMIDE.pdf",
+      "output_text": "Pharmeazor/documents/Indapamide/extracted/Notice patient-INDAPAMIDE.txt",
+      "page_count": 9,
+      "non_empty_page_count": 9,
+      "character_count": 18912,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Indapamide/raw/RCP-INDAPAMIDE.pdf",
+      "output_text": "Pharmeazor/documents/Indapamide/extracted/RCP-INDAPAMIDE.txt",
+      "page_count": 11,
+      "non_empty_page_count": 11,
+      "character_count": 21650,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Losartan/raw/losartan DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Losartan/extracted/losartan DailyMed prescribing information.txt",
+      "page_count": 29,
+      "non_empty_page_count": 29,
+      "character_count": 69793,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Losartan/raw/Notice patient - LOSARTAN.pdf",
+      "output_text": "Pharmeazor/documents/Losartan/extracted/Notice patient - LOSARTAN.txt",
+      "page_count": 10,
+      "non_empty_page_count": 10,
+      "character_count": 23391,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Losartan/raw/RCP- LOSARTAN.pdf",
+      "output_text": "Pharmeazor/documents/Losartan/extracted/RCP- LOSARTAN.txt",
+      "page_count": 18,
+      "non_empty_page_count": 18,
+      "character_count": 46817,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Methyldopa/raw/METHYLDOPA DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Methyldopa/extracted/METHYLDOPA DailyMed prescribing information.txt",
+      "page_count": 13,
+      "non_empty_page_count": 13,
+      "character_count": 25597,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Methyldopa/raw/Notice patient - ALDOMET 250 mg.pdf",
+      "output_text": "Pharmeazor/documents/Methyldopa/extracted/Notice patient - ALDOMET 250 mg.txt",
+      "page_count": 6,
+      "non_empty_page_count": 6,
+      "character_count": 10579,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Methyldopa/raw/Résumé des Caractéristiques du Produit - ALDOMET 500 mg.pdf",
+      "output_text": "Pharmeazor/documents/Methyldopa/extracted/Résumé des Caractéristiques du Produit - ALDOMET 500 mg.txt",
+      "page_count": 8,
+      "non_empty_page_count": 8,
+      "character_count": 17122,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nebivolol/raw/NEBIVOLOLDailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Nebivolol/extracted/NEBIVOLOLDailyMed prescribing information.txt",
+      "page_count": 27,
+      "non_empty_page_count": 27,
+      "character_count": 56278,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nebivolol/raw/Notice Patient - NEBIVOLOL CRISTERS 5 mg.pdf",
+      "output_text": "Pharmeazor/documents/Nebivolol/extracted/Notice Patient - NEBIVOLOL CRISTERS 5 mg.txt",
+      "page_count": 8,
+      "non_empty_page_count": 8,
+      "character_count": 19200,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nebivolol/raw/Résumé des Caractéristiques du Produit - NEBIVOLOL BIOGARAN 5 mg.pdf",
+      "output_text": "Pharmeazor/documents/Nebivolol/extracted/Résumé des Caractéristiques du Produit - NEBIVOLOL BIOGARAN 5 mg.txt",
+      "page_count": 14,
+      "non_empty_page_count": 14,
+      "character_count": 32068,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nifedipine/raw/nifedipine DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Nifedipine/extracted/nifedipine DailyMed prescribing information.txt",
+      "page_count": 24,
+      "non_empty_page_count": 24,
+      "character_count": 52875,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nifedipine/raw/nifédipine-RCP.pdf",
+      "output_text": "Pharmeazor/documents/Nifedipine/extracted/nifédipine-RCP.txt",
+      "page_count": 12,
+      "non_empty_page_count": 12,
+      "character_count": 21831,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Nifedipine/raw/Notice patient - NIFEDIPINE.pdf",
+      "output_text": "Pharmeazor/documents/Nifedipine/extracted/Notice patient - NIFEDIPINE.txt",
+      "page_count": 8,
+      "non_empty_page_count": 8,
+      "character_count": 15929,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Perindopril/raw/Notice patient-Périndopril.pdf",
+      "output_text": "Pharmeazor/documents/Perindopril/extracted/Notice patient-Périndopril.txt",
+      "page_count": 11,
+      "non_empty_page_count": 11,
+      "character_count": 23262,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Perindopril/raw/perindopril DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Perindopril/extracted/perindopril DailyMed prescribing information.txt",
+      "page_count": 22,
+      "non_empty_page_count": 22,
+      "character_count": 49491,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Perindopril/raw/PERINDOPRIL-RCP.pdf",
+      "output_text": "Pharmeazor/documents/Perindopril/extracted/PERINDOPRIL-RCP.txt",
+      "page_count": 24,
+      "non_empty_page_count": 24,
+      "character_count": 57210,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Ramipril/raw/Notice patient - RAMIPRIL BIOGARAN 5 mg.pdf",
+      "output_text": "Pharmeazor/documents/Ramipril/extracted/Notice patient - RAMIPRIL BIOGARAN 5 mg.txt",
+      "page_count": 12,
+      "non_empty_page_count": 12,
+      "character_count": 25430,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Ramipril/raw/ramipril DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Ramipril/extracted/ramipril DailyMed prescribing information.txt",
+      "page_count": 40,
+      "non_empty_page_count": 40,
+      "character_count": 73300,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Ramipril/raw/Résumé des Caractéristiques du Produit - RAMIPRIL ALMUS 1,25 mg.pdf",
+      "output_text": "Pharmeazor/documents/Ramipril/extracted/Résumé des Caractéristiques du Produit - RAMIPRIL ALMUS 1,25 mg.txt",
+      "page_count": 5,
+      "non_empty_page_count": 5,
+      "character_count": 8686,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Spironolactone/raw/Notice patient - ALDACTONE 25 mg.pdf",
+      "output_text": "Pharmeazor/documents/Spironolactone/extracted/Notice patient - ALDACTONE 25 mg.txt",
+      "page_count": 7,
+      "non_empty_page_count": 7,
+      "character_count": 13391,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Spironolactone/raw/Résumé des Caractéristiques du Produit - ALDACTONE 50 mg.pdf",
+      "output_text": "Pharmeazor/documents/Spironolactone/extracted/Résumé des Caractéristiques du Produit - ALDACTONE 50 mg.txt",
+      "page_count": 10,
+      "non_empty_page_count": 10,
+      "character_count": 19192,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Spironolactone/raw/spironolactone DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Spironolactone/extracted/spironolactone DailyMed prescribing information.txt",
+      "page_count": 22,
+      "non_empty_page_count": 22,
+      "character_count": 43653,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Valsartan/raw/Notice Patient - VALSARTAN .pdf",
+      "output_text": "Pharmeazor/documents/Valsartan/extracted/Notice Patient - VALSARTAN .txt",
+      "page_count": 6,
+      "non_empty_page_count": 6,
+      "character_count": 13815,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Valsartan/raw/RCP- VALSARTAN.pdf",
+      "output_text": "Pharmeazor/documents/Valsartan/extracted/RCP- VALSARTAN.txt",
+      "page_count": 17,
+      "non_empty_page_count": 17,
+      "character_count": 42837,
+      "status": "extracted",
+      "error": null
+    },
+    {
+      "source_pdf": "Pharmeazor/documents/Valsartan/raw/Valsartan DailyMed prescribing information.pdf",
+      "output_text": "Pharmeazor/documents/Valsartan/extracted/Valsartan DailyMed prescribing information.txt",
+      "page_count": 35,
+      "non_empty_page_count": 35,
+      "character_count": 79574,
+      "status": "extracted",
+      "error": null
+    }
+  ]
+}
