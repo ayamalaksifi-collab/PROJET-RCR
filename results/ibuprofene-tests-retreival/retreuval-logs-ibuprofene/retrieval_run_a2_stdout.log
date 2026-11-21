@@ -1,0 +1,28 @@
+Corpus: Pharmeazor\documents\Ibuprofène\processed\IBUPROFENE ALMUS 400 mg, comprimé pelliculé RCP _passages.json (62 passages)
+Question: Quels sont les effets indésirables rénaux de l'ibuprofène ?
+
+Keyword / TF-IDF
+  1. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-01 | score=0.1193 | pages 11-11
+     4.8. Effets indésirables Des études cliniques suggèrent que l'utilisation de l'ibuprofène, surtout lorsqu'il est utilisé à dose élevée (2400 mg par jour), peut être associée à une légère augmentation du risque d'évènement thrombotique artériel (par exemple, infarctus du myocarde ou accident vasculaire cérébral (voir rubrique 4.4).
+  2. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-08 | score=0.1121 | pages 13-13
+     Déclaration des effets indésirables suspectés La déclaration des effets indésirables suspectés après autorisation du médicament est importante. Elle permet une surveillance continue du rapport bénéfice/risque du médicament. Les professionnels de santé déclarent tout effet indésirable suspecté via le système national de déclaration : Agence nationale de sécu…
+  3. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-02 | score=0.1109 | pages 12-12
+     Les effets indésirables les plus fréquemment observés sont de nature gastro-intestinale. Des ulcères peptiques, perforations ou hémorragies gastro-intestinales, parfois fatales, peuvent survenir, en particulier chez le sujet âgé (voir rubrique 4.4). Des nausées, vomissements, diarrhées, flatulences, constipation, dyspepsie, stomatite ulcérative, douleur abd…
+  4. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-01 | score=0.0999 | pages 3-3
+     4.4. Mises en garde spéciales et précautions d'emploi L'utilisation concomitante de IBUPROFENE ALMUS avec d'autres AINS, y compris les inhibiteurs sélectifs de la cyclooxygénase 2 (cox-2), doit être évitée. La survenue d'effets indésirables peut être minimisée par l'utilisation de la dose la plus faible possible pendant la durée de traitement la plus courte…
+  5. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-01 | score=0.0944 | pages 6-6
+     4.5. Interactions avec d'autres médicaments et autres formes d'interactions Risque lié à l'hyperkaliémie Certains médicaments ou classes thérapeutiques sont susceptibles de favoriser la survenue d'une hyperkaliémie : les sels de potassium, les diurétiques hyperkaliémiants, les inhibiteurs de l'enzyme de conversion, les antagonistes de l'angiotensine II, les…
+
+Semantic / vectors
+  1. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-016-02 | score=0.784 | pages 14-14
+     Effets pharmacodynamiques Des données expérimentales suggèrent que l'ibuprofène peut inhiber de façon compétitive l'effet antiagrégant plaquettaire d'une faible dose d'acide acétylsalicylique lorsqu'ils sont pris de façon concomitante. Des études pharmacodynamiques ont montré une diminution de l'effet de l'acide acétylsalicylique sur la formation du thrombo…
+  2. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-06 | score=0.6886 | pages 9-9
+     + Inhibiteurs de l'enzyme de conversion (IEC) Insuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction rénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices due aux AINS). Ces effets sont généralement réversibles. Par ailleurs, réduction de l'effet anti-h…
+  3. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-03 | score=0.6818 | pages 7-7
+     Associations déconseillées (Voir rubrique 4.4) + Autres AINS Majoration du risque ulcérogène et hémorragique digestif. + Acide acétylsalicylique Majoration du risque ulcérogène et hémorragique digestif. Des données expérimentales suggèrent que l'ibuprofène peut inhiber de façon compétitive l'effet antiagrégant plaquettaire d'une faible dose d'acide acétylsa…
+  4. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-01 | score=0.6792 | pages 11-11
+     4.8. Effets indésirables Des études cliniques suggèrent que l'utilisation de l'ibuprofène, surtout lorsqu'il est utilisé à dose élevée (2400 mg par jour), peut être associée à une légère augmentation du risque d'évènement thrombotique artériel (par exemple, infarctus du myocarde ou accident vasculaire cérébral (voir rubrique 4.4).
+  5. RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-01 | score=0.6646 | pages 3-3
+     4.4. Mises en garde spéciales et précautions d'emploi L'utilisation concomitante de IBUPROFENE ALMUS avec d'autres AINS, y compris les inhibiteurs sélectifs de la cyclooxygénase 2 (cox-2), doit être évitée. La survenue d'effets indésirables peut être minimisée par l'utilisation de la dose la plus faible possible pendant la durée de traitement la plus courte…
+
+Saved: results\ibuprofen_test_test_a_renal_adverse_effects_rerun_20261121_053527_621448.json

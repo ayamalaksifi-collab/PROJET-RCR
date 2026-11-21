@@ -1,0 +1,104 @@
+{
+  "created_at_utc": "2026-11-21T05:36:51.351301+00:00",
+  "scope": "Retrieval-only experiment on one processed document; not a medical answer.",
+  "corpus": "Pharmeazor\\documents\\Ibuprofène\\processed\\IBUPROFENE ALMUS 400 mg, comprimé pelliculé RCP _passages.json",
+  "medicine_id": "M002",
+  "standardized_dci": "ibuprofène",
+  "passage_count": 62,
+  "question": "Quels sont les risques d'atteinte rénale associés aux AINS et comment les prévenir ?",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "keyword_tfidf_results": [
+    {
+      "rank": 1,
+      "score": 0.1614,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-01",
+      "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "page_start": 6,
+      "page_end": 6,
+      "text": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions\nRisque lié à l'hyperkaliémie\nCertains médicaments ou classes thérapeutiques sont susceptibles de favoriser la survenue d'une\nhyperkaliémie : les sels de potassium, les diurétiques hyperkaliémiants, les inhibiteurs de l'enzyme de\nconversion, les antagonistes de l'angiotensine II, les anti-inflammatoires non stéroïdiens, les héparines (de\nbas poids moléculaires ou non fractionnées), les immunosuppresseurs comme la ciclosporine ou le\ntacrolimus, le triméthoprime.\nL'association de ces médicaments majore le risque d'hyperkaliémie. Ce risque est particulièrement\nimportant avec les diurétiques épargneurs de potassium, notamment lorsqu'ils sont associés entre eux\nou avec des sels de potassium, tandis que l'association d'un IEC et d'un AINS, par exemple, est à\nmoindre risque dès l'instant que sont mises en œuvre les précautions recommandées.\nPour connaître les risques et les niveaux de contraintes spécifiques aux médicaments hyperkaliémiants, il\nconvient de se reporter aux interactions propres à chaque substance."
+    },
+    {
+      "rank": 2,
+      "score": 0.1094,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-06",
+      "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "+ Inhibiteurs de l'enzyme de conversion (IEC)\nInsuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction\nrénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices\ndue aux AINS). Ces effets sont généralement réversibles.\nPar ailleurs, réduction de l'effet anti-hypertenseur.\nHydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant\nl’association.\n+ Méthotrexate, utilisé à des doses inférieures ou égales à 20 mg/semaine\nAugmentation de la toxicité hématologique du méthotrexate (diminution de la clairance rénale du\nméthotrexate par les anti-inflammatoires).\nContrôle hebdomadaire de l'hémogramme durant les premières semaines de l'association.\nSurveillance accrue en cas d'altération (même légère) de la fonction rénale, ainsi que chez le sujet âgé.\n+ Pemetrexed (en cas de fonction rénale normale)\nRisque de majoration de la toxicité du pemetrexed (diminution de la clairance rénale par les AINS).\nSurveillance biologique de la fonction rénale.\n+ Ténofovir Disoproxil\nRisque de majoration de la néphrotoxicité du ténofovir, notamment avec des doses élevées de l’anti-\ninflammatoire ou en présence de facteurs de risque d’insuffisance rénale.\nEn cas d’association, surveiller la fonction rénale.\n+ Cobimetinib\nAugmentation du risque hémorragique. Surveillance clinique."
+    },
+    {
+      "rank": 3,
+      "score": 0.1015,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-09",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Insuffisance rénale fonctionnelle\nLes AINS, en inhibant l'action vasodilatatrice des prostaglandines rénales, sont susceptibles de\nprovoquer une insuffisance rénale fonctionnelle par diminution de la filtration glomérulaire. Cet effet\nindésirable est dose dépendant.\nEn début de traitement ou après augmentation de la posologie, une surveillance de la diurèse et de la\nfonction rénale est recommandée chez les patients présentant les facteurs de risque suivants :\n sujets âgés,\n médicaments associés tels que : IEC, sartans, diurétiques (voir rubrique 4.5),\n hypovolémie quelle qu'en soit la cause,\n insuffisance cardiaque,\n insuffisance rénale chronique,\n syndrome néphrotique,\n néphropathie lupique,\n cirrhose hépatique décompensée."
+    },
+    {
+      "rank": 4,
+      "score": 0.0984,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-011-01",
+      "section": "4.6. Fertilité, grossesse et allaitement",
+      "page_start": 10,
+      "page_end": 10,
+      "text": "4.6. Fertilité, grossesse et allaitement\nGrossesse\nL’inhibition de la synthèse des prostaglandines par les AINS peut affecter le déroulement de la grossesse\net/ou le développement de l’embryon ou du fœtus.\nRisques associés à l’utilisation au cours du 1er trimestre\nLes données des études épidémiologiques suggèrent une augmentation du risque de fausse-couche, de\nmalformations cardiaques et de gastroschisis, après traitement par un inhibiteur de la synthèse des\nprostaglandines en début de grossesse. Le risque absolu de malformation cardiovasculaire est passé de\nmoins de 1% dans la population générale, à approximativement 1,5 % chez les personnes exposées aux\nAINS. Le risque paraît augmenter en fonction de la dose et de la durée du traitement. Chez l’animal, il a\nété montré que l’administration d’un inhibiteur de la synthèse des prostaglandines provoquait une perte\npré et post-implantatoire accrue et une augmentation de la létalité embryo-foetale. De plus, une\nincidence supérieure de certaines malformations, y compris cardiovasculaires, a été rapportée chez des\nanimaux ayant reçu un inhibiteur de la synthèse des prostaglandines au cours de la phase\nd’organogénèse de la gestation.\nRisques associés à l’utilisation à partir de la 12ème semaine d’aménorrhée et jusqu’à la naissance :"
+    },
+    {
+      "rank": 5,
+      "score": 0.0954,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-012-01",
+      "section": "4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "4.7. Effets sur l'aptitude à conduire des véhicules et à utiliser des machines\nPrévenir les patients de l'apparition possible de vertiges et de troubles de la vue."
+    }
+  ],
+  "semantic_vector_results": [
+    {
+      "rank": 1,
+      "score": 0.6111,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-08",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Réactions cutanées graves\nDes réactions cutanées graves, certaines mortelles, y compris la dermatite exfoliatrice, le syndrome de\nStevens-Johnson et la nécrolyse épidermique toxique, ont été rarement rapportées en association avec\nl’utilisation d’AINS (voir rubrique 4.8).\nL'incidence de ces effets indésirables semble plus importante en début de traitement, le délai\nd'apparition se situant, dans la majorité des cas, dans le premier mois de traitement. Des cas de\npustulose exanthématique aiguë généralisée (PEAG) ont été rapportés en lien avec des médicaments\ncontenant de l’ibuprofène. IBUPROFENE ALMUS devrait être arrêté dès la première apparition de signes\net symptômes de réactions cutanées graves telles que des éruptions cutanées, lésions des muqueuses,\nd'un rash cutané, de cloques, de rougeur de la peau ou de tout autre signe d'hypersensibilité."
+    },
+    {
+      "rank": 2,
+      "score": 0.6031,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-09",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Insuffisance rénale fonctionnelle\nLes AINS, en inhibant l'action vasodilatatrice des prostaglandines rénales, sont susceptibles de\nprovoquer une insuffisance rénale fonctionnelle par diminution de la filtration glomérulaire. Cet effet\nindésirable est dose dépendant.\nEn début de traitement ou après augmentation de la posologie, une surveillance de la diurèse et de la\nfonction rénale est recommandée chez les patients présentant les facteurs de risque suivants :\n sujets âgés,\n médicaments associés tels que : IEC, sartans, diurétiques (voir rubrique 4.5),\n hypovolémie quelle qu'en soit la cause,\n insuffisance cardiaque,\n insuffisance rénale chronique,\n syndrome néphrotique,\n néphropathie lupique,\n cirrhose hépatique décompensée."
+    },
+    {
+      "rank": 3,
+      "score": 0.5995,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-02",
+      "section": "4.8. Effets indésirables",
+      "page_start": 12,
+      "page_end": 12,
+      "text": "Les effets indésirables les plus fréquemment observés sont de nature gastro-intestinale. Des ulcères\npeptiques, perforations ou hémorragies gastro-intestinales, parfois fatales, peuvent survenir, en\nparticulier chez le sujet âgé (voir rubrique 4.4).\nDes nausées, vomissements, diarrhées, flatulences, constipation, dyspepsie, stomatite ulcérative, douleur\nabdominale, douleur abdominale haute, distension abdominale, melæna, hématémèse, colite,\nexacerbation d'une rectocolite ou d'une maladie de Crohn (voir rubrique 4.4) ont été rapportés à la suite\nde l'administration d'AINS. Moins fréquemment, des gastrites ont été observées.\nŒdème, hypertension, insuffisance cardiaque et angine de poitrine ont été rapportés en association au\ntraitement par AINS."
+    },
+    {
+      "rank": 4,
+      "score": 0.5717,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-06",
+      "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "+ Inhibiteurs de l'enzyme de conversion (IEC)\nInsuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction\nrénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices\ndue aux AINS). Ces effets sont généralement réversibles.\nPar ailleurs, réduction de l'effet anti-hypertenseur.\nHydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant\nl’association.\n+ Méthotrexate, utilisé à des doses inférieures ou égales à 20 mg/semaine\nAugmentation de la toxicité hématologique du méthotrexate (diminution de la clairance rénale du\nméthotrexate par les anti-inflammatoires).\nContrôle hebdomadaire de l'hémogramme durant les premières semaines de l'association.\nSurveillance accrue en cas d'altération (même légère) de la fonction rénale, ainsi que chez le sujet âgé.\n+ Pemetrexed (en cas de fonction rénale normale)\nRisque de majoration de la toxicité du pemetrexed (diminution de la clairance rénale par les AINS).\nSurveillance biologique de la fonction rénale.\n+ Ténofovir Disoproxil\nRisque de majoration de la néphrotoxicité du ténofovir, notamment avec des doses élevées de l’anti-\ninflammatoire ou en présence de facteurs de risque d’insuffisance rénale.\nEn cas d’association, surveiller la fonction rénale.\n+ Cobimetinib\nAugmentation du risque hémorragique. Surveillance clinique."
+    },
+    {
+      "rank": 5,
+      "score": 0.5586,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-05",
+      "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "page_start": 8,
+      "page_end": 8,
+      "text": "Associations faisant l'objet de précautions d’emploi\n+ Ciclosporine, tacrolimus\nRisque d'addition des effets néphrotoxiques, notamment chez le sujet âgé.\nSurveiller la fonction rénale en début de traitement par l'AINS.\n+ Diurétiques\nInsuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétique, avec une fonction\nrénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices\ndue aux anti-inflammatoires non stéroïdiens). Ces effets sont généralement réversibles.\nPar ailleurs, réduction de l'effet anti-hypertenseur.\nHydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant\nl’association.\n+Antagonistes de l'angiotensine II (AIIA)\nInsuffisance rénale aiguë chez le patient à risque (sujet âgé déshydratation, traitement associé avec\ndiurétiques, altération de la fonction rénale) par diminution de la filtration glomérulaire (inhibition des\nprostaglandines vasodilatatrices due aux AINS). Ces effets sont généralement réversibles.\nPar ailleurs, réduction de l'effet anti-hypertenseur.\nHydrater le malade. Surveiller la fonction rénale en début de traitement et régulièrement pendant\nl’association."
+    }
+  ]
+}

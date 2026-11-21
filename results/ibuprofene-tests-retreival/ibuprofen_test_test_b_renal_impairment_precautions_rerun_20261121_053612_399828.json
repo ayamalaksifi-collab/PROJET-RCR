@@ -1,0 +1,104 @@
+{
+  "created_at_utc": "2026-11-21T05:36:12.399066+00:00",
+  "scope": "Retrieval-only experiment on one processed document; not a medical answer.",
+  "corpus": "Pharmeazor\\documents\\Ibuprofène\\processed\\IBUPROFENE ALMUS 400 mg, comprimé pelliculé RCP _passages.json",
+  "medicine_id": "M002",
+  "standardized_dci": "ibuprofène",
+  "passage_count": 62,
+  "question": "Quelles précautions prendre chez les patients présentant une insuffisance rénale lors de l'utilisation de l'ibuprofène ?",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "keyword_tfidf_results": [
+    {
+      "rank": 1,
+      "score": 0.2444,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-09",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Insuffisance rénale fonctionnelle\nLes AINS, en inhibant l'action vasodilatatrice des prostaglandines rénales, sont susceptibles de\nprovoquer une insuffisance rénale fonctionnelle par diminution de la filtration glomérulaire. Cet effet\nindésirable est dose dépendant.\nEn début de traitement ou après augmentation de la posologie, une surveillance de la diurèse et de la\nfonction rénale est recommandée chez les patients présentant les facteurs de risque suivants :\n sujets âgés,\n médicaments associés tels que : IEC, sartans, diurétiques (voir rubrique 4.5),\n hypovolémie quelle qu'en soit la cause,\n insuffisance cardiaque,\n insuffisance rénale chronique,\n syndrome néphrotique,\n néphropathie lupique,\n cirrhose hépatique décompensée."
+    },
+    {
+      "rank": 2,
+      "score": 0.2175,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-01",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "4.4. Mises en garde spéciales et précautions d'emploi\nL'utilisation concomitante de IBUPROFENE ALMUS avec d'autres AINS, y compris les inhibiteurs sélectifs\nde la cyclooxygénase 2 (cox-2), doit être évitée.\nLa survenue d'effets indésirables peut être minimisée par l'utilisation de la dose la plus faible possible\npendant la durée de traitement la plus courte nécessaire au soulagement des symptômes (voir rubrique\n4.2 et « Effets gastro-intestinaux et cardiovasculaires » ci-dessous).\nLes patients présentant un asthme associé à une rhinite chronique, à une sinusite chronique et/ou à une\npolypose nasale, ont un risque de manifestation allergique lors de la prise d'acide acétylsalicylique et/ou\nd'anti-inflammatoires non stéroïdiens plus élevé que le reste de la population.\nL'administration de cette spécialité peut entraîner une crise d'asthme, notamment chez certains sujets\nallergiques à l'acide acétylsalicylique ou aux AINS (voir rubrique 4.3).\nLes adolescents déshydratés ont un risque d’insuffisance rénale."
+    },
+    {
+      "rank": 3,
+      "score": 0.1683,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-07",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 5,
+      "page_end": 5,
+      "text": "Les patients souffrant d’hypertension non contrôlée, d’insuffisance cardiaque congestive (classes II-III\nNYHA), de cardiopathie ischémique, de maladie artérielle périphérique, et/ou de maladie vasculaire\ncérébral ne devront être traités par ibuprofène qu'après un examen attentif et l’utilisation de doses\nélevées (2400 mg par jour) doit être évitée.\nUne attention particulière doit être portée avant toute initiation d'un traitement à long terme chez les\npatients présentant des facteurs de risque cardiovasculaires (hypertension, hyperlipidémie, diabète,\ntabagisme) en particulier si des doses élevées d’ibuprofène (2400 mg par jour) sont nécessaires.\n\nEffets cutanés"
+    },
+    {
+      "rank": 4,
+      "score": 0.1676,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-04",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Effets gastro-intestinaux\nDes hémorragies, ulcérations ou perforations gastro-intestinales parfois fatales, ont été rapportées avec\ntous les AINS, à n'importe quel moment du traitement, sans qu'il y ait eu nécessairement de signes\nd'alerte ou d'antécédents d'effets indésirables gastro-intestinaux graves.\nLe risque d'hémorragie, d'ulcération ou de perforation gastro-intestinale augmente avec la dose utilisée\nchez les patients présentant des antécédents d'ulcère, en particulier en cas de complication à type\nd'hémorragie ou de perforation (voir rubrique 4.3) ainsi que chez le sujet âgé. Chez ces patients, le\ntraitement doit être débuté à la posologie la plus faible possible. Un traitement protecteur de la\nmuqueuse (par exemple misoprostol ou inhibiteur de la pompe à protons) doit être envisagé pour ces\npatients, comme pour les patients nécessitant un traitement par de faibles doses d'acide\nacétylsalicylique ou traités par d'autres médicaments susceptibles d'augmenter le risque gastro-intestinal\n(voir ci-dessous et rubrique 4.5).\nLes patients présentant des antécédents gastro-intestinaux, surtout s'il s'agit de patients âgés, doivent\nsignaler tout symptôme abdominal inhabituel (en particulier les saignements gastro-intestinaux),\nnotamment en début de traitement."
+    },
+    {
+      "rank": 5,
+      "score": 0.1578,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-06",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Effets cardiovasculaires et cérébrovasculaires\nUne surveillance adéquate et des recommandations sont requises chez les patients présentant des\nantécédents d'hypertension et/ou d'insuffisance cardiaque légère à modérée, des cas de rétention\nhydrosodée et d'œdème ayant été rapportés en association au traitement par AINS.\nDes études cliniques suggèrent que l'utilisation de l'ibuprofène, notamment à forte dose (2400 mg par\njour), peut être associée à une légère augmentation du risque de thrombose artérielle par exemple,\ninfarctus du myocarde ou accident vasculaire cérébral. Globalement, les données épidémiologiques ne\nmontrent pas d’association entre les faibles doses d’ibuprofène (≤ 1200 mg par jour) et un risque\naugmenté de thrombose artérielle."
+    }
+  ],
+  "semantic_vector_results": [
+    {
+      "rank": 1,
+      "score": 0.786,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-01",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 3,
+      "page_end": 3,
+      "text": "4.4. Mises en garde spéciales et précautions d'emploi\nL'utilisation concomitante de IBUPROFENE ALMUS avec d'autres AINS, y compris les inhibiteurs sélectifs\nde la cyclooxygénase 2 (cox-2), doit être évitée.\nLa survenue d'effets indésirables peut être minimisée par l'utilisation de la dose la plus faible possible\npendant la durée de traitement la plus courte nécessaire au soulagement des symptômes (voir rubrique\n4.2 et « Effets gastro-intestinaux et cardiovasculaires » ci-dessous).\nLes patients présentant un asthme associé à une rhinite chronique, à une sinusite chronique et/ou à une\npolypose nasale, ont un risque de manifestation allergique lors de la prise d'acide acétylsalicylique et/ou\nd'anti-inflammatoires non stéroïdiens plus élevé que le reste de la population.\nL'administration de cette spécialité peut entraîner une crise d'asthme, notamment chez certains sujets\nallergiques à l'acide acétylsalicylique ou aux AINS (voir rubrique 4.3).\nLes adolescents déshydratés ont un risque d’insuffisance rénale."
+    },
+    {
+      "rank": 2,
+      "score": 0.7724,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-01",
+      "section": "4.8. Effets indésirables",
+      "page_start": 11,
+      "page_end": 11,
+      "text": "4.8. Effets indésirables\nDes études cliniques suggèrent que l'utilisation de l'ibuprofène, surtout lorsqu'il est utilisé à dose élevée\n(2400 mg par jour), peut être associée à une légère augmentation du risque d'évènement thrombotique\nartériel (par exemple, infarctus du myocarde ou accident vasculaire cérébral (voir rubrique 4.4)."
+    },
+    {
+      "rank": 3,
+      "score": 0.7448,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-016-02",
+      "section": "5.1. Propriétés pharmacodynamiques",
+      "page_start": 14,
+      "page_end": 14,
+      "text": "Effets pharmacodynamiques\nDes données expérimentales suggèrent que l'ibuprofène peut inhiber de façon compétitive l'effet\nantiagrégant plaquettaire d'une faible dose d'acide acétylsalicylique lorsqu'ils sont pris de façon\nconcomitante. Des études pharmacodynamiques ont montré une diminution de l'effet de l'acide\nacétylsalicylique sur la formation du thromboxane ou sur l'agrégation plaquettaire lorsque l'ibuprofène à\nla dose de 400 mg était pris dans les 8 heures qui précédaient la prise de 81 mg d'acide acétylsalicylique\nà libération immédiate, ou dans les 30 minutes qui suivaient. Toutefois, les incertitudes quant à leur\nextrapolation en clinique ne peuvent pas exclure que l’usage régulier, à long terme de l’ibuprofène puisse\nréduire l’effet cardioprotecteur de faibles doses d’acide acétylsalicylique. En ce qui concerne\nl'ibuprofène utilisé de façon occasionnelle, la survenue d'un effet cliniquement pertinent apparaît peu\nprobable (voir rubrique 4.5)."
+    },
+    {
+      "rank": 4,
+      "score": 0.7277,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-010-06",
+      "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+      "page_start": 9,
+      "page_end": 9,
+      "text": "+ Inhibiteurs de l'enzyme de conversion (IEC)\nInsuffisance rénale aiguë chez le patient à risque (âgé, déshydraté, sous diurétiques, avec une fonction\nrénale altérée) par diminution de la filtration glomérulaire (inhibition des prostaglandines vasodilatatrices\ndue aux AINS). Ces effets sont généralement réversibles.\nPar ailleurs, réduction de l'effet anti-hypertenseur.\nHydrater le malade et surveiller la fonction rénale en début de traitement et régulièrement pendant\nl’association.\n+ Méthotrexate, utilisé à des doses inférieures ou égales à 20 mg/semaine\nAugmentation de la toxicité hématologique du méthotrexate (diminution de la clairance rénale du\nméthotrexate par les anti-inflammatoires).\nContrôle hebdomadaire de l'hémogramme durant les premières semaines de l'association.\nSurveillance accrue en cas d'altération (même légère) de la fonction rénale, ainsi que chez le sujet âgé.\n+ Pemetrexed (en cas de fonction rénale normale)\nRisque de majoration de la toxicité du pemetrexed (diminution de la clairance rénale par les AINS).\nSurveillance biologique de la fonction rénale.\n+ Ténofovir Disoproxil\nRisque de majoration de la néphrotoxicité du ténofovir, notamment avec des doses élevées de l’anti-\ninflammatoire ou en présence de facteurs de risque d’insuffisance rénale.\nEn cas d’association, surveiller la fonction rénale.\n+ Cobimetinib\nAugmentation du risque hémorragique. Surveillance clinique."
+    },
+    {
+      "rank": 5,
+      "score": 0.6761,
+      "passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-03",
+      "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+      "page_start": 4,
+      "page_end": 4,
+      "text": "Lorsque IBUPROFENE ALMUS est administré pour soulager la fièvre ou la douleur liée à l’infection, il est\nconseillé de surveiller l’infection. En milieu non hospitalier, le patient doit consulter un médecin si les\nsymptômes persistent ou s’ils s’aggravent.\n\nSujets âgés\nLes sujets âgés présentent un risque accru d'effets indésirables aux AINS, en particulier d'hémorragie\ngastro-intestinale et de perforations pouvant être fatales (voir rubrique 4.2 et ci-dessous)."
+    }
+  ]
+}
