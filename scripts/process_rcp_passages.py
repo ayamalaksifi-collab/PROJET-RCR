@@ -1,11 +1,4 @@
-"""Turn extracted RCP/leaflet text into traceable section-based passages.
 
-Run one document:
-    py scripts/process_rcp_passages.py "Pharmeazor/documents/Ibuprofène/extracted/file.txt"
-
-Run every discovered medicine folder:
-    py scripts/process_rcp_passages.py --all
-"""
 
 import argparse
 import hashlib
