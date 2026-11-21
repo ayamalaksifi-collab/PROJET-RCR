@@ -1,0 +1,352 @@
+[
+ {
+  "q": "Quelle est la dose maximale de néfopam par 24 heures ?",
+  "typ": "lexicale",
+  "bm25": 2,
+  "sem": 3,
+  "hyb": 2,
+  "top_bm25": [
+   [
+    "nefopam",
+    "5.2. Propriétés pharmacocinéti"
+   ],
+   [
+    "nefopam",
+    "4.2. Posologie et mode d'admin"
+   ],
+   [
+    "nefopam",
+    "4.4. Mises en garde spéciales "
+   ]
+  ],
+  "top_sem": [
+   [
+    "nefopam",
+    "5.2. Propriétés pharmacocinéti"
+   ],
+   [
+    "nefopam",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "nefopam",
+    "4.2. Posologie et mode d'admin"
+   ]
+  ]
+ },
+ {
+  "q": "Peut-on donner du néfopam à un enfant ?",
+  "typ": "paraphrase",
+  "bm25": null,
+  "sem": null,
+  "hyb": null,
+  "top_bm25": [
+   [
+    "nefopam",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "nefopam",
+    "5.2. Propriétés pharmacocinéti"
+   ],
+   [
+    "levofloxacine",
+    "4.4. Mises en garde spéciales "
+   ]
+  ],
+  "top_sem": [
+   [
+    "nefopam",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "nefopam",
+    "1. DÉNOMINATION DU MÉDICAMENT"
+   ],
+   [
+    "nefopam",
+    "0 INTRO"
+   ]
+  ]
+ },
+ {
+  "q": "Quels antibiotiques risquent de provoquer une rupture des tendons ?",
+  "typ": "paraphrase",
+  "bm25": 1,
+  "sem": 1,
+  "hyb": 1,
+  "top_bm25": [
+   [
+    "ciprofloxacine",
+    "5.2 Tendinitis and Tendon Rupt"
+   ],
+   [
+    "ciprofloxacine",
+    "1. Tendon rupture or swelling "
+   ],
+   [
+    "ciprofloxacine",
+    "4.4. Mises en garde spéciales "
+   ]
+  ],
+  "top_sem": [
+   [
+    "ciprofloxacine",
+    "5.2 Tendinitis and Tendon Rupt"
+   ],
+   [
+    "levofloxacine",
+    "5.2 Tendinitis and Tendon Rupt"
+   ],
+   [
+    "ciprofloxacine",
+    "5.2 Tendinitis and Tendon Rupt"
+   ]
+  ]
+ },
+ {
+  "q": "Quelle posologie de cefixime pour une urétrite gonococcique ?",
+  "typ": "lexicale",
+  "bm25": 3,
+  "sem": null,
+  "hyb": 2,
+  "top_bm25": [
+   [
+    "doxycycline",
+    "4.2. Posologie et mode d'admin"
+   ],
+   [
+    "cefixime",
+    "0 INTRO"
+   ],
+   [
+    "cefixime",
+    "0 INTRO"
+   ]
+  ],
+  "top_sem": [
+   [
+    "ciprofloxacine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "ciprofloxacine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "ciprofloxacine",
+    "4.2. Posologie et mode d'admin"
+   ]
+  ]
+ },
+ {
+  "q": "Que faire en cas d'insuffisance rénale sévère avec la gentamicine ?",
+  "typ": "paraphrase",
+  "bm25": null,
+  "sem": 4,
+  "hyb": 5,
+  "top_bm25": [
+   [
+    "cotrimoxazole",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "ceftriaxone",
+    "28 Une fois par jour peau et d"
+   ],
+   [
+    "ceftriaxone",
+    "4.2. Posologie et mode d'admin"
+   ]
+  ],
+  "top_sem": [
+   [
+    "ceftriaxone",
+    "28 Une fois par jour peau et d"
+   ],
+   [
+    "ceftriaxone",
+    "28 Une fois par jour peau et d"
+   ],
+   [
+    "ceftriaxone",
+    "4.2. Posologie et mode d'admin"
+   ]
+  ]
+ },
+ {
+  "q": "Quel médicament est déconseillé avec l'alcool pendant le traitement ?",
+  "typ": "paraphrase",
+  "bm25": 2,
+  "sem": 5,
+  "hyb": 3,
+  "top_bm25": [
+   [
+    "clindamycine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "metronidazole",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "metronidazole",
+    "4.4. Mises en garde spéciales "
+   ]
+  ],
+  "top_sem": [
+   [
+    "amoxicilline",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "amoxicilline",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "amoxicilline",
+    "4.4. Mises en garde spéciales "
+   ]
+  ]
+ },
+ {
+  "q": "Peut-on prendre de la doxycycline pendant la grossesse ?",
+  "typ": "lexicale",
+  "bm25": 1,
+  "sem": 1,
+  "hyb": 1,
+  "top_bm25": [
+   [
+    "doxycycline",
+    "4.3. Contre-indications"
+   ],
+   [
+    "doxycycline",
+    "4.6. Fertilité, grossesse et a"
+   ],
+   [
+    "doxycycline",
+    "4.5. Interactions avec d'autre"
+   ]
+  ],
+  "top_sem": [
+   [
+    "doxycycline",
+    "4.3. Contre-indications"
+   ],
+   [
+    "doxycycline",
+    "4.6. Fertilité, grossesse et a"
+   ],
+   [
+    "doxycycline",
+    "4.5. Interactions avec d'autre"
+   ]
+  ]
+ },
+ {
+  "q": "Risque de diarrhée sévère après un traitement par clindamycine",
+  "typ": "paraphrase",
+  "bm25": 1,
+  "sem": 2,
+  "hyb": 1,
+  "top_bm25": [
+   [
+    "clindamycine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "clindamycine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "levofloxacine",
+    "4.4. Mises en garde spéciales "
+   ]
+  ],
+  "top_sem": [
+   [
+    "clindamycine",
+    "4.3. Contre-indications"
+   ],
+   [
+    "clindamycine",
+    "4.4. Mises en garde spéciales "
+   ],
+   [
+    "clindamycine",
+    "4.4. Mises en garde spéciales "
+   ]
+  ]
+ },
+ {
+  "q": "À quelle température conserver la ceftriaxone reconstituée ?",
+  "typ": "lexicale",
+  "bm25": null,
+  "sem": 5,
+  "hyb": 4,
+  "top_bm25": [
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ],
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ],
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ]
+  ],
+  "top_sem": [
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ],
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ],
+   [
+    "clarithromycine",
+    "6.4. Précautions particulières"
+   ]
+  ]
+ },
+ {
+  "q": "Interaction entre le cotrimoxazole et la warfarine",
+  "typ": "lexicale",
+  "bm25": null,
+  "sem": null,
+  "hyb": null,
+  "top_bm25": [
+   [
+    "clindamycine",
+    "4.5. Interactions avec d'autre"
+   ],
+   [
+    "gentamicine",
+    "4.5. Interactions avec d'autre"
+   ],
+   [
+    "gentamicine",
+    "4.5. Interactions avec d'autre"
+   ]
+  ],
+  "top_sem": [
+   [
+    "cotrimoxazole",
+    "1. DENOMINATION DU MEDICAMENT"
+   ],
+   [
+    "cotrimoxazole",
+    "7. Moh R, et al. Haematologica"
+   ],
+   [
+    "cotrimoxazole",
+    "4.6. Fertilité, grossesse et a"
+   ]
+  ]
+ }
+]
