@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "medicine_id": "M015",
+  "standardized_dci": "céfixime",
+  "source_document_id": "03_US_AUROBINDO_UNIDENTIFIED_PRODUCT-8c3da2d675",
+  "source_text": "Pharmeazor/documents/Céfixime/extracted/03_US_Aurobindo_unidentified_product.txt",
+  "source_pdf": "Pharmeazor/documents/Céfixime/raw/03_US_Aurobindo_unidentified_product.pdf",
+  "document_dates": {
+    "webpage_last_updated_date_raw": null,
+    "webpage_last_updated_date_meaning": "Date displayed by the public medicine database page.",
+    "rcp_information_updated_date_raw": null,
+    "rcp_information_updated_date_meaning": "Date displayed by ANSM for the product information/RCP."
+  },
+  "regulatory_metadata": null,
+  "passage_count": 1,
+  "passages": [
+    {
+      "passage_id": "RCP-M015-03_US_AUROBINDO_UNIDENTIFIED_PRODUCT-8c3da2d675-001-01",
+      "source_document_id": "03_US_AUROBINDO_UNIDENTIFIED_PRODUCT-8c3da2d675",
+      "medicine_id": "M015",
+      "standardized_dci": "céfixime",
+      "source_pdf": "Pharmeazor/documents/Céfixime/raw/03_US_Aurobindo_unidentified_product.pdf",
+      "source_text": "Pharmeazor/documents/Céfixime/extracted/03_US_Aurobindo_unidentified_product.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "UNIDENTIFIED US PRODUCT SNIPPET\nThe pasted text identifies Aurobindo Pharma Limited as labeler and includes NDC 59651-647-50 / 59651-647-10, pink capsule, 21 mm, imprint CMI;400, and a list of excipients (including magnesium stearate, mannitol, gelatin, red ferric oxide, sodium lauryl sulfate, titanium dioxide, ferrosoferric oxide, potassium hydroxide, propylene glycol and shellac).\nThe medicine name and active ingredient are not present in the supplied excerpt. Do not associate this snippet with cefixime until identified.",
+      "verification_status": "extracted_not_manually_verified"
+    }
+  ]
+}

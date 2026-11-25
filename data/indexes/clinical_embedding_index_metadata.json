@@ -1,0 +1,15 @@
+{
+  "created_at_utc": "2026-11-25T12:13:06.099967+00:00",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "model_max_seq_length": 128,
+  "embedding_dimension": 384,
+  "vector_count": 17205,
+  "vector_dtype": "float32",
+  "normalization": "L2 normalized; vector dot product equals cosine similarity.",
+  "input_chunks_file": "data/processed/retrieval_chunks.jsonl",
+  "input_chunk_count": 17205,
+  "input_chunk_max_tokens": 110,
+  "vectors_file": "data/indexes/clinical_embeddings.npy",
+  "metadata_file": "data/indexes/clinical_embedding_metadata.jsonl",
+  "batch_size": 32
+}

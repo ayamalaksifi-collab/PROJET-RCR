@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "medicine_id": "M014",
+  "standardized_dci": "amoxicilline + acide clavulanique",
+  "source_document_id": "02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e",
+  "source_text": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/extracted/02_Enfants_100mg_12.5mg_mL_Fiche_info.txt",
+  "source_pdf": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/raw/02_Enfants_100mg_12.5mg_mL_Fiche_info.pdf",
+  "document_dates": {
+    "webpage_last_updated_date_raw": null,
+    "webpage_last_updated_date_meaning": "Date displayed by the public medicine database page.",
+    "rcp_information_updated_date_raw": null,
+    "rcp_information_updated_date_meaning": "Date displayed by ANSM for the product information/RCP."
+  },
+  "regulatory_metadata": null,
+  "passage_count": 3,
+  "passages": [
+    {
+      "passage_id": "RCP-M014-02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e-001-01",
+      "source_document_id": "02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e",
+      "medicine_id": "M014",
+      "standardized_dci": "amoxicilline + acide clavulanique",
+      "source_pdf": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/raw/02_Enfants_100mg_12.5mg_mL_Fiche_info.pdf",
+      "source_text": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/extracted/02_Enfants_100mg_12.5mg_mL_Fiche_info.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "AMOXICILLINE ACIDE CLAVULANIQUE ARROW 100 mg/12,5 mg par mL ENFANTS\nPoudre pour suspension buvable en flacon — rapport amoxicilline/acide clavulanique : 8/1\nDocument source : fiche information de la Base de Données Publique des Médicaments, 5 pages.\nDernière mise à jour affichée : 03/11/2026.\n\nIDENTIFICATION\n- Présentation : ENFANTS.\n- Forme : poudre pour suspension buvable en flacon.\n- Rapport : amoxicilline/acide clavulanique 8/1.\n- Code ATC : J01CR02.\n- Date d'autorisation affichée : 21/05/2002.\n- Titulaire de l'autorisation : ARROW GENERIQUES.\n- Statut de l'autorisation affiché : valide.\n- Conditions de prescription : Liste I.",
+      "verification_status": "extracted_not_manually_verified"
+    },
+    {
+      "passage_id": "RCP-M014-02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e-001-02",
+      "source_document_id": "02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e",
+      "medicine_id": "M014",
+      "standardized_dci": "amoxicilline + acide clavulanique",
+      "source_pdf": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/raw/02_Enfants_100mg_12.5mg_mL_Fiche_info.pdf",
+      "source_text": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/extracted/02_Enfants_100mg_12.5mg_mL_Fiche_info.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "COMPOSITION\nPour 1 mL de suspension reconstituée :\n- amoxicilline : 100 mg, sous forme trihydratée ;\n- acide clavulanique : 12,50 mg, sous forme de clavulanate de potassium.\n\nINDICATIONS (résumé de la fiche)\nUtilisation chez les nourrissons et les enfants pour traiter notamment :\n- infections de l'oreille moyenne et des sinus ;\n- infections des voies respiratoires ;\n- infections des voies urinaires ;\n- infections de la peau et des tissus mous, y compris infections dentaires ;\n- infections des os et des articulations.",
+      "verification_status": "extracted_not_manually_verified"
+    },
+    {
+      "passage_id": "RCP-M014-02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e-001-03",
+      "source_document_id": "02_ENFANTS_100MG_12_5MG_ML_FICHE_INF-1382028e7e",
+      "medicine_id": "M014",
+      "standardized_dci": "amoxicilline + acide clavulanique",
+      "source_pdf": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/raw/02_Enfants_100mg_12.5mg_mL_Fiche_info.pdf",
+      "source_text": "Pharmeazor/documents/Amoxicilline + Acide clavulanique/extracted/02_Enfants_100mg_12.5mg_mL_Fiche_info.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "PRÉSENTATION ET INFORMATIONS COMMERCIALES\n- Présentation affichée : flacon en verre de 10,5 g de poudre avec seringue(s) pour administration orale.\n- Code CIP : 359 483-3 ou 34009 359 483 3 5.\n- Déclaration d'arrêt de commercialisation : 01/10/2025.\n- La fiche indique : « Ce médicament n'est ou ne sera bientôt plus disponible sur le marché. »\n- Le document indique que cette présentation n'est pas agréée aux collectivités.\n- Titulaire : ARROW GENERIQUES.\n- Prescription : Liste I.\n\nIMPORTANT\nCe fichier est une fiche d'information produit et non le RCP complet. Il est conservé séparément du RCP NOURRISSONS. Ne pas fusionner les données commerciales et de présentation de cette fiche avec le JSON du RCP.",
+      "verification_status": "extracted_not_manually_verified"
+    }
+  ]
+}

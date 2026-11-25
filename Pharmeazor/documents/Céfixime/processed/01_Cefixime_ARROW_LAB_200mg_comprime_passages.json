@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "medicine_id": "M015",
+  "standardized_dci": "céfixime",
+  "source_document_id": "01_CEFIXIME_ARROW_LAB_200MG_COMPRIME-4ae13716d8",
+  "source_text": "Pharmeazor/documents/Céfixime/extracted/01_Cefixime_ARROW_LAB_200mg_comprime.txt",
+  "source_pdf": "Pharmeazor/documents/Céfixime/raw/01_Cefixime_ARROW_LAB_200mg_comprime.pdf",
+  "document_dates": {
+    "webpage_last_updated_date_raw": null,
+    "webpage_last_updated_date_meaning": "Date displayed by the public medicine database page.",
+    "rcp_information_updated_date_raw": null,
+    "rcp_information_updated_date_meaning": "Date displayed by ANSM for the product information/RCP."
+  },
+  "regulatory_metadata": null,
+  "passage_count": 2,
+  "passages": [
+    {
+      "passage_id": "RCP-M015-01_CEFIXIME_ARROW_LAB_200MG_COMPRIME-4ae13716d8-001-01",
+      "source_document_id": "01_CEFIXIME_ARROW_LAB_200MG_COMPRIME-4ae13716d8",
+      "medicine_id": "M015",
+      "standardized_dci": "céfixime",
+      "source_pdf": "Pharmeazor/documents/Céfixime/raw/01_Cefixime_ARROW_LAB_200mg_comprime.pdf",
+      "source_text": "Pharmeazor/documents/Céfixime/extracted/01_Cefixime_ARROW_LAB_200mg_comprime.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "CEFIXIME ARROW LAB 200 mg — Résumé des caractéristiques du produit\nSource: text pasted by the user in chat; original PDF not provided.\nExtraction status: partial; transcription contains missing values and OCR errors.\n\nKey information captured from the supplied text:\nMedicine: CEFIXIME ARROW LAB 200 mg, comprimé pelliculé\nStrength: 200 mg per tablet\nPharmaceutical form: Film-coated tablet\nATC: J01DD08 (explicitly present in the supplied French RCP text).\n\nIndications:\n- Acute pyelonephritis without uropathy\n- Complicated or uncomplicated lower urinary tract infections, except prostatitis\n- Bacterial superinfections of acute bronchitis and exacerbations of chronic bronchitis\n- Suspected bacterial pneumonia\n- Acute sinusitis and otitis\n- Male gonococcal urethritis\n\nPosology information:\n- Adults and children over 12 years: 400 mg/day in two administrations 12 hours apart.\n- Gonococcal urethritis: the supplied text indicates a single dose of two 200 mg tablets (400 mg).\n- If creatinine clearance is below 20 mL/min, including haemodialysis: do not exceed 200 mg/day in one administration.\n- No dosage adjustment stated for hepatic impairment.\n\nContraindications:\n- Hypersensitivity to cefixime, a cephalosporin antibiotic, or an excipient.\n\nWarnings / precautions:\n- Stop treatment if an allergic manifestation occurs.\n- Use particular caution in patients with penicillin allergy because of possible cross-allergy.\n- Consider antibiotic-associated and pseudomembranous colitis in patients with diarrhoea.\n- Serious skin reactions, haemolytic anaemia and encephalopathy are described.",
+      "verification_status": "extracted_not_manually_verified"
+    },
+    {
+      "passage_id": "RCP-M015-01_CEFIXIME_ARROW_LAB_200MG_COMPRIME-4ae13716d8-001-02",
+      "source_document_id": "01_CEFIXIME_ARROW_LAB_200MG_COMPRIME-4ae13716d8",
+      "medicine_id": "M015",
+      "standardized_dci": "céfixime",
+      "source_pdf": "Pharmeazor/documents/Céfixime/raw/01_Cefixime_ARROW_LAB_200mg_comprime.pdf",
+      "source_text": "Pharmeazor/documents/Céfixime/extracted/01_Cefixime_ARROW_LAB_200mg_comprime.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "- Dose adjustment may be needed in severe renal impairment.\n\nExcipients note: The supplied excerpt lists pregelatinized maize starch, calcium hydrogen phosphate, magnesium stearate, microcrystalline cellulose, hypromellose, polyvinyl alcohol, titanium dioxide, talc, soy lecithin and xanthan gum; verify against the official RCP because the OCR text is imperfect.\n\nImportant: consult the original official RCP to verify every dose, age, unit, frequency, and excipient before using this extraction.",
+      "verification_status": "extracted_not_manually_verified"
+    }
+  ]
+}

@@ -308,7 +308,10 @@ def remove_regulatory_block(text: str) -> str:
 
 def process_one(text_file: Path, medicines: list[dict]) -> tuple[dict, list[dict]]:
     text_file = text_file.resolve()
-    if text_file.parent.name != "extracted":
+    # Windows preserves folder capitalization from different contributors
+    # (for example `Extracted` versus `extracted`). Treat the standard folder
+    # name case-insensitively while keeping the source path as it exists.
+    if text_file.parent.name.casefold() != "extracted":
         raise ValueError("Text file must be under a medicine's extracted/ directory.")
     medicine = medicine_for_folder(text_file.parent.parent, medicines)
     if medicine is None:

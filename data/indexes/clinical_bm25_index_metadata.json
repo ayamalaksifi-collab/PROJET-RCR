@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-11-25T11:10:37.035405+00:00",
+  "input_chunks_file": "data/processed/retrieval_chunks.jsonl",
+  "index_file": "data/indexes/clinical_bm25_index.json",
+  "algorithm": "BM25",
+  "parameters": {
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "normalization": "casefold, accent removal, non-alphanumeric replacement",
+  "token_policy": "tokens with two or more characters; French/English stop-word list removed",
+  "indexed_field": "embedding_text (DCI + section + evidence text)",
+  "document_count": 17205,
+  "unique_term_count": 18448,
+  "average_document_length": 28.36268526591107,
+  "chunk_id_count": 17205
+}

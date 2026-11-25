@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "medicine_id": "M015",
+  "standardized_dci": "céfixime",
+  "source_document_id": "02_CEFIXIME_ARROW_ENFANTS_100MG_5ML_-1a000d5276",
+  "source_text": "Pharmeazor/documents/Céfixime/extracted/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.txt",
+  "source_pdf": "Pharmeazor/documents/Céfixime/raw/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.pdf",
+  "document_dates": {
+    "webpage_last_updated_date_raw": null,
+    "webpage_last_updated_date_meaning": "Date displayed by the public medicine database page.",
+    "rcp_information_updated_date_raw": null,
+    "rcp_information_updated_date_meaning": "Date displayed by ANSM for the product information/RCP."
+  },
+  "regulatory_metadata": null,
+  "passage_count": 2,
+  "passages": [
+    {
+      "passage_id": "RCP-M015-02_CEFIXIME_ARROW_ENFANTS_100MG_5ML_-1a000d5276-001-01",
+      "source_document_id": "02_CEFIXIME_ARROW_ENFANTS_100MG_5ML_-1a000d5276",
+      "medicine_id": "M015",
+      "standardized_dci": "céfixime",
+      "source_pdf": "Pharmeazor/documents/Céfixime/raw/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.pdf",
+      "source_text": "Pharmeazor/documents/Céfixime/extracted/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "CEFIXIME ARROW ENFANTS 100 mg/5 mL — Résumé des caractéristiques du produit\nSource: text pasted by the user in chat; original PDF not provided.\nExtraction status: partial; transcription contains missing values and OCR errors.\n\nKey information captured from the supplied text:\nMedicine: CEFIXIME ARROW ENFANTS 100 mg/5 mL, poudre pour suspension buvable\nStrength: 100 mg per 5 mL of reconstituted suspension\nPharmaceutical form: Powder for oral suspension\nATC: J01DD08 (explicitly present in the supplied French RCP text).\n\nIndications:\n- Bronchial and pulmonary infections in children over 6 months\n- Acute otitis media, particularly recurrent cases\n- Acute pyelonephritis as follow-on treatment after at least 4 days of parenteral antibiotic therapy\n- Lower urinary tract infections in children over 3 years, excluding severe cases\n\nPosology information:\n- Children over 6 months: 8 mg/kg/day in two administrations 12 hours apart (4 mg/kg per dose), as transcribed in the supplied text.\n- If creatinine clearance is below 20 mL/min, including haemodialysis: the supplied text indicates a maximum of 4 mg/kg/day in one administration.\n- No dosage adjustment stated for hepatic impairment.\n- Reconstitution instructions in the supplied excerpt: add water to the bottle mark, shake, top up if needed, then shake again.\n\nContraindications:\n- Hypersensitivity to cefixime, a cephalosporin antibiotic, or an excipient.\n\nWarnings / precautions:\n- The supplied text recommends not using cefixime in children under 6 months in the absence of specific studies.",
+      "verification_status": "extracted_not_manually_verified"
+    },
+    {
+      "passage_id": "RCP-M015-02_CEFIXIME_ARROW_ENFANTS_100MG_5ML_-1a000d5276-001-02",
+      "source_document_id": "02_CEFIXIME_ARROW_ENFANTS_100MG_5ML_-1a000d5276",
+      "medicine_id": "M015",
+      "standardized_dci": "céfixime",
+      "source_pdf": "Pharmeazor/documents/Céfixime/raw/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.pdf",
+      "source_text": "Pharmeazor/documents/Céfixime/extracted/02_Cefixime_ARROW_ENFANTS_100mg_5mL_suspension.txt",
+      "source_type": "unknown_document_type",
+      "authority": "to_be_verified_from_source_registry",
+      "page_start": 1,
+      "page_end": 1,
+      "section": "Document information",
+      "text": "- Stop treatment if an allergic manifestation occurs.\n- Consider antibiotic-associated and pseudomembranous colitis in patients with diarrhoea.\n- Serious skin reactions, haemolytic anaemia and encephalopathy are described.\n- The product contains sucrose and maltodextrin; check the official leaflet for the complete excipient and allergy information.\n\nExcipients note: The full excipient list is not completely legible in the pasted excerpt. Sucrose and maltodextrin are explicitly identified as excipients with known effects.\n\nImportant: consult the original official RCP to verify every dose, age, unit, frequency, and excipient before using this extraction.",
+      "verification_status": "extracted_not_manually_verified"
+    }
+  ]
+}

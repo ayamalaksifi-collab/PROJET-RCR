@@ -1,0 +1,8 @@
+{
+  "status": "complete",
+  "completed_at_utc": "2026-11-25T12:13:06.104456+00:00",
+  "total_chunks": 17205,
+  "completed_chunks": 17205,
+  "percent_complete": 100.0,
+  "vectors_file": "data/indexes/clinical_embeddings.npy"
+}
