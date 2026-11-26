@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "created_at_utc": "2026-11-13T19:23:10.376641+00:00",
-  "last_reviewed": "2026-11-13",
+  "last_reviewed": "2026-11-26",
   "policy": "No automated collection is allowed unless the source registry explicitly records permitted access after terms-of-use and robots review.",
   "sources": [
     {
@@ -24,6 +24,24 @@
       ],
       "limitations": [
         "Ne contient pas à elle seule les indications, contre-indications, posologies ou effets indésirables."
+      ],
+      "document_count": 1,
+      "files": [
+        {
+          "file_name": "clean_NOMENCLATURE.VERSION.AOUT_.2026-.xlsx",
+          "version": "Août 2026",
+          "md5": "6f81d890ed335bc790e116fb5151dcb8",
+          "size_bytes": 1252820,
+          "copies_found_in": [
+            "Pharmeazor/documents/diclofenac/",
+            "Pharmeazor/documents/Ibuprofène/",
+            "Pharmeazor/documents/paracetamol/"
+          ],
+          "derived_dataset": "data/processed/nomenclature_working.json"
+        }
+      ],
+      "issues": [
+        "Le classeur est copié 3 fois dans Pharmeazor/documents/<médicament>/ ; l'original devrait être uniquement dans data/raw/ (actuellement vide, .gitkeep seul)."
       ]
     },
     {
@@ -34,7 +52,7 @@
       "url": "https://rcp.anpp.dz/",
       "access_method": "manual_search_then_download",
       "automation_status": "blocked_pending_terms_and_robots_review",
-      "collection_status": "not_collected",
+      "collection_status": "partially_collected",
       "applicable_data": [
         "RCP",
         "indications",
@@ -45,6 +63,39 @@
       "limitations": [
         "Source prioritaire lorsqu’un RCP algérien est disponible.",
         "Ne pas automatiser la collecte avant une vérification documentée des conditions d’utilisation et de robots.txt."
+      ],
+      "document_count": 2,
+      "collection_note": "Collecte manuelle. Origine ANPP à confirmer pour chaque fichier (URL de la fiche non enregistrée).",
+      "files": [
+        {
+          "file_name": "2702.pdf",
+          "medicine_id": "M003",
+          "medicine": "diclofénac",
+          "document_type": "RCP",
+          "product": "FLOVENAC (diclofénac sodique 50 mg)",
+          "document_date": "2016-04-11",
+          "pages": 13,
+          "path": "Pharmeazor/documents/diclofenac/2702.pdf",
+          "md5": "f1c99975855f93efed69550b52b06624",
+          "text_layer": true,
+          "origin_confirmed": false
+        },
+        {
+          "file_name": "2631.pdf",
+          "medicine_id": "M001",
+          "medicine": "paracétamol",
+          "document_type": "RCP/notice",
+          "product": "DOLYC 500 mg / 1 g (paracétamol)",
+          "pages": 2,
+          "path": "Pharmeazor/documents/paracetamol/2631.pdf",
+          "md5": "493f8ae12b09003a7cf7d3c9f225e4ba",
+          "text_layer": "OCR de mauvaise qualité (texte déformé)",
+          "origin_confirmed": false
+        }
+      ],
+      "issues": [
+        "2631.pdf : texte extrait déformé, vérifier/ré-OCR avant traitement.",
+        "Aucun RCP ANPP pour l'ibuprofène (M002) ; seule une fiche française est disponible (SRC005)."
       ]
     },
     {
@@ -56,7 +107,7 @@
       "access_method": "download_public_pdf",
       "automation_status": "permitted_by_robots_txt",
       "robots_txt": "https://ansm.sante.fr/robots.txt",
-      "collection_status": "not_collected",
+      "collection_status": "collected",
       "applicable_data": [
         "interactions",
         "niveau de gravité",
@@ -65,6 +116,25 @@
       "limitations": [
         "Source institutionnelle étrangère : complément, jamais substitut d’une source algérienne.",
         "Le RCP de la spécialité reste nécessaire pour l’information exhaustive."
+      ],
+      "document_count": 1,
+      "files": [
+        {
+          "file_name": "20230915-thesaurus-interactions-medicamenteuses-septembre-2023.pdf",
+          "document_type": "Thésaurus des interactions",
+          "document_date": "2023-09",
+          "pages": 263,
+          "md5": "24c5ed1baae8a2fe4164406563b365b1",
+          "size_bytes": 2848327,
+          "copies_found_in": [
+            "Pharmeazor/documents/diclofenac/",
+            "Pharmeazor/documents/Ibuprofène/",
+            "Pharmeazor/documents/paracetamol/"
+          ]
+        }
+      ],
+      "issues": [
+        "Le même PDF est dupliqué dans 3 dossiers ; un seul exemplaire central suffit."
       ]
     },
     {
@@ -82,7 +152,55 @@
       ],
       "limitations": [
         "Référence de classification ; ne fournit pas les informations cliniques de produit nécessaires au RAG."
+      ],
+      "document_count": 0
+    },
+    {
+      "source_id": "SRC005",
+      "name": "AFSSAPS (devenue ANSM) — Fiche d'aide à l'automédication : ibuprofène",
+      "authority_rank": 3,
+      "country": "France",
+      "url": null,
+      "access_method": "manual_download",
+      "automation_status": "not_applicable",
+      "collection_status": "collected",
+      "document_count": 1,
+      "applicable_data": [
+        "conseils d'automédication",
+        "précautions",
+        "effets indésirables (résumé)"
+      ],
+      "limitations": [
+        "Document de vulgarisation de 2008, pas un RCP ; ne remplace pas un RCP.",
+        "Source étrangère : complément, jamais substitut d'une source algérienne.",
+        "URL d'origine non enregistrée."
+      ],
+      "files": [
+        {
+          "file_name": "38aaf48cd61b766d745aae36c3c75f89.pdf",
+          "medicine_id": "M002",
+          "medicine": "ibuprofène",
+          "document_type": "fiche automédication",
+          "document_date": "2008-06",
+          "pages": 2,
+          "path": "Pharmeazor/documents/Ibuprofène/38aaf48cd61b766d745aae36c3c75f89.pdf",
+          "md5": "fb6ba687be2292de39e64f4cd17ab6e6",
+          "text_layer": true
+        }
       ]
     }
-  ]
+  ],
+  "updated_at_utc": "2026-11-26",
+  "update_note": "Mise à jour d'après le contenu réel du dossier Pharmeazor/documents (3 médicaments sur 40 couverts).",
+  "coverage_summary": {
+    "medicines_in_scope": 40,
+    "medicines_with_local_documents": 3,
+    "medicines_with_documents": [
+      "M001 paracétamol",
+      "M002 ibuprofène",
+      "M003 diclofénac"
+    ],
+    "clinical_documents_collected": 3,
+    "shared_reference_documents": 2
+  }
 }
