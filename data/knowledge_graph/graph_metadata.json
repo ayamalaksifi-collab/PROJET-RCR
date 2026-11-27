@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "generated_at_utc": "2026-11-27T10:59:45.212420+00:00",
+  "generator": "scripts/build_knowledge_graph.py",
+  "ontology": "data/knowledge_graph/ontology.json",
+  "inputs": [
+    "data/processed/medicines_cleaned.json",
+    "data/processed/nomenclature_working.json",
+    "data/processed/clinical_passages.jsonl"
+  ],
+  "scope": "Baseline identity, nomenclature-product, document and passage graph. Clinical candidate relations are not generated in this baseline.",
+  "counts": {
+    "medicine_nodes_expected": 40,
+    "medicine_nodes_with_documents": 40,
+    "source_document_nodes": 108,
+    "passage_nodes": 6414,
+    "total_nodes": 8471,
+    "total_edges": 8618,
+    "node_types": {
+      "Brand": 619,
+      "DCI": 40,
+      "Medicine": 40,
+      "Passage": 6414,
+      "PharmaceuticalForm": 131,
+      "Registration": 1015,
+      "SourceDocument": 108,
+      "Strength": 104
+    },
+    "relation_types": {
+      "contains_passage": 6414,
+      "has_brand": 619,
+      "has_dci": 40,
+      "has_form": 255,
+      "has_registration": 1015,
+      "has_source_document": 108,
+      "has_strength": 167
+    }
+  },
+  "validation": {
+    "all_40_medicine_nodes_present": true,
+    "all_40_medicines_have_source_document": true,
+    "duplicate_passage_ids": [],
+    "documents_linked_to_multiple_medicines": {},
+    "clinical_edges_generated": 0,
+    "clinical_edge_policy": "Clinical candidate edges require a later section-aware extraction and remain extracted_not_manually_verified until manually checked."
+  }
+}

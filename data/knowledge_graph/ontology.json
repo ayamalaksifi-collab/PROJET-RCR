@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "title": "Pharmeazor minimal medicine knowledge-graph ontology",
+  "language": "fr",
+  "purpose": "Traceable medicine, product and source-evidence relations for the 40-medicine project corpus.",
+  "scope_note": "This ontology represents source-supported information. It must not be used to prescribe, diagnose, or infer patient-specific doses.",
+  "node_types": {
+    "Medicine": {
+      "description": "One of the 40 project medicines, identified by its stable M001-M040 ID.",
+      "id_pattern": "med:M###",
+      "required_properties": ["medicine_id", "label", "standardized_dci"]
+    },
+    "DCI": {
+      "description": "Standardized active-substance name (Denomination Commune Internationale).",
+      "id_pattern": "dci:<normalized-name>",
+      "required_properties": ["label"]
+    },
+    "Brand": {
+      "description": "Commercial/product name recorded in a source.",
+      "id_pattern": "brand:<normalized-name>",
+      "required_properties": ["label"]
+    },
+    "PharmaceuticalForm": {
+      "description": "Dosage form, for example comprimé pelliculé, gélule or solution injectable.",
+      "id_pattern": "form:<normalized-name>",
+      "required_properties": ["label"]
+    },
+    "Strength": {
+      "description": "Product strength or concentration exactly as documented, for example 400 mg or 125 mg/5 mL. This is not a patient dose.",
+      "id_pattern": "strength:<normalized-value>",
+      "required_properties": ["label"]
+    },
+    "Registration": {
+      "description": "Registration number from a structured product source, when available.",
+      "id_pattern": "registration:<normalized-value>",
+      "required_properties": ["label"]
+    },
+    "SourceDocument": {
+      "description": "A collected RCP, leaflet, prescribing-information document or other named source document.",
+      "id_pattern": "doc:<normalized-document-id>",
+      "required_properties": ["label", "document_type", "source_path"]
+    },
+    "Passage": {
+      "description": "A processed, page-traceable passage from a SourceDocument.",
+      "id_pattern": "passage:<processed-passage-id>",
+      "required_properties": ["passage_id", "section", "page_start", "page_end"]
+    },
+    "Indication": {
+      "description": "A source-supported therapeutic indication phrase. It remains source-specific until manually normalized.",
+      "id_pattern": "indication:<normalized-phrase>",
+      "required_properties": ["label"]
+    },
+    "Contraindication": {
+      "description": "A source-supported contraindication phrase. It remains source-specific until manually normalized.",
+      "id_pattern": "contraindication:<normalized-phrase>",
+      "required_properties": ["label"]
+    },
+    "AdverseEffect": {
+      "description": "A source-supported adverse-effect phrase. It remains source-specific until manually normalized.",
+      "id_pattern": "adverse_effect:<normalized-phrase>",
+      "required_properties": ["label"]
+    },
+    "InteractionTerm": {
+      "description": "A medicine, substance, class or interaction concept named in an interaction source passage.",
+      "id_pattern": "interaction:<normalized-phrase>",
+      "required_properties": ["label"]
+    }
+  },
+  "relation_types": {
+    "has_dci": {
+      "from": "Medicine",
+      "to": "DCI",
+      "clinical": false,
+      "description": "Links a project medicine to its standardized active substance."
+    },
+    "has_brand": {
+      "from": "Medicine",
+      "to": "Brand",
+      "clinical": false,
+      "description": "Links a medicine to a commercial/product name recorded in a source."
+    },
+    "has_form": {
+      "from": "Medicine",
+      "to": "PharmaceuticalForm",
+      "clinical": false,
+      "description": "Links a medicine to a documented pharmaceutical form."
+    },
+    "has_strength": {
+      "from": "Medicine",
+      "to": "Strength",
+      "clinical": false,
+      "description": "Links a medicine to product strength/concentration, never to an inferred patient dose."
+    },
+    "has_registration": {
+      "from": "Medicine",
+      "to": "Registration",
+      "clinical": false,
+      "description": "Links a medicine to a registration number from the nomenclature."
+    },
+    "has_source_document": {
+      "from": "Medicine",
+      "to": "SourceDocument",
+      "clinical": false,
+      "description": "Links a medicine to a collected document about it."
+    },
+    "contains_passage": {
+      "from": "SourceDocument",
+      "to": "Passage",
+      "clinical": false,
+      "description": "Links a source document to one of its processed passages."
+    },
+    "has_indication": {
+      "from": "Medicine",
+      "to": "Indication",
+      "clinical": true,
+      "description": "A candidate source-supported indication relation."
+    },
+    "has_contraindication": {
+      "from": "Medicine",
+      "to": "Contraindication",
+      "clinical": true,
+      "description": "A candidate source-supported contraindication relation."
+    },
+    "has_adverse_effect": {
+      "from": "Medicine",
+      "to": "AdverseEffect",
+      "clinical": true,
+      "description": "A candidate source-supported adverse-effect relation."
+    },
+    "interacts_with": {
+      "from": "Medicine",
+      "to": "InteractionTerm",
+      "clinical": true,
+      "description": "A candidate source-supported interaction relation; the object can be a medicine, substance or class phrase."
+    }
+  },
+  "edge_evidence_rules": {
+    "all_edges": ["source_dataset", "extraction_method", "verification_status"],
+    "clinical_edges": ["evidence_passage_id", "source_document_id", "page_start", "page_end"],
+    "default_verification_status": "extracted_not_manually_verified",
+    "ambiguous_fact_handling": "Write the candidate to review_queue.jsonl instead of edges.jsonl.",
+    "forbidden_inference": [
+      "Do not infer a patient dose from a strength.",
+      "Do not convert a condition mentioned in a warning into a contraindication without clear source wording.",
+      "Do not merge similar clinical phrases unless a manual reviewer records the normalization decision."
+    ]
+  }
+}
