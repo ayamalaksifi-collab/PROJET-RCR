@@ -1,0 +1,1430 @@
+{
+  "summary": {
+    "question_count": 15,
+    "top_k": 3,
+    "bm25": {
+      "hit@3": 0.6666666666666666,
+      "mrr@3": 0.6222222222222221
+    },
+    "semantic": {
+      "hit@3": 0.6,
+      "mrr@3": 0.5333333333333333
+    },
+    "note": "A question is a hit if at least one expected chunk appears in the top-k. MRR uses the rank of the first expected chunk."
+  },
+  "questions": [
+    {
+      "question_id": "Q01",
+      "question": "Dysménorrhées : 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser combien de comprimés à 400 mg par jour ?",
+      "medicine_id": "M002",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 61.140657,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Dysménorrhées 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour) à commencer dès l'apparition des règles et pendant une durée de 1 à 3 jours."
+          },
+          {
+            "rank": 2,
+            "score": 56.021676,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Douleurs dans l'arthrose (hanche, genou) 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          },
+          {
+            "rank": 3,
+            "score": 50.303823,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-01",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Crise de migraine 1 comprimé à 400 mg à prendre le plus tôt possible dès le début de la crise de migraine. Affections douloureuses et/ou états fébriles 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.827368,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Dysménorrhées 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour) à commencer dès l'apparition des règles et pendant une durée de 1 à 3 jours."
+          },
+          {
+            "rank": 2,
+            "score": 0.648622,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Douleurs dans l'arthrose (hanche, genou) 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          },
+          {
+            "rank": 3,
+            "score": 0.577294,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-017-01-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-017-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "5.2. Propriétés pharmacocinétiques",
+            "page_start": 15,
+            "page_end": 15,
+            "text": "Absorption La concentration sérique maximale est atteinte 90 minutes environ après administration par voie orale. Après prise unique, les concentrations sériques maximales sont proportionnelles à la dose (Cmax 17 ± 3,5 µ g/ml pour un comprimé de 200 mg et 30,3 ± 4,7 µ g/ml pour un comprimé de 400 mg)."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q02",
+      "question": "Jusqu'à quelle température peut-on entreposer les comprimés d'ibuprofène 400 mg ?",
+      "medicine_id": "M002",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-023-01-01"
+      ],
+      "bm25": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 19.363626,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Douleurs dans l'arthrose (hanche, genou) 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          },
+          {
+            "rank": 2,
+            "score": 18.612654,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Dysménorrhées 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour) à commencer dès l'apparition des règles et pendant une durée de 1 à 3 jours."
+          },
+          {
+            "rank": 3,
+            "score": 18.216051,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-01",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Crise de migraine 1 comprimé à 400 mg à prendre le plus tôt possible dès le début de la crise de migraine. Affections douloureuses et/ou états fébriles 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.753404,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Dysménorrhées 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour) à commencer dès l'apparition des règles et pendant une durée de 1 à 3 jours."
+          },
+          {
+            "rank": 2,
+            "score": 0.718299,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-017-02-03",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-017-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "5.2. Propriétés pharmacocinétiques",
+            "page_start": 15,
+            "page_end": 15,
+            "text": "Après la prise de 400 mg d'ibuprofène toutes les 6 heures par les femmes qui allaitent, la quantité d'ibuprofène retrouvée dans leur lait est inférieure à 1 mg par 24 heures.\n\nBiotransformation L'ibuprofène n'a pas d'effet inducteur enzymatique. Il est métabolisé pour 90 % sous forme de métabolites inactifs."
+          },
+          {
+            "rank": 3,
+            "score": 0.712843,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-02",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Douleurs dans l'arthrose (hanche, genou) 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser 3 comprimés à 400 mg par jour (soit 1200 mg par jour)."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q03",
+      "question": "Un adolescent de 14 ans peut-il prendre du naproxène sodique 550 mg ?",
+      "medicine_id": "M005",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-008-01-03"
+      ],
+      "bm25": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 26.21787,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-002-01-01",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-002-01",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable"
+          },
+          {
+            "rank": 2,
+            "score": 24.847827,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08-03",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Si le patient a développé un syndrome de Stevens-Johnson ou une nécrolyse épidermique toxique ou un DRESS lors de l’utilisation de NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable, le traitement par NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable ne doit pas être repris"
+          },
+          {
+            "rank": 3,
+            "score": 22.445607,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-011-01-05",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-011-01",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 10,
+            "page_end": 10,
+            "text": "En cas de survenue d'oligoamnios, ou de constriction du canal artériel, le traitement par NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable doit être interrompu."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.630369,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-017-01-02",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-017-01",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "5.2. Propriétés pharmacocinétiques",
+            "page_start": 14,
+            "page_end": 14,
+            "text": "A des doses supérieures à 500 mg, l'élévation plasmatique du naproxène n'est pas proportionnelle à la dose ingérée. Distribution La fixation sur les protéines plasmatiques est d'environ 99 pour cent."
+          },
+          {
+            "rank": 2,
+            "score": 0.627895,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-13-01",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-13",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 7,
+            "page_end": 7,
+            "text": "Excipient à effet notoire Ce médicament contient 50 mg de sodium par comprimé, ce qui équivaut à 2,5 % de l’apport alimentaire quotidien maximal recommandé par l’OMS de 2 g de sodium par adulte."
+          },
+          {
+            "rank": 3,
+            "score": 0.610555,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08-03",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Si le patient a développé un syndrome de Stevens-Johnson ou une nécrolyse épidermique toxique ou un DRESS lors de l’utilisation de NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable, le traitement par NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable ne doit pas être repris"
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q04",
+      "question": "Quel est le traitement d'attaque en rhumatologie et gynécologie chez l'adulte avec le naproxène sodique 550 mg ?",
+      "medicine_id": "M005",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02-01"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 47.795355,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02-01",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 3,
+            "page_end": 3,
+            "text": "Adulte  Rhumatologie, gynécologie : o traitement d'attaque : 2 comprimés à 550 mg, soit 1100 mg par jour ; o traitement d'entretien : 1 comprimé à 550 mg, soit 550 mg par jour.  Stomatologie : ½ à 2 comprimé(s) par jour, soit 275 mg à 1100 mg par 24 heures."
+          },
+          {
+            "rank": 2,
+            "score": 26.837552,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08-03",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-08",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Si le patient a développé un syndrome de Stevens-Johnson ou une nécrolyse épidermique toxique ou un DRESS lors de l’utilisation de NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable, le traitement par NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable ne doit pas être repris"
+          },
+          {
+            "rank": 3,
+            "score": 26.21787,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-002-01-01",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-002-01",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT NAPROXENE SODIQUE ARROW 550 mg, comprimé pelliculé sécable"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.813141,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02-01",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 3,
+            "page_end": 3,
+            "text": "Adulte  Rhumatologie, gynécologie : o traitement d'attaque : 2 comprimés à 550 mg, soit 1100 mg par jour ; o traitement d'entretien : 1 comprimé à 550 mg, soit 550 mg par jour.  Stomatologie : ½ à 2 comprimé(s) par jour, soit 275 mg à 1100 mg par 24 heures."
+          },
+          {
+            "rank": 2,
+            "score": 0.698423,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-10-04",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-009-10",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 6,
+            "page_end": 6,
+            "text": "Comme le naproxène et ses métabolites sont éliminés en grande partie (95 pour cent) dans les urines par filtration glomérulaire, le naproxène doit être utilisé avec prudence chez les patients dont la fonction rénale est perturbée ; le contrôle de la créatinine est recommandé. Des doses les plus faibles possibles doivent être utilisées chez ces patients."
+          },
+          {
+            "rank": 3,
+            "score": 0.675606,
+            "retrieval_chunk_id": "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-017-01-02",
+            "parent_passage_id": "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-017-01",
+            "medicine_id": "M005",
+            "standardized_dci": "naproxène",
+            "section": "5.2. Propriétés pharmacocinétiques",
+            "page_start": 14,
+            "page_end": 14,
+            "text": "A des doses supérieures à 500 mg, l'élévation plasmatique du naproxène n'est pas proportionnelle à la dose ingérée. Distribution La fixation sur les protéines plasmatiques est d'environ 99 pour cent."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q05",
+      "question": "L'acide acétylsalicylique injectable est-il réservé à l'adulte ou peut-il être utilisé chez l'enfant ?",
+      "medicine_id": "M006",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-007-01-01"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 26.038019,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-007-01-01",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-007-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "4.2. Posologie et mode d'administration RESERVE A L'ADULTE.\n\nMode d’administration Voie injectable. Dissoudre extemporanément le contenu du flacon avec 5 ml d'eau pour préparations injectables."
+          },
+          {
+            "rank": 2,
+            "score": 21.319416,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-08-02",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-08",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 6,
+            "page_end": 6,
+            "text": " le probénécide,  l’anagrélide,  la lévothyroxine. Les flacons d’aspirine injectable sont réservés à l’adulte."
+          },
+          {
+            "rank": 3,
+            "score": 20.547611,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-01-04",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 3,
+            "page_end": 3,
+            "text": "Effets chez l’enfant à naitre ACIDE ACETYLSALICYLIQUE PANPHARMA 1 g, poudre et solvant pour solution injectable expose également le nouveau-né à un risque d’atteinte rénale (insuffisance rénale), de fermeture prématurée du canal artériel et d’hypertension pulmonaire (voir rubrique"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.731027,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-009-02-02",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-009-02",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "En conséquence, l'acide acétylsalicylique ne doit être administré chez ces enfants que sur avis médical, lorsque les autres mesures ont échoué. En cas de vomissements persistants, de troubles de la conscience ou d'un comportement anormal, le traitement par l'acide acétylsalicylique doit être interrompu."
+          },
+          {
+            "rank": 2,
+            "score": 0.718343,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-03-01",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-03",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "En conséquence, l'acide acétylsalicylique ne doit être administré chez ces enfants et ces adolescents que sur avis médical, lorsque les autres mesures ont échoué. En cas d'apparition de vomissements persistants, de troubles de la conscience ou d'un comportement anormal, le traitement par l'acide acétylsalicylique doit être interrompu."
+          },
+          {
+            "rank": 3,
+            "score": 0.704868,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-010-16-02",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-010-16",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+            "page_start": 10,
+            "page_end": 10,
+            "text": "Ainsi, chez le sujet de moins de 65 ans, l'association des héparines à doses préventives à l'acide acétylsalicylique, quelle que soit la dose, doit être prise en compte en maintenant une surveillance clinique et éventuellement biologique."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q06",
+      "question": "À partir de quel stade de la grossesse l'acide acétylsalicylique injectable est-il contre-indiqué pour des doses supérieures à 100 mg par jour ?",
+      "medicine_id": "M006",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-008-02-08"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 41.180604,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-008-02-08",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-008-02",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " grossesse, à partir du début du 6ème mois (24 semaines d’aménorrhée) pour des doses d’aspirine supérieures à 100 mg par jour (voir rubrique 4.6)"
+          },
+          {
+            "rank": 2,
+            "score": 33.307418,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-01-05",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-009-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 3,
+            "page_end": 3,
+            "text": "4.6).\n\nACIDE ACETYLSALICYLIQUE PANPHARMA 1 g, poudre et solvant pour solution injectable est contre- indiqué chez la femme enceinte à partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée)."
+          },
+          {
+            "rank": 3,
+            "score": 32.812447,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-011-01-02",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-011-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 11,
+            "page_end": 11,
+            "text": "Doses comprises entre 100 et 500 mg par jour : L’expérience clinique concernant l’administration de doses comprises entre 100 mg et 500 mg par jour est insuffisante. En conséquence, les recommandations ci-dessous pour les doses supérieures à 500 mg par jour s’appliquent à ces doses. Doses supérieures ou égales à 500 mg par jour :"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.857716,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-011-03-07",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-011-03",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 11,
+            "page_end": 11,
+            "text": "En conséquence pour les doses supérieures à 100 mg/j :  Sauf nécessité absolue, ce médicament ne doit pas être utilisé chez une femme qui envisage une grossesse ou au cours des 5 premiers mois de grossesse (24 premières semaines d’aménorrhée)."
+          },
+          {
+            "rank": 2,
+            "score": 0.834181,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-011-01-01",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_EG_LABO_CONS-ccd57e38db-011-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 10,
+            "page_end": 10,
+            "text": "4.6. Fertilité, grossesse et allaitement Grossesse Faibles doses, inférieures ou égales à 100 mg par jour : Les études cliniques montrent que des doses allant jusqu'à 100 mg/jour semblent être sûres dans le cas d’utilisations obstétricales extrêmement limitées nécessitant une surveillance spécialisée."
+          },
+          {
+            "rank": 3,
+            "score": 0.834181,
+            "retrieval_chunk_id": "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-011-01-01",
+            "parent_passage_id": "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-011-01",
+            "medicine_id": "M006",
+            "standardized_dci": "acide acétylsalicylique",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 11,
+            "page_end": 11,
+            "text": "4.6. Fertilité, grossesse et allaitement Grossesse Faibles doses, inférieures ou égales à 100 mg par jour : Les études cliniques montrent que des doses allant jusqu'à 100 mg/jour semblent être sûres dans le cas d’utilisations obstétricales extrêmement limitées nécessitant une surveillance spécialisée."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q07",
+      "question": "Combien de gélules de tramadol 50 mg un adulte peut-il prendre au maximum en une journée ?",
+      "medicine_id": "M010",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02-02"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 20.582628,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Adultes Normalement, la dose initiale de chlorhydrate de tramadol est de 50 à 100 mg (1 ou 2 gélules) suivie de 50 ou 100 mg toutes les 4 à 6 heures, sans dépasser une dose quotidienne de 400 mg (8 gélules) (voir rubrique 5.1)."
+          },
+          {
+            "rank": 2,
+            "score": 14.313421,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-09-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-09",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "Document information",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "After titration, tramadol hydrochloride tablets 50 to 100 mg can be administered as needed for pain relief every 4 to 6 hours not to exceed 400 mg/day . ( 2.3 , 2.4 )\n\nSevere Renal Impairment : Increase the tramadol hydrochloride tablets dosing interval to 12 hours, and limit maximum daily dose to 200 mg. ( 2.3 )"
+          },
+          {
+            "rank": 3,
+            "score": 13.358508,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-153-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-153",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "Document information",
+            "page_start": 31,
+            "page_end": 31,
+            "text": "Impairment of Fertility No effects on fertility were observed for tramadol at oral dose levels up to 50 mg/kg in male rats and 75 mg/kg in female rats. These dosages are 1.2 and 1.8 times the maximum recommended human daily dose based on body surface area, respectively."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 0.5,
+        "first_relevant_rank": 2,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.817671,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-016-02-03",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-016-02",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "5.1. Propriétés pharmacodynamiques",
+            "page_start": 12,
+            "page_end": 12,
+            "text": "A des doses allant jusqu'à 2 mg/kg en dose unique ou 8 mg/kg par jour en doses multiples (sans dépasser 400 mg par jour), l'efficacité du tramadol a été jugée supérieure au placebo, et supérieure ou égale au paracétamol, à la nalbuphine, à la péthidine ou à la morphine à faible dose."
+          },
+          {
+            "rank": 2,
+            "score": 0.798813,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Adultes Normalement, la dose initiale de chlorhydrate de tramadol est de 50 à 100 mg (1 ou 2 gélules) suivie de 50 ou 100 mg toutes les 4 à 6 heures, sans dépasser une dose quotidienne de 400 mg (8 gélules) (voir rubrique 5.1)."
+          },
+          {
+            "rank": 3,
+            "score": 0.789551,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-154-04",
+            "parent_passage_id": "RCP-M010-TRAMADOL_HYDROCHLORIDE_TRAMADOL_HYDR-32d87f31a8-001-154",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "Document information",
+            "page_start": 32,
+            "page_end": 32,
+            "text": "Average daily doses of approximately 250 mg of tramadol hydrochloride tablets in divided doses were generally comparable to five doses of acetaminophen 300 mg with codeine phosphate 30 mg (TYLENOL with Codeine #3) daily, five doses of aspirin 325 mg with codeine phosphate 30 mg daily, or two to three doses of acetaminophen 500 mg with oxycodone hydrochloride 5 mg (TYLOX )"
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q08",
+      "question": "TRAMADOL ALMUS est contre-indiqué chez les patients traités simultanément ou dans les 14 jours précédents par quels médicaments ?",
+      "medicine_id": "M010",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01-02"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 40.859256,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " chez les patients qui sont traités simultanément ou qui ont été traités dans les 14 jours précédents par les inhibiteurs de la monoamine oxydase (MAO) (voir rubrique 4.5),  en cas d’épilepsie non contrôlée par un traitement,  dans le traitement de sevrage des toxicomanes."
+          },
+          {
+            "rank": 2,
+            "score": 25.866021,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-010-01-01",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-010-01",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions",
+            "page_start": 7,
+            "page_end": 7,
+            "text": "4.5. Interactions avec d'autres médicaments et autres formes d'interactions TRAMADOL ALMUS est contre-indiqué avec les IMAO (voir rubrique 4.3)."
+          },
+          {
+            "rank": 3,
+            "score": 25.158168,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01-01",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": "4.3. Contre-indications TRAMADOL ALMUS est contre-indiqué :  en cas d’hypersensibilité à la substance active ou à l’un des excipients mentionnés à la rubrique 6.1,  en cas d’intoxications aiguës par l’alcool, les hypnotiques, les analgésiques, les opioïdes ou d’autres médicaments psychotropes,"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 0.5,
+        "first_relevant_rank": 2,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.671401,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-009-02-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-009-02",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "En raison de ces risques, la prescription concomitante de ces médicaments sédatifs doit être réservée aux patients pour lesquels d’autres options de traitement ne sont pas possibles. Si une décision est prise de prescrire TRAMADOL ALMUS en association avec des médicaments sédatifs, la dose efficace la plus faible doit être utilisée et la durée du traitement doit être aussi courte que possible."
+          },
+          {
+            "rank": 2,
+            "score": 0.667965,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01-02",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " chez les patients qui sont traités simultanément ou qui ont été traités dans les 14 jours précédents par les inhibiteurs de la monoamine oxydase (MAO) (voir rubrique 4.5),  en cas d’épilepsie non contrôlée par un traitement,  dans le traitement de sevrage des toxicomanes."
+          },
+          {
+            "rank": 3,
+            "score": 0.660163,
+            "retrieval_chunk_id": "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-014-02-04",
+            "parent_passage_id": "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-014-02",
+            "medicine_id": "M010",
+            "standardized_dci": "tramadol",
+            "section": "4.9. Surdosage",
+            "page_start": 12,
+            "page_end": 12,
+            "text": "C’est pourquoi le traitement d’une intoxication aiguë par le TRAMADOL ALMUS à l’aide d’une hémodialyse ou d’une hémofiltration seule n’est pas approprié à une désintoxication."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q09",
+      "question": "Quelle est la dose totale maximale de néfopam injectable par 24 heures ?",
+      "medicine_id": "M012",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-02",
+        "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-03"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 22.781927,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-03",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "La dose unique usuelle recommandée est de 20 mg par injection, répétée toutes les 4 heures, si nécessaire, sans dépasser une dose totale de 120 mg/24 heures. Mode d’administration NEFOPAM ARROW peut être administré dans les solutions usuelles pour perfusion (solution isotonique de chlorure de sodium ou glucosée)."
+          },
+          {
+            "rank": 2,
+            "score": 20.828221,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-02",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Si nécessaire, elle peut être répétée toutes les 6 heures sans dépasser une dose totale de 120 mg/24 heures.  Voie IV : NEFOPAM ARROW doit être administré en perfusion IV lente sur plus de 15 minutes, le patient étant en décubitus, afin d'éviter la survenue d'effets indésirables (nausées, vertiges, sueurs)."
+          },
+          {
+            "rank": 3,
+            "score": 16.286698,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-002-01-01",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-002-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT NEFOPAM ARROW 20 mg/2 mL, solution injectable"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.860526,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-03",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "La dose unique usuelle recommandée est de 20 mg par injection, répétée toutes les 4 heures, si nécessaire, sans dépasser une dose totale de 120 mg/24 heures. Mode d’administration NEFOPAM ARROW peut être administré dans les solutions usuelles pour perfusion (solution isotonique de chlorure de sodium ou glucosée)."
+          },
+          {
+            "rank": 2,
+            "score": 0.804458,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-02",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Si nécessaire, elle peut être répétée toutes les 6 heures sans dépasser une dose totale de 120 mg/24 heures.  Voie IV : NEFOPAM ARROW doit être administré en perfusion IV lente sur plus de 15 minutes, le patient étant en décubitus, afin d'éviter la survenue d'effets indésirables (nausées, vertiges, sueurs)."
+          },
+          {
+            "rank": 3,
+            "score": 0.727054,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-017-01-01",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-017-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "5.2. Propriétés pharmacocinétiques",
+            "page_start": 6,
+            "page_end": 6,
+            "text": "5.2. Propriétés pharmacocinétiques Absorption Après administration d'une dose de 20 mg par voie IM, le pic plasmatique (Tmax) est situé entre 0,5 et 1 heure et les concentrations maximales (Cmax) sont en moyenne de 25 ng/mL. La demi-vie plasmatique moyenne est de 5 heures."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q10",
+      "question": "Le néfopam injectable peut-il être donné à un patient épileptique ?",
+      "medicine_id": "M012",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-008-01-01"
+      ],
+      "bm25": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 16.286698,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-002-01-01",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-002-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT NEFOPAM ARROW 20 mg/2 mL, solution injectable"
+          },
+          {
+            "rank": 2,
+            "score": 15.605512,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-013-02-01",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-013-02",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.8. Effets indésirables",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "*Bien que n'ayant jamais été rapportés, d'autres effets atropiniques que ceux décrits sont susceptibles d'être constatés.\n\nPharmacodépendance L’utilisation de NEFOPAM ARROW peut entraîner une pharmacodépendance. Le risque de dépendance peut varier en fonction des facteurs de risque individuels du patient (voir rubrique 4.4)."
+          },
+          {
+            "rank": 3,
+            "score": 14.147204,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-02",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Si nécessaire, elle peut être répétée toutes les 6 heures sans dépasser une dose totale de 120 mg/24 heures.  Voie IV : NEFOPAM ARROW doit être administré en perfusion IV lente sur plus de 15 minutes, le patient étant en décubitus, afin d'éviter la survenue d'effets indésirables (nausées, vertiges, sueurs)."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.671185,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-009-02-04",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-009-02",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " en raison de ces effets anticholinergiques, le traitement par NEFOPAM ARROW est déconseillé chez le sujet âgé. Excipient à effet notoire Ce médicament contient moins de 1 mmol (23 mg) de sodium par ampoule, c’est-à-dire qu’il est essentiellement « sans sodium »."
+          },
+          {
+            "rank": 2,
+            "score": 0.662104,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-009-01-02",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-009-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "De ce fait, arrêter un morphinique chez un patient physiquement dépendant, et traité par NEFOPAM ARROW, risque d'aboutir à un syndrome de sevrage. Le rapport bénéfice/risque du traitement par NEFOPAM ARROW doit être régulièrement réévalué."
+          },
+          {
+            "rank": 3,
+            "score": 0.658456,
+            "retrieval_chunk_id": "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-016-01-03",
+            "parent_passage_id": "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-016-01",
+            "medicine_id": "M012",
+            "standardized_dci": "néfopam",
+            "section": "5.1. Propriétés pharmacodynamiques",
+            "page_start": 6,
+            "page_end": 6,
+            "text": " Le néfopam a montré un effet sur le frisson post-opératoire au cours d'études cliniques.  Le néfopam n'a aucune action anti-inflammatoire ou antipyrétique. Il n'entraîne pas de dépression respiratoire et ne ralentit pas le transit intestinal.  Le néfopam possède une activité anticholinergique."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q11",
+      "question": "Quelle est la dose maximale de paracétamol par jour chez un adulte pesant moins de 50 kg ?",
+      "medicine_id": "M001",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02-01"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 0.3333333333333333,
+        "first_relevant_rank": 3,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 26.618302,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-01-03",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Uniquement sur avis médical et en l’absence de facteurs de risques concomitants, la posologie peut être augmentée jusqu'à 4000 mg (4 g) par jour, soit 4 comprimés par jour, chez les patients pesant au moins 50 kg (environ 15 ans)."
+          },
+          {
+            "rank": 2,
+            "score": 24.880064,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-03-01",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-03",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Intervalle d’administration\nDose journalière maximale\n\nAdulte et enfant à partir de 50 kg (environ 15 ans) 1000 mg soit 1 g (1 comprimé) 4 heures minimum 3000 mg par jour soit 3 g (3 comprimés)"
+          },
+          {
+            "rank": 3,
+            "score": 23.21962,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02-01",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Populations spéciales La dose maximale quotidienne ne doit pas dépasser 60 mg/kg/jour ni excéder 3000 mg par jour (3 g/jour) dans les situations suivantes :  adultes de moins de 50 kg,  en cas de réserves basses ou déficit en glutathion hépatique (ex : malnutrition chronique, jeûne, amaigrissement récent, anorexie, cachexie),  déshydratation."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.863096,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02-01",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Populations spéciales La dose maximale quotidienne ne doit pas dépasser 60 mg/kg/jour ni excéder 3000 mg par jour (3 g/jour) dans les situations suivantes :  adultes de moins de 50 kg,  en cas de réserves basses ou déficit en glutathion hépatique (ex : malnutrition chronique, jeûne, amaigrissement récent, anorexie, cachexie),  déshydratation."
+          },
+          {
+            "rank": 2,
+            "score": 0.86295,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-007-01-02",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-007-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Il n'est généralement pas nécessaire de dépasser 3 g de paracétamol par jour (6 comprimés par 24 heures). La dose quotidienne maximale est de 4 g (8 comprimés par 24 heures)."
+          },
+          {
+            "rank": 3,
+            "score": 0.844223,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-03-01",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-03",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Intervalle d’administration\nDose journalière maximale\n\nAdulte et enfant à partir de 50 kg (environ 15 ans) 1000 mg soit 1 g (1 comprimé) 4 heures minimum 3000 mg par jour soit 3 g (3 comprimés)"
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q12",
+      "question": "Le paracétamol peut-il être utilisé pendant la grossesse ?",
+      "medicine_id": "M001",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-02",
+        "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01-02"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 23.013746,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01-02",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Si cela s’avère nécessaire d’un point de vue clinique, le paracétamol peut être utilisé pendant la grossesse ; cependant, il devra être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et à la fréquence la plus réduite possible. Allaitement Après administration, le paracétamol est éliminé en petites quantités dans le lait maternel."
+          },
+          {
+            "rank": 2,
+            "score": 22.498059,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-02",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Le paracétamol peut être utilisé pendant la grossesse si cela est cliniquement nécessaire, mais il doit être utilisé à la dose efficace la plus faible possible le moins longtemps possible et à la fréquence la plus faible possible. Allaitement Après administration orale, le paracétamol est sécrété en petites quantités dans le lait maternel."
+          },
+          {
+            "rank": 3,
+            "score": 21.001268,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-04",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Aucun effet indésirable sur les nourrissons allaités n'a été rapporté. Le paracétamol peut être utilisé pendant l'allaitement tant que la posologie recommandée n'est pas dépassée. Il convient d’être prudent en cas d'utilisation à long terme. Fertilité Il n’y a pas d’effet dû au traitement par du paracétamol sur la fertilité."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.863755,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-02",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Le paracétamol peut être utilisé pendant la grossesse si cela est cliniquement nécessaire, mais il doit être utilisé à la dose efficace la plus faible possible le moins longtemps possible et à la fréquence la plus faible possible. Allaitement Après administration orale, le paracétamol est sécrété en petites quantités dans le lait maternel."
+          },
+          {
+            "rank": 2,
+            "score": 0.821828,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01-02",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "Si cela s’avère nécessaire d’un point de vue clinique, le paracétamol peut être utilisé pendant la grossesse ; cependant, il devra être utilisé à la dose efficace la plus faible, pendant la durée la plus courte possible et à la fréquence la plus réduite possible. Allaitement Après administration, le paracétamol est éliminé en petites quantités dans le lait maternel."
+          },
+          {
+            "rank": 3,
+            "score": 0.792046,
+            "retrieval_chunk_id": "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-03",
+            "parent_passage_id": "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01",
+            "medicine_id": "M001",
+            "standardized_dci": "paracétamol",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 5,
+            "page_end": 5,
+            "text": "A ce jour, il n'a pas été rapporté de réactions ou d'effets indésirables en relation avec l'allaitement. Des doses thérapeutiques de paracétamol peuvent être administrées pendant l'allaitement. Le paracétamol est excrété en faibles quantités dans le lait maternel."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q13",
+      "question": "Quelle est la durée du traitement par diclofénac injectable 75 mg ?",
+      "medicine_id": "M003",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-01-02",
+        "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-05-01"
+      ],
+      "bm25": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 21.996613,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-002-01-01",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-002-01",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT DICLOFENAC DELBERT 75 mg/3 ml, solution injectable"
+          },
+          {
+            "rank": 2,
+            "score": 21.337295,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02-05",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "En cas de survenue d'oligoamnios, ou de constriction du canal artériel, le traitement par DICLOFENAC DELBERT 75 mg/3 ml, solution injectable doit être interrompu."
+          },
+          {
+            "rank": 3,
+            "score": 19.154215,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02-03",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "Sauf nécessité absolue, DICLOFENAC DELBERT 75 mg/3 ml, solution injectable ne doit pas être prescrit chez une femme qui envisage une grossesse ou au cours des 5 premiers mois de grossesse (avant 24 semaines d’aménorrhée). Le cas échéant, la dose devra être la plus faible possible et la durée du traitement la plus courte possible."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.878735,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-01-02",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-01",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "Le traitement peut être complété, si besoin, par un comprimé de diclofénac à 50 mg. La durée du traitement est de 2 à 3 jours (ce délai permettant si nécessaire la mise en œuvre du relais thérapeutique par voie orale ou rectale)."
+          },
+          {
+            "rank": 2,
+            "score": 0.837088,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-007-01-05",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-007-01",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.2. Posologie et mode d'administration",
+            "page_start": 2,
+            "page_end": 2,
+            "text": "La dose quotidienne maximale de 150 mg ne doit pas être dépassée."
+          },
+          {
+            "rank": 3,
+            "score": 0.820938,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-016-02-05",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-016-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "5.1. Propriétés pharmacodynamiques",
+            "page_start": 21,
+            "page_end": 21,
+            "text": "Au cours de cet essai, l’efficacité et la sécurité d’utilisation d’une dose de diclofénac de 2 à 3 mg/kg de poids corporel ont été comparées à celles de l’acide acétylsalicylique (AAS, dose quotidienne de 50 à 100 mg/kg de poids corporel) et d’un placebo (15 patients/groupe)."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q14",
+      "question": "À partir de quel stade de la grossesse DICLOFENAC ARROW 50 mg est-il contre-indiqué ?",
+      "medicine_id": "M003",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-008-01-06"
+      ],
+      "bm25": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 32.251975,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-009-02-02",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-009-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "DICLOFENAC ARROW 50 mg, comprimé gastro-résistant est contre-indiqué chez la femme enceinte à partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée)."
+          },
+          {
+            "rank": 2,
+            "score": 28.739701,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-011-01-01",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-011-01",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "4.6. Fertilité, grossesse et allaitement Grossesse A partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée) : toute prise de DICLOFENAC ARROW 50 mg, comprimé gastro-résistant, même ponctuelle, est contre-indiquée."
+          },
+          {
+            "rank": 3,
+            "score": 24.685011,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-009-02-02",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-009-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "DICLOFENAC DELBERT 75 mg/3 ml, solution injectable est contre-indiqué chez la femme enceinte à partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée)."
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 0,
+        "reciprocal_rank": 0.0,
+        "first_relevant_rank": null,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.872809,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-011-01-01",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-011-01",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "4.6. Fertilité, grossesse et allaitement Grossesse A partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée) : toute prise de DICLOFENAC ARROW 50 mg, comprimé gastro-résistant, même ponctuelle, est contre-indiquée."
+          },
+          {
+            "rank": 2,
+            "score": 0.844273,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-009-02-02",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-009-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 4,
+            "page_end": 4,
+            "text": "DICLOFENAC ARROW 50 mg, comprimé gastro-résistant est contre-indiqué chez la femme enceinte à partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée)."
+          },
+          {
+            "rank": 3,
+            "score": 0.835226,
+            "retrieval_chunk_id": "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02-01",
+            "parent_passage_id": "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-011-02",
+            "medicine_id": "M003",
+            "standardized_dci": "diclofénac",
+            "section": "4.6. Fertilité, grossesse et allaitement",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "Grossesse A partir du début du 6ème mois de grossesse (24 semaines d'aménorrhée) : toute prise de DICLOFENAC DELBERT 75 mg/3 ml, solution injectable, même ponctuelle, est contre-indiquée."
+          }
+        ]
+      }
+    },
+    {
+      "question_id": "Q15",
+      "question": "L'ibuprofène 400 mg est-il contre-indiqué chez un patient atteint de lupus érythémateux disséminé ?",
+      "medicine_id": "M002",
+      "expected_retrieval_chunk_ids": [
+        "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01-05"
+      ],
+      "bm25": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 33.062043,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01-05",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " insuffisance cardiaque sévère (Classe IV NYHA),  lupus érythémateux disséminé,  mifamurtide : aux doses élevées d’AINS, risque de moindre efficacité du mifamurtide (voir rubrique 4.5)."
+          },
+          {
+            "rank": 2,
+            "score": 27.280751,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-06-02",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-013-06",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.8. Effets indésirables",
+            "page_start": 13,
+            "page_end": 13,
+            "text": "Autres  Quelques rares cas de troubles de la vue ont été rapportés.  Oligurie, insuffisance rénale.  La découverte d'une méningite aseptique sous ibuprofène doit faire rechercher un lupus érythémateux disséminé ou une connectivité.  Troubles de l’oreille interne : acouphène."
+          },
+          {
+            "rank": 3,
+            "score": 17.407073,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-002-01-01",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-002-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "1. DENOMINATION DU MEDICAMENT",
+            "page_start": 1,
+            "page_end": 1,
+            "text": "1. DENOMINATION DU MEDICAMENT IBUPROFENE ALMUS 400 mg, comprimé pelliculé"
+          }
+        ]
+      },
+      "semantic": {
+        "hit_at_k": 1,
+        "reciprocal_rank": 1.0,
+        "first_relevant_rank": 1,
+        "top_results": [
+          {
+            "rank": 1,
+            "score": 0.686634,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01-05",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.3. Contre-indications",
+            "page_start": 3,
+            "page_end": 3,
+            "text": " insuffisance cardiaque sévère (Classe IV NYHA),  lupus érythémateux disséminé,  mifamurtide : aux doses élevées d’AINS, risque de moindre efficacité du mifamurtide (voir rubrique 4.5)."
+          },
+          {
+            "rank": 2,
+            "score": 0.671069,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-11-03",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-11",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 6,
+            "page_end": 6,
+            "text": "à 20 mg par semaine, avec les héparines de bas poids moléculaire et apparentés et les héparines non fractionnées (aux doses curatives et/ou chez le sujet âgé), avec le pemetrexed, chez les patients ayant une fonction rénale faible à modérée (voir rubrique 4.5)."
+          },
+          {
+            "rank": 3,
+            "score": 0.658993,
+            "retrieval_chunk_id": "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-11-05",
+            "parent_passage_id": "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-009-11",
+            "medicine_id": "M002",
+            "standardized_dci": "ibuprofène",
+            "section": "4.4. Mises en garde spéciales et précautions d'emploi",
+            "page_start": 6,
+            "page_end": 6,
+            "text": "Au cours de traitements prolongés, il est recommandé de contrôler la formule sanguine, les fonctions hépatiques et rénales. Ce médicament contient moins de 1 mmol (23 mg) de sodium par dose, c’est-à-dire qu’il est essentiellement « sans sodium »."
+          }
+        ]
+      }
+    }
+  ]
+}
