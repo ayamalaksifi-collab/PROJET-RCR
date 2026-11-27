@@ -1,0 +1,67 @@
+Week 3 - Section 4.1 Validation
+
+Medicine: M006
+Product: ACIDE ACETYLSALICYLIQUE PANPHARMA 1 g
+Source PDF: ACIDE ACETYLSALICYLIQUE PANPHARMA 1 g, poudre et solvant pour solution injectable RCP.pdf
+
+Section: 4.1 Indications thérapeutiques
+
+Validation:
+- Traitement de courte durée des douleurs intenses: VERIFIED (Page 1)
+- Traitement des rhumatismes inflammatoires: VERIFIED (Page 1)
+- Traitement symptomatique de la fièvre lorsque l'administration par voie orale n'est pas possible: VERIFIED (Page 2)
+
+Result: 3 indications matched with the original RCP.
+
+Medicine: M006
+Product: ACIDE ACETYLSALICYLIQUE EG LABO CONSEIL 500 mg
+Source PDF: ACIDE ACETYLSALICYLIQUE EG LABO CONSEIL 500 mg, comprimé RCP.pdf
+
+Section: 4.1 Indications thérapeutiques
+
+Validation:
+- Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles: VERIFIED (Page 1)
+
+Result: 1 indication matched with the original RCP.
+Medicine: M027
+Product: MIBRAL 5 mg (Amlodipine)
+Source PDF: amlodipine-RCP.pdf
+
+Section: 4.1 Indications thérapeutiques
+
+Validation:
+- Hypertension: VERIFIED (Page 1)
+- Angor chronique stable: VERIFIED (Page 1)
+- Angor vasospastique (syndrome de Prinzmetal): VERIFIED (Page 1)
+
+Result: 3 indications matched with the original RCP.
+
+
+Medicine: M030
+Product: RAMIPRIL ALMUS 1,25 mg
+Source PDF: Résumé des Caractéristiques du Produit - RAMIPRIL ALMUS 1,25 mg.pdf
+
+Section: 4.1 Indications thérapeutiques
+Page: 1
+
+Validation:
+- Traitement de l'hypertension: VERIFIED
+- Traitement de la néphropathie: VERIFIED
+  Note: The RCP provides detailed nephropathy subtypes.
+- Traitement de l'insuffisance cardiaque symptomatique: VERIFIED
+- Prévention secondaire à la suite d'un infarctus aigu du myocarde: SOURCE VERIFIED, PREVIEW LABEL TRUNCATED.
+
+Result: 4 indication candidates checked against the original RCP.
+
+
+
+## M031 – Enalapril (Section 4.1)
+
+Source PDF: RCP- ENALAPRIL.pdf  
+Source page: 1
+
+1. Traitement de l'hypertension artérielle.
+2. Traitement de l'insuffisance cardiaque symptomatique.
+3. Prévention de l'insuffisance cardiaque symptomatique chez des patients ayant une dysfonction ventriculaire gauche asymptomatique (fraction d'éjection ≤ 35 %).
+
+Validation status: Manually checked against the original RCP PDF.

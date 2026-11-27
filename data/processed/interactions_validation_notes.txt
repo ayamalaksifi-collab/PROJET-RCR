@@ -1,0 +1,82 @@
+
+Week 3 - Section 4.5 Interaction Extraction
+
+Medicine: M027
+Product: MIBRAL 5 mg (Amlodipine)
+Source PDF: amlodipine-RCP.pdf
+
+Section: 4.5 Interactions
+Pages: 3-4
+
+Extracted interaction groups:
+- CYP3A4 inhibitors: increased amlodipine concentration and hypotension risk.
+- CYP3A4 inducers: may change amlodipine concentration.
+- Grapefruit: may increase amlodipine bioavailability.
+- Dantrolene IV: concomitant use should be avoided in specified situations.
+- Other antihypertensive medicines: additive hypotensive effects.
+- Tacrolimus: possible increased plasma concentration.
+- mTOR inhibitors (sirolimus, temsirolimus, everolimus): possible increased activity.
+- Ciclosporin: possible increased concentration; monitoring required.
+- Simvastatin: exposure increased by 77%; maximum daily dose 20 mg.
+- Atorvastatin, digoxin, warfarin: no pharmacokinetic effect observed in the cited interaction studies.
+
+Validation status: Extracted from original RCP; manually checked against pages 3-4.
+
+Week 3 - Section 4.8 Adverse Effects Extraction
+
+Medicine: M027
+Product: MIBRAL 5 mg (Amlodipine)
+Source PDF: amlodipine-RCP.pdf
+
+Section: 4.8 Effets indésirables
+Pages: 5, 6, 7
+
+Extracted data:
+- Adverse effects and their frequency categories were extracted from the original RCP.
+- Frequency categories: Very common, Common, Uncommon, Rare, Very rare, Frequency not known.
+- All extracted effects were checked against the original PDF pages.
+
+Validation status: Manually checked against original RCP.
+ # Validation Notes – Ramipril (M030)
+
+Source PDF: RAMIPRIL ALMUS 1,25 mg
+Source page: 3
+
+## Section 4.5 – Interactions
+
+- Sacubitril/valsartan: Contraindicated.
+- Dialysis with negatively charged high-permeability membranes: Contraindicated.
+- Potassium-sparing diuretics: Use with caution.
+- Potassium supplements: Use with caution.
+- Heparin: Use with caution.
+- NSAIDs: Use with caution.
+- Lithium: Use with caution.
+- Antidiabetic drugs: Use with caution; risk of hypoglycemia.
+- mTOR/NEP inhibitors: Use with caution.
+
+## Section 4.8 – Adverse Effects
+
+- Frequent: Hyperkalemia, headache, dizziness, hypotension, syncope, irritative cough, bronchitis, dyspnea, digestive disorders, nausea, diarrhea.
+- Uncommon: Anorexia, loss of appetite, vertigo, paresthesia, dysgeusia, flushing, bronchospasm, nasal congestion, pancreatitis, intestinal angioedema.
+- Rare: Tremor, balance disorder, vasculitis, glossitis.
+- Very rare / Unknown: Hyponatremia, cerebral ischemia, stroke, Raynaud syndrome, acute liver failure.
+
+## Validation status
+
+Extracted from Section 4.5 and Section 4.8, page 3.
+Frequency column in the source combines "Very rare / Unknown"; exact frequency cannot be distinguished.
+Manual validation against the source PDF completed for this extraction.
+## M031 – Enalapril (Section 4.5)
+
+Product: ENALAPRIL ARROW 20 mg
+Source PDF: RCP- ENALAPRIL.pdf
+Source page: 2
+
+- Potassium-sparing diuretics: Association déconseillée / precautions.
+- Potassium supplements: Association déconseillée / precautions.
+- Lithium: Association déconseillée / precautions.
+- Antidiabetic drugs: Risk of hypoglycemia.
+- NSAIDs (AINS): Association déconseillée / precautions.
+- Other antihypertensive medicines: Association déconseillée / precautions.
+
+Validation status: Manually checked against original RCP, page 2.

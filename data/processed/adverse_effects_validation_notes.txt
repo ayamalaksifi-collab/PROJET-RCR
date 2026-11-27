@@ -1,0 +1,178 @@
+# Week 3 – Section 4.8: Adverse Effects Validation Notes
+
+## M027 – Amlodipine
+
+Product: MIBRAL 5 mg  
+Source PDF: amlodipine-RCP.pdf  
+Section: 4.8 – Effets indésirables  
+Source pages: 5, 6, 7
+
+### Very common
+- Edema.
+
+### Common
+- Somnolence.
+- Dizziness.
+- Headache.
+- Visual disorders (including diplopia).
+- Palpitations.
+- Flushing.
+- Dyspnea.
+- Abdominal pain.
+- Nausea.
+- Dyspepsia.
+- Bowel habit disorders (including diarrhea and constipation).
+- Ankle edema.
+- Muscle cramps.
+- Fatigue.
+- Asthenia.
+
+### Uncommon
+- Depression.
+- Mood changes (including anxiety).
+- Insomnia.
+- Tremor.
+- Dysgeusia.
+- Syncope.
+- Hypoesthesia.
+- Paresthesia.
+- Tinnitus.
+- Arrhythmia (including bradycardia, ventricular tachycardia, atrial fibrillation).
+- Hypotension.
+- Cough.
+- Rhinitis.
+- Vomiting.
+- Dry mouth.
+- Alopecia.
+- Purpura.
+- Skin discoloration.
+- Hyperhidrosis.
+- Pruritus.
+- Rash.
+- Exanthem.
+- Urticaria.
+- Arthralgia.
+- Myalgia.
+- Back pain.
+- Micturition disorders.
+- Nocturia.
+- Increased urinary frequency.
+- Impotence.
+- Gynecomastia.
+- Chest pain.
+- Pain.
+- Malaise.
+- Weight gain.
+- Weight loss.
+
+### Rare
+- Confusion.
+
+### Very rare
+- Leucocytopenia.
+- Thrombocytopenia.
+- Allergic reaction.
+- Hyperglycemia.
+- Hypertonia.
+- Peripheral neuropathy.
+- Myocardial infarction.
+- Vasculitis.
+- Pancreatitis.
+- Gastritis.
+- Gingival hyperplasia.
+- Hepatitis.
+- Jaundice.
+- Elevated liver enzymes.
+- Angioedema.
+- Erythema multiforme.
+- Exfoliative dermatitis.
+- Stevens-Johnson syndrome.
+- Quincke's edema.
+- Photosensitivity.
+
+### Frequency not known
+- Extrapyramidal disorder.
+- Toxic epidermal necrolysis.
+
+Validation status: Manually checked against the original RCP, pages 5–7.
+
+---
+
+## M030 – Ramipril
+
+Product: RAMIPRIL ALMUS 1,25 mg  
+Source PDF: Résumé des Caractéristiques du Produit - RAMIPRIL ALMUS 1,25 mg.pdf  
+Section: 4.8 – Effets indésirables  
+Source page: 3
+
+### Frequent
+- Hyperkalemia.
+- Headache.
+- Dizziness.
+- Hypotension.
+- Syncope.
+- Irritative cough.
+- Bronchitis.
+- Dyspnea.
+- Digestive disorders.
+- Nausea.
+- Diarrhea.
+
+### Uncommon
+- Anorexia.
+- Loss of appetite.
+- Vertigo.
+- Paresthesia.
+- Dysgeusia.
+- Flushing.
+- Bronchospasm.
+- Nasal congestion.
+- Pancreatitis.
+- Intestinal angioedema.
+
+### Rare
+- Tremor.
+- Balance disorder.
+- Vasculitis.
+- Glossitis.
+
+### Very rare / Unknown
+- Hyponatremia.
+- Cerebral ischemia.
+- Stroke.
+- Raynaud syndrome.
+- Acute liver failure.
+
+Note: The source combines "Very rare / Unknown" in one frequency column. Exact frequency cannot be distinguished.
+
+Validation status: Manually checked against the original RCP, page 3.
+
+---
+
+## M031 – Enalapril
+
+Product: ENALAPRIL ARROW 20 mg  
+Source PDF: RCP- ENALAPRIL.pdf  
+Section: 4.8 – Effets indésirables  
+Source page: 2
+
+### Very frequent or frequent
+- Headache.
+- Dizziness.
+- Blurred vision.
+- Hypotension.
+- Cough.
+- Nausea.
+- Diarrhea.
+- Asthenia.
+- Hyperkalemia.
+- Increased creatinine.
+
+### Rare but serious
+- Angioedema.
+- Neutropenia / agranulocytosis.
+- Hepatic or renal failure.
+
+Note: The source groups "very frequent" and "frequent" together. Exact individual frequency is not specified.
+
+Validation status: Manually checked against the original RCP, page 2.
