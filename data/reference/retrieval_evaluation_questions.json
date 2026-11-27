@@ -159,5 +159,89 @@
     ],
     "source_of_judgement": "RCP, section 4.3, page 2",
     "review_status": "manually_verified"
+  },
+    {
+    "question_id": "Q11",
+    "question": "Quelle est la dose maximale de paracétamol par jour chez un adulte pesant moins de 50 kg ?",
+    "medicine_id": "M001",
+    "standardized_dci": "paracétamol",
+    "category": "dosage_adult",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-007-02"
+    ],
+    "source_of_judgement": "RCP paracétamol Arrow 1 g, section 4.2, page 2",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q12",
+    "question": "Le paracétamol peut-il être utilisé pendant la grossesse ?",
+    "medicine_id": "M001",
+    "standardized_dci": "paracétamol",
+    "category": "pregnancy",
+    "question_style": "direct",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01-02",
+      "RET-RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01-02"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M001-PARACETAMOL_ARROW_1G_COMPRIME_RCP_FR-876a86f08b-011-01",
+      "RCP-M001-PARACETAMOL_500MG_RCP_FRANCE-87600a8632-011-01"
+    ],
+    "source_of_judgement": "RCP paracétamol, section 4.6, page 5",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q13",
+    "question": "Quelle est la durée du traitement par diclofénac injectable 75 mg ?",
+    "medicine_id": "M003",
+    "standardized_dci": "diclofénac",
+    "category": "dosage_adult",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-01-02",
+      "RET-RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-05-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-01",
+      "RCP-M003-DICLOFENAC_DELBERT_75_MG_SUR3_ML_SOL-27cef1c9f9-007-05"
+    ],
+    "source_of_judgement": "RCP diclofénac Delbert 75 mg, section 4.2, pages 2-3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q14",
+    "question": "À partir de quel stade de la grossesse DICLOFENAC ARROW 50 mg est-il contre-indiqué ?",
+    "medicine_id": "M003",
+    "standardized_dci": "diclofénac",
+    "category": "pregnancy",
+    "question_style": "lexical",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-008-01-06"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M003-DICLOFENAC_ARROW_50_MG_COMPRIME_GAST-12737ae3c9-008-01"
+    ],
+    "source_of_judgement": "RCP diclofénac Arrow 50 mg, section 4.3, page 3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q15",
+    "question": "L'ibuprofène 400 mg est-il contre-indiqué chez un patient atteint de lupus érythémateux disséminé ?",
+    "medicine_id": "M002",
+    "standardized_dci": "ibuprofène",
+    "category": "contraindication",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01-05"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-008-01"
+    ],
+    "source_of_judgement": "RCP ibuprofène Almus 400 mg, section 4.3, page 3",
+    "review_status": "manually_verified"
   }
 ]
