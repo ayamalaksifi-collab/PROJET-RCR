@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at_utc": "2026-11-27T10:59:45.212420+00:00",
+  "generated_at_utc": "2026-11-27T19:36:45.090842+00:00",
   "generator": "scripts/build_knowledge_graph.py",
   "ontology": "data/knowledge_graph/ontology.json",
   "inputs": [
@@ -14,8 +14,8 @@
     "medicine_nodes_with_documents": 40,
     "source_document_nodes": 108,
     "passage_nodes": 6414,
-    "total_nodes": 8471,
-    "total_edges": 8618,
+    "total_nodes": 8569,
+    "total_edges": 8741,
     "node_types": {
       "Brand": 619,
       "DCI": 40,
@@ -24,7 +24,8 @@
       "PharmaceuticalForm": 131,
       "Registration": 1015,
       "SourceDocument": 108,
-      "Strength": 104
+      "Strength": 104,
+      "Contraindication": 98
     },
     "relation_types": {
       "contains_passage": 6414,
@@ -33,7 +34,8 @@
       "has_form": 255,
       "has_registration": 1015,
       "has_source_document": 108,
-      "has_strength": 167
+      "has_strength": 167,
+      "has_contraindication": 123
     }
   },
   "validation": {
@@ -43,5 +45,23 @@
     "documents_linked_to_multiple_medicines": {},
     "clinical_edges_generated": 0,
     "clinical_edge_policy": "Clinical candidate edges require a later section-aware extraction and remain extracted_not_manually_verified until manually checked."
+  },
+  "clinical_extraction": {
+    "contraindications": {
+      "section_4_3_passages_seen": 57,
+      "medicines_with_section_4_3": 34,
+      "contraindication_nodes_created": 98,
+      "contraindication_edges_created": 123,
+      "review_items_created": 37,
+      "review_reasons": {
+        "ends_with_unresolved_cross_reference": 1,
+        "likely_dosage_table_or_fragment": 2,
+        "no_clear_bullet_structure": 34
+      },
+      "missing_edge_endpoints": 0,
+      "method": "section_4_3_conservative_bullet_rule",
+      "verification_status": "extracted_not_manually_verified",
+      "scope_note": "Only clear bullet items were extracted. Non-list, fragmentary or suspicious content was routed to review_queue.jsonl."
+    }
   }
 }
