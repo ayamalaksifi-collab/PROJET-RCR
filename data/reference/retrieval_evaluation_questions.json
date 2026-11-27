@@ -1,0 +1,163 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "Dysménorrhées : 1 comprimé à 400 mg par prise à renouveler si nécessaire toutes les 6 à 8 heures sans dépasser combien de comprimés à 400 mg par jour ?",
+    "medicine_id": "M002",
+    "standardized_dci": "ibuprofène",
+    "category": "dosage_adult",
+    "question_style": "lexical",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01-02"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-007-01"
+    ],
+    "source_of_judgement": "RCP, section 4.2, page 2",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q02",
+    "question": "Jusqu'à quelle température peut-on entreposer les comprimés d'ibuprofène 400 mg ?",
+    "medicine_id": "M002",
+    "standardized_dci": "ibuprofène",
+    "category": "storage",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-023-01-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M002-IBUPROFENE_ALMUS_400_MG_COMPRIME_PEL-031c955ce5-023-01"
+    ],
+    "source_of_judgement": "RCP, section 6.4, page 16",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q03",
+    "question": "Un adolescent de 14 ans peut-il prendre du naproxène sodique 550 mg ?",
+    "medicine_id": "M005",
+    "standardized_dci": "naproxène",
+    "category": "population_age",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-008-01-03"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-008-01"
+    ],
+    "source_of_judgement": "RCP, section 4.3, page 3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q04",
+    "question": "Quel est le traitement d'attaque en rhumatologie et gynécologie chez l'adulte avec le naproxène sodique 550 mg ?",
+    "medicine_id": "M005",
+    "standardized_dci": "naproxène",
+    "category": "dosage_adult",
+    "question_style": "lexical",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M005-NAPROXENE_SODIQUE_ARROW_550_MG_COMPR-d417fa88f4-007-02"
+    ],
+    "source_of_judgement": "RCP, section 4.2, page 3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q05",
+    "question": "L'acide acétylsalicylique injectable est-il réservé à l'adulte ou peut-il être utilisé chez l'enfant ?",
+    "medicine_id": "M006",
+    "standardized_dci": "acide acétylsalicylique",
+    "category": "population_age",
+    "question_style": "direct",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-007-01-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-007-01"
+    ],
+    "source_of_judgement": "RCP, section 4.2, page 2",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q06",
+    "question": "À partir de quel stade de la grossesse l'acide acétylsalicylique injectable est-il contre-indiqué pour des doses supérieures à 100 mg par jour ?",
+    "medicine_id": "M006",
+    "standardized_dci": "acide acétylsalicylique",
+    "category": "pregnancy",
+    "question_style": "lexical",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-008-02-08"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M006-ACIDE_ACETYLSALICYLIQUE_PANPHARMA_1_-6179067e9f-008-02"
+    ],
+    "source_of_judgement": "RCP, section 4.3, page 3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q07",
+    "question": "Combien de gélules de tramadol 50 mg un adulte peut-il prendre au maximum en une journée ?",
+    "medicine_id": "M010",
+    "standardized_dci": "tramadol",
+    "category": "dosage_adult",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02-02"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-007-02"
+    ],
+    "source_of_judgement": "RCP, section 4.2, page 2",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q08",
+    "question": "TRAMADOL ALMUS est contre-indiqué chez les patients traités simultanément ou dans les 14 jours précédents par quels médicaments ?",
+    "medicine_id": "M010",
+    "standardized_dci": "tramadol",
+    "category": "contraindication",
+    "question_style": "lexical",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01-02"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M010-TRAMADOL_ALMUS_50_MG_GELULE_RCP-b646450b65-008-01"
+    ],
+    "source_of_judgement": "RCP, section 4.3, page 3",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q09",
+    "question": "Quelle est la dose totale maximale de néfopam injectable par 24 heures ?",
+    "medicine_id": "M012",
+    "standardized_dci": "néfopam",
+    "category": "dosage_adult",
+    "question_style": "direct",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-02",
+      "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01-03"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-007-01"
+    ],
+    "source_of_judgement": "RCP, section 4.2, page 2",
+    "review_status": "manually_verified"
+  },
+  {
+    "question_id": "Q10",
+    "question": "Le néfopam injectable peut-il être donné à un patient épileptique ?",
+    "medicine_id": "M012",
+    "standardized_dci": "néfopam",
+    "category": "contraindication",
+    "question_style": "paraphrased",
+    "expected_retrieval_chunk_ids": [
+      "RET-RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-008-01-01"
+    ],
+    "expected_parent_passage_ids": [
+      "RCP-M012-NEFOPAM_ARROW_20_MG_SUR_2_ML_SOLUTIO-b62babebb4-008-01"
+    ],
+    "source_of_judgement": "RCP, section 4.3, page 2",
+    "review_status": "manually_verified"
+  }
+]
